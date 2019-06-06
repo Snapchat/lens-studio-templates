@@ -1,0 +1,1276 @@
+{
+    "lens_id": "", 
+    "document_id": "_sX4v_xACsC-lgZ5x6BI", 
+    "original_document_id": "_sX4v_xACsC-lgZ5x6BI", 
+    "version": "14", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public", 
+            "major": "2", 
+            "minor": "0", 
+            "patch": "0", 
+            "build": "2"
+        }, 
+        "lastSavedWith": {
+            "type": "Public", 
+            "major": "2", 
+            "minor": "0", 
+            "patch": "0", 
+            "build": "2"
+        }
+    }, 
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Hole Occluder [REMOVE_ME]"
+                    ], 
+                    [
+                        "Hole [REMOVE_ME]"
+                    ], 
+                    [
+                        "Hole [REMOVE_ME]", 
+                        "Materials"
+                    ], 
+                    [
+                        "Hole [REMOVE_ME]", 
+                        "Materials", 
+                        "hole_pbr"
+                    ], 
+                    [
+                        "Hole [REMOVE_ME]", 
+                        "Meshes"
+                    ], 
+                    [
+                        "Materials"
+                    ], 
+                    [
+                        "Meshes"
+                    ], 
+                    [
+                        "Scripts"
+                    ], 
+                    [
+                        "Textures"
+                    ]
+                ]
+            ]
+        }, 
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1509493063153468:1772208", 
+                    "1509493073990651:1772539", 
+                    "1511399347201851:2395", 
+                    "1511399414311511:2937", 
+                    "1520377866788181:87557"
+                ]
+            ]
+        }, 
+        "MetaInfoUIComponent": {
+            "icon_hash": "70dad3216a01fa61202b8e3346bc136d", 
+            "icon_path": "icon.png", 
+            "hints": [
+                ""
+            ], 
+            "lens": "Window", 
+            "camera": "1", 
+            "lens_descriptors": ""
+        }, 
+        "PreviewUiComponent": {
+            "is_back_camera": "true", 
+            "show_snap_ui": "true", 
+            "show_sponsored_ui": "false"
+        }, 
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }, 
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "1", 
+                    "v": "20"
+                }
+            ]
+        }
+    }, 
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "5", 
+                    "uid": "1498868100994851:367", 
+                    "name": "\/Resources\/Resource5.mesh", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "7", 
+                    "uid": "1498868158392542:504", 
+                    "name": "\/Resources\/Resource7.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "9", 
+                    "uid": "1498868172316494:515", 
+                    "name": "\/Resources\/Resource9.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "10", 
+                    "uid": "1498868172318940:524", 
+                    "name": "\/Resources\/Resource10.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "11", 
+                    "uid": "1498868172319414:533", 
+                    "name": "\/Resources\/Resource11", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "13", 
+                    "uid": "1498868868171510:1508", 
+                    "name": "\/Resources\/Resource13.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "78", 
+                    "uid": "1509493073991159:1772549", 
+                    "name": "\/Resources\/Resource78", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "87", 
+                    "uid": "1509583683665614:1822385", 
+                    "name": "\/Resources\/Resource87.mesh", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "89", 
+                    "uid": "1511399347210949:2422", 
+                    "name": "\/Resources\/Resource89.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "90", 
+                    "uid": "1511399347223341:2434", 
+                    "name": "\/Resources\/Resource90.mesh", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "91", 
+                    "uid": "1511399347225984:2446", 
+                    "name": "\/Resources\/Resource91.mesh", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "93", 
+                    "uid": "1511399347240779:2470", 
+                    "name": "\/Resources\/Resource93.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "94", 
+                    "uid": "1511399347244014:2482", 
+                    "name": "\/Resources\/Resource94.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "95", 
+                    "uid": "1511399347247632:2494", 
+                    "name": "\/Resources\/Resource95.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "96", 
+                    "uid": "1511399347264495:2506", 
+                    "name": "\/Resources\/Resource96.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "105", 
+                    "uid": "1511404793151374:296403", 
+                    "name": "\/Resources\/Resource105", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "106", 
+                    "uid": "1520029841774003:742902", 
+                    "name": "\/Resources\/Resource106", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }
+            ]
+        }, 
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }, 
+                "ScreenTransform": {
+                    "uidData": "", 
+                    "generalData": ""
+                }
+            }
+        }, 
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1498868100994780:363", 
+                "1": "1509583683665438:1822381", 
+                "2": "1511399347201851:2395", 
+                "3": "1511399347201876:2398", 
+                "4": "1511399414311511:2937", 
+                "5": "1511399414311564:2946", 
+                "6": "1520029812007074:742370", 
+                "7": "1520377866788181:87557"
+            }
+        }, 
+        "LayerComponent": {
+            "nextLayerId": "3", 
+            "showOrthographicLayer": "false", 
+            "layersInfo": [
+                {
+                    "layerId": "1", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1"
+                }, 
+                {
+                    "layerId": "2", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576"
+                }
+            ]
+        }, 
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1", 
+                    "v": "Files\/File1.mesh"
+                }, 
+                {
+                    "k": "2", 
+                    "v": "Files\/File2.js"
+                }, 
+                {
+                    "k": "3", 
+                    "v": "Files\/File3.png"
+                }, 
+                {
+                    "k": "4", 
+                    "v": "Files\/File4.png"
+                }, 
+                {
+                    "k": "5", 
+                    "v": "Files\/File5"
+                }, 
+                {
+                    "k": "6", 
+                    "v": "Files\/File6.js"
+                }, 
+                {
+                    "k": "7", 
+                    "v": "Files\/File7"
+                }, 
+                {
+                    "k": "8", 
+                    "v": "Files\/File8.mesh"
+                }, 
+                {
+                    "k": "9", 
+                    "v": "Files\/File9.png"
+                }, 
+                {
+                    "k": "10", 
+                    "v": "Files\/File10.mesh"
+                }, 
+                {
+                    "k": "11", 
+                    "v": "Files\/File11.mesh"
+                }, 
+                {
+                    "k": "12", 
+                    "v": "Files\/File12.png"
+                }, 
+                {
+                    "k": "13", 
+                    "v": "Files\/File13.png"
+                }, 
+                {
+                    "k": "14", 
+                    "v": "Files\/File14.png"
+                }, 
+                {
+                    "k": "15", 
+                    "v": "Files\/File15.png"
+                }, 
+                {
+                    "k": "16", 
+                    "v": "Files\/File16"
+                }, 
+                {
+                    "k": "17", 
+                    "v": "Files\/File17"
+                }, 
+                {
+                    "k": "18", 
+                    "v": "Files\/File18.lsmat"
+                }, 
+                {
+                    "k": "19", 
+                    "v": "Files\/File19.lsmat"
+                }, 
+                {
+                    "k": "20", 
+                    "v": "Files\/File20.lsmat"
+                }, 
+                {
+                    "k": "21", 
+                    "v": "Files\/File21.lsmat"
+                }
+            ]
+        }, 
+        "WorldComponent": {
+            "sceneFile": "scene.scn", 
+            "sceneType": "binaryScene"
+        }
+    }, 
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1", 
+                        "v": "Scripts"
+                    }, 
+                    {
+                        "k": "2", 
+                        "v": "Scripts\/GroundGrid.js"
+                    }, 
+                    {
+                        "k": "3", 
+                        "v": "Scripts\/WorldObjectController.js"
+                    }, 
+                    {
+                        "k": "4", 
+                        "v": "Textures"
+                    }, 
+                    {
+                        "k": "5", 
+                        "v": "Textures\/ground_grid.png"
+                    }, 
+                    {
+                        "k": "6", 
+                        "v": "Textures\/ground_grid_mask.png"
+                    }, 
+                    {
+                        "k": "7", 
+                        "v": "Textures\/DiffuseEnvmap.png"
+                    }, 
+                    {
+                        "k": "8", 
+                        "v": "Textures\/SpecularEnvmap.png"
+                    }, 
+                    {
+                        "k": "9", 
+                        "v": "Meshes"
+                    }, 
+                    {
+                        "k": "10", 
+                        "v": "Meshes\/ground_grid_mesh.mesh"
+                    }, 
+                    {
+                        "k": "11", 
+                        "v": "Meshes\/touch_collision.mesh"
+                    }, 
+                    {
+                        "k": "12", 
+                        "v": "Materials"
+                    }, 
+                    {
+                        "k": "13", 
+                        "v": "Materials\/ground_grid.lsmat"
+                    }, 
+                    {
+                        "k": "14", 
+                        "v": "Materials\/window_occluder.lsmat"
+                    }, 
+                    {
+                        "k": "15", 
+                        "v": "Materials\/touch_collision.lsmat"
+                    }, 
+                    {
+                        "k": "16", 
+                        "v": "Hole [REMOVE_ME]"
+                    }, 
+                    {
+                        "k": "17", 
+                        "v": "Hole [REMOVE_ME]\/Textures"
+                    }, 
+                    {
+                        "k": "18", 
+                        "v": "Hole [REMOVE_ME]\/Textures\/rainbow_hole.png"
+                    }, 
+                    {
+                        "k": "19", 
+                        "v": "Hole [REMOVE_ME]\/Textures\/Normal.png"
+                    }, 
+                    {
+                        "k": "20", 
+                        "v": "Hole [REMOVE_ME]\/Textures\/rainbow_hole_Params.png"
+                    }, 
+                    {
+                        "k": "21", 
+                        "v": "Hole [REMOVE_ME]\/Meshes"
+                    }, 
+                    {
+                        "k": "22", 
+                        "v": "Hole [REMOVE_ME]\/Meshes\/Hole.mesh"
+                    }, 
+                    {
+                        "k": "23", 
+                        "v": "Hole [REMOVE_ME]\/Materials"
+                    }, 
+                    {
+                        "k": "24", 
+                        "v": "Hole [REMOVE_ME]\/Materials\/hole_pbr.lsmat"
+                    }, 
+                    {
+                        "k": "25", 
+                        "v": "Hole Occluder [REMOVE_ME]"
+                    }, 
+                    {
+                        "k": "26", 
+                        "v": "Hole Occluder [REMOVE_ME]\/Hole_Occluder.mesh"
+                    }
+                ], 
+                "hashes": [
+                    {
+                        "k": "2", 
+                        "v": "09a5c3ee815c9134ffc2d25e7355d78a"
+                    }, 
+                    {
+                        "k": "3", 
+                        "v": "fb66ad4478ded59ebb2b4df94ba44105"
+                    }, 
+                    {
+                        "k": "5", 
+                        "v": "caeea0e0bf0313ac710d99cb41b32f56"
+                    }, 
+                    {
+                        "k": "6", 
+                        "v": "c423d0672421aae010ca988af5ed0711"
+                    }, 
+                    {
+                        "k": "7", 
+                        "v": "b6a6f1930cea233284517a6b405eb7f8"
+                    }, 
+                    {
+                        "k": "8", 
+                        "v": "ffdb8a01aaf97c3fb4607d439becb97a"
+                    }, 
+                    {
+                        "k": "10", 
+                        "v": "ca6a55793555b88df4aca4a7329624e5"
+                    }, 
+                    {
+                        "k": "11", 
+                        "v": "689694567843e90e551784dfa835e76e"
+                    }, 
+                    {
+                        "k": "13", 
+                        "v": "1aefba50a0f8ee80d9f79ae7c161143c"
+                    }, 
+                    {
+                        "k": "14", 
+                        "v": "7fd86e7070152a3242446b3f08d37a82"
+                    }, 
+                    {
+                        "k": "15", 
+                        "v": "8fd0c8b76504066b95f8daefc41c49a8"
+                    }, 
+                    {
+                        "k": "18", 
+                        "v": "fdb3e3b5d7c76bf820cede100456514f"
+                    }, 
+                    {
+                        "k": "19", 
+                        "v": "0663e2be978bc6d1cda602bb91bdb093"
+                    }, 
+                    {
+                        "k": "20", 
+                        "v": "19d7e51df6f1527509e10fbe532b8bb1"
+                    }, 
+                    {
+                        "k": "22", 
+                        "v": "c24cf02ee9dccc8dc7f314d41a5b6d27"
+                    }, 
+                    {
+                        "k": "24", 
+                        "v": "cb15d9db72d33dcfb88f24fa1ed559bf"
+                    }, 
+                    {
+                        "k": "26", 
+                        "v": "f67c3eee23f3f5ab7c5c7f4b271c4608"
+                    }
+                ], 
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true", 
+                        "lastModified": "2019-05-13T11:26:15", 
+                        "name": "Public", 
+                        "hash": "4ca627c70e797766ee456fc9cbbfc857", 
+                        "children": [
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:26:15", 
+                                "name": "Textures", 
+                                "hash": "2ce34f16a61a234cf0daa783e8be24d3", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "DiffuseEnvmap.png", 
+                                        "hash": "b6a6f1930cea233284517a6b405eb7f8", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "ground_grid.png", 
+                                        "hash": "caeea0e0bf0313ac710d99cb41b32f56", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "ground_grid_mask.png", 
+                                        "hash": "c423d0672421aae010ca988af5ed0711", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "SpecularEnvmap.png", 
+                                        "hash": "ffdb8a01aaf97c3fb4607d439becb97a", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:26:15", 
+                                "name": "Materials", 
+                                "hash": "0569c05ca367d63016ace72788ffdeb2", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "ground_grid.lsmat", 
+                                        "hash": "1aefba50a0f8ee80d9f79ae7c161143c", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "touch_collision.lsmat", 
+                                        "hash": "8fd0c8b76504066b95f8daefc41c49a8", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "window_occluder.lsmat", 
+                                        "hash": "7fd86e7070152a3242446b3f08d37a82", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:26:15", 
+                                "name": "Meshes", 
+                                "hash": "0ded49f4a9514ace4c581238f57da6ec", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "touch_collision.mesh", 
+                                        "hash": "689694567843e90e551784dfa835e76e", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "ground_grid_mesh.mesh", 
+                                        "hash": "ca6a55793555b88df4aca4a7329624e5", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:26:15", 
+                                "name": "Scripts", 
+                                "hash": "671f74e7099cbefb358bb2b1fd56e86d", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "WorldObjectController.js", 
+                                        "hash": "fb66ad4478ded59ebb2b4df94ba44105", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "GroundGrid.js", 
+                                        "hash": "09a5c3ee815c9134ffc2d25e7355d78a", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:26:15", 
+                                "name": "Hole [REMOVE_ME]", 
+                                "hash": "c6a92e92fccdf4d62bdfb8324c93bfbf", 
+                                "children": [
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:26:15", 
+                                        "name": "Textures", 
+                                        "hash": "b290f89984ccbc91afda87626fae3188", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "rainbow_hole.png", 
+                                                "hash": "fdb3e3b5d7c76bf820cede100456514f", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "Normal.png", 
+                                                "hash": "0663e2be978bc6d1cda602bb91bdb093", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "rainbow_hole_Params.png", 
+                                                "hash": "19d7e51df6f1527509e10fbe532b8bb1", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:26:15", 
+                                        "name": "Materials", 
+                                        "hash": "52d6f4194034aa7048077dd548dbacac", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "hole_pbr.lsmat", 
+                                                "hash": "cb15d9db72d33dcfb88f24fa1ed559bf", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:26:15", 
+                                        "name": "Meshes", 
+                                        "hash": "cf9739c0c970d65a2d106833250fd5ee", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "Hole.mesh", 
+                                                "hash": "c24cf02ee9dccc8dc7f314d41a5b6d27", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:26:15", 
+                                "name": "Hole Occluder [REMOVE_ME]", 
+                                "hash": "b238fdadb2923be9063058cb94f28c84", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "Hole_Occluder.mesh", 
+                                        "hash": "f67c3eee23f3f5ab7c5c7f4b271c4608", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "false", 
+                                "lastModified": "2019-04-19T01:45:15", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                "children": ""
+                            }
+                        ]
+                    }
+                }, 
+                "complexResources": ""
+            }, 
+            "tree": {
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
+                "resources": [
+                    {
+                        "name": "Scripts", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "1", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "GroundGrid", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "7", 
+                                "dependency": "0", 
+                                "uid": "1498868158392542:504", 
+                                "fileId": "2", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "2", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "WorldObjectController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "13", 
+                                "dependency": "0", 
+                                "uid": "1498868868171510:1508", 
+                                "fileId": "6", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "3", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "4", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Render Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "1", 
+                                "dependency": "0", 
+                                "uid": "1:1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "Device Camera Texture", 
+                                "type": "1", 
+                                "subtype": "3", 
+                                "resourceId": "2", 
+                                "dependency": "0", 
+                                "uid": "2:2", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "ground_grid", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "9", 
+                                "dependency": "0", 
+                                "uid": "1498868172316494:515", 
+                                "fileId": "3", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "5", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "ground_grid_mask", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "10", 
+                                "dependency": "0", 
+                                "uid": "1498868172318940:524", 
+                                "fileId": "4", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "6", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "DiffuseEnvmap", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "93", 
+                                "dependency": "0", 
+                                "uid": "1511399347240779:2470", 
+                                "fileId": "12", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "7", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "SpecularEnvmap", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "95", 
+                                "dependency": "0", 
+                                "uid": "1511399347247632:2494", 
+                                "fileId": "14", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "8", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Meshes", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "9", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "ground_grid_mesh", 
+                                "type": "3", 
+                                "subtype": "0", 
+                                "resourceId": "5", 
+                                "dependency": "0", 
+                                "uid": "1498868100994851:367", 
+                                "fileId": "1", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "10", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "touch_collision", 
+                                "type": "3", 
+                                "subtype": "0", 
+                                "resourceId": "87", 
+                                "dependency": "0", 
+                                "uid": "1509583683665614:1822385", 
+                                "fileId": "8", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "11", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Materials", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "12", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "ground_grid", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "11", 
+                                "dependency": "0", 
+                                "uid": "1498868172319414:533", 
+                                "fileId": "5", 
+                                "originalId": "18", 
+                                "publicId": "13", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "window_occluder", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "78", 
+                                "dependency": "0", 
+                                "uid": "1509493073991159:1772549", 
+                                "fileId": "7", 
+                                "originalId": "19", 
+                                "publicId": "14", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "touch_collision", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "105", 
+                                "dependency": "0", 
+                                "uid": "1511404793151374:296403", 
+                                "fileId": "16", 
+                                "originalId": "20", 
+                                "publicId": "15", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Hole [REMOVE_ME]", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "16", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Textures", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "17", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "rainbow_hole", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "89", 
+                                        "dependency": "0", 
+                                        "uid": "1511399347210949:2422", 
+                                        "fileId": "9", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "18", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "Normal", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "94", 
+                                        "dependency": "0", 
+                                        "uid": "1511399347244014:2482", 
+                                        "fileId": "13", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "19", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "rainbow_hole_Params", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "96", 
+                                        "dependency": "0", 
+                                        "uid": "1511399347264495:2506", 
+                                        "fileId": "15", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "20", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Meshes", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "21", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "Hole", 
+                                        "type": "3", 
+                                        "subtype": "0", 
+                                        "resourceId": "90", 
+                                        "dependency": "0", 
+                                        "uid": "1511399347223341:2434", 
+                                        "fileId": "10", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "22", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Materials", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "23", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "hole_pbr", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "106", 
+                                        "dependency": "0", 
+                                        "uid": "1520029841774003:742902", 
+                                        "fileId": "17", 
+                                        "originalId": "21", 
+                                        "publicId": "24", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Hole Occluder [REMOVE_ME]", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "25", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Hole_Occluder", 
+                                "type": "3", 
+                                "subtype": "0", 
+                                "resourceId": "91", 
+                                "dependency": "0", 
+                                "uid": "1511399347225984:2446", 
+                                "fileId": "11", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "26", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 
+        "InspectorController": {
+            "selection": ""
+        }, 
+        "EffectsController": {
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": ""
+        }, 
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }, 
+            "importInfo": ""
+        }
+    }, 
+    "description": "A window into another world"
+}

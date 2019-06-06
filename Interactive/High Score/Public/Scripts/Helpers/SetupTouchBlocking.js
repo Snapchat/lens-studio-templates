@@ -1,0 +1,1 @@
+global.touchSystem.touchBlocking = true;
