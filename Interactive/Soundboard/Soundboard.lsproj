@@ -1,0 +1,2062 @@
+{
+    "lens_id": "", 
+    "document_id": "9Ymufa54hCCtpZMBC6aq", 
+    "original_document_id": "9Ymufa54hCCtpZMBC6aq", 
+    "version": "14", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public", 
+            "major": "2", 
+            "minor": "0", 
+            "patch": "0", 
+            "build": "2"
+        }, 
+        "lastSavedWith": {
+            "type": "Public", 
+            "major": "2", 
+            "minor": "0", 
+            "patch": "0", 
+            "build": "2"
+        }
+    }, 
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Materials"
+                    ], 
+                    [
+                        "Scripts"
+                    ], 
+                    [
+                        "Scripts", 
+                        "SoundboardKey"
+                    ], 
+                    [
+                        "Sounds [REPLACE_ME]"
+                    ], 
+                    [
+                        "Textures"
+                    ], 
+                    [
+                        "Textures", 
+                        "Live Target"
+                    ], 
+                    [
+                        "Tween"
+                    ], 
+                    [
+                        "Tween", 
+                        "TweenManager"
+                    ], 
+                    [
+                        "Tween", 
+                        "TweenTypes"
+                    ], 
+                    [
+                        "Tween", 
+                        "TweenTypes", 
+                        "TweenBillboard [DEPRECATED]"
+                    ], 
+                    [
+                        "Tween", 
+                        "TweenTypes", 
+                        "TweenChain"
+                    ], 
+                    [
+                        "Tween", 
+                        "TweenTypes", 
+                        "TweenScreenTransform"
+                    ], 
+                    [
+                        "Tween", 
+                        "TweenTypes", 
+                        "TweenValue"
+                    ], 
+                    [
+                        "Visuals [REPLACE_ME]"
+                    ]
+                ]
+            ]
+        }, 
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517262137359444:17993", 
+                    "1517535808380717:2585", 
+                    "1517535821204100:3028", 
+                    "1517535842721424:3640", 
+                    "1517535842750107:3721"
+                ]
+            ]
+        }, 
+        "MetaInfoUIComponent": {
+            "icon_hash": "dbb18a5a3ec5a61b5245839bf3c57b84", 
+            "icon_path": "icon.png", 
+            "hints": [
+                "lens_hint_tap"
+            ], 
+            "lens": "Soundboard", 
+            "camera": "2", 
+            "lens_descriptors": ""
+        }, 
+        "PreviewUiComponent": {
+            "is_back_camera": "false", 
+            "show_snap_ui": "false", 
+            "show_sponsored_ui": "false"
+        }, 
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }, 
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0", 
+                    "v": "20"
+                }, 
+                {
+                    "k": "1", 
+                    "v": "21"
+                }, 
+                {
+                    "k": "2", 
+                    "v": "0"
+                }
+            ]
+        }
+    }, 
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "21", 
+                    "uid": "1517262583403918:37361", 
+                    "name": "\/Resources\/Resource21", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "56", 
+                    "uid": "1517612456799019:2796", 
+                    "name": "\/Resources\/Resource56.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "59", 
+                    "uid": "1517612507854728:3073", 
+                    "name": "\/Resources\/Resource59", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "98", 
+                    "uid": "1518730197423357:6223", 
+                    "name": "\/Resources\/Resource98.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "99", 
+                    "uid": "1518730197429819:6235", 
+                    "name": "\/Resources\/Resource99.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "107", 
+                    "uid": "1518730197461945:6331", 
+                    "name": "\/Resources\/Resource107.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "109", 
+                    "uid": "1518730197475575:6355", 
+                    "name": "\/Resources\/Resource109.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "157", 
+                    "uid": "1520892659378973:191785", 
+                    "name": "\/Resources\/Resource157", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "158", 
+                    "uid": "1520892665077008:191823", 
+                    "name": "\/Resources\/Resource158", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "159", 
+                    "uid": "1520892667219816:191849", 
+                    "name": "\/Resources\/Resource159", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "160", 
+                    "uid": "1520892669271960:191875", 
+                    "name": "\/Resources\/Resource160", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "161", 
+                    "uid": "1520892672739335:191901", 
+                    "name": "\/Resources\/Resource161", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "168", 
+                    "uid": "1520962169595153:41158", 
+                    "name": "\/Resources\/Resource168.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "169", 
+                    "uid": "1520962169656888:41173", 
+                    "name": "\/Resources\/Resource169.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "170", 
+                    "uid": "1520962169720998:41188", 
+                    "name": "\/Resources\/Resource170.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "171", 
+                    "uid": "1520962169777088:41203", 
+                    "name": "\/Resources\/Resource171.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "172", 
+                    "uid": "1520962169806361:41218", 
+                    "name": "\/Resources\/Resource172.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "173", 
+                    "uid": "1520962169841745:41233", 
+                    "name": "\/Resources\/Resource173.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "174", 
+                    "uid": "1520962233874544:41353", 
+                    "name": "\/Resources\/Resource174.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "175", 
+                    "uid": "1520962233929689:41380", 
+                    "name": "\/Resources\/Resource175.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "176", 
+                    "uid": "1520962233985979:41407", 
+                    "name": "\/Resources\/Resource176.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "177", 
+                    "uid": "1520962234034875:41434", 
+                    "name": "\/Resources\/Resource177.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "178", 
+                    "uid": "1520962234092035:41461", 
+                    "name": "\/Resources\/Resource178.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "179", 
+                    "uid": "1520962234148642:41488", 
+                    "name": "\/Resources\/Resource179.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "180", 
+                    "uid": "1538677161052705:26325", 
+                    "name": "\/Resources\/Resource180.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "181", 
+                    "uid": "1538677161096881:26338", 
+                    "name": "\/Resources\/Resource181.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "182", 
+                    "uid": "1553301559743029:43047", 
+                    "name": "Files\/File37.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "195", 
+                    "uid": "1553301561721461:43266", 
+                    "name": "Render Target", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "196", 
+                    "uid": "1553645689947751:288845", 
+                    "name": "Files\/File38.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "197", 
+                    "uid": "1553645695946274:296662", 
+                    "name": "Files\/File39.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "198", 
+                    "uid": "1553647174954233:1862770", 
+                    "name": "Files\/File40.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }
+            ]
+        }, 
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }, 
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1553301561722970:43288", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "true", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301562138454:43623", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "true", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301562311593:43958", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "true", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301562469682:44293", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "true", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301562568566:44628", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "true", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301562751076:44963", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "true", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301562901761:45298", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301672820533:58486", 
+                            "v": {
+                                "isBasicMode": "false", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301672922821:58804", 
+                            "v": {
+                                "isBasicMode": "false", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301673021301:59122", 
+                            "v": {
+                                "isBasicMode": "false", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301673129193:59440", 
+                            "v": {
+                                "isBasicMode": "false", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301673227909:59758", 
+                            "v": {
+                                "isBasicMode": "false", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301673323097:60076", 
+                            "v": {
+                                "isBasicMode": "false", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }, 
+                        {
+                            "k": "1553301673422559:60394", 
+                            "v": {
+                                "isBasicMode": "true", 
+                                "basicModeSetup": {
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ], 
+                    "generalData": ""
+                }
+            }
+        }, 
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517261554193229:949", 
+                "1": "1518730197413801:6039", 
+                "2": "1553301561721726:43277", 
+                "3": "1553301561722487:43284", 
+                "4": "1553301562138065:43619", 
+                "5": "1553301562311253:43954", 
+                "6": "1553301562469265:44289", 
+                "7": "1553301562567999:44624", 
+                "8": "1553301562750512:44959", 
+                "9": "1553301672819654:58475", 
+                "10": "1553301672820169:58482", 
+                "11": "1553301672922243:58800", 
+                "12": "1553301673020808:59118", 
+                "13": "1553301673128688:59436", 
+                "14": "1553301673227378:59754", 
+                "15": "1553301673322393:60072"
+            }
+        }, 
+        "LayerComponent": {
+            "nextLayerId": "3", 
+            "showOrthographicLayer": "true", 
+            "layersInfo": [
+                {
+                    "layerId": "0", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1"
+                }, 
+                {
+                    "layerId": "1", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576"
+                }, 
+                {
+                    "layerId": "2", 
+                    "layerName": "Layer 1", 
+                    "layerMask": "2"
+                }
+            ]
+        }, 
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "2", 
+                    "v": "Files\/File2"
+                }, 
+                {
+                    "k": "3", 
+                    "v": "Files\/File3.png"
+                }, 
+                {
+                    "k": "4", 
+                    "v": "Files\/File4"
+                }, 
+                {
+                    "k": "5", 
+                    "v": "Files\/File5.js"
+                }, 
+                {
+                    "k": "6", 
+                    "v": "Files\/File6.js"
+                }, 
+                {
+                    "k": "8", 
+                    "v": "Files\/File8.js"
+                }, 
+                {
+                    "k": "9", 
+                    "v": "Files\/File9.js"
+                }, 
+                {
+                    "k": "11", 
+                    "v": "Files\/File11"
+                }, 
+                {
+                    "k": "12", 
+                    "v": "Files\/File12"
+                }, 
+                {
+                    "k": "13", 
+                    "v": "Files\/File13"
+                }, 
+                {
+                    "k": "14", 
+                    "v": "Files\/File14"
+                }, 
+                {
+                    "k": "15", 
+                    "v": "Files\/File15"
+                }, 
+                {
+                    "k": "16", 
+                    "v": "Files\/File16.png"
+                }, 
+                {
+                    "k": "17", 
+                    "v": "Files\/File17.png"
+                }, 
+                {
+                    "k": "18", 
+                    "v": "Files\/File18.png"
+                }, 
+                {
+                    "k": "19", 
+                    "v": "Files\/File19.png"
+                }, 
+                {
+                    "k": "20", 
+                    "v": "Files\/File20.png"
+                }, 
+                {
+                    "k": "21", 
+                    "v": "Files\/File21.png"
+                }, 
+                {
+                    "k": "22", 
+                    "v": "Files\/File22.mp3"
+                }, 
+                {
+                    "k": "23", 
+                    "v": "Files\/File23.mp3"
+                }, 
+                {
+                    "k": "24", 
+                    "v": "Files\/File24.mp3"
+                }, 
+                {
+                    "k": "25", 
+                    "v": "Files\/File25.mp3"
+                }, 
+                {
+                    "k": "26", 
+                    "v": "Files\/File26.mp3"
+                }, 
+                {
+                    "k": "27", 
+                    "v": "Files\/File27.mp3"
+                }, 
+                {
+                    "k": "28", 
+                    "v": "Files\/File28.js"
+                }, 
+                {
+                    "k": "29", 
+                    "v": "Files\/File29.js"
+                }, 
+                {
+                    "k": "30", 
+                    "v": "Files\/File30.lsmat"
+                }, 
+                {
+                    "k": "31", 
+                    "v": "Files\/File31.lsmat"
+                }, 
+                {
+                    "k": "32", 
+                    "v": "Files\/File32.lsmat"
+                }, 
+                {
+                    "k": "33", 
+                    "v": "Files\/File33.lsmat"
+                }, 
+                {
+                    "k": "34", 
+                    "v": "Files\/File34.lsmat"
+                }, 
+                {
+                    "k": "35", 
+                    "v": "Files\/File35.lsmat"
+                }, 
+                {
+                    "k": "36", 
+                    "v": "Files\/File36.lsmat"
+                }, 
+                {
+                    "k": "37", 
+                    "v": "Files\/File37.js"
+                }, 
+                {
+                    "k": "38", 
+                    "v": "Files\/File38.js"
+                }, 
+                {
+                    "k": "39", 
+                    "v": "Files\/File39.js"
+                }, 
+                {
+                    "k": "40", 
+                    "v": "Files\/File40.js"
+                }
+            ]
+        }, 
+        "WorldComponent": {
+            "sceneFile": "scene.scn", 
+            "sceneType": "binaryScene"
+        }
+    }, 
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1", 
+                        "v": "Textures"
+                    }, 
+                    {
+                        "k": "2", 
+                        "v": "Textures\/button.png"
+                    }, 
+                    {
+                        "k": "3", 
+                        "v": "Materials"
+                    }, 
+                    {
+                        "k": "4", 
+                        "v": "Materials\/invisible.lsmat"
+                    }, 
+                    {
+                        "k": "5", 
+                        "v": "Materials\/button_A.lsmat"
+                    }, 
+                    {
+                        "k": "6", 
+                        "v": "Materials\/button_B.lsmat"
+                    }, 
+                    {
+                        "k": "7", 
+                        "v": "Materials\/button_C.lsmat"
+                    }, 
+                    {
+                        "k": "8", 
+                        "v": "Materials\/button_D.lsmat"
+                    }, 
+                    {
+                        "k": "9", 
+                        "v": "Materials\/button_E.lsmat"
+                    }, 
+                    {
+                        "k": "10", 
+                        "v": "Materials\/button_F.lsmat"
+                    }, 
+                    {
+                        "k": "11", 
+                        "v": "Scripts"
+                    }, 
+                    {
+                        "k": "13", 
+                        "v": "Tween"
+                    }, 
+                    {
+                        "k": "14", 
+                        "v": "Tween\/TweenTypes"
+                    }, 
+                    {
+                        "k": "15", 
+                        "v": "Tween\/TweenTypes\/TweenTransform.js"
+                    }, 
+                    {
+                        "k": "16", 
+                        "v": "Tween\/TweenTypes\/TweenColor.js"
+                    }, 
+                    {
+                        "k": "17", 
+                        "v": "Tween\/TweenTypes\/TweenAlpha.js"
+                    }, 
+                    {
+                        "k": "19", 
+                        "v": "Tween\/TweenTypes\/TweenChain.js"
+                    }, 
+                    {
+                        "k": "20", 
+                        "v": "Tween\/TweenTypes\/TweenValue.js"
+                    }, 
+                    {
+                        "k": "21", 
+                        "v": "Tween\/Tween.js"
+                    }, 
+                    {
+                        "k": "23", 
+                        "v": "Sounds [REPLACE_ME]"
+                    }, 
+                    {
+                        "k": "24", 
+                        "v": "Sounds [REPLACE_ME]\/kitty_a.mp3"
+                    }, 
+                    {
+                        "k": "25", 
+                        "v": "Sounds [REPLACE_ME]\/kitty_b.mp3"
+                    }, 
+                    {
+                        "k": "26", 
+                        "v": "Sounds [REPLACE_ME]\/kitty_c.mp3"
+                    }, 
+                    {
+                        "k": "27", 
+                        "v": "Sounds [REPLACE_ME]\/kitty_d.mp3"
+                    }, 
+                    {
+                        "k": "28", 
+                        "v": "Sounds [REPLACE_ME]\/kitty_e.mp3"
+                    }, 
+                    {
+                        "k": "29", 
+                        "v": "Sounds [REPLACE_ME]\/kitty_f.mp3"
+                    }, 
+                    {
+                        "k": "30", 
+                        "v": "Visuals [REPLACE_ME]"
+                    }, 
+                    {
+                        "k": "31", 
+                        "v": "Visuals [REPLACE_ME]\/kitty_a.png"
+                    }, 
+                    {
+                        "k": "32", 
+                        "v": "Visuals [REPLACE_ME]\/kitty_b.png"
+                    }, 
+                    {
+                        "k": "33", 
+                        "v": "Visuals [REPLACE_ME]\/kitty_c.png"
+                    }, 
+                    {
+                        "k": "34", 
+                        "v": "Visuals [REPLACE_ME]\/kitty_d.png"
+                    }, 
+                    {
+                        "k": "35", 
+                        "v": "Visuals [REPLACE_ME]\/kitty_e.png"
+                    }, 
+                    {
+                        "k": "36", 
+                        "v": "Visuals [REPLACE_ME]\/kitty_f.png"
+                    }, 
+                    {
+                        "k": "37", 
+                        "v": "Scripts\/SoundboardKey.js"
+                    }, 
+                    {
+                        "k": "63", 
+                        "v": "Tween\/TweenManager.js"
+                    }, 
+                    {
+                        "k": "64", 
+                        "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
+                    }, 
+                    {
+                        "k": "65", 
+                        "v": "Tween\/TweenTypes\/TweenBillboard [DEPRECATED].js"
+                    }
+                ], 
+                "hashes": [
+                    {
+                        "k": "2", 
+                        "v": "15e9e087e756239c4b89cb0d032660db"
+                    }, 
+                    {
+                        "k": "4", 
+                        "v": "cf3dce20ed24c4e2ba8a9245fb6de309"
+                    }, 
+                    {
+                        "k": "5", 
+                        "v": "cd9879bed9600cd066fa4ca088fd0b0f"
+                    }, 
+                    {
+                        "k": "6", 
+                        "v": "1a72f66ab1354433484f0912902c60f8"
+                    }, 
+                    {
+                        "k": "7", 
+                        "v": "402996d302fc637171da398e17a6861c"
+                    }, 
+                    {
+                        "k": "8", 
+                        "v": "be68138457e9fc37fb273c1becd01ef8"
+                    }, 
+                    {
+                        "k": "9", 
+                        "v": "54de57a31c2cc8dae3d1ad6af90e2de9"
+                    }, 
+                    {
+                        "k": "10", 
+                        "v": "fad8ca01761a86036c45ab5c4e97e5e5"
+                    }, 
+                    {
+                        "k": "12", 
+                        "v": "5f3e2d869750a2eb24f08bc39e591589"
+                    }, 
+                    {
+                        "k": "15", 
+                        "v": "9389deaec4231b11b4e485b24ccba204"
+                    }, 
+                    {
+                        "k": "16", 
+                        "v": "6333a68a84a5f7e47993037966d1e135"
+                    }, 
+                    {
+                        "k": "17", 
+                        "v": "aa362e7548dcf0b077de03d641431777"
+                    }, 
+                    {
+                        "k": "18", 
+                        "v": "99bfeaf53ffd6ca8ca2e3019e0b28ab0"
+                    }, 
+                    {
+                        "k": "19", 
+                        "v": "f51e2387d37af7b5a85766408a362e18"
+                    }, 
+                    {
+                        "k": "20", 
+                        "v": "6c038aa78934d8b410cc753fb5f405a1"
+                    }, 
+                    {
+                        "k": "21", 
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    }, 
+                    {
+                        "k": "22", 
+                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                    }, 
+                    {
+                        "k": "24", 
+                        "v": "81d53d69c9df7302901d6c7b40ed548d"
+                    }, 
+                    {
+                        "k": "25", 
+                        "v": "e925a187d9b9d8680007edf8243870a1"
+                    }, 
+                    {
+                        "k": "26", 
+                        "v": "f39fd60ab480e9a6ebb3bf763f1ce387"
+                    }, 
+                    {
+                        "k": "27", 
+                        "v": "c038de535a6b622fcf35d51041bbb3e7"
+                    }, 
+                    {
+                        "k": "28", 
+                        "v": "1b4d9d131426cf5e1aa69fb2ae12a2f1"
+                    }, 
+                    {
+                        "k": "29", 
+                        "v": "e1274ded79c9001e8291fcb8c09ada73"
+                    }, 
+                    {
+                        "k": "31", 
+                        "v": "5a74ecc3fb346cb9d61fcf5d24ece450"
+                    }, 
+                    {
+                        "k": "32", 
+                        "v": "8922470ff26f39d7b22c0d7d5df571e3"
+                    }, 
+                    {
+                        "k": "33", 
+                        "v": "ee211ff04e56c55ec159dec73b64792d"
+                    }, 
+                    {
+                        "k": "34", 
+                        "v": "9c9ed0a1086a7c3b3d73a6af8291a4e7"
+                    }, 
+                    {
+                        "k": "35", 
+                        "v": "7e053e85a8e467d8aeec4fd950c98c50"
+                    }, 
+                    {
+                        "k": "36", 
+                        "v": "d9eadc9189a40b5dd7a20b080b43679b"
+                    }, 
+                    {
+                        "k": "37", 
+                        "v": "e9d3f86c63fddf47d6e79a442c84ee06"
+                    }, 
+                    {
+                        "k": "38", 
+                        "v": "45d195fc362af2598273c2e831d4e059"
+                    }, 
+                    {
+                        "k": "39", 
+                        "v": "b93522a88bc937fd705b65d38d73b1cd"
+                    }, 
+                    {
+                        "k": "40", 
+                        "v": "f8cd4bb6135b464db80449346616fb1b"
+                    }, 
+                    {
+                        "k": "41", 
+                        "v": "1d65021042863009759271697f1c4e16"
+                    }, 
+                    {
+                        "k": "42", 
+                        "v": "1cba17bbd98a96fe67e3c262f820c64c"
+                    }, 
+                    {
+                        "k": "43", 
+                        "v": "f07e8a43f6e8913a9994c5c358ee5d6e"
+                    }, 
+                    {
+                        "k": "44", 
+                        "v": "81d53d69c9df7302901d6c7b40ed548d"
+                    }, 
+                    {
+                        "k": "45", 
+                        "v": "e925a187d9b9d8680007edf8243870a1"
+                    }, 
+                    {
+                        "k": "46", 
+                        "v": "f39fd60ab480e9a6ebb3bf763f1ce387"
+                    }, 
+                    {
+                        "k": "47", 
+                        "v": "c038de535a6b622fcf35d51041bbb3e7"
+                    }, 
+                    {
+                        "k": "48", 
+                        "v": "1b4d9d131426cf5e1aa69fb2ae12a2f1"
+                    }, 
+                    {
+                        "k": "49", 
+                        "v": "e1274ded79c9001e8291fcb8c09ada73"
+                    }, 
+                    {
+                        "k": "63", 
+                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                    }, 
+                    {
+                        "k": "64", 
+                        "v": "42e34f6843c51889977aed3783ff56e9"
+                    }, 
+                    {
+                        "k": "65", 
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    }
+                ], 
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true", 
+                        "lastModified": "2019-05-13T12:01:34", 
+                        "name": "Public", 
+                        "hash": "0549589ee4c9b953f673fced364e1826", 
+                        "children": [
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T12:01:34", 
+                                "name": "Textures", 
+                                "hash": "fc9ef7c998e07e4aa02c612a4efb630e", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button.png", 
+                                        "hash": "15e9e087e756239c4b89cb0d032660db", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T12:01:34", 
+                                "name": "Tween", 
+                                "hash": "1fb0c4d2825b07d4f19012e7dfc11674", 
+                                "children": [
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T12:01:34", 
+                                        "name": "TweenTypes", 
+                                        "hash": "580b2dec38c09c9d3357dd22eba1cc97", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenChain.js", 
+                                                "hash": "f51e2387d37af7b5a85766408a362e18", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenColor.js", 
+                                                "hash": "6333a68a84a5f7e47993037966d1e135", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenTransform.js", 
+                                                "hash": "9389deaec4231b11b4e485b24ccba204", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenBillboard [DEPRECATED].js", 
+                                                "hash": "871e69e1d4fb4192ebb4b4623bd6ede7", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenScreenTransform.js", 
+                                                "hash": "42e34f6843c51889977aed3783ff56e9", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenValue.js", 
+                                                "hash": "6c038aa78934d8b410cc753fb5f405a1", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "TweenAlpha.js", 
+                                                "hash": "aa362e7548dcf0b077de03d641431777", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:15", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "TweenManager.js", 
+                                        "hash": "1b937dfbcbcd8ef1ee1a275fe7899278", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "Tween.js", 
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T12:01:34", 
+                                "name": "Materials", 
+                                "hash": "1d3ece64831518f2f0053a4e9397664d", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button_F.lsmat", 
+                                        "hash": "fad8ca01761a86036c45ab5c4e97e5e5", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "invisible.lsmat", 
+                                        "hash": "cf3dce20ed24c4e2ba8a9245fb6de309", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button_D.lsmat", 
+                                        "hash": "be68138457e9fc37fb273c1becd01ef8", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button_B.lsmat", 
+                                        "hash": "1a72f66ab1354433484f0912902c60f8", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button_E.lsmat", 
+                                        "hash": "54de57a31c2cc8dae3d1ad6af90e2de9", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button_C.lsmat", 
+                                        "hash": "402996d302fc637171da398e17a6861c", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "button_A.lsmat", 
+                                        "hash": "cd9879bed9600cd066fa4ca088fd0b0f", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T12:01:34", 
+                                "name": "Sounds [REPLACE_ME]", 
+                                "hash": "aac9a07256248f18693fa3277b073ecc", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_a.mp3", 
+                                        "hash": "81d53d69c9df7302901d6c7b40ed548d", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_b.mp3", 
+                                        "hash": "e925a187d9b9d8680007edf8243870a1", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_c.mp3", 
+                                        "hash": "f39fd60ab480e9a6ebb3bf763f1ce387", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_f.mp3", 
+                                        "hash": "e1274ded79c9001e8291fcb8c09ada73", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_d.mp3", 
+                                        "hash": "c038de535a6b622fcf35d51041bbb3e7", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_e.mp3", 
+                                        "hash": "1b4d9d131426cf5e1aa69fb2ae12a2f1", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T12:01:34", 
+                                "name": "Visuals [REPLACE_ME]", 
+                                "hash": "adb735c14e5beedb2c6df353893c1000", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_b.png", 
+                                        "hash": "8922470ff26f39d7b22c0d7d5df571e3", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_c.png", 
+                                        "hash": "ee211ff04e56c55ec159dec73b64792d", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_a.png", 
+                                        "hash": "5a74ecc3fb346cb9d61fcf5d24ece450", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_d.png", 
+                                        "hash": "9c9ed0a1086a7c3b3d73a6af8291a4e7", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_e.png", 
+                                        "hash": "7e053e85a8e467d8aeec4fd950c98c50", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "kitty_f.png", 
+                                        "hash": "d9eadc9189a40b5dd7a20b080b43679b", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T12:01:34", 
+                                "name": "Scripts", 
+                                "hash": "c85d4d0ae0f92b17e2071231feadcf4e", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "SoundboardKey.js", 
+                                        "hash": "e9d3f86c63fddf47d6e79a442c84ee06", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:15", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "false", 
+                                "lastModified": "2019-04-19T01:45:15", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                "children": ""
+                            }
+                        ]
+                    }
+                }, 
+                "complexResources": ""
+            }, 
+            "tree": {
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
+                "resources": [
+                    {
+                        "name": "Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "1", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Render Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "1", 
+                                "dependency": "0", 
+                                "uid": "1:1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "Device Camera Texture", 
+                                "type": "1", 
+                                "subtype": "3", 
+                                "resourceId": "2", 
+                                "dependency": "0", 
+                                "uid": "2:2", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "56", 
+                                "dependency": "0", 
+                                "uid": "1517612456799019:2796", 
+                                "fileId": "3", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "2", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "Live Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "195", 
+                                "dependency": "0", 
+                                "uid": "1553301561721461:43266", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Materials", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "3", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "invisible", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "21", 
+                                "dependency": "0", 
+                                "uid": "1517262583403918:37361", 
+                                "fileId": "2", 
+                                "originalId": "30", 
+                                "publicId": "4", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button_A", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "59", 
+                                "dependency": "0", 
+                                "uid": "1517612507854728:3073", 
+                                "fileId": "4", 
+                                "originalId": "31", 
+                                "publicId": "5", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button_B", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "157", 
+                                "dependency": "0", 
+                                "uid": "1520892659378973:191785", 
+                                "fileId": "11", 
+                                "originalId": "32", 
+                                "publicId": "6", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button_C", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "158", 
+                                "dependency": "0", 
+                                "uid": "1520892665077008:191823", 
+                                "fileId": "12", 
+                                "originalId": "33", 
+                                "publicId": "7", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button_D", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "159", 
+                                "dependency": "0", 
+                                "uid": "1520892667219816:191849", 
+                                "fileId": "13", 
+                                "originalId": "34", 
+                                "publicId": "8", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button_E", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "160", 
+                                "dependency": "0", 
+                                "uid": "1520892669271960:191875", 
+                                "fileId": "14", 
+                                "originalId": "35", 
+                                "publicId": "9", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "button_F", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "161", 
+                                "dependency": "0", 
+                                "uid": "1520892672739335:191901", 
+                                "fileId": "15", 
+                                "originalId": "36", 
+                                "publicId": "10", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Scripts", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "11", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "SoundboardKey", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "182", 
+                                "dependency": "0", 
+                                "uid": "1553301559743029:43047", 
+                                "fileId": "37", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "37", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Tween", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "13", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "TweenTypes", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "14", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "99", 
+                                        "dependency": "0", 
+                                        "uid": "1518730197429819:6235", 
+                                        "fileId": "6", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "15", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "TweenColor", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "107", 
+                                        "dependency": "0", 
+                                        "uid": "1518730197461945:6331", 
+                                        "fileId": "8", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "16", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "TweenAlpha", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "109", 
+                                        "dependency": "0", 
+                                        "uid": "1518730197475575:6355", 
+                                        "fileId": "9", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "17", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "TweenChain", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "180", 
+                                        "dependency": "0", 
+                                        "uid": "1538677161052705:26325", 
+                                        "fileId": "28", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "19", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "TweenValue", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "181", 
+                                        "dependency": "0", 
+                                        "uid": "1538677161096881:26338", 
+                                        "fileId": "29", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "20", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "TweenScreenTransform", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "197", 
+                                        "dependency": "0", 
+                                        "uid": "1553645695946274:296662", 
+                                        "fileId": "39", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "64", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "TweenBillboard [DEPRECATED]", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "198", 
+                                        "dependency": "0", 
+                                        "uid": "1553647174954233:1862770", 
+                                        "fileId": "40", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "65", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Tween", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "98", 
+                                "dependency": "0", 
+                                "uid": "1518730197423357:6223", 
+                                "fileId": "5", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "21", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "TweenManager", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "196", 
+                                "dependency": "0", 
+                                "uid": "1553645689947751:288845", 
+                                "fileId": "38", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "63", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Sounds [REPLACE_ME]", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "23", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "kitty_a", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "174", 
+                                "dependency": "0", 
+                                "uid": "1520962233874544:41353", 
+                                "fileId": "22", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "24", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_b", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "175", 
+                                "dependency": "0", 
+                                "uid": "1520962233929689:41380", 
+                                "fileId": "23", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "25", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_c", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "176", 
+                                "dependency": "0", 
+                                "uid": "1520962233985979:41407", 
+                                "fileId": "24", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "26", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_d", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "177", 
+                                "dependency": "0", 
+                                "uid": "1520962234034875:41434", 
+                                "fileId": "25", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "27", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_e", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "178", 
+                                "dependency": "0", 
+                                "uid": "1520962234092035:41461", 
+                                "fileId": "26", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "28", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_f", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "179", 
+                                "dependency": "0", 
+                                "uid": "1520962234148642:41488", 
+                                "fileId": "27", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "29", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Visuals [REPLACE_ME]", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "30", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "kitty_a", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "168", 
+                                "dependency": "0", 
+                                "uid": "1520962169595153:41158", 
+                                "fileId": "16", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "31", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_b", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "169", 
+                                "dependency": "0", 
+                                "uid": "1520962169656888:41173", 
+                                "fileId": "17", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "32", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_c", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "170", 
+                                "dependency": "0", 
+                                "uid": "1520962169720998:41188", 
+                                "fileId": "18", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "33", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_d", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "171", 
+                                "dependency": "0", 
+                                "uid": "1520962169777088:41203", 
+                                "fileId": "19", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "34", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_e", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "172", 
+                                "dependency": "0", 
+                                "uid": "1520962169806361:41218", 
+                                "fileId": "20", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "35", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_f", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "173", 
+                                "dependency": "0", 
+                                "uid": "1520962169841745:41233", 
+                                "fileId": "21", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "36", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 
+        "InspectorController": {
+            "selection": ""
+        }, 
+        "EffectsController": {
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": ""
+        }, 
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }, 
+            "importInfo": ""
+        }
+    }, 
+    "description": "Tap on different parts of the screen to play different sounds and animations"
+}

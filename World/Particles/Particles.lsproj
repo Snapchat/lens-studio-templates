@@ -1,0 +1,3836 @@
+{
+    "lens_id": "", 
+    "document_id": "zPEhHiANPIX4Xfko_6H7", 
+    "original_document_id": "zPEhHiANPIX4Xfko_6H7", 
+    "version": "14", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public", 
+            "major": "2", 
+            "minor": "0", 
+            "patch": "0", 
+            "build": "2"
+        }, 
+        "lastSavedWith": {
+            "type": "Public", 
+            "major": "2", 
+            "minor": "0", 
+            "patch": "0", 
+            "build": "2"
+        }
+    }, 
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "ParticleMaterials"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Templates"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Templates", 
+                        "particle_flipbook [COPY_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Templates", 
+                        "particle_flipbook_Blend [COPY_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Templates", 
+                        "particle_physics [COPY_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Templates", 
+                        "particle_velocity_Direction [COPY_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Templates", 
+                        "particle_vertex_Lighting [COPY_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Blizzard"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Blizzard", 
+                        "particle_blizzard [EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Rain"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Rain", 
+                        "particle_rain [EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Rain", 
+                        "particle_rain_ground_splash [EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Snow"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Snow", 
+                        "particle_snow [EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "Weather", 
+                        "Snow", 
+                        "particle_snow_ground [EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Bokeh"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Bokeh", 
+                        "Bokeh [EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Embers"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Embers", 
+                        "GPU-Particle_Preset_Embers"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Fountain"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Fountain", 
+                        "GPU-Particle_Preset_Fountain_Distortion"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Fountain", 
+                        "GPU-Particle_Preset_Fountain_Splash"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Fountain", 
+                        "GPU-Particle_Preset_Fountain_Waterdrops"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Fountain_Cartoon"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Fountain_Cartoon", 
+                        "GPU-Particle_Preset_Fountain_Cartoon"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Smoke"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Smoke", 
+                        "GPU-Particle_Preset_Smoke"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Sparkles"
+                    ], 
+                    [
+                        "ParticleMaterials", 
+                        "World", 
+                        "Sparkles", 
+                        "Sparkles[EDIT_ME]"
+                    ], 
+                    [
+                        "ParticleResources"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Meshes"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Meshes", 
+                        "emitter_1000"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "1x1_white"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_blink"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_fire_add"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_fire_smoke"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_fireflies"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_fireflies_add"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_linear_blend"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_smoke_fade"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "cr_white_fade"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "debris_2x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fireball_2x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_bokeh"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_bubble_2x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_fireworks_copy"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_glow"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_rain_2x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_smoke_realisticsSmall"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_sparkles_2x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_twinkle_dust_add"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_water_splash_2x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_water_splash_2x2_cartoony"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_water_splash_2x2_distortion"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "fx_water_splash_4x2"
+                    ], 
+                    [
+                        "ParticleResources", 
+                        "Textures", 
+                        "numtest"
+                    ], 
+                    [
+                        "SceneResources"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Materials"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Materials", 
+                        "matte_shadow"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Meshes"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Meshes", 
+                        "plane"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Textures"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Textures", 
+                        "Device Camera Texture"
+                    ], 
+                    [
+                        "SceneResources", 
+                        "Textures", 
+                        "Render Target"
+                    ], 
+                    [
+                        "Scripts"
+                    ], 
+                    [
+                        "Scripts", 
+                        "BlizzardController"
+                    ], 
+                    [
+                        "Scripts", 
+                        "BokehController"
+                    ], 
+                    [
+                        "Scripts", 
+                        "ExternalTimeController"
+                    ], 
+                    [
+                        "Scripts", 
+                        "GlobalTime"
+                    ], 
+                    [
+                        "Scripts", 
+                        "RainController"
+                    ], 
+                    [
+                        "Scripts", 
+                        "SnowController"
+                    ], 
+                    [
+                        "Scripts", 
+                        "SparklesController"
+                    ]
+                ]
+            ]
+        }, 
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1519415449439637:101704", 
+                    "1519422584841587:107362", 
+                    "1519669181855311:177002", 
+                    "1519669203936432:177727", 
+                    "1519669283031788:179525", 
+                    "1519836909095262:3736", 
+                    "1519836920959040:3758", 
+                    "1519836925492004:3773", 
+                    "1519836929767521:3788", 
+                    "1519836954302514:3807", 
+                    "1519836970038015:4461", 
+                    "1519836986882479:5118", 
+                    "1519837014158836:7157", 
+                    "1519837023816269:7172", 
+                    "1519856872900203:5345", 
+                    "1519927702540712:10010", 
+                    "1519927708694158:10025", 
+                    "1519928131877550:19490", 
+                    "1519929904978458:39612", 
+                    "1520013907736945:24654", 
+                    "1520297385015427:86081", 
+                    "1520458657709193:40810", 
+                    "1553553548381010:32396", 
+                    "1553553548381383:32400", 
+                    "1553553548382954:32428", 
+                    "1553553548384555:32456", 
+                    "1553553548386095:32484", 
+                    "1553553548387644:32512", 
+                    "1553717544232398:97659", 
+                    "1553717544587516:97948", 
+                    "1553717544599799:98192", 
+                    "1553717544607221:98320", 
+                    "1553717544608831:98348", 
+                    "1553717544612760:98424", 
+                    "1553717544614264:98452", 
+                    "1553717544615833:98480", 
+                    "1553717544617364:98508", 
+                    "1553717544624099:98632", 
+                    "1553717544624468:98636", 
+                    "1553717544626101:98664", 
+                    "1553717544627689:98692", 
+                    "1553717544629261:98720", 
+                    "1553717544630886:98748", 
+                    "1553717552459684:102115"
+                ]
+            ]
+        }, 
+        "MetaInfoUIComponent": {
+            "icon_hash": "883ccbd3764a4689e15924b26d56d91a", 
+            "icon_path": "icon.png", 
+            "hints": [
+                ""
+            ], 
+            "lens": "Particles", 
+            "camera": "1", 
+            "lens_descriptors": ""
+        }, 
+        "PreviewUiComponent": {
+            "is_back_camera": "true", 
+            "show_snap_ui": "true", 
+            "show_sponsored_ui": "false"
+        }, 
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1516752830754838:18872", 
+                    "1520455552996932:22730"
+                ]
+            ]
+        }, 
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0", 
+                    "v": "20"
+                }
+            ]
+        }
+    }, 
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "0"
+                }, 
+                {
+                    "resId": "13", 
+                    "uid": "1512063260594199:26308", 
+                    "name": "\/Resources\/Resource13.mesh", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "5"
+                }, 
+                {
+                    "resId": "70", 
+                    "uid": "1516752773940566:18647", 
+                    "name": "\/Resources\/Resource70.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "76", 
+                    "uid": "1517856557696711:12836", 
+                    "name": "\/Resources\/Resource76.mesh", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "77", 
+                    "uid": "1517856791313031:14299", 
+                    "name": "\/Resources\/Resource77", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "84", 
+                    "uid": "1519405063842035:3363", 
+                    "name": "\/Resources\/Resource84.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "86", 
+                    "uid": "1519405339406402:4639", 
+                    "name": "\/Resources\/Resource86.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "88", 
+                    "uid": "1519415069855611:100711", 
+                    "name": "\/Resources\/Resource88.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "89", 
+                    "uid": "1519415258986969:100962", 
+                    "name": "\/Resources\/Resource89.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "101", 
+                    "uid": "1519424879905130:51244", 
+                    "name": "\/Resources\/Resource101.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "128", 
+                    "uid": "1519753791189413:30021", 
+                    "name": "\/Resources\/Resource128.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "141", 
+                    "uid": "1519837588158564:17714", 
+                    "name": "\/Resources\/Resource141.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "147", 
+                    "uid": "1519837904717880:23791", 
+                    "name": "\/Resources\/Resource147.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "150", 
+                    "uid": "1519838480984620:11069", 
+                    "name": "\/Resources\/Resource150.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "160", 
+                    "uid": "1519839287243665:46991", 
+                    "name": "\/Resources\/Resource160.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "171", 
+                    "uid": "1519927782571435:14329", 
+                    "name": "\/Resources\/Resource171.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "216", 
+                    "uid": "1520360471478033:4711", 
+                    "name": "\/Resources\/Resource216.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "217", 
+                    "uid": "1520360796083277:5637", 
+                    "name": "\/Resources\/Resource217.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "219", 
+                    "uid": "1520466516787664:50480", 
+                    "name": "\/Resources\/Resource219.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "220", 
+                    "uid": "1520468423075251:125104", 
+                    "name": "\/Resources\/Resource220.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "221", 
+                    "uid": "1520551338955207:358381", 
+                    "name": "\/Resources\/Resource221.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "222", 
+                    "uid": "1521239199636938:628894", 
+                    "name": "\/Resources\/Resource222.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "223", 
+                    "uid": "1521239757252643:639828", 
+                    "name": "\/Resources\/Resource223.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "224", 
+                    "uid": "1521490466323267:291906", 
+                    "name": "\/Resources\/Resource224.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "245", 
+                    "uid": "1553557634499112:125058", 
+                    "name": "Files\/File114.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "246", 
+                    "uid": "1553557634917467:125068", 
+                    "name": "Files\/File116.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "247", 
+                    "uid": "1553557635025997:125078", 
+                    "name": "Files\/File118.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "248", 
+                    "uid": "1553557635111754:125088", 
+                    "name": "Files\/File120.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "249", 
+                    "uid": "1553557635188600:125098", 
+                    "name": "Files\/File122.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "250", 
+                    "uid": "1553557656496969:126691", 
+                    "name": "Files\/File124.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "251", 
+                    "uid": "1553557656580684:126701", 
+                    "name": "Files\/File126.jpg", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "252", 
+                    "uid": "1553557656661244:126711", 
+                    "name": "Files\/File128.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "253", 
+                    "uid": "1553557656791639:126721", 
+                    "name": "Files\/File130.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "254", 
+                    "uid": "1553557712417054:128365", 
+                    "name": "Files\/File132.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "255", 
+                    "uid": "1553557712513154:128375", 
+                    "name": "Files\/File133.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "258", 
+                    "uid": "1553717539939130:97321", 
+                    "name": "Files\/File138", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "259", 
+                    "uid": "1553717540132878:97337", 
+                    "name": "Files\/File140", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "260", 
+                    "uid": "1553717540419084:97353", 
+                    "name": "Files\/File142", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "261", 
+                    "uid": "1553717540690035:97369", 
+                    "name": "Files\/File144", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "262", 
+                    "uid": "1553717540859686:97385", 
+                    "name": "Files\/File146", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "263", 
+                    "uid": "1553717541072401:97401", 
+                    "name": "Files\/File148", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "264", 
+                    "uid": "1553717541287713:97417", 
+                    "name": "Files\/File150", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "265", 
+                    "uid": "1553717541500534:97433", 
+                    "name": "Files\/File152", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "266", 
+                    "uid": "1553717541713683:97449", 
+                    "name": "Files\/File154", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "267", 
+                    "uid": "1553717541927834:97465", 
+                    "name": "Files\/File156", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "268", 
+                    "uid": "1553717542107229:97481", 
+                    "name": "Files\/File158", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "269", 
+                    "uid": "1553717542325311:97497", 
+                    "name": "Files\/File160", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "270", 
+                    "uid": "1553717542541218:97513", 
+                    "name": "Files\/File162", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "271", 
+                    "uid": "1553717542749793:97529", 
+                    "name": "Files\/File164", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "272", 
+                    "uid": "1553717542920888:97545", 
+                    "name": "Files\/File166", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "273", 
+                    "uid": "1553717543136187:97561", 
+                    "name": "Files\/File168", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "274", 
+                    "uid": "1553717543348995:97577", 
+                    "name": "Files\/File170", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }, 
+                {
+                    "resId": "275", 
+                    "uid": "1553717543563939:97593", 
+                    "name": "Files\/File172", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
+                    "flags": "1"
+                }
+            ]
+        }, 
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }, 
+                "ScreenTransform": {
+                    "uidData": "", 
+                    "generalData": ""
+                }
+            }
+        }, 
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517856551068255:12728", 
+                "1": "1520458657709193:40810", 
+                "2": "1553717544232398:97659", 
+                "3": "1553717544232841:97663", 
+                "4": "1553717544575950:97732", 
+                "5": "1553717544577327:97756", 
+                "6": "1553717544578553:97780", 
+                "7": "1553717544579813:97804", 
+                "8": "1553717544580967:97828", 
+                "9": "1553717544582206:97852", 
+                "10": "1553717544583367:97876", 
+                "11": "1553717544584725:97900", 
+                "12": "1553717544586228:97924", 
+                "13": "1553717544587516:97948", 
+                "14": "1553717544587853:97952", 
+                "15": "1553717544589028:97976", 
+                "16": "1553717544590172:98000", 
+                "17": "1553717544591379:98024", 
+                "18": "1553717544592559:98048", 
+                "19": "1553717544593748:98072", 
+                "20": "1553717544594890:98096", 
+                "21": "1553717544596135:98120", 
+                "22": "1553717544597397:98144", 
+                "23": "1553717544598605:98168", 
+                "24": "1553717544600110:98196", 
+                "25": "1553717544601332:98220", 
+                "26": "1553717544602744:98244", 
+                "27": "1553717544604190:98268", 
+                "28": "1553717544605534:98292", 
+                "29": "1553717544607221:98320", 
+                "30": "1553717544607532:98324", 
+                "31": "1553717544608831:98348", 
+                "32": "1553717544609175:98352", 
+                "33": "1553717544610385:98376", 
+                "34": "1553717544611564:98400", 
+                "35": "1553717544612760:98424", 
+                "36": "1553717544613078:98428", 
+                "37": "1553717544614264:98452", 
+                "38": "1553717544614579:98456", 
+                "39": "1553717544615833:98480", 
+                "40": "1553717544616157:98484", 
+                "41": "1553717544617364:98508", 
+                "42": "1553717544617706:98512", 
+                "43": "1553717544619007:98536", 
+                "44": "1553717544620341:98560", 
+                "45": "1553717544621636:98584", 
+                "46": "1553717544622855:98608", 
+                "47": "1553717544624099:98632", 
+                "48": "1553717544624468:98636", 
+                "49": "1553717544624794:98640", 
+                "50": "1553717544626101:98664", 
+                "51": "1553717544626438:98668", 
+                "52": "1553717544627689:98692", 
+                "53": "1553717544628019:98696", 
+                "54": "1553717544629261:98720", 
+                "55": "1553717544629607:98724", 
+                "56": "1553717544630886:98748", 
+                "57": "1553717544631310:98752", 
+                "58": "1553717551206791:102101", 
+                "59": "1553717552459684:102115"
+            }
+        }, 
+        "LayerComponent": {
+            "nextLayerId": "2", 
+            "showOrthographicLayer": "false", 
+            "layersInfo": [
+                {
+                    "layerId": "0", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1"
+                }, 
+                {
+                    "layerId": "1", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576"
+                }
+            ]
+        }, 
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1", 
+                    "v": "Files\/File1.mesh"
+                }, 
+                {
+                    "k": "2", 
+                    "v": "Files\/File2.png"
+                }, 
+                {
+                    "k": "3", 
+                    "v": "Files\/File3.mesh"
+                }, 
+                {
+                    "k": "4", 
+                    "v": "Files\/File4"
+                }, 
+                {
+                    "k": "8", 
+                    "v": "Files\/File8.png"
+                }, 
+                {
+                    "k": "9", 
+                    "v": "Files\/File9.png"
+                }, 
+                {
+                    "k": "10", 
+                    "v": "Files\/File10.png"
+                }, 
+                {
+                    "k": "11", 
+                    "v": "Files\/File11.png"
+                }, 
+                {
+                    "k": "15", 
+                    "v": "Files\/File15.png"
+                }, 
+                {
+                    "k": "20", 
+                    "v": "Files\/File20.png"
+                }, 
+                {
+                    "k": "21", 
+                    "v": "Files\/File21.png"
+                }, 
+                {
+                    "k": "22", 
+                    "v": "Files\/File22.png"
+                }, 
+                {
+                    "k": "23", 
+                    "v": "Files\/File23.png"
+                }, 
+                {
+                    "k": "24", 
+                    "v": "Files\/File24.png"
+                }, 
+                {
+                    "k": "27", 
+                    "v": "Files\/File27.png"
+                }, 
+                {
+                    "k": "46", 
+                    "v": "Files\/File46.png"
+                }, 
+                {
+                    "k": "47", 
+                    "v": "Files\/File47.png"
+                }, 
+                {
+                    "k": "48", 
+                    "v": "Files\/File48.js"
+                }, 
+                {
+                    "k": "49", 
+                    "v": "Files\/File49.js"
+                }, 
+                {
+                    "k": "50", 
+                    "v": "Files\/File50.js"
+                }, 
+                {
+                    "k": "51", 
+                    "v": "Files\/File51.js"
+                }, 
+                {
+                    "k": "52", 
+                    "v": "Files\/File52.js"
+                }, 
+                {
+                    "k": "53", 
+                    "v": "Files\/File53.png"
+                }, 
+                {
+                    "k": "54", 
+                    "v": "Files\/File54.lsmat"
+                }, 
+                {
+                    "k": "114", 
+                    "v": "Files\/File114.png"
+                }, 
+                {
+                    "k": "115", 
+                    "v": "Files\/File115.png"
+                }, 
+                {
+                    "k": "116", 
+                    "v": "Files\/File116.png"
+                }, 
+                {
+                    "k": "117", 
+                    "v": "Files\/File117.png"
+                }, 
+                {
+                    "k": "118", 
+                    "v": "Files\/File118.png"
+                }, 
+                {
+                    "k": "119", 
+                    "v": "Files\/File119.png"
+                }, 
+                {
+                    "k": "120", 
+                    "v": "Files\/File120.png"
+                }, 
+                {
+                    "k": "121", 
+                    "v": "Files\/File121.png"
+                }, 
+                {
+                    "k": "122", 
+                    "v": "Files\/File122.png"
+                }, 
+                {
+                    "k": "123", 
+                    "v": "Files\/File123.png"
+                }, 
+                {
+                    "k": "124", 
+                    "v": "Files\/File124.png"
+                }, 
+                {
+                    "k": "125", 
+                    "v": "Files\/File125.png"
+                }, 
+                {
+                    "k": "126", 
+                    "v": "Files\/File126.jpg"
+                }, 
+                {
+                    "k": "127", 
+                    "v": "Files\/File127.jpg"
+                }, 
+                {
+                    "k": "128", 
+                    "v": "Files\/File128.png"
+                }, 
+                {
+                    "k": "129", 
+                    "v": "Files\/File129.png"
+                }, 
+                {
+                    "k": "130", 
+                    "v": "Files\/File130.png"
+                }, 
+                {
+                    "k": "131", 
+                    "v": "Files\/File131.png"
+                }, 
+                {
+                    "k": "132", 
+                    "v": "Files\/File132.js"
+                }, 
+                {
+                    "k": "133", 
+                    "v": "Files\/File133.js"
+                }, 
+                {
+                    "k": "138", 
+                    "v": "Files\/File138"
+                }, 
+                {
+                    "k": "139", 
+                    "v": "Files\/File139.lsmat"
+                }, 
+                {
+                    "k": "140", 
+                    "v": "Files\/File140"
+                }, 
+                {
+                    "k": "141", 
+                    "v": "Files\/File141.lsmat"
+                }, 
+                {
+                    "k": "142", 
+                    "v": "Files\/File142"
+                }, 
+                {
+                    "k": "143", 
+                    "v": "Files\/File143.lsmat"
+                }, 
+                {
+                    "k": "144", 
+                    "v": "Files\/File144"
+                }, 
+                {
+                    "k": "145", 
+                    "v": "Files\/File145.lsmat"
+                }, 
+                {
+                    "k": "146", 
+                    "v": "Files\/File146"
+                }, 
+                {
+                    "k": "147", 
+                    "v": "Files\/File147.lsmat"
+                }, 
+                {
+                    "k": "148", 
+                    "v": "Files\/File148"
+                }, 
+                {
+                    "k": "149", 
+                    "v": "Files\/File149.lsmat"
+                }, 
+                {
+                    "k": "150", 
+                    "v": "Files\/File150"
+                }, 
+                {
+                    "k": "151", 
+                    "v": "Files\/File151.lsmat"
+                }, 
+                {
+                    "k": "152", 
+                    "v": "Files\/File152"
+                }, 
+                {
+                    "k": "153", 
+                    "v": "Files\/File153.lsmat"
+                }, 
+                {
+                    "k": "154", 
+                    "v": "Files\/File154"
+                }, 
+                {
+                    "k": "155", 
+                    "v": "Files\/File155.lsmat"
+                }, 
+                {
+                    "k": "156", 
+                    "v": "Files\/File156"
+                }, 
+                {
+                    "k": "157", 
+                    "v": "Files\/File157.lsmat"
+                }, 
+                {
+                    "k": "158", 
+                    "v": "Files\/File158"
+                }, 
+                {
+                    "k": "159", 
+                    "v": "Files\/File159.lsmat"
+                }, 
+                {
+                    "k": "160", 
+                    "v": "Files\/File160"
+                }, 
+                {
+                    "k": "161", 
+                    "v": "Files\/File161.lsmat"
+                }, 
+                {
+                    "k": "162", 
+                    "v": "Files\/File162"
+                }, 
+                {
+                    "k": "163", 
+                    "v": "Files\/File163.lsmat"
+                }, 
+                {
+                    "k": "164", 
+                    "v": "Files\/File164"
+                }, 
+                {
+                    "k": "165", 
+                    "v": "Files\/File165.lsmat"
+                }, 
+                {
+                    "k": "166", 
+                    "v": "Files\/File166"
+                }, 
+                {
+                    "k": "167", 
+                    "v": "Files\/File167.lsmat"
+                }, 
+                {
+                    "k": "168", 
+                    "v": "Files\/File168"
+                }, 
+                {
+                    "k": "169", 
+                    "v": "Files\/File169.lsmat"
+                }, 
+                {
+                    "k": "170", 
+                    "v": "Files\/File170"
+                }, 
+                {
+                    "k": "171", 
+                    "v": "Files\/File171.lsmat"
+                }, 
+                {
+                    "k": "172", 
+                    "v": "Files\/File172"
+                }, 
+                {
+                    "k": "173", 
+                    "v": "Files\/File173.lsmat"
+                }
+            ]
+        }, 
+        "WorldComponent": {
+            "sceneFile": "scene.scn", 
+            "sceneType": "binaryScene"
+        }
+    }, 
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1", 
+                        "v": "Scripts"
+                    }, 
+                    {
+                        "k": "4", 
+                        "v": "Scripts\/RainController.js"
+                    }, 
+                    {
+                        "k": "5", 
+                        "v": "Scripts\/SnowController.js"
+                    }, 
+                    {
+                        "k": "6", 
+                        "v": "Scripts\/BlizzardController.js"
+                    }, 
+                    {
+                        "k": "7", 
+                        "v": "Scripts\/BokehController.js"
+                    }, 
+                    {
+                        "k": "8", 
+                        "v": "Scripts\/SparklesController.js"
+                    }, 
+                    {
+                        "k": "9", 
+                        "v": "ParticleResources"
+                    }, 
+                    {
+                        "k": "10", 
+                        "v": "ParticleResources\/Meshes"
+                    }, 
+                    {
+                        "k": "11", 
+                        "v": "ParticleResources\/Meshes\/emitter_1000.mesh"
+                    }, 
+                    {
+                        "k": "12", 
+                        "v": "ParticleResources\/Textures"
+                    }, 
+                    {
+                        "k": "13", 
+                        "v": "ParticleResources\/Textures\/cr_smoke_fade.png"
+                    }, 
+                    {
+                        "k": "14", 
+                        "v": "ParticleResources\/Textures\/debris_2x2.png"
+                    }, 
+                    {
+                        "k": "15", 
+                        "v": "ParticleResources\/Textures\/fx_water_splash_2x2.png"
+                    }, 
+                    {
+                        "k": "16", 
+                        "v": "ParticleResources\/Textures\/fx_water_splash_2x2_distortion.png"
+                    }, 
+                    {
+                        "k": "17", 
+                        "v": "ParticleResources\/Textures\/cr_linear_blend.png"
+                    }, 
+                    {
+                        "k": "21", 
+                        "v": "ParticleResources\/Textures\/fx_smoke_realisticsSmall.png"
+                    }, 
+                    {
+                        "k": "26", 
+                        "v": "ParticleResources\/Textures\/cr_blink.png"
+                    }, 
+                    {
+                        "k": "27", 
+                        "v": "ParticleResources\/Textures\/fx_rain_2x2.png"
+                    }, 
+                    {
+                        "k": "28", 
+                        "v": "ParticleResources\/Textures\/fx_bokeh.png"
+                    }, 
+                    {
+                        "k": "29", 
+                        "v": "ParticleResources\/Textures\/fx_sparkles_2x2.png"
+                    }, 
+                    {
+                        "k": "30", 
+                        "v": "ParticleResources\/Textures\/fx_water_splash_2x2_cartoony.png"
+                    }, 
+                    {
+                        "k": "33", 
+                        "v": "ParticleResources\/Textures\/numtest.png"
+                    }, 
+                    {
+                        "k": "34", 
+                        "v": "ParticleResources\/Textures\/fx_water_splash_4x2.png"
+                    }, 
+                    {
+                        "k": "35", 
+                        "v": "ParticleResources\/Textures\/cr_white_fade.png"
+                    }, 
+                    {
+                        "k": "36", 
+                        "v": "ParticleResources\/Textures\/fireball_2x2.png"
+                    }, 
+                    {
+                        "k": "37", 
+                        "v": "SceneResources"
+                    }, 
+                    {
+                        "k": "38", 
+                        "v": "SceneResources\/Materials"
+                    }, 
+                    {
+                        "k": "39", 
+                        "v": "SceneResources\/Materials\/matte_shadow.lsmat"
+                    }, 
+                    {
+                        "k": "40", 
+                        "v": "SceneResources\/Textures"
+                    }, 
+                    {
+                        "k": "41", 
+                        "v": "SceneResources\/Meshes"
+                    }, 
+                    {
+                        "k": "42", 
+                        "v": "SceneResources\/Meshes\/plane.mesh"
+                    }, 
+                    {
+                        "k": "162", 
+                        "v": "ParticleResources\/Textures\/cr_fire_smoke.png"
+                    }, 
+                    {
+                        "k": "163", 
+                        "v": "ParticleResources\/Textures\/cr_fire_add.png"
+                    }, 
+                    {
+                        "k": "164", 
+                        "v": "ParticleResources\/Textures\/1x1_white.png"
+                    }, 
+                    {
+                        "k": "165", 
+                        "v": "ParticleResources\/Textures\/cr_fireflies_add.png"
+                    }, 
+                    {
+                        "k": "166", 
+                        "v": "ParticleResources\/Textures\/cr_fireflies.png"
+                    }, 
+                    {
+                        "k": "167", 
+                        "v": "ParticleResources\/Textures\/fx_twinkle_dust_add.png"
+                    }, 
+                    {
+                        "k": "168", 
+                        "v": "ParticleResources\/Textures\/fx_fireworks_copy.jpg"
+                    }, 
+                    {
+                        "k": "169", 
+                        "v": "ParticleResources\/Textures\/fx_glow.png"
+                    }, 
+                    {
+                        "k": "170", 
+                        "v": "ParticleResources\/Textures\/fx_bubble_2x2.png"
+                    }, 
+                    {
+                        "k": "171", 
+                        "v": "Scripts\/GlobalTime.js"
+                    }, 
+                    {
+                        "k": "172", 
+                        "v": "Scripts\/ExternalTimeController.js"
+                    }, 
+                    {
+                        "k": "426", 
+                        "v": "ParticleMaterials\/Templates"
+                    }, 
+                    {
+                        "k": "427", 
+                        "v": "ParticleMaterials\/Templates\/particle_flipbook [COPY_ME].lsmat"
+                    }, 
+                    {
+                        "k": "428", 
+                        "v": "ParticleMaterials\/Templates\/particle_flipbook_Blend [COPY_ME].lsmat"
+                    }, 
+                    {
+                        "k": "429", 
+                        "v": "ParticleMaterials\/Templates\/particle_physics [COPY_ME].lsmat"
+                    }, 
+                    {
+                        "k": "430", 
+                        "v": "ParticleMaterials\/Templates\/particle_velocity_Direction [COPY_ME].lsmat"
+                    }, 
+                    {
+                        "k": "431", 
+                        "v": "ParticleMaterials\/Weather"
+                    }, 
+                    {
+                        "k": "432", 
+                        "v": "ParticleMaterials\/Weather\/Blizzard"
+                    }, 
+                    {
+                        "k": "433", 
+                        "v": "ParticleMaterials\/Weather\/Blizzard\/particle_blizzard [EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "434", 
+                        "v": "ParticleMaterials\/Weather\/Rain"
+                    }, 
+                    {
+                        "k": "435", 
+                        "v": "ParticleMaterials\/Weather\/Rain\/particle_rain [EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "436", 
+                        "v": "ParticleMaterials\/Weather\/Rain\/particle_rain_ground_splash [EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "437", 
+                        "v": "ParticleMaterials\/Weather\/Snow"
+                    }, 
+                    {
+                        "k": "438", 
+                        "v": "ParticleMaterials\/Weather\/Snow\/particle_snow [EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "439", 
+                        "v": "ParticleMaterials\/Weather\/Snow\/particle_snow_ground [EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "440", 
+                        "v": "ParticleMaterials\/World"
+                    }, 
+                    {
+                        "k": "441", 
+                        "v": "ParticleMaterials\/World\/Sparkles"
+                    }, 
+                    {
+                        "k": "442", 
+                        "v": "ParticleMaterials\/World\/Sparkles\/Sparkles[EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "443", 
+                        "v": "ParticleMaterials\/World\/Bokeh"
+                    }, 
+                    {
+                        "k": "444", 
+                        "v": "ParticleMaterials\/World\/Bokeh\/Bokeh [EDIT_ME].lsmat"
+                    }, 
+                    {
+                        "k": "445", 
+                        "v": "ParticleMaterials\/World\/Embers"
+                    }, 
+                    {
+                        "k": "446", 
+                        "v": "ParticleMaterials\/World\/Embers\/GPU-Particle_Preset_Embers.lsmat"
+                    }, 
+                    {
+                        "k": "447", 
+                        "v": "ParticleMaterials\/World\/Smoke"
+                    }, 
+                    {
+                        "k": "448", 
+                        "v": "ParticleMaterials\/World\/Smoke\/GPU-Particle_Preset_Smoke.lsmat"
+                    }, 
+                    {
+                        "k": "449", 
+                        "v": "ParticleMaterials\/World\/Fountain_Cartoon"
+                    }, 
+                    {
+                        "k": "450", 
+                        "v": "ParticleMaterials\/World\/Fountain_Cartoon\/GPU-Particle_Preset_Fountain_Cartoon.lsmat"
+                    }, 
+                    {
+                        "k": "451", 
+                        "v": "ParticleMaterials\/World\/Fountain"
+                    }, 
+                    {
+                        "k": "452", 
+                        "v": "ParticleMaterials\/World\/Fountain\/GPU-Particle_Preset_Fountain_Splash.lsmat"
+                    }, 
+                    {
+                        "k": "453", 
+                        "v": "ParticleMaterials\/World\/Fountain\/GPU-Particle_Preset_Fountain_Distortion.lsmat"
+                    }, 
+                    {
+                        "k": "454", 
+                        "v": "ParticleMaterials\/World\/Fountain\/GPU-Particle_Preset_Fountain_Waterdrops.lsmat"
+                    }, 
+                    {
+                        "k": "455", 
+                        "v": "ParticleMaterials\/Templates\/particle_vertex_Lighting [COPY_ME].lsmat"
+                    }, 
+                    {
+                        "k": "456", 
+                        "v": "ParticleMaterials"
+                    }
+                ], 
+                "hashes": [
+                    {
+                        "k": "2", 
+                        "v": "5cc3aba13642025ba25fedd6ad6cb811"
+                    }, 
+                    {
+                        "k": "3", 
+                        "v": "cd6257bdc2bc7384d1c85abce75839b7"
+                    }, 
+                    {
+                        "k": "4", 
+                        "v": "e52daf58f9d9288af3b33060f6ff9370"
+                    }, 
+                    {
+                        "k": "5", 
+                        "v": "a24340b157dd20b21ebb85f3847b73fd"
+                    }, 
+                    {
+                        "k": "6", 
+                        "v": "3dcc4c67b80a37f34087d753df82149e"
+                    }, 
+                    {
+                        "k": "7", 
+                        "v": "39d840c19b6f443fcd0586fafbc20799"
+                    }, 
+                    {
+                        "k": "8", 
+                        "v": "e6ceb4225867459be2f55dedf706097c"
+                    }, 
+                    {
+                        "k": "11", 
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    }, 
+                    {
+                        "k": "13", 
+                        "v": "fb284a6f2c7189d45865e6bd636566ed"
+                    }, 
+                    {
+                        "k": "14", 
+                        "v": "984bd45c2a73244c3910fcfb96962b7f"
+                    }, 
+                    {
+                        "k": "15", 
+                        "v": "e96991a1986a864b2587b53b48d34a0d"
+                    }, 
+                    {
+                        "k": "16", 
+                        "v": "6e2123b442c0e10838554bc01371d529"
+                    }, 
+                    {
+                        "k": "17", 
+                        "v": "a4351832b6036772e2116d55c7e15da6"
+                    }, 
+                    {
+                        "k": "18", 
+                        "v": "7bd95016eccbc8fcf523529d3bdcbecc"
+                    }, 
+                    {
+                        "k": "19", 
+                        "v": "91007d769dfe9eb939e6ad83edddbc85"
+                    }, 
+                    {
+                        "k": "20", 
+                        "v": "b2e24ed5957d28d8f2037b19bbe87204"
+                    }, 
+                    {
+                        "k": "21", 
+                        "v": "8adc9cbd9f3a2f136e63a6afdc3481de"
+                    }, 
+                    {
+                        "k": "22", 
+                        "v": "6fa152ee92634a0e97462966ae9e06a6"
+                    }, 
+                    {
+                        "k": "23", 
+                        "v": "5df0ac2d51cfecbde35e8dd1ba3a8d77"
+                    }, 
+                    {
+                        "k": "24", 
+                        "v": "e07a3369349dcc2ec939a04322207bb1"
+                    }, 
+                    {
+                        "k": "25", 
+                        "v": "43222c031e1ea76a7657bce18adf10a6"
+                    }, 
+                    {
+                        "k": "26", 
+                        "v": "9847f9790f055c7ee7912d9856e1755d"
+                    }, 
+                    {
+                        "k": "27", 
+                        "v": "02805090447be76cc39c3f2bb0ab91a2"
+                    }, 
+                    {
+                        "k": "28", 
+                        "v": "95cca12fcc1f536fae36935f305eb426"
+                    }, 
+                    {
+                        "k": "29", 
+                        "v": "5afddbb8a8112f802307c034018491e8"
+                    }, 
+                    {
+                        "k": "30", 
+                        "v": "965e6fb732b3683a0cae93126455201a"
+                    }, 
+                    {
+                        "k": "31", 
+                        "v": "3e479d0a675219a1a5f8886da1045e5b"
+                    }, 
+                    {
+                        "k": "32", 
+                        "v": "841f4cd20a8020d286bae621296dbfc0"
+                    }, 
+                    {
+                        "k": "33", 
+                        "v": "2d1afd293e92139b995e137aef6c052e"
+                    }, 
+                    {
+                        "k": "34", 
+                        "v": "77bc675609d92db6698920e4bdd6e97d"
+                    }, 
+                    {
+                        "k": "35", 
+                        "v": "08b700065f99ce724b9b5bff8e763bba"
+                    }, 
+                    {
+                        "k": "36", 
+                        "v": "b7ddf23e04673576d0ed43fb6bddd4d8"
+                    }, 
+                    {
+                        "k": "39", 
+                        "v": "6120029efc0b75adf5ae07f293f37bd4"
+                    }, 
+                    {
+                        "k": "42", 
+                        "v": "4649d59d58657e786eebaad58a052d2a"
+                    }, 
+                    {
+                        "k": "46", 
+                        "v": "315134d9ff8668929dc30c6471adcbcc"
+                    }, 
+                    {
+                        "k": "47", 
+                        "v": "10876a3891f70924b5e991253d789178"
+                    }, 
+                    {
+                        "k": "49", 
+                        "v": "a49ef4df1d75da19ebdcc1b77d62feda"
+                    }, 
+                    {
+                        "k": "50", 
+                        "v": "484df8e3f45f522ab800ce627c1b28a7"
+                    }, 
+                    {
+                        "k": "52", 
+                        "v": "d07b6228908125f580967cb22a3c0fb9"
+                    }, 
+                    {
+                        "k": "55", 
+                        "v": "7037f6ae65665e5168d69f819d999d6c"
+                    }, 
+                    {
+                        "k": "57", 
+                        "v": "e831b73300b55697133dfd00e971c49c"
+                    }, 
+                    {
+                        "k": "59", 
+                        "v": "7ecd705f08b74c8eb04cb05df1fed1fa"
+                    }, 
+                    {
+                        "k": "60", 
+                        "v": "75e045fb1b11a1a79c3c77c504630082"
+                    }, 
+                    {
+                        "k": "61", 
+                        "v": "4b4a2ab64ab7a96fe5e72062996c1b7e"
+                    }, 
+                    {
+                        "k": "63", 
+                        "v": "5eaafa3974fb89a4e2b6651e1c835e6e"
+                    }, 
+                    {
+                        "k": "65", 
+                        "v": "ac9f036eeb415081ff642ab232071432"
+                    }, 
+                    {
+                        "k": "67", 
+                        "v": "d69d0568bcf28eff4eb9adcb27ba5622"
+                    }, 
+                    {
+                        "k": "69", 
+                        "v": "d01c82045f88af38ff9422862edf7b5a"
+                    }, 
+                    {
+                        "k": "71", 
+                        "v": "bbc45502a0927770e425e4869e434b49"
+                    }, 
+                    {
+                        "k": "72", 
+                        "v": "44e31725447091bb441408208039273b"
+                    }, 
+                    {
+                        "k": "73", 
+                        "v": "42a081e269b23464b2cc947b148a9b40"
+                    }, 
+                    {
+                        "k": "74", 
+                        "v": "45861ca1836b50257ccda9277be3bb7a"
+                    }, 
+                    {
+                        "k": "75", 
+                        "v": "ff1e3fcd4b290453cc3942bc388a2f81"
+                    }, 
+                    {
+                        "k": "78", 
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    }, 
+                    {
+                        "k": "79", 
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    }, 
+                    {
+                        "k": "81", 
+                        "v": "0f1ff80583d50513ec2a2fe5b99dfe09"
+                    }, 
+                    {
+                        "k": "82", 
+                        "v": "8d96310c78751afdffbea09078bfd208"
+                    }, 
+                    {
+                        "k": "83", 
+                        "v": "e5576354e9f7d0c34891def4014a45b7"
+                    }, 
+                    {
+                        "k": "84", 
+                        "v": "41cd5a47d9f471a07ed4d9960878cf5c"
+                    }, 
+                    {
+                        "k": "87", 
+                        "v": "b378e54df2dd4fe673e4fbb953ad7f2f"
+                    }, 
+                    {
+                        "k": "89", 
+                        "v": "b49a47f534103e21054ddaac96681198"
+                    }, 
+                    {
+                        "k": "90", 
+                        "v": "0f6c765d441a489f1171c7672218bca9"
+                    }, 
+                    {
+                        "k": "92", 
+                        "v": "aadeb7930e7c812af79af0a1a2c55d77"
+                    }, 
+                    {
+                        "k": "93", 
+                        "v": "65e054475c2ec8d2ecf0c8d31b615087"
+                    }, 
+                    {
+                        "k": "96", 
+                        "v": "b5e014c5d882733a6fbb957ef4ea214d"
+                    }, 
+                    {
+                        "k": "98", 
+                        "v": "650a0c54a25a9ec42b09d53a4a151695"
+                    }, 
+                    {
+                        "k": "100", 
+                        "v": "5e76302a9a456226424cfb21568fdc3d"
+                    }, 
+                    {
+                        "k": "102", 
+                        "v": "6c1fe23d89ca747cac9bb539642ce8e8"
+                    }, 
+                    {
+                        "k": "104", 
+                        "v": "d5f5db0c73f83a068651fd19096c33b1"
+                    }, 
+                    {
+                        "k": "106", 
+                        "v": "19e840fbbf362be995f548b253d78bfe"
+                    }, 
+                    {
+                        "k": "107", 
+                        "v": "f4e84bc32b7a3ed315a52ac0c6362eed"
+                    }, 
+                    {
+                        "k": "108", 
+                        "v": "f77c1f532e8cffa03186f2b62942c038"
+                    }, 
+                    {
+                        "k": "109", 
+                        "v": "04928932ee5f99608ffdbb2c6365c841"
+                    }, 
+                    {
+                        "k": "110", 
+                        "v": "8cf46ee443bb1b879c0d126087fa0198"
+                    }, 
+                    {
+                        "k": "111", 
+                        "v": "72cd0c6f32f8e293ed412a93b3d76196"
+                    }, 
+                    {
+                        "k": "162", 
+                        "v": "6fa152ee92634a0e97462966ae9e06a6"
+                    }, 
+                    {
+                        "k": "163", 
+                        "v": "43222c031e1ea76a7657bce18adf10a6"
+                    }, 
+                    {
+                        "k": "164", 
+                        "v": "5df0ac2d51cfecbde35e8dd1ba3a8d77"
+                    }, 
+                    {
+                        "k": "165", 
+                        "v": "91007d769dfe9eb939e6ad83edddbc85"
+                    }, 
+                    {
+                        "k": "166", 
+                        "v": "b2e24ed5957d28d8f2037b19bbe87204"
+                    }, 
+                    {
+                        "k": "167", 
+                        "v": "3e479d0a675219a1a5f8886da1045e5b"
+                    }, 
+                    {
+                        "k": "168", 
+                        "v": "841f4cd20a8020d286bae621296dbfc0"
+                    }, 
+                    {
+                        "k": "169", 
+                        "v": "e07a3369349dcc2ec939a04322207bb1"
+                    }, 
+                    {
+                        "k": "170", 
+                        "v": "7bd95016eccbc8fcf523529d3bdcbecc"
+                    }, 
+                    {
+                        "k": "171", 
+                        "v": "cd6257bdc2bc7384d1c85abce75839b7"
+                    }, 
+                    {
+                        "k": "172", 
+                        "v": "5cc3aba13642025ba25fedd6ad6cb811"
+                    }, 
+                    {
+                        "k": "424", 
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    }, 
+                    {
+                        "k": "425", 
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    }, 
+                    {
+                        "k": "427", 
+                        "v": "fa00feb389b502f9ff556894e455458d"
+                    }, 
+                    {
+                        "k": "428", 
+                        "v": "bd56ca66abd8a48e4e0d6ac21d9308d7"
+                    }, 
+                    {
+                        "k": "429", 
+                        "v": "449d92a5b1a31962b4167b65c692686a"
+                    }, 
+                    {
+                        "k": "430", 
+                        "v": "2738923a7ab85e7581a2fe05d5cbedde"
+                    }, 
+                    {
+                        "k": "433", 
+                        "v": "1b74f0d59cdb7e12fcbcdf600a57d5fd"
+                    }, 
+                    {
+                        "k": "435", 
+                        "v": "8aca0e99ebd7ce554260bd13d7cd124a"
+                    }, 
+                    {
+                        "k": "436", 
+                        "v": "aedd264d62905439cb65a4e7243eb8b5"
+                    }, 
+                    {
+                        "k": "438", 
+                        "v": "82bea471ceaf355e53c37de712888277"
+                    }, 
+                    {
+                        "k": "439", 
+                        "v": "ebc742bc463e455334f784d6eb25c301"
+                    }, 
+                    {
+                        "k": "442", 
+                        "v": "584506a103a603e81b119697e40d3c47"
+                    }, 
+                    {
+                        "k": "444", 
+                        "v": "31496c79df2959dfec4e589504e4b787"
+                    }, 
+                    {
+                        "k": "446", 
+                        "v": "9c5269cfa069c7ab8afd57ec0e5e7a07"
+                    }, 
+                    {
+                        "k": "448", 
+                        "v": "da4b2ab6b4883886143f0b4ae2c3b08a"
+                    }, 
+                    {
+                        "k": "450", 
+                        "v": "cba6339f77970cba6d7de3d41bab1c27"
+                    }, 
+                    {
+                        "k": "452", 
+                        "v": "a1f52e5b43aaed4beffd8127d987f751"
+                    }, 
+                    {
+                        "k": "453", 
+                        "v": "87393c9a0123928a61caf56c69def6d3"
+                    }, 
+                    {
+                        "k": "454", 
+                        "v": "7b1e4ee868a2e32e2a15577fef4c13f9"
+                    }, 
+                    {
+                        "k": "455", 
+                        "v": "b62266393560824c1b1c094d2c636771"
+                    }, 
+                    {
+                        "k": "456", 
+                        "v": "a71e7319d6fcb9f31e193a4241d0566f"
+                    }, 
+                    {
+                        "k": "457", 
+                        "v": "72cd0c6f32f8e293ed412a93b3d76196"
+                    }
+                ], 
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true", 
+                        "lastModified": "2019-05-13T11:37:35", 
+                        "name": "Public", 
+                        "hash": "7c9f539d2367a26973c2dbdf3763c1d3", 
+                        "children": [
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:37:35", 
+                                "name": "SceneResources", 
+                                "hash": "38c6e7cc08adb5ceff935c9264c86b27", 
+                                "children": [
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Textures", 
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Materials", 
+                                        "hash": "0dfd3f5a84412db538903fb7aafacd1c", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "matte_shadow.lsmat", 
+                                                "hash": "6120029efc0b75adf5ae07f293f37bd4", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Meshes", 
+                                        "hash": "5a8dbd5ce0b3a2fa2c6b14f24abd3dc7", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "plane.mesh", 
+                                                "hash": "4649d59d58657e786eebaad58a052d2a", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:37:35", 
+                                "name": "ParticleMaterials", 
+                                "hash": "cdf50360bc2bb0160b04c468e0a54fc1", 
+                                "children": [
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "World", 
+                                        "hash": "088a4e733f25e01720f74f8918062afa", 
+                                        "children": [
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Smoke", 
+                                                "hash": "bf81cd672f968f9e2dab0307305a0cc6", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "GPU-Particle_Preset_Smoke.lsmat", 
+                                                        "hash": "da4b2ab6b4883886143f0b4ae2c3b08a", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Fountain", 
+                                                "hash": "fbb36c268661b0a2aaac18c2614b08e2", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "GPU-Particle_Preset_Fountain_Distortion.lsmat", 
+                                                        "hash": "87393c9a0123928a61caf56c69def6d3", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "GPU-Particle_Preset_Fountain_Splash.lsmat", 
+                                                        "hash": "a1f52e5b43aaed4beffd8127d987f751", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "GPU-Particle_Preset_Fountain_Waterdrops.lsmat", 
+                                                        "hash": "7b1e4ee868a2e32e2a15577fef4c13f9", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Bokeh", 
+                                                "hash": "ccb8dec6ae67b15a347e04fc372f9929", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "Bokeh [EDIT_ME].lsmat", 
+                                                        "hash": "31496c79df2959dfec4e589504e4b787", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Sparkles", 
+                                                "hash": "cd4a49de848a5d2232fffe8d13bfe9a2", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "Sparkles[EDIT_ME].lsmat", 
+                                                        "hash": "584506a103a603e81b119697e40d3c47", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Embers", 
+                                                "hash": "18729b3c2fc60c27368fc5a18933ca07", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "GPU-Particle_Preset_Embers.lsmat", 
+                                                        "hash": "9c5269cfa069c7ab8afd57ec0e5e7a07", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Fountain_Cartoon", 
+                                                "hash": "1f43885c249eb08f86901f5da03c137d", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "GPU-Particle_Preset_Fountain_Cartoon.lsmat", 
+                                                        "hash": "cba6339f77970cba6d7de3d41bab1c27", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Templates", 
+                                        "hash": "eb4c3c202244980eae1964d19eaa00cc", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "particle_flipbook_Blend [COPY_ME].lsmat", 
+                                                "hash": "bd56ca66abd8a48e4e0d6ac21d9308d7", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "particle_flipbook [COPY_ME].lsmat", 
+                                                "hash": "fa00feb389b502f9ff556894e455458d", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "particle_vertex_Lighting [COPY_ME].lsmat", 
+                                                "hash": "b62266393560824c1b1c094d2c636771", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "particle_velocity_Direction [COPY_ME].lsmat", 
+                                                "hash": "2738923a7ab85e7581a2fe05d5cbedde", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "particle_physics [COPY_ME].lsmat", 
+                                                "hash": "449d92a5b1a31962b4167b65c692686a", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Weather", 
+                                        "hash": "f4076372acfbd99765c5ed7fcd03617e", 
+                                        "children": [
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Rain", 
+                                                "hash": "24bdb7f8df85c85934198bd3551f8e8c", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "particle_rain [EDIT_ME].lsmat", 
+                                                        "hash": "8aca0e99ebd7ce554260bd13d7cd124a", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "particle_rain_ground_splash [EDIT_ME].lsmat", 
+                                                        "hash": "aedd264d62905439cb65a4e7243eb8b5", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Blizzard", 
+                                                "hash": "971ed95534547b4162e989f75e4ef567", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "particle_blizzard [EDIT_ME].lsmat", 
+                                                        "hash": "1b74f0d59cdb7e12fcbcdf600a57d5fd", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-05-13T11:37:35", 
+                                                "name": "Snow", 
+                                                "hash": "fbab32bde128aecb31974ba1235ad023", 
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "particle_snow [EDIT_ME].lsmat", 
+                                                        "hash": "82bea471ceaf355e53c37de712888277", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "particle_snow_ground [EDIT_ME].lsmat", 
+                                                        "hash": "ebc742bc463e455334f784d6eb25c301", 
+                                                        "children": ""
+                                                    }, 
+                                                    {
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-04-19T01:45:14", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:37:35", 
+                                "name": "Scripts", 
+                                "hash": "35bfe89117036643fc505642b1dba66f", 
+                                "children": [
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "SparklesController.js", 
+                                        "hash": "e6ceb4225867459be2f55dedf706097c", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "BokehController.js", 
+                                        "hash": "39d840c19b6f443fcd0586fafbc20799", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "SnowController.js", 
+                                        "hash": "a24340b157dd20b21ebb85f3847b73fd", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "GlobalTime.js", 
+                                        "hash": "cd6257bdc2bc7384d1c85abce75839b7", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "ExternalTimeController.js", 
+                                        "hash": "5cc3aba13642025ba25fedd6ad6cb811", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "RainController.js", 
+                                        "hash": "e52daf58f9d9288af3b33060f6ff9370", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "BlizzardController.js", 
+                                        "hash": "3dcc4c67b80a37f34087d753df82149e", 
+                                        "children": ""
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "true", 
+                                "lastModified": "2019-05-13T11:37:35", 
+                                "name": "ParticleResources", 
+                                "hash": "e4e67f556f4d5b7108d92e748ca522f5", 
+                                "children": [
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Textures", 
+                                        "hash": "04a4a4d406c98c538568c1734c10b7dd", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_water_splash_2x2.png", 
+                                                "hash": "e96991a1986a864b2587b53b48d34a0d", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_bokeh.png", 
+                                                "hash": "95cca12fcc1f536fae36935f305eb426", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_twinkle_dust_add.png", 
+                                                "hash": "3e479d0a675219a1a5f8886da1045e5b", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_fire_smoke.png", 
+                                                "hash": "6fa152ee92634a0e97462966ae9e06a6", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_water_splash_4x2.png", 
+                                                "hash": "77bc675609d92db6698920e4bdd6e97d", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_fire_add.png", 
+                                                "hash": "43222c031e1ea76a7657bce18adf10a6", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "numtest.png", 
+                                                "hash": "2d1afd293e92139b995e137aef6c052e", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "1x1_white.png", 
+                                                "hash": "5df0ac2d51cfecbde35e8dd1ba3a8d77", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_fireworks_copy.jpg", 
+                                                "hash": "841f4cd20a8020d286bae621296dbfc0", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_glow.png", 
+                                                "hash": "e07a3369349dcc2ec939a04322207bb1", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_sparkles_2x2.png", 
+                                                "hash": "5afddbb8a8112f802307c034018491e8", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_fireflies_add.png", 
+                                                "hash": "91007d769dfe9eb939e6ad83edddbc85", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_fireflies.png", 
+                                                "hash": "b2e24ed5957d28d8f2037b19bbe87204", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "debris_2x2.png", 
+                                                "hash": "984bd45c2a73244c3910fcfb96962b7f", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_blink.png", 
+                                                "hash": "9847f9790f055c7ee7912d9856e1755d", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_smoke_fade.png", 
+                                                "hash": "fb284a6f2c7189d45865e6bd636566ed", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_rain_2x2.png", 
+                                                "hash": "02805090447be76cc39c3f2bb0ab91a2", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_linear_blend.png", 
+                                                "hash": "a4351832b6036772e2116d55c7e15da6", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_smoke_realisticsSmall.png", 
+                                                "hash": "8adc9cbd9f3a2f136e63a6afdc3481de", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_bubble_2x2.png", 
+                                                "hash": "7bd95016eccbc8fcf523529d3bdcbecc", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_water_splash_2x2_cartoony.png", 
+                                                "hash": "965e6fb732b3683a0cae93126455201a", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fireball_2x2.png", 
+                                                "hash": "b7ddf23e04673576d0ed43fb6bddd4d8", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "cr_white_fade.png", 
+                                                "hash": "08b700065f99ce724b9b5bff8e763bba", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "fx_water_splash_2x2_distortion.png", 
+                                                "hash": "6e2123b442c0e10838554bc01371d529", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-05-13T11:37:35", 
+                                        "name": "Meshes", 
+                                        "hash": "d7a591cced5cae3eff4182207df71439", 
+                                        "children": [
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "emitter_1000.mesh", 
+                                                "hash": "adc36fff2957674601d705ed729586cf", 
+                                                "children": ""
+                                            }, 
+                                            {
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-04-19T01:45:14", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "children": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-04-19T01:45:14", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "children": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "isFolder": "false", 
+                                "lastModified": "2019-04-19T01:45:14", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                "children": ""
+                            }
+                        ]
+                    }
+                }, 
+                "complexResources": ""
+            }, 
+            "tree": {
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
+                "resources": [
+                    {
+                        "name": "Scripts", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "1", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "RainController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "219", 
+                                "dependency": "0", 
+                                "uid": "1520466516787664:50480", 
+                                "fileId": "48", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "4", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "SnowController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "220", 
+                                "dependency": "0", 
+                                "uid": "1520468423075251:125104", 
+                                "fileId": "49", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "5", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "BlizzardController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "221", 
+                                "dependency": "0", 
+                                "uid": "1520551338955207:358381", 
+                                "fileId": "50", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "6", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "BokehController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "222", 
+                                "dependency": "0", 
+                                "uid": "1521239199636938:628894", 
+                                "fileId": "51", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "7", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "SparklesController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "223", 
+                                "dependency": "0", 
+                                "uid": "1521239757252643:639828", 
+                                "fileId": "52", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "8", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "GlobalTime", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "254", 
+                                "dependency": "0", 
+                                "uid": "1553557712417054:128365", 
+                                "fileId": "132", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "171", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "ExternalTimeController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "255", 
+                                "dependency": "0", 
+                                "uid": "1553557712513154:128375", 
+                                "fileId": "133", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "172", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "ParticleResources", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "9", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Meshes", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "10", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "emitter_1000", 
+                                        "type": "3", 
+                                        "subtype": "0", 
+                                        "resourceId": "13", 
+                                        "dependency": "0", 
+                                        "uid": "1512063260594199:26308", 
+                                        "fileId": "1", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "11", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Textures", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "12", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "cr_smoke_fade", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "70", 
+                                        "dependency": "0", 
+                                        "uid": "1516752773940566:18647", 
+                                        "fileId": "2", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "13", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "debris_2x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "84", 
+                                        "dependency": "0", 
+                                        "uid": "1519405063842035:3363", 
+                                        "fileId": "8", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "14", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_water_splash_2x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "86", 
+                                        "dependency": "0", 
+                                        "uid": "1519405339406402:4639", 
+                                        "fileId": "9", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "15", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_water_splash_2x2_distortion", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "88", 
+                                        "dependency": "0", 
+                                        "uid": "1519415069855611:100711", 
+                                        "fileId": "10", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "16", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_linear_blend", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "89", 
+                                        "dependency": "0", 
+                                        "uid": "1519415258986969:100962", 
+                                        "fileId": "11", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "17", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_smoke_realisticsSmall", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "101", 
+                                        "dependency": "0", 
+                                        "uid": "1519424879905130:51244", 
+                                        "fileId": "15", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "21", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_blink", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "128", 
+                                        "dependency": "0", 
+                                        "uid": "1519753791189413:30021", 
+                                        "fileId": "20", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "26", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_rain_2x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "141", 
+                                        "dependency": "0", 
+                                        "uid": "1519837588158564:17714", 
+                                        "fileId": "21", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "27", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_bokeh", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "147", 
+                                        "dependency": "0", 
+                                        "uid": "1519837904717880:23791", 
+                                        "fileId": "22", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "28", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_sparkles_2x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "150", 
+                                        "dependency": "0", 
+                                        "uid": "1519838480984620:11069", 
+                                        "fileId": "23", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "29", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_water_splash_2x2_cartoony", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "160", 
+                                        "dependency": "0", 
+                                        "uid": "1519839287243665:46991", 
+                                        "fileId": "24", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "30", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "numtest", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "171", 
+                                        "dependency": "0", 
+                                        "uid": "1519927782571435:14329", 
+                                        "fileId": "27", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "33", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_water_splash_4x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "216", 
+                                        "dependency": "0", 
+                                        "uid": "1520360471478033:4711", 
+                                        "fileId": "46", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "34", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_white_fade", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "217", 
+                                        "dependency": "0", 
+                                        "uid": "1520360796083277:5637", 
+                                        "fileId": "47", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "35", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fireball_2x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "224", 
+                                        "dependency": "0", 
+                                        "uid": "1521490466323267:291906", 
+                                        "fileId": "53", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "36", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_fire_smoke", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "245", 
+                                        "dependency": "0", 
+                                        "uid": "1553557634499112:125058", 
+                                        "fileId": "114", 
+                                        "originalId": "115", 
+                                        "publicId": "162", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_fire_add", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "246", 
+                                        "dependency": "0", 
+                                        "uid": "1553557634917467:125068", 
+                                        "fileId": "116", 
+                                        "originalId": "117", 
+                                        "publicId": "163", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "1x1_white", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "247", 
+                                        "dependency": "0", 
+                                        "uid": "1553557635025997:125078", 
+                                        "fileId": "118", 
+                                        "originalId": "119", 
+                                        "publicId": "164", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_fireflies_add", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "248", 
+                                        "dependency": "0", 
+                                        "uid": "1553557635111754:125088", 
+                                        "fileId": "120", 
+                                        "originalId": "121", 
+                                        "publicId": "165", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "cr_fireflies", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "249", 
+                                        "dependency": "0", 
+                                        "uid": "1553557635188600:125098", 
+                                        "fileId": "122", 
+                                        "originalId": "123", 
+                                        "publicId": "166", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_twinkle_dust_add", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "250", 
+                                        "dependency": "0", 
+                                        "uid": "1553557656496969:126691", 
+                                        "fileId": "124", 
+                                        "originalId": "125", 
+                                        "publicId": "167", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_fireworks_copy", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "251", 
+                                        "dependency": "0", 
+                                        "uid": "1553557656580684:126701", 
+                                        "fileId": "126", 
+                                        "originalId": "127", 
+                                        "publicId": "168", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_glow", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "252", 
+                                        "dependency": "0", 
+                                        "uid": "1553557656661244:126711", 
+                                        "fileId": "128", 
+                                        "originalId": "129", 
+                                        "publicId": "169", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "fx_bubble_2x2", 
+                                        "type": "1", 
+                                        "subtype": "9", 
+                                        "resourceId": "253", 
+                                        "dependency": "0", 
+                                        "uid": "1553557656791639:126721", 
+                                        "fileId": "130", 
+                                        "originalId": "131", 
+                                        "publicId": "170", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "SceneResources", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "37", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Materials", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "38", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "matte_shadow", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "77", 
+                                        "dependency": "0", 
+                                        "uid": "1517856791313031:14299", 
+                                        "fileId": "4", 
+                                        "originalId": "54", 
+                                        "publicId": "39", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Textures", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "40", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "Render Target", 
+                                        "type": "1", 
+                                        "subtype": "1", 
+                                        "resourceId": "1", 
+                                        "dependency": "0", 
+                                        "uid": "1:1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "18446744073709551615", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "Device Camera Texture", 
+                                        "type": "1", 
+                                        "subtype": "3", 
+                                        "resourceId": "2", 
+                                        "dependency": "0", 
+                                        "uid": "2:2", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "18446744073709551615", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Meshes", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "41", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "plane", 
+                                        "type": "3", 
+                                        "subtype": "0", 
+                                        "resourceId": "76", 
+                                        "dependency": "0", 
+                                        "uid": "1517856557696711:12836", 
+                                        "fileId": "3", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "42", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "ParticleMaterials", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "456", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "Templates", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "426", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "particle_flipbook [COPY_ME]", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "258", 
+                                        "dependency": "0", 
+                                        "uid": "1553717539939130:97321", 
+                                        "fileId": "138", 
+                                        "originalId": "139", 
+                                        "publicId": "427", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "particle_flipbook_Blend [COPY_ME]", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "259", 
+                                        "dependency": "0", 
+                                        "uid": "1553717540132878:97337", 
+                                        "fileId": "140", 
+                                        "originalId": "141", 
+                                        "publicId": "428", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "particle_physics [COPY_ME]", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "260", 
+                                        "dependency": "0", 
+                                        "uid": "1553717540419084:97353", 
+                                        "fileId": "142", 
+                                        "originalId": "143", 
+                                        "publicId": "429", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "particle_velocity_Direction [COPY_ME]", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "261", 
+                                        "dependency": "0", 
+                                        "uid": "1553717540690035:97369", 
+                                        "fileId": "144", 
+                                        "originalId": "145", 
+                                        "publicId": "430", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }, 
+                                    {
+                                        "name": "particle_vertex_Lighting [COPY_ME]", 
+                                        "type": "2", 
+                                        "subtype": "0", 
+                                        "resourceId": "275", 
+                                        "dependency": "0", 
+                                        "uid": "1553717543563939:97593", 
+                                        "fileId": "172", 
+                                        "originalId": "173", 
+                                        "publicId": "455", 
+                                        "source": "", 
+                                        "additional": ""
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "Weather", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "431", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "Blizzard", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "432", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "particle_blizzard [EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "262", 
+                                                "dependency": "0", 
+                                                "uid": "1553717540859686:97385", 
+                                                "fileId": "146", 
+                                                "originalId": "147", 
+                                                "publicId": "433", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Rain", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "434", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "particle_rain [EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "263", 
+                                                "dependency": "0", 
+                                                "uid": "1553717541072401:97401", 
+                                                "fileId": "148", 
+                                                "originalId": "149", 
+                                                "publicId": "435", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }, 
+                                            {
+                                                "name": "particle_rain_ground_splash [EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "264", 
+                                                "dependency": "0", 
+                                                "uid": "1553717541287713:97417", 
+                                                "fileId": "150", 
+                                                "originalId": "151", 
+                                                "publicId": "436", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Snow", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "437", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "particle_snow [EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "265", 
+                                                "dependency": "0", 
+                                                "uid": "1553717541500534:97433", 
+                                                "fileId": "152", 
+                                                "originalId": "153", 
+                                                "publicId": "438", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }, 
+                                            {
+                                                "name": "particle_snow_ground [EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "266", 
+                                                "dependency": "0", 
+                                                "uid": "1553717541713683:97449", 
+                                                "fileId": "154", 
+                                                "originalId": "155", 
+                                                "publicId": "439", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }, 
+                            {
+                                "name": "World", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "440", 
+                                "source": "", 
+                                "additional": "", 
+                                "resources": [
+                                    {
+                                        "name": "Sparkles", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "441", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "Sparkles[EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "267", 
+                                                "dependency": "0", 
+                                                "uid": "1553717541927834:97465", 
+                                                "fileId": "156", 
+                                                "originalId": "157", 
+                                                "publicId": "442", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Bokeh", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "443", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "Bokeh [EDIT_ME]", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "268", 
+                                                "dependency": "0", 
+                                                "uid": "1553717542107229:97481", 
+                                                "fileId": "158", 
+                                                "originalId": "159", 
+                                                "publicId": "444", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Embers", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "445", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "GPU-Particle_Preset_Embers", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "269", 
+                                                "dependency": "0", 
+                                                "uid": "1553717542325311:97497", 
+                                                "fileId": "160", 
+                                                "originalId": "161", 
+                                                "publicId": "446", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Smoke", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "447", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "GPU-Particle_Preset_Smoke", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "270", 
+                                                "dependency": "0", 
+                                                "uid": "1553717542541218:97513", 
+                                                "fileId": "162", 
+                                                "originalId": "163", 
+                                                "publicId": "448", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Fountain_Cartoon", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "449", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "GPU-Particle_Preset_Fountain_Cartoon", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "271", 
+                                                "dependency": "0", 
+                                                "uid": "1553717542749793:97529", 
+                                                "fileId": "164", 
+                                                "originalId": "165", 
+                                                "publicId": "450", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }, 
+                                    {
+                                        "name": "Fountain", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "451", 
+                                        "source": "", 
+                                        "additional": "", 
+                                        "resources": [
+                                            {
+                                                "name": "GPU-Particle_Preset_Fountain_Splash", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "272", 
+                                                "dependency": "0", 
+                                                "uid": "1553717542920888:97545", 
+                                                "fileId": "166", 
+                                                "originalId": "167", 
+                                                "publicId": "452", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }, 
+                                            {
+                                                "name": "GPU-Particle_Preset_Fountain_Distortion", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "273", 
+                                                "dependency": "0", 
+                                                "uid": "1553717543136187:97561", 
+                                                "fileId": "168", 
+                                                "originalId": "169", 
+                                                "publicId": "453", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }, 
+                                            {
+                                                "name": "GPU-Particle_Preset_Fountain_Waterdrops", 
+                                                "type": "2", 
+                                                "subtype": "0", 
+                                                "resourceId": "274", 
+                                                "dependency": "0", 
+                                                "uid": "1553717543348995:97577", 
+                                                "fileId": "170", 
+                                                "originalId": "171", 
+                                                "publicId": "454", 
+                                                "source": "", 
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        }, 
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1553717544232398:97659"
+                ]
+            }
+        }, 
+        "EffectsController": {
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": ""
+        }, 
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }, 
+            "importInfo": ""
+        }
+    }, 
+    "description": "Add environment particles to the world"
+}
