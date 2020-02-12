@@ -12,7 +12,7 @@ function update(eventData)
 {
    if(script.sparkleMaterial != null)
    {
-        script.sparkleMaterial.mainPass.spawnMaxParticles = lerp(100.0, 1000.0, script.sparkleIntensity);
+        script.sparkleMaterial.mainPass.spawnMaxParticles = lerp(0.0, 1000.0, script.sparkleIntensity);
    }   
 }
 

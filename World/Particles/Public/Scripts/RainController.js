@@ -16,12 +16,13 @@ function update(eventData)
 {
    if(script.rainMaterial != null)
    {
+        script.rainMaterial.mainPass.spawnMaxParticles = lerp(0.0, 1000.0, script.rainIntensity);
         script.rainMaterial.mainPass.lifeTimeMinMax = vec2.lerp(new vec2(0.5,1.5), new vec2(1.5,1.5), script.rainIntensity);
    }
 
    if(script.splashMaterial != null)
    {
-        script.splashMaterial.mainPass.spawnMaxParticles = lerp(100.0, 1000.0, script.rainIntensity);
+        script.splashMaterial.mainPass.spawnMaxParticles = lerp(0.0, 1000.0, script.rainIntensity);
         script.splashMaterial.mainPass.lifeTimeMinMax = vec2.lerp(new vec2(0.5,1.5), new vec2(0.5,0.5), script.rainIntensity);
    }    
 }

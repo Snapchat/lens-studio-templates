@@ -99,7 +99,7 @@ function handTrackingCallBacks()
 {
     if( script.handTracking )
     {
-        script.handTracking.onObjectFound = function()
+        script.handTracking.onObjectFound = wrapFunction(script.handTracking.onObjectFound, function()
         {
             script.handImage.enabled = true;
 
@@ -111,9 +111,9 @@ function handTrackingCallBacks()
             }
 
             showHint(false);
-        }
+        });
 
-        script.handTracking.onObjectLost = function()
+        script.handTracking.onObjectLost = wrapFunction(script.handTracking.onObjectLost,function()
         {
             script.handImage.enabled = false;
 
@@ -125,7 +125,7 @@ function handTrackingCallBacks()
             }
 
             showHint(true);
-        }
+        });
     }
 }
 
@@ -250,6 +250,18 @@ function sendObjectEvent(obj, status)
     }
 }
 
+function wrapFunction(origFunc, newFunc) 
+{
+    if (!origFunc)
+    {
+        return newFunc;
+    }
+    return function() 
+    {
+        origFunc();
+        newFunc();
+    };
+}
 
 var turnOnEvent = script.createEvent( "TurnOnEvent" );
 turnOnEvent.bind( onLensTurnOn ); 

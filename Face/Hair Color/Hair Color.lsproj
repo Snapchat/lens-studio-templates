@@ -1,0 +1,1272 @@
+{
+    "lens_id": "",
+    "document_id": "4hwFoMPg5lrRyDEXvrhK",
+    "original_document_id": "HwFw1KYJkzm1-7HAoXk3",
+    "version": "16",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Hair Coloring"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "detector_1"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "detector_2"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "gaussian_blur"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "hair_color"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Materials",
+                        "image"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Scripts"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Scripts",
+                        "HairColorController"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Scripts",
+                        "HairColorProvider"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Detector 1 Render Target"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Detector 2 Render Target"
+                    ],
+                    [
+                        "Hair Coloring",
+                        "Textures",
+                        "Portrait Hair Segmentation"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Render Target"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1547598907782469:10961",
+                    "1551140371705317:152468",
+                    "1551208397714026:14251",
+                    "1551747799153939:4468",
+                    "1551896561471547:20029",
+                    "1560796651203052:1172857",
+                    "1560796655702392:1175263",
+                    "1561081271652285:411874"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "6ce5be66a6344cf695192d04ac1ee693",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Hair Color",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 2.jpg",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 2.webm",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1561081380062249:461259"
+                ]
+            ]
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1551140371737705:152602",
+                    "name": "\/Resources\/Resource39",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1551140371744144:152614",
+                    "name": "\/Resources\/Resource40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1551142229082557:163861",
+                    "name": "Camera_Xr_Xg_Xb Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1551208453786063:16413",
+                    "name": "Orthographic Camera CC Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1559867951621406:3393",
+                    "name": "Files\/File38.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "87",
+                    "uid": "1559868071573452:8055",
+                    "name": "Files\/File43.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "90",
+                    "uid": "1560362400976976:19168",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1560794383368757:347929",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "107",
+                    "uid": "1561081424304624:486594",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "108",
+                    "uid": "1561081578284620:565181",
+                    "name": "Files\/File54",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "109",
+                    "uid": "1561580604360397:142173",
+                    "name": "Files\/File60",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1561580710159281:195730",
+                    "name": "Files\/File61",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1561580851708335:273788",
+                    "name": "Files\/File62",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "117",
+                    "uid": "1561580907772300:302483",
+                    "name": "Portrait Hair Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": [
+                        {
+                            "k": "1561081403373166:472623",
+                            "v": {
+                                "isBasicMode": "false",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        },
+                        {
+                            "k": "1561081403431915:472847",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1551140371705317:152468",
+                "1": "1551140371705645:152484",
+                "2": "1551140371705693:152491",
+                "3": "1551208397713821:14245",
+                "4": "1551747799153939:4468",
+                "5": "1560797711125958:1753066",
+                "6": "1560797713912979:1754602",
+                "7": "1561076831091137:261575",
+                "8": "1561081403369950:472617",
+                "9": "1561081403431736:472844",
+                "10": "1561082544801197:1080465"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "20",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "11",
+                    "layerName": "Blur",
+                    "layerMask": "1024",
+                    "colorCode": "0"
+                },
+                {
+                    "layerId": "17",
+                    "layerName": "Detector2",
+                    "layerMask": "2",
+                    "colorCode": "1"
+                },
+                {
+                    "layerId": "18",
+                    "layerName": "Detector1",
+                    "layerMask": "4",
+                    "colorCode": "2"
+                },
+                {
+                    "layerId": "19",
+                    "layerName": "Hair",
+                    "layerMask": "8",
+                    "colorCode": "3"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "7",
+                    "v": "Files\/File7\/"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8\/"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.lsmat"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.js"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.js"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.lsmat"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.lsmat"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.lsmat"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "15",
+                        "v": "Hair Coloring\/Materials\/gaussian_blur"
+                    },
+                    {
+                        "k": "16",
+                        "v": "Hair Coloring\/Materials\/gaussian_blur\/gauss_blur_horz_pass.lsmat"
+                    },
+                    {
+                        "k": "17",
+                        "v": "Hair Coloring\/Materials\/gaussian_blur\/gauss_blur_vert_pass.lsmat"
+                    },
+                    {
+                        "k": "20",
+                        "v": "Hair Coloring\/Scripts\/HairColorProvider.js"
+                    },
+                    {
+                        "k": "24",
+                        "v": "Hair Coloring\/Scripts\/HairColorController.js"
+                    },
+                    {
+                        "k": "25",
+                        "v": "Hair Coloring"
+                    },
+                    {
+                        "k": "27",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "437",
+                        "v": "Hair Coloring\/Materials\/image.lsmat"
+                    },
+                    {
+                        "k": "439",
+                        "v": "Hair Coloring\/Materials\/detector_1.lsmat"
+                    },
+                    {
+                        "k": "440",
+                        "v": "Hair Coloring\/Materials\/detector_2.lsmat"
+                    },
+                    {
+                        "k": "441",
+                        "v": "Hair Coloring\/Materials\/hair_color.lsmat"
+                    },
+                    {
+                        "k": "442",
+                        "v": "Hair Coloring\/Scripts"
+                    },
+                    {
+                        "k": "443",
+                        "v": "Hair Coloring\/Materials"
+                    },
+                    {
+                        "k": "444",
+                        "v": "Hair Coloring\/Textures"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "2",
+                        "v": "4223b667c4fd741a53f47d97f2fc41ba"
+                    },
+                    {
+                        "k": "3",
+                        "v": "df037bd8663521395402dcf5ddc86415"
+                    },
+                    {
+                        "k": "4",
+                        "v": "59a410a6c7184e4f0bb0ca16782e78ff"
+                    },
+                    {
+                        "k": "6",
+                        "v": "6f301d1f9d6728a1344805aa8c8ab0bf"
+                    },
+                    {
+                        "k": "7",
+                        "v": "4945313f9909fc798ab42fed102eb760"
+                    },
+                    {
+                        "k": "8",
+                        "v": "2bf49fb7b3997d2fae5aaaa7a7c1cbca"
+                    },
+                    {
+                        "k": "10",
+                        "v": "91c7941489546a1dc03bc4f517d62388"
+                    },
+                    {
+                        "k": "11",
+                        "v": "1af03c94971eae6bd995b2c6d29cd38a"
+                    },
+                    {
+                        "k": "12",
+                        "v": "afc5eb0db67a2c39e29049d39f7b16f1"
+                    },
+                    {
+                        "k": "13",
+                        "v": "9fff22f6eb32491bc7867742b1ffc80b"
+                    },
+                    {
+                        "k": "14",
+                        "v": "bffaa0b357273ff547e440dc7d881b30"
+                    },
+                    {
+                        "k": "16",
+                        "v": "0727b9c62babae971df191b898ea65a5"
+                    },
+                    {
+                        "k": "17",
+                        "v": "9ecd863702066cdea0073297f7e1d985"
+                    },
+                    {
+                        "k": "18",
+                        "v": "5fd516a6807a8681d1bc0bce63cfe416"
+                    },
+                    {
+                        "k": "19",
+                        "v": "6f301d1f9d6728a1344805aa8c8ab0bf"
+                    },
+                    {
+                        "k": "20",
+                        "v": "1079c11dd5a5e2e80cd73bcd48f8c6c7"
+                    },
+                    {
+                        "k": "22",
+                        "v": "91744645814c16f07caed14654e03f98"
+                    },
+                    {
+                        "k": "23",
+                        "v": "a60a8878208d52d73ad59dc3beb20303"
+                    },
+                    {
+                        "k": "24",
+                        "v": "1438a1d977f6a4b94308f2c0f0c2b083"
+                    },
+                    {
+                        "k": "25",
+                        "v": "7add0b57511ede063351693929a60488"
+                    },
+                    {
+                        "k": "26",
+                        "v": "44e84a605c80c203c2c4f2cbffd82c71"
+                    },
+                    {
+                        "k": "415",
+                        "v": "762461791e440446832915093f2977be"
+                    },
+                    {
+                        "k": "416",
+                        "v": "147ec9659d08ab572c41609303f8dde4"
+                    },
+                    {
+                        "k": "417",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "418",
+                        "v": "b863441793c7b2d867c8fa485f6c1a26"
+                    },
+                    {
+                        "k": "419",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "420",
+                        "v": "8b985e6941a810a301afd66ce155117b"
+                    },
+                    {
+                        "k": "422",
+                        "v": "76e57759cc2b408f5adbd6857f13acd4"
+                    },
+                    {
+                        "k": "423",
+                        "v": "0e9665053fad6e35fff0d85066eaaf42"
+                    },
+                    {
+                        "k": "424",
+                        "v": "7609adeacd57e32aadf28f471cdf8503"
+                    },
+                    {
+                        "k": "425",
+                        "v": "b7b816a5a3526b088471bb9d285c4f85"
+                    },
+                    {
+                        "k": "426",
+                        "v": "956cf5570ca3e3e13525588586f559c2"
+                    },
+                    {
+                        "k": "427",
+                        "v": "ec85e786877609ab3e57596b7432b2a2"
+                    },
+                    {
+                        "k": "428",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "429",
+                        "v": "6f098f5e36049ea9c610db219374373d"
+                    },
+                    {
+                        "k": "430",
+                        "v": "47c7d7d22f5db8a531d4f5f9ceac753b"
+                    },
+                    {
+                        "k": "431",
+                        "v": "28c816a1165a40e1a6e3781ae0831a34"
+                    },
+                    {
+                        "k": "432",
+                        "v": "607e42ab8fb5a6c848892e7fca0d4586"
+                    },
+                    {
+                        "k": "433",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "434",
+                        "v": "689d26626b5fd9fc7208b3b9f962d128"
+                    },
+                    {
+                        "k": "436",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    },
+                    {
+                        "k": "437",
+                        "v": "b07acbde0e5f02bd97aad85d86192349"
+                    },
+                    {
+                        "k": "438",
+                        "v": "bd42dd20a5bc79f6945614f150f23006"
+                    },
+                    {
+                        "k": "439",
+                        "v": "18f9c488c7db52b1daae73f089ffab46"
+                    },
+                    {
+                        "k": "440",
+                        "v": "aeeb15065fbb7eb7cd10706b4ba5568a"
+                    },
+                    {
+                        "k": "441",
+                        "v": "ee6ce1ce6c59efa0054ae66be1246d8b"
+                    },
+                    {
+                        "k": "442",
+                        "v": "c8c0cf8bf69e2c3e0bb496060b3fc1e7"
+                    },
+                    {
+                        "k": "443",
+                        "v": "deced35555999891b938d280a2bfb02e"
+                    },
+                    {
+                        "k": "444",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "445",
+                        "v": "31dc972fc5ca8cf14cfcf6cf5c3fba44"
+                    },
+                    {
+                        "k": "446",
+                        "v": "4f6259b06993288ba17f4aaf41ced740"
+                    },
+                    {
+                        "k": "447",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "448",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "449",
+                        "v": "31dc972fc5ca8cf14cfcf6cf5c3fba44"
+                    },
+                    {
+                        "k": "450",
+                        "v": "4f6259b06993288ba17f4aaf41ced740"
+                    },
+                    {
+                        "k": "451",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "452",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "453",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "454",
+                        "v": "cd5a79261a7711d6769ff043dc87fc57"
+                    },
+                    {
+                        "k": "455",
+                        "v": "c8c0cf8bf69e2c3e0bb496060b3fc1e7"
+                    },
+                    {
+                        "k": "456",
+                        "v": "deced35555999891b938d280a2bfb02e"
+                    },
+                    {
+                        "k": "457",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "458",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "459",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-07-31T12:11:55",
+                        "name": "Public",
+                        "hash": "c8ec07f9e8075bfe56e5624fac74214c",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T12:11:55",
+                                "name": "Hair Coloring",
+                                "hash": "1814961b0d0087945f698462667df3ac",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T12:11:55",
+                                        "name": "Textures",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T12:11:55",
+                                        "name": "Materials",
+                                        "hash": "4e4a2370f9e97f145cd0f1c6cfa4612b",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "hair_color.lsmat",
+                                                "hash": "ee6ce1ce6c59efa0054ae66be1246d8b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "detector_2.lsmat",
+                                                "hash": "aeeb15065fbb7eb7cd10706b4ba5568a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "detector_1.lsmat",
+                                                "hash": "18f9c488c7db52b1daae73f089ffab46",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "image.lsmat",
+                                                "hash": "b07acbde0e5f02bd97aad85d86192349",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T12:11:55",
+                                                "name": "gaussian_blur",
+                                                "hash": "c9e3862a6eae6178ca1535e39bee57ae",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-30T16:40:20",
+                                                        "name": "gauss_blur_horz_pass.lsmat",
+                                                        "hash": "0727b9c62babae971df191b898ea65a5",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-30T16:40:20",
+                                                        "name": "gauss_blur_vert_pass.lsmat",
+                                                        "hash": "9ecd863702066cdea0073297f7e1d985",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-30T16:40:20",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T12:11:55",
+                                        "name": "Scripts",
+                                        "hash": "e54edd48dae399e962ac28621a3f1116",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "HairColorProvider.js",
+                                                "hash": "1079c11dd5a5e2e80cd73bcd48f8c6c7",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "HairColorController.js",
+                                                "hash": "1438a1d977f6a4b94308f2c0f0c2b083",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:20",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-30T16:40:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T12:11:55",
+                                "name": "Textures",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-30T16:40:20",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-07-30T16:40:20",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "437",
+                    "439",
+                    "440",
+                    "441"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Hair Coloring",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "25",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Scripts",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "442",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "HairColorProvider",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "83",
+                                        "dependency": "0",
+                                        "uid": "1559867951621406:3393",
+                                        "fileId": "38",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "20",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "HairColorController",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "87",
+                                        "dependency": "0",
+                                        "uid": "1559868071573452:8055",
+                                        "fileId": "43",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "24",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "443",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "image",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "108",
+                                        "dependency": "0",
+                                        "uid": "1561081578284620:565181",
+                                        "fileId": "54",
+                                        "originalId": "59",
+                                        "publicId": "437",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "detector_1",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "109",
+                                        "dependency": "0",
+                                        "uid": "1561580604360397:142173",
+                                        "fileId": "60",
+                                        "originalId": "63",
+                                        "publicId": "439",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "detector_2",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "112",
+                                        "dependency": "0",
+                                        "uid": "1561580710159281:195730",
+                                        "fileId": "61",
+                                        "originalId": "64",
+                                        "publicId": "440",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "hair_color",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "113",
+                                        "dependency": "0",
+                                        "uid": "1561580851708335:273788",
+                                        "fileId": "62",
+                                        "originalId": "65",
+                                        "publicId": "441",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "gaussian_blur",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "gauss_blur_horz_pass",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "39",
+                                                "dependency": "0",
+                                                "uid": "1551140371737705:152602",
+                                                "fileId": "7",
+                                                "originalId": "34",
+                                                "publicId": "16",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "gauss_blur_vert_pass",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "40",
+                                                "dependency": "0",
+                                                "uid": "1551140371744144:152614",
+                                                "fileId": "8",
+                                                "originalId": "35",
+                                                "publicId": "17",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "444",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Detector 2 Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "90",
+                                        "dependency": "0",
+                                        "uid": "1560362400976976:19168",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Detector 1 Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "91",
+                                        "dependency": "0",
+                                        "uid": "1560794383368757:347929",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Hair Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "62",
+                                        "dependency": "0",
+                                        "uid": "1551208453786063:16413",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Blur Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "53",
+                                        "dependency": "0",
+                                        "uid": "1551142229082557:163861",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Portrait Hair Segmentation",
+                                        "type": "1",
+                                        "subtype": "14",
+                                        "resourceId": "117",
+                                        "dependency": "0",
+                                        "uid": "1561580907772300:302483",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "27",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "107",
+                                "dependency": "0",
+                                "uid": "1561081424304624:486594",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1561082544801197:1080465"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    },
+    "description": "Modify your hair color by choosing its style and colors"
+}

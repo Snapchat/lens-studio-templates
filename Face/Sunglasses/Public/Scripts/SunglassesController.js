@@ -5,7 +5,7 @@
 // a large assortment of exposed inputs and the logic to actually modify the 
 // template content based on these inputs
 
-// @ui {"widget":"group_start", "label":"Frame Customize"}
+// @ui {"widget":"group_start", "label":"Frame Customization"}
 // @input vec4 frameColor = {1, 1, 1, 1} {"widget":"color"}
 // @input int frameType = "cat" {"widget": "combobox", "values":[{"label": "Cat", "value": 0}, {"label": "Heart", "value": 1}, {"label": "Round", "value": 2}, {"label": "Aviator", "value": 3}, {"label": "Nerd", "value": 4}]}
 // @input int frameMaterial = "matte" {"widget": "combobox", "values":[{"label": "Matte", "value": 0}, {"label": "Metallic", "value": 1}, {"label": "Glossy", "value": 2}]}
@@ -15,7 +15,7 @@
 // @input float frameOffset = 0.0 {"widget":"slider", "min":-1.0, "max":1.0, "step":0.01}
 // @ui {"widget":"group_end"}
 
-// @ui {"widget":"group_start", "label":"Lens Customize"}
+// @ui {"widget":"group_start", "label":"Lens Customization"}
 // @input vec4 lensColor = {1, 1, 1, 1} {"widget":"color"}
 // @input float lensAlpha = 0.5 {"widget":"slider", "min":0.0, "max":1.0, "step":0.01}
 // @input int lensRoughness = 0 {"widget":"slider", "min":0, "max":10, "step":1 , "showIf": "customReflection", "showIfValue": false}

@@ -8,49 +8,49 @@
 
 //@ui {"widget":"separator"}
 //@ui {"widget":"group_start","label":"Debug Settings"}
-    //@input int debugBuildingMode = 1 {"label": "Building Mode", "widget":"combobox", "values":[{"label":"Occluder", "value": 0}, {"label":"Reference", "value":1}, {"label":"Semi-transparent", "value":2}, {"label":"Custom Textures", "value":3}]}
-    //@input int defaultDebugMode = 1 {"widget":"combobox", "values":[{"label":"Birds Eye", "value": 0}, {"label":"Full Size", "value":1}]}
-    //@input int cameraMode = 1 {"label" : "Camera Mode", "widget":"combobox", "values":[{"label":"Look At Distance Target", "value": 0}, {"label":"Gyro", "value": 1}]}
+//@input int debugBuildingMode = 1 {"label": "Building Mode", "widget":"combobox", "values":[{"label":"Occluder", "value": 0}, {"label":"Reference", "value":1}, {"label":"Semi-transparent", "value":2}, {"label":"Custom Textures", "value":3}]}
+//@input int defaultDebugMode = 1 {"widget":"combobox", "values":[{"label":"Birds Eye", "value": 0}, {"label":"Full Size", "value":1}]}
+//@input int cameraMode = 1 {"label" : "Camera Mode", "widget":"combobox", "values":[{"label":"Look At Distance Target", "value": 0}, {"label":"Gyro", "value": 1}]}
 //@ui {"widget":"group_end"}
 
 
 //@ui {"widget":"separator"}
 //@input bool Advanced
-    //@ui {"widget":"group_start","label":"References", "showIf": "Advanced"}
+//@ui {"widget":"group_start","label":"References", "showIf": "Advanced"}
 
-    //@ui {"widget":"group_start","label":"SceneObjects"}
-        //@input SceneObject landmarkerScene
+//@ui {"widget":"group_start","label":"SceneObjects"}
+//@input SceneObject landmarkerScene
 
-        //@input SceneObject debugParent
-        //@input SceneObject birdsEyeParent
-        //@input SceneObject fullSizeParent
+//@input SceneObject debugParent
+//@input SceneObject birdsEyeParent
+//@input SceneObject fullSizeParent
 
-        //@input SceneObject toggleUI
-        //@input SceneObject navigationUI
+//@input SceneObject toggleUI
+//@input SceneObject navigationUI
 
-        //@input SceneObject segmentationImage
+//@input SceneObject segmentationImage
 
-        //@input SceneObject[] buildingProxy
+//@input SceneObject[] buildingProxy
 
-    //@ui {"widget":"group_end"}
+//@ui {"widget":"group_end"}
 
-    //@ui {"widget":"separator"}
+//@ui {"widget":"separator"}
 
-    //@ui {"widget":"group_start","label":"MarkerTrackingComponent"}
-        //@input Component.DeviceLocationTrackingComponent locationTracking
-        //@input Component.MarkerTrackingComponent imageMarker
-        //@input Asset.MarkerAsset imageMarkerAsset
-    //@ui {"widget":"group_end"}
+//@ui {"widget":"group_start","label":"MarkerTrackingComponent"}
+//@input Component.DeviceLocationTrackingComponent locationTracking
+//@input Component.MarkerTrackingComponent imageMarker
+//@input Asset.MarkerAsset imageMarkerAsset
+//@ui {"widget":"group_end"}
 
-    //@ui {"widget":"separator"}
+//@ui {"widget":"separator"}
 
-    //@input Component.Script hintController
-    //@input Component.Script moveController
-    //@input Component.Script switchUIController
+//@input Component.Script hintController
+//@input Component.Script moveController
+//@input Component.Script switchUIController
 
-    //@ui {"widget":"separator"}
-        //@input Asset.Material occluderMaterial
-        //@input Asset.Material debugMaterial
+//@ui {"widget":"separator"}
+//@input Asset.Material occluderMaterial
+//@input Asset.Material debugMaterial
 
 //@ui {"widget":"group_end"}
 
@@ -73,7 +73,7 @@ var modeConfigs = {
             script.navigationUI,
         ],
         "parent": script.birdsEyeParent,
-        callback: function() {
+        callback: function () {
             script.hintController.api.hide();
             script.moveController.api.setCameraMode(2);
         },
@@ -89,7 +89,7 @@ var modeConfigs = {
         "disabled": [
         ],
         "parent": script.fullSizeParent,
-        callback: function() {
+        callback: function () {
             script.hintController.api.hide();
             script.moveController.api.resetPosition();
             script.moveController.api.setCameraMode(script.cameraMode);
@@ -106,7 +106,7 @@ var modeConfigs = {
             script.debugParent,
         ],
         "parent": script.getSceneObject(),
-        callback: function() {
+        callback: function () {
             script.hintController.api.hide();
             script.moveController.api.setCameraMode(2);
         },
@@ -121,37 +121,38 @@ script.api.locationDataDownloaded = false;
 
 // States
 var trackingMode = Mode.Landmarker;
-var markerMode = script.defaultDebugMode ?  Mode.FullSize : Mode.BirdsEye;
+var markerMode = script.defaultDebugMode ? Mode.FullSize : Mode.BirdsEye;
 var debugModeUnlocked = false;
 var referenceMaterials = {};
 var referenceTextures = [];
 
 // Bindings
-script.locationTracking.onLocationDataDownloaded = function() {
+script.locationTracking.onLocationDataDownloaded = wrapFunction(script.locationTracking.onLocationDataDownloaded, function () {
     script.api.locationDataDownloaded = true;
     script.imageMarker.marker = script.imageMarkerAsset;
-    print("LandmarkerController: Location data was downloaded!"); 
-};
+    print("LandmarkerController: Location data was downloaded!");
+});
 
-script.locationTracking.onLocationDataDownloadFailed = function() {
+
+script.locationTracking.onLocationDataDownloadFailed =  wrapFunction(script.locationTracking.onLocationDataDownloadFailed , function () {
     script.api.locationDataDownloaded = false;
-    print("LandmarkerController: Could not download location data :("); 
-};
+    print("LandmarkerController: Could not download location data :(");
+})
 
-script.locationTracking.onLocationFound = function() {
+script.locationTracking.onLocationFound = wrapFunction (script.locationTracking.onLocationFound , function () {
     switchModeTo(Mode.Landmarker);
-};
+});
 
-script.locationTracking.onLocationLost = onTrackingLost;
+script.locationTracking.onLocationLost = wrapFunction( script.locationTracking.onLocationLost, onTrackingLost);
 
-script.imageMarker.onMarkerFound = function(){
+script.imageMarker.onMarkerFound = wrapFunction (script.imageMarker.onMarkerFound, function () {
     print("LandmarkerController: on marker found");
-    if (!debugModeUnlocked){
+    if (!debugModeUnlocked) {
         switchModeTo(markerMode);
         script.switchUIController.api.setToggleVisual(markerMode);
         debugModeUnlocked = true;
     }
-}
+});
 
 function onTurnOn() {
     script.landmarkerScene.enabled = false;
@@ -201,17 +202,17 @@ function switchModeTo(mode) {
         o.enabled = false;
     }
 
-    script.landmarkerScene.setParent( config.parent );
+    script.landmarkerScene.setParent(config.parent);
 
     config.callback();
 
     print("LandmarkerController: Switched to: " + trackingMode + " mode");
 }
 
-function updateActionHint(){    
-    if (script.locationTracking.locationProximityStatus == LocationProximityStatus.WithinRange){
+function updateActionHint() {
+    if (script.locationTracking.locationProximityStatus == LocationProximityStatus.WithinRange) {
         script.hintController.api.changeToPointAtHint();
-    } else{
+    } else {
         script.hintController.api.changeToGoToHint();
     }
 }
@@ -223,7 +224,7 @@ function getMarkerMode() {
     }
 }
 
-function toggleMarkerMode(){
+function toggleMarkerMode() {
     markerMode = markerMode == Mode.FullSize ? Mode.BirdsEye : Mode.FullSize;
     switchModeTo(markerMode);
     return markerMode;
@@ -235,29 +236,29 @@ function swapMaterial(option) {
     var useReferenceMaterial;
     var textures;
 
-    switch(option) {
+    switch (option) {
         case 0:
             mat = script.occluderMaterial;
             break;
-        case 1: 
+        case 1:
             useReferenceMaterial = true;
             textures = referenceTextures;
             color = new vec4(1, 1, 1, 1);
             break;
-        case 2: 
+        case 2:
             mat = script.debugMaterial
             color = new vec4(1, .3, .3, .5);
             break;
-        case 3: 
+        case 3:
             useReferenceMaterial = true;
             textures = script.textures
-            color = new vec4(1,1,1,1);
+            color = new vec4(1, 1, 1, 1);
             break;
-        case 4: 
+        case 4:
             mat = script.debugMaterial
-            color = new vec4(0,0,0,0);
+            color = new vec4(0, 0, 0, 0);
             break;
-        default: 
+        default:
             mat = script.debugMaterial
             color = new vec4(1, 1, 1, 1);
             break;
@@ -281,6 +282,16 @@ function swapMaterial(option) {
 
         mv.mainMaterial = mat;
     }
+}
+
+function wrapFunction(origFunc, newFunc) {
+    if (!origFunc) {
+        return newFunc;
+    }
+    return function () {
+        origFunc();
+        newFunc();
+    };
 }
 
 // Bind

@@ -21,8 +21,8 @@ var markerHasBeenTracking;
 
 function onTurnOn() {
 	if (script.multipleTrackerController) {
-		script.multipleTrackerController.api.onMarkerFound = onMarkerFound;
-		script.multipleTrackerController.api.onMarkerLost = onMarkerLost;		
+		script.multipleTrackerController.api.onMarkerFound = wrapFunction(script.multipleTrackerController.api.onMarkerFound, onMarkerFound);
+		script.multipleTrackerController.api.onMarkerLost = wrapFunction(script.multipleTrackerController.api.onMarkerLost, onMarkerLost);		
 	} else {
 		print("MarkerWithSnapcodeController: Please assign multipleTrackerController.");
 	}
@@ -128,6 +128,19 @@ function setChildrenEnabled (enabled) {
 	for (var i = 0; i < script.getSceneObject().getChildrenCount(); i++) {
 		script.getSceneObject().getChild(i).enabled = enabled;
 	}
+}
+
+function wrapFunction(origFunc, newFunc) 
+{
+    if (!origFunc)
+    {
+        return newFunc;
+    }
+    return function() 
+    {
+        origFunc();
+        newFunc();
+    };
 }
 
 onTurnOn();

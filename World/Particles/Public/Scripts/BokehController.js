@@ -13,7 +13,7 @@ function update(eventData)
    if(script.bokehMaterial != null)
    {
         script.bokehMaterial.mainPass.lifeTimeMinMax = vec2.lerp(new vec2(2.0,10.0), new vec2(8.0,10.0), script.bokehIntensity);
-        script.bokehMaterial.mainPass.spawnMaxParticles = lerp(300.0, 1000.0, script.bokehIntensity);
+        script.bokehMaterial.mainPass.spawnMaxParticles = lerp(0.0, 1000.0, script.bokehIntensity);
    }   
 }
 

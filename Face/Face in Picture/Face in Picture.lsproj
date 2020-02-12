@@ -1,871 +1,876 @@
 {
-    "lens_id": "", 
-    "document_id": "AVgMg-syw5U2kd2BKq2K", 
-    "original_document_id": "AVgMg-syw5U2kd2BKq2K", 
-    "version": "14", 
-    "lastChanged": "0", 
-    "preview": "icon.png", 
-    "videoPreview": "", 
-    "videoPreviewUpdateTime": "", 
-    "isReadOnly": "true", 
+    "lens_id": "",
+    "document_id": "SbUqR8u1yLnzYf6Dk18i",
+    "original_document_id": "AVgMg-syw5U2kd2BKq2K",
+    "version": "16",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
     "studioVersion": {
         "createdWith": {
-            "type": "Public", 
-            "major": "2", 
-            "minor": "0", 
-            "patch": "0", 
-            "build": "2"
-        }, 
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
         "lastSavedWith": {
-            "type": "Public", 
-            "major": "2", 
-            "minor": "0", 
-            "patch": "0", 
-            "build": "2"
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
         }
-    }, 
+    },
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "Billboard Textures [REPLACE_ME]"
-                    ], 
+                    ],
                     [
-                        "Billboard Textures [REPLACE_ME]", 
+                        "Billboard Textures [REPLACE_ME]",
                         "background_image [REPLACE_ME]"
-                    ], 
+                    ],
                     [
-                        "Billboard Textures [REPLACE_ME]", 
+                        "Billboard Textures [REPLACE_ME]",
                         "primary_image [REPLACE_ME]"
-                    ], 
+                    ],
                     [
                         "ParticleResources"
-                    ], 
+                    ],
                     [
-                        "ParticleResources", 
+                        "ParticleResources",
                         "Materials"
-                    ], 
+                    ],
                     [
-                        "ParticleResources", 
-                        "Materials", 
+                        "ParticleResources",
+                        "Materials",
                         "particle_blizzard [EDIT_ME]"
-                    ], 
+                    ],
                     [
-                        "ParticleResources", 
+                        "ParticleResources",
                         "Meshes"
-                    ], 
+                    ],
                     [
-                        "ParticleResources", 
-                        "Meshes", 
+                        "ParticleResources",
+                        "Meshes",
                         "emitter_1000"
-                    ], 
+                    ],
                     [
-                        "ParticleResources", 
+                        "ParticleResources",
                         "Textures"
-                    ], 
+                    ],
                     [
-                        "ParticleResources", 
-                        "Textures", 
+                        "ParticleResources",
+                        "Textures",
                         "fireball_2x2"
-                    ], 
+                    ],
                     [
                         "Scripts"
-                    ], 
+                    ],
                     [
-                        "Scripts", 
+                        "Scripts",
                         "BlizzardController"
-                    ], 
+                    ],
                     [
-                        "Scripts", 
+                        "Scripts",
                         "FaceInsetController"
-                    ], 
+                    ],
                     [
                         "Textures"
                     ]
                 ]
             ]
-        }, 
+        },
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1524783511396346:19889", 
-                    "1524788899821858:34017", 
+                    "1524783511396346:19889",
+                    "1524788899821858:34017",
                     "1553742935130488:147722"
                 ]
             ]
-        }, 
+        },
         "MetaInfoUIComponent": {
-            "icon_hash": "df0168abcec902c58abad53c5600513f", 
-            "icon_path": "icon.png", 
+            "icon_hash": "df0168abcec902c58abad53c5600513f",
+            "icon_path": "icon.png",
             "hints": [
                 "lens_hint_find_face"
-            ], 
-            "lens": "Face In Picture", 
-            "camera": "2", 
+            ],
+            "lens": "Face In Picture",
+            "camera": "2",
             "lens_descriptors": ""
-        }, 
+        },
         "PreviewUiComponent": {
-            "is_back_camera": "false", 
-            "show_snap_ui": "true", 
-            "show_sponsored_ui": "false"
-        }, 
+            "is_back_camera": "false",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Pair 1.jpg",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Pair Idle Persons 1.webm",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false"
+            }
+        },
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1524783133817508:10692", 
-                    "1524783196802731:11758", 
-                    "1524783789075243:23281", 
-                    "1524790539798014:61669", 
+                    "1524783133817508:10692",
+                    "1524783196802731:11758",
+                    "1524783789075243:23281",
+                    "1524790539798014:61669",
                     "1526434734031729:76282"
                 ]
             ]
-        }, 
-        "LayerUiComponent": {
-            "colorMap": [
-                {
-                    "k": "0", 
-                    "v": "20"
-                }, 
-                {
-                    "k": "1", 
-                    "v": "21"
-                }
-            ]
         }
-    }, 
+    },
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "1", 
-                    "uid": "1:1", 
-                    "name": "Camera Output", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
-                }, 
+                },
                 {
-                    "resId": "2", 
-                    "uid": "2:2", 
-                    "name": "Camera Input", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
-                }, 
+                },
                 {
-                    "resId": "39", 
-                    "uid": "1524783067853453:7720", 
-                    "name": "\/Resources\/Resource39.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "39",
+                    "uid": "1524783067853453:7720",
+                    "name": "\/Resources\/Resource39.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "64", 
-                    "uid": "1524862387641196:13480", 
-                    "name": "\/Resources\/Resource64.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "64",
+                    "uid": "1524862387641196:13480",
+                    "name": "\/Resources\/Resource64.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "75", 
-                    "uid": "1526434499374975:71318", 
-                    "name": "\/Resources\/Resource75.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "75",
+                    "uid": "1526434499374975:71318",
+                    "name": "\/Resources\/Resource75.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "76", 
-                    "uid": "1553558626656720:166496", 
-                    "name": "Files\/File9.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "76",
+                    "uid": "1553558626656720:166496",
+                    "name": "Files\/File9.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "80", 
-                    "uid": "1553742934785556:147676", 
-                    "name": "Files\/File15.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "80",
+                    "uid": "1553742934785556:147676",
+                    "name": "Files\/File15.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "81", 
-                    "uid": "1553742934867188:147691", 
-                    "name": "Files\/File16.jpg", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "81",
+                    "uid": "1553742934867188:147691",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "82", 
-                    "uid": "1553742934951537:147706", 
-                    "name": "Files\/File18", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "82",
+                    "uid": "1553742934951537:147706",
+                    "name": "Files\/File18",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
                 }
-            ]
-        }, 
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
         "InspectorComponent": {
             "Component": {
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                }, 
+                },
                 "ScreenTransform": {
                     "uidData": [
                         {
-                            "k": "1553292182079724:10243", 
+                            "k": "1553292182079724:10243",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553292182101811:10506", 
+                            "k": "1553292182101811:10506",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553292220839491:28798", 
+                            "k": "1553292220839491:28798",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
                         }
-                    ], 
+                    ],
                     "generalData": ""
                 }
             }
-        }, 
+        },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1521051321262419:1013", 
-                "1": "1524790698090065:67514", 
-                "2": "1524790790658074:70098", 
-                "3": "1524790816070528:70841", 
-                "4": "1525475027496094:137750", 
-                "5": "1526071528444616:2619", 
-                "6": "1526071829721981:9889", 
-                "7": "1553292182079010:10237", 
-                "8": "1553292182101576:10503", 
-                "9": "1553292220817463:28409", 
-                "10": "1553742935130978:147729", 
-                "11": "1553742935211767:147798", 
-                "12": "1553742935212974:147822", 
-                "13": "1553742935214200:147846", 
+                "0": "1521051321262419:1013",
+                "1": "1524790698090065:67514",
+                "2": "1524790790658074:70098",
+                "3": "1524790816070528:70841",
+                "4": "1525475027496094:137750",
+                "5": "1526071528444616:2619",
+                "6": "1526071829721981:9889",
+                "7": "1553292182079010:10237",
+                "8": "1553292182101576:10503",
+                "9": "1553292220817463:28409",
+                "10": "1553742935130978:147729",
+                "11": "1553742935211767:147798",
+                "12": "1553742935212974:147822",
+                "13": "1553742935214200:147846",
                 "14": "1553742935215325:147870"
             }
-        }, 
+        },
         "LayerComponent": {
-            "nextLayerId": "2", 
-            "showOrthographicLayer": "true", 
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
-                    "layerId": "0", 
-                    "layerName": "Default Layer", 
-                    "layerMask": "1"
-                }, 
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
                 {
-                    "layerId": "1", 
-                    "layerName": "Orthographic Layer", 
-                    "layerMask": "1048576"
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
                 }
             ]
-        }, 
+        },
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "1", 
+                    "k": "1",
                     "v": "Files\/File1.png"
-                }, 
+                },
                 {
-                    "k": "6", 
+                    "k": "6",
                     "v": "Files\/File6.js"
-                }, 
+                },
                 {
-                    "k": "7", 
+                    "k": "7",
                     "v": "Files\/File7.png"
-                }, 
+                },
                 {
-                    "k": "9", 
+                    "k": "9",
                     "v": "Files\/File9.mesh"
-                }, 
+                },
                 {
-                    "k": "15", 
+                    "k": "15",
                     "v": "Files\/File15.js"
-                }, 
+                },
                 {
-                    "k": "16", 
+                    "k": "16",
                     "v": "Files\/File16.jpg"
-                }, 
+                },
                 {
-                    "k": "17", 
+                    "k": "17",
                     "v": "Files\/File17.jpg"
-                }, 
+                },
                 {
-                    "k": "18", 
+                    "k": "18",
                     "v": "Files\/File18"
-                }, 
+                },
                 {
-                    "k": "19", 
+                    "k": "19",
                     "v": "Files\/File19.lsmat"
                 }
             ]
-        }, 
+        },
         "WorldComponent": {
-            "sceneFile": "scene.scn", 
+            "sceneFile": "scene.scn",
             "sceneType": "binaryScene"
         }
-    }, 
+    },
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "8", 
+                        "k": "8",
                         "v": "Scripts"
-                    }, 
+                    },
                     {
-                        "k": "10", 
+                        "k": "10",
                         "v": "Scripts\/FaceInsetController.js"
-                    }, 
+                    },
                     {
-                        "k": "11", 
+                        "k": "11",
                         "v": "Textures"
-                    }, 
+                    },
                     {
-                        "k": "12", 
+                        "k": "12",
                         "v": "Billboard Textures [REPLACE_ME]"
-                    }, 
+                    },
                     {
-                        "k": "13", 
+                        "k": "13",
                         "v": "Billboard Textures [REPLACE_ME]\/primary_image [REPLACE_ME].png"
-                    }, 
+                    },
                     {
-                        "k": "14", 
+                        "k": "14",
                         "v": "Billboard Textures [REPLACE_ME]\/background_image [REPLACE_ME].png"
-                    }, 
+                    },
                     {
-                        "k": "186", 
+                        "k": "186",
                         "v": "ParticleResources"
-                    }, 
+                    },
                     {
-                        "k": "187", 
+                        "k": "187",
                         "v": "ParticleResources\/Meshes"
-                    }, 
+                    },
                     {
-                        "k": "188", 
+                        "k": "188",
                         "v": "ParticleResources\/Meshes\/emitter_1000.mesh"
-                    }, 
+                    },
                     {
-                        "k": "190", 
+                        "k": "190",
                         "v": "ParticleResources\/Textures"
-                    }, 
+                    },
                     {
-                        "k": "194", 
+                        "k": "194",
                         "v": "ParticleResources\/Materials"
-                    }, 
+                    },
                     {
-                        "k": "546", 
+                        "k": "546",
                         "v": "Scripts\/BlizzardController.js"
-                    }, 
+                    },
                     {
-                        "k": "547", 
+                        "k": "547",
                         "v": "ParticleResources\/Textures\/fireball_2x2.jpg"
-                    }, 
+                    },
                     {
-                        "k": "551", 
+                        "k": "551",
                         "v": "ParticleResources\/Materials\/particle_blizzard [EDIT_ME].lsmat"
                     }
-                ], 
+                ],
                 "hashes": [
                     {
-                        "k": "3", 
+                        "k": "3",
                         "v": "adc36fff2957674601d705ed729586cf"
-                    }, 
+                    },
                     {
-                        "k": "5", 
+                        "k": "5",
                         "v": "b7ddf23e04673576d0ed43fb6bddd4d8"
-                    }, 
+                    },
                     {
-                        "k": "7", 
+                        "k": "7",
                         "v": "893e0ef03cd547c41fffa5b46d1dcb5a"
-                    }, 
+                    },
                     {
-                        "k": "9", 
+                        "k": "9",
                         "v": "7de41d30768b0c6d156dfbbccd0aedb5"
-                    }, 
+                    },
                     {
-                        "k": "10", 
+                        "k": "10",
                         "v": "8b4949376da545a239ff14f6f1682739"
-                    }, 
+                    },
                     {
-                        "k": "13", 
+                        "k": "13",
                         "v": "27cd793bb1a81356a5700912d3f4dac6"
-                    }, 
+                    },
                     {
-                        "k": "14", 
+                        "k": "14",
                         "v": "340369d7fa6704a7cb75c4935d0dd3f8"
-                    }, 
+                    },
                     {
-                        "k": "188", 
+                        "k": "188",
                         "v": "adc36fff2957674601d705ed729586cf"
-                    }, 
+                    },
                     {
-                        "k": "189", 
+                        "k": "189",
                         "v": "7de41d30768b0c6d156dfbbccd0aedb5"
-                    }, 
+                    },
                     {
-                        "k": "191", 
+                        "k": "191",
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    }, 
+                    },
                     {
-                        "k": "195", 
+                        "k": "195",
                         "v": "d240c68c8afcf248f0cadc1bf5adf0ca"
-                    }, 
+                    },
                     {
-                        "k": "546", 
+                        "k": "546",
                         "v": "3dcc4c67b80a37f34087d753df82149e"
-                    }, 
+                    },
                     {
-                        "k": "547", 
+                        "k": "547",
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    }, 
+                    },
                     {
-                        "k": "551", 
+                        "k": "551",
                         "v": "f78468788b4e0dd787268468404b757a"
                     }
-                ], 
+                ],
                 "publicState": {
                     "tree": {
-                        "isFolder": "true", 
-                        "lastModified": "2019-05-13T11:53:29", 
-                        "name": "Public", 
-                        "hash": "9e813b0db689ee33365277ba1f31b303", 
+                        "isFolder": "true",
+                        "lastModified": "2019-07-31T11:09:58",
+                        "name": "Public",
+                        "hash": "9e813b0db689ee33365277ba1f31b303",
                         "children": [
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:53:29", 
-                                "name": "Textures", 
-                                "hash": "59adb24ef3cdbe0297f05b395827453f", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T11:09:58",
+                                "name": "Textures",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:53:29", 
-                                "name": "Scripts", 
-                                "hash": "752e19ca8de2c98a9548a339f10146bd", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T11:09:58",
+                                "name": "Scripts",
+                                "hash": "752e19ca8de2c98a9548a339f10146bd",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "FaceInsetController.js", 
-                                        "hash": "8b4949376da545a239ff14f6f1682739", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:58",
+                                        "name": "FaceInsetController.js",
+                                        "hash": "8b4949376da545a239ff14f6f1682739",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "BlizzardController.js", 
-                                        "hash": "3dcc4c67b80a37f34087d753df82149e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:58",
+                                        "name": "BlizzardController.js",
+                                        "hash": "3dcc4c67b80a37f34087d753df82149e",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:53:29", 
-                                "name": "Billboard Textures [REPLACE_ME]", 
-                                "hash": "b61f41b1f290e5411773d5ce731dd41d", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T11:09:58",
+                                "name": "Billboard Textures [REPLACE_ME]",
+                                "hash": "b61f41b1f290e5411773d5ce731dd41d",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "background_image [REPLACE_ME].png", 
-                                        "hash": "340369d7fa6704a7cb75c4935d0dd3f8", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:48",
+                                        "name": "background_image [REPLACE_ME].png",
+                                        "hash": "340369d7fa6704a7cb75c4935d0dd3f8",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "primary_image [REPLACE_ME].png", 
-                                        "hash": "27cd793bb1a81356a5700912d3f4dac6", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:48",
+                                        "name": "primary_image [REPLACE_ME].png",
+                                        "hash": "27cd793bb1a81356a5700912d3f4dac6",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:53:29", 
-                                "name": "ParticleResources", 
-                                "hash": "b023257e748539b43991de044331c35c", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T11:09:58",
+                                "name": "ParticleResources",
+                                "hash": "b023257e748539b43991de044331c35c",
                                 "children": [
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:53:29", 
-                                        "name": "Textures", 
-                                        "hash": "207b71d5adbb07972444d590ec6eb906", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T11:09:58",
+                                        "name": "Textures",
+                                        "hash": "207b71d5adbb07972444d590ec6eb906",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "fireball_2x2.jpg", 
-                                                "hash": "24006fd7408670db8d6088bf3d7f5f5e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:58",
+                                                "name": "fireball_2x2.jpg",
+                                                "hash": "24006fd7408670db8d6088bf3d7f5f5e",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:53:29", 
-                                        "name": "Materials", 
-                                        "hash": "b365afb8cd0f635a5fb807997bf27092", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T11:09:58",
+                                        "name": "Materials",
+                                        "hash": "b365afb8cd0f635a5fb807997bf27092",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "particle_blizzard [EDIT_ME].lsmat", 
-                                                "hash": "f78468788b4e0dd787268468404b757a", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:58",
+                                                "name": "particle_blizzard [EDIT_ME].lsmat",
+                                                "hash": "f78468788b4e0dd787268468404b757a",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:53:29", 
-                                        "name": "Meshes", 
-                                        "hash": "d7a591cced5cae3eff4182207df71439", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T11:09:58",
+                                        "name": "Meshes",
+                                        "hash": "d7a591cced5cae3eff4182207df71439",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "emitter_1000.mesh", 
-                                                "hash": "adc36fff2957674601d705ed729586cf", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:48",
+                                                "name": "emitter_1000.mesh",
+                                                "hash": "adc36fff2957674601d705ed729586cf",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:58",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:58",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "false", 
-                                "lastModified": "2019-04-19T01:45:13", 
-                                "name": "folder.lock", 
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                "isFolder": "false",
+                                "lastModified": "2019-07-18T11:44:58",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
                             }
                         ]
                     }
-                }, 
+                },
                 "complexResources": ""
-            }, 
+            },
             "tree": {
-                "name": "", 
-                "type": "0", 
-                "subtype": "-1", 
-                "resourceId": "-1", 
-                "dependency": "0", 
-                "uid": "-1:-1", 
-                "fileId": "18446744073709551615", 
-                "originalId": "18446744073709551615", 
-                "publicId": "18446744073709551615", 
-                "source": "", 
-                "additional": "", 
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
                 "resources": [
                     {
-                        "name": "Scripts", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "8", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "8",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "FaceInsetController", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "64", 
-                                "dependency": "0", 
-                                "uid": "1524862387641196:13480", 
-                                "fileId": "6", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "10", 
-                                "source": "", 
+                                "name": "FaceInsetController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "64",
+                                "dependency": "0",
+                                "uid": "1524862387641196:13480",
+                                "fileId": "6",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "BlizzardController", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "80", 
-                                "dependency": "0", 
-                                "uid": "1553742934785556:147676", 
-                                "fileId": "15", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "546", 
-                                "source": "", 
+                                "name": "BlizzardController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "80",
+                                "dependency": "0",
+                                "uid": "1553742934785556:147676",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "546",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Textures", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "11", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "11",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "Render Target", 
-                                "type": "1", 
-                                "subtype": "1", 
-                                "resourceId": "1", 
-                                "dependency": "0", 
-                                "uid": "1:1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "Device Camera Texture", 
-                                "type": "1", 
-                                "subtype": "3", 
-                                "resourceId": "2", 
-                                "dependency": "0", 
-                                "uid": "2:2", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Billboard Textures [REPLACE_ME]", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "12", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Billboard Textures [REPLACE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "primary_image [REPLACE_ME]", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "39", 
-                                "dependency": "0", 
-                                "uid": "1524783067853453:7720", 
-                                "fileId": "1", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "13", 
-                                "source": "", 
+                                "name": "primary_image [REPLACE_ME]",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "uid": "1524783067853453:7720",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "background_image [REPLACE_ME]", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "75", 
-                                "dependency": "0", 
-                                "uid": "1526434499374975:71318", 
-                                "fileId": "7", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "14", 
-                                "source": "", 
+                                "name": "background_image [REPLACE_ME]",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "75",
+                                "dependency": "0",
+                                "uid": "1526434499374975:71318",
+                                "fileId": "7",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "ParticleResources", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "186", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "ParticleResources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "186",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "Meshes", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "187", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "187",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "emitter_1000", 
-                                        "type": "3", 
-                                        "subtype": "0", 
-                                        "resourceId": "76", 
-                                        "dependency": "0", 
-                                        "uid": "1553558626656720:166496", 
-                                        "fileId": "9", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "188", 
-                                        "source": "", 
+                                        "name": "emitter_1000",
+                                        "type": "3",
+                                        "subtype": "0",
+                                        "resourceId": "76",
+                                        "dependency": "0",
+                                        "uid": "1553558626656720:166496",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "188",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "name": "Textures", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "190", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "190",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "fireball_2x2", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "81", 
-                                        "dependency": "0", 
-                                        "uid": "1553742934867188:147691", 
-                                        "fileId": "16", 
-                                        "originalId": "17", 
-                                        "publicId": "547", 
-                                        "source": "", 
+                                        "name": "fireball_2x2",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "81",
+                                        "dependency": "0",
+                                        "uid": "1553742934867188:147691",
+                                        "fileId": "16",
+                                        "originalId": "17",
+                                        "publicId": "547",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "name": "Materials", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "194", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "194",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "particle_blizzard [EDIT_ME]", 
-                                        "type": "2", 
-                                        "subtype": "0", 
-                                        "resourceId": "82", 
-                                        "dependency": "0", 
-                                        "uid": "1553742934951537:147706", 
-                                        "fileId": "18", 
-                                        "originalId": "19", 
-                                        "publicId": "551", 
-                                        "source": "", 
+                                        "name": "particle_blizzard [EDIT_ME]",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "82",
+                                        "dependency": "0",
+                                        "uid": "1553742934951537:147706",
+                                        "fileId": "18",
+                                        "originalId": "19",
+                                        "publicId": "551",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
@@ -874,37 +879,37 @@
                     }
                 ]
             }
-        }, 
+        },
         "InspectorController": {
             "selection": ""
-        }, 
+        },
         "EffectsController": {
-            "1": "", 
-            "2": "", 
-            "3": "", 
-            "4": "", 
-            "5": "", 
-            "6": "", 
-            "7": "", 
-            "8": "", 
-            "10": "", 
-            "11": "", 
-            "12": "", 
-            "13": "", 
-            "14": "", 
-            "15": "", 
-            "16": "", 
-            "17": "", 
-            "18": "", 
-            "19": "", 
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
             "20": ""
-        }, 
+        },
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            }, 
+            },
             "importInfo": ""
         }
-    }, 
+    },
     "description": "Add your face or facial features to a 2D image"
 }
