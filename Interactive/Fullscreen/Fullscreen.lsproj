@@ -1,1921 +1,1934 @@
 {
-    "lens_id": "", 
-    "document_id": "3tDFoR2Rh118ri0RfbS9", 
-    "original_document_id": "3tDFoR2Rh118ri0RfbS9", 
-    "version": "14", 
-    "lastChanged": "0", 
-    "preview": "icon.png", 
-    "videoPreview": "", 
-    "videoPreviewUpdateTime": "", 
-    "isReadOnly": "true", 
+    "lens_id": "",
+    "document_id": "5Sxk2kaA9_MKHy6cbQ4I",
+    "original_document_id": "3tDFoR2Rh118ri0RfbS9",
+    "version": "16",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
     "studioVersion": {
         "createdWith": {
-            "type": "Public", 
-            "major": "2", 
-            "minor": "0", 
-            "patch": "0", 
-            "build": "2"
-        }, 
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
         "lastSavedWith": {
-            "type": "Public", 
-            "major": "2", 
-            "minor": "0", 
-            "patch": "0", 
-            "build": "2"
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
         }
-    }, 
+    },
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "FullscreenTemplate"
-                    ], 
+                    ],
                     [
-                        "FullscreenTemplate", 
+                        "FullscreenTemplate",
                         "FullscreenTemplateManager"
-                    ], 
+                    ],
                     [
-                        "FullscreenTemplate", 
+                        "FullscreenTemplate",
                         "FullscreenTemplateState"
-                    ], 
+                    ],
                     [
                         "Guess What [REMOVE_ME]"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
+                        "Guess What [REMOVE_ME]",
                         "Sounds"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Sounds", 
+                        "Guess What [REMOVE_ME]",
+                        "Sounds",
                         "Credit"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Sounds", 
+                        "Guess What [REMOVE_ME]",
+                        "Sounds",
                         "GuessWhat"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Sounds", 
+                        "Guess What [REMOVE_ME]",
+                        "Sounds",
                         "Idle"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
+                        "Guess What [REMOVE_ME]",
                         "Textures"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "base_post_effect_lookup_table_vhs"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "black"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "credit_block"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "guess_what_intro"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "scanlines"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "tap_to_freeze"
-                    ], 
+                    ],
                     [
-                        "Guess What [REMOVE_ME]", 
-                        "Textures", 
+                        "Guess What [REMOVE_ME]",
+                        "Textures",
                         "vhs"
-                    ], 
+                    ],
                     [
                         "Helpers"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
+                        "Helpers",
                         "FreezeCameraOnStart"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
+                        "Helpers",
                         "HideWhenRecording"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
+                        "Helpers",
                         "PlayTweensOnStart"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
+                        "Helpers",
                         "TweenSystem"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
+                        "Helpers",
+                        "TweenSystem",
                         "Tween"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
+                        "Helpers",
+                        "TweenSystem",
                         "TweenManager"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
+                        "Helpers",
+                        "TweenSystem",
                         "TweenTypes"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenAlpha"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenBillboard [DEPRECATED]"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenChain"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenColor"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenScreenTransform"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenTransform"
-                    ], 
+                    ],
                     [
-                        "Helpers", 
-                        "TweenSystem", 
-                        "TweenTypes", 
+                        "Helpers",
+                        "TweenSystem",
+                        "TweenTypes",
                         "TweenValue"
-                    ], 
+                    ],
                     [
                         "Textures"
-                    ], 
+                    ],
                     [
-                        "Textures", 
+                        "Textures",
                         "Device Camera Texture"
-                    ], 
+                    ],
                     [
-                        "Textures", 
+                        "Textures",
                         "Ortho Camera Target"
-                    ], 
+                    ],
                     [
-                        "Textures", 
+                        "Textures",
                         "Render Target"
                     ]
                 ]
             ]
-        }, 
+        },
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "101:100", 
-                    "1516817239630663:11021", 
-                    "1516817308223821:13637", 
-                    "1517007068250866:30722", 
-                    "1517007114789655:32757", 
-                    "1517007758601161:158470", 
-                    "1517007926620584:163217", 
-                    "1517007950063410:164295", 
-                    "1521514264857352:6757", 
-                    "1521514264857520:6812", 
-                    "1521514264857889:6979", 
-                    "1521514586688226:13083", 
-                    "1553280486152725:20882", 
-                    "1553280953769897:173801", 
+                    "101:100",
+                    "1516817239630663:11021",
+                    "1516817308223821:13637",
+                    "1517007068250866:30722",
+                    "1517007114789655:32757",
+                    "1517007758601161:158470",
+                    "1517007926620584:163217",
+                    "1517007950063410:164295",
+                    "1521514264857352:6757",
+                    "1521514264857520:6812",
+                    "1521514264857889:6979",
+                    "1521514586688226:13083",
+                    "1553280486152725:20882",
+                    "1553280953769897:173801",
                     "1553280953796388:174067"
                 ]
             ]
-        }, 
+        },
         "MetaInfoUIComponent": {
-            "icon_hash": "feb45b248415964f183336576ff1bd2e", 
-            "icon_path": "icon.png", 
+            "icon_hash": "feb45b248415964f183336576ff1bd2e",
+            "icon_path": "icon.png",
             "hints": [
                 "lens_hint_tap"
-            ], 
-            "lens": "FullscreenTemplate", 
-            "camera": "2", 
+            ],
+            "lens": "FullscreenTemplate",
+            "camera": "2",
             "lens_descriptors": ""
-        }, 
+        },
         "PreviewUiComponent": {
-            "is_back_camera": "true", 
-            "show_snap_ui": "true", 
-            "show_sponsored_ui": "false"
-        }, 
+            "is_back_camera": "true",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false"
+            }
+        },
         "InspectorUiComponent": {
             "collapsedList": [
                 ""
             ]
-        }, 
-        "LayerUiComponent": {
-            "colorMap": [
-                {
-                    "k": "0", 
-                    "v": "20"
-                }, 
-                {
-                    "k": "1", 
-                    "v": "21"
-                }
-            ]
         }
-    }, 
+    },
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "1", 
-                    "uid": "1:1", 
-                    "name": "Camera Output", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
-                }, 
+                },
                 {
-                    "resId": "2", 
-                    "uid": "2:2", 
-                    "name": "Camera Input", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
-                }, 
+                },
                 {
-                    "resId": "27", 
-                    "uid": "1516817329133536:13711", 
-                    "name": "\/Resources\/Resource27.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "28",
+                    "uid": "1517007068257841:30741",
+                    "name": "\/Resources\/Resource28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "28", 
-                    "uid": "1517007068257841:30741", 
-                    "name": "\/Resources\/Resource28.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "30",
+                    "uid": "1517007068263011:30765",
+                    "name": "\/Resources\/Resource30.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "30", 
-                    "uid": "1517007068263011:30765", 
-                    "name": "\/Resources\/Resource30.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "108",
+                    "uid": "1521514586825778:13667",
+                    "name": "\/Resources\/Resource108.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "108", 
-                    "uid": "1521514586825778:13667", 
-                    "name": "\/Resources\/Resource108.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "109",
+                    "uid": "1521514586828645:13679",
+                    "name": "\/Resources\/Resource109.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "109", 
-                    "uid": "1521514586828645:13679", 
-                    "name": "\/Resources\/Resource109.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "114",
+                    "uid": "1521514586869946:13739",
+                    "name": "\/Resources\/Resource114.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "114", 
-                    "uid": "1521514586869946:13739", 
-                    "name": "\/Resources\/Resource114.mp3", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "115",
+                    "uid": "1521514586871540:13751",
+                    "name": "\/Resources\/Resource115.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "115", 
-                    "uid": "1521514586871540:13751", 
-                    "name": "\/Resources\/Resource115.mp3", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "116",
+                    "uid": "1521514586873283:13763",
+                    "name": "\/Resources\/Resource116.mp3",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "116", 
-                    "uid": "1521514586873283:13763", 
-                    "name": "\/Resources\/Resource116.mp3", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "122",
+                    "uid": "1522707022896624:247768",
+                    "name": "\/Resources\/Resource122",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "122", 
-                    "uid": "1522707022896624:247768", 
-                    "name": "\/Resources\/Resource122", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "123",
+                    "uid": "1522707022911985:247788",
+                    "name": "\/Resources\/Resource123",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "123", 
-                    "uid": "1522707022911985:247788", 
-                    "name": "\/Resources\/Resource123", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "126",
+                    "uid": "1522707022943100:247832",
+                    "name": "\/Resources\/Resource126.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "126", 
-                    "uid": "1522707022943100:247832", 
-                    "name": "\/Resources\/Resource126.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "127",
+                    "uid": "1522707022945193:247844",
+                    "name": "\/Resources\/Resource127.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "127", 
-                    "uid": "1522707022945193:247844", 
-                    "name": "\/Resources\/Resource127.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "130",
+                    "uid": "1522707022987667:247880",
+                    "name": "\/Resources\/Resource130.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "130", 
-                    "uid": "1522707022987667:247880", 
-                    "name": "\/Resources\/Resource130.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "137",
+                    "uid": "1522707023107723:247964",
+                    "name": "\/Resources\/Resource137.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "137", 
-                    "uid": "1522707023107723:247964", 
-                    "name": "\/Resources\/Resource137.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "138",
+                    "uid": "1522707023110402:247976",
+                    "name": "\/Resources\/Resource138.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "138", 
-                    "uid": "1522707023110402:247976", 
-                    "name": "\/Resources\/Resource138.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "139",
+                    "uid": "1522707023111566:247988",
+                    "name": "\/Resources\/Resource139.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "139", 
-                    "uid": "1522707023111566:247988", 
-                    "name": "\/Resources\/Resource139.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "141",
+                    "uid": "1522707023147805:248012",
+                    "name": "\/Resources\/Resource141.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "141", 
-                    "uid": "1522707023147805:248012", 
-                    "name": "\/Resources\/Resource141.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "142",
+                    "uid": "1522707023151851:248024",
+                    "name": "\/Resources\/Resource142",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "142", 
-                    "uid": "1522707023151851:248024", 
-                    "name": "\/Resources\/Resource142", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "143",
+                    "uid": "1522779622424949:349000",
+                    "name": "\/Resources\/Resource143.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "143", 
-                    "uid": "1522779622424949:349000", 
-                    "name": "\/Resources\/Resource143.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "145",
+                    "uid": "1522779652584465:349863",
+                    "name": "\/Resources\/Resource145.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "145", 
-                    "uid": "1522779652584465:349863", 
-                    "name": "\/Resources\/Resource145.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "146",
+                    "uid": "1538676969768833:6946",
+                    "name": "\/Resources\/Resource146.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "146", 
-                    "uid": "1538676969768833:6946", 
-                    "name": "\/Resources\/Resource146.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "147",
+                    "uid": "1538676969806535:6959",
+                    "name": "\/Resources\/Resource147.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "147", 
-                    "uid": "1538676969806535:6959", 
-                    "name": "\/Resources\/Resource147.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "148",
+                    "uid": "1553580758796947:10556",
+                    "name": "Files\/File24.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "148", 
-                    "uid": "1553580758796947:10556", 
-                    "name": "Files\/File24.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "149",
+                    "uid": "1553580758813444:10593",
+                    "name": "Files\/File25.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "149", 
-                    "uid": "1553580758813444:10593", 
-                    "name": "Files\/File25.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
-                    "flags": "1"
-                }, 
-                {
-                    "resId": "150", 
-                    "uid": "1553826776893563:30032", 
-                    "name": "Render Target", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "150",
+                    "uid": "1553826776893563:30032",
+                    "name": "Render Target",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
+                },
+                {
+                    "resId": "151",
+                    "uid": "1564447598772091:115197",
+                    "name": "Files\/File26.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
-            ]
-        }, 
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
         "InspectorComponent": {
             "Component": {
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                }, 
+                },
                 "ScreenTransform": {
                     "uidData": [
                         {
-                            "k": "1553280486153696:20888", 
+                            "k": "1553280486153696:20888",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553280486178715:21151", 
+                            "k": "1553280486178715:21151",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553280563352956:56783", 
+                            "k": "1553280563352956:56783",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553280592854386:85696", 
+                            "k": "1553280592854386:85696",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553280711667357:134099", 
+                            "k": "1553280711667357:134099",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553280953771132:173807", 
+                            "k": "1553280953771132:173807",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553280953796615:174070", 
+                            "k": "1553280953796615:174070",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553281039541262:225650", 
+                            "k": "1553281039541262:225650",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553281071789083:283646", 
+                            "k": "1553281071789083:283646",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553281092301101:326233", 
+                            "k": "1553281092301101:326233",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553281228123514:384529", 
+                            "k": "1553281228123514:384529",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553281353510001:412516", 
+                            "k": "1553281353510001:412516",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553286691998319:121659", 
+                            "k": "1553286691998319:121659",
                             "v": {
-                                "isBasicMode": "false", 
+                                "isBasicMode": "false",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
-                        }, 
+                        },
                         {
-                            "k": "1553286853046290:206561", 
+                            "k": "1553286853046290:206561",
                             "v": {
-                                "isBasicMode": "true", 
+                                "isBasicMode": "true",
                                 "basicModeSetup": {
-                                    "fixWidth": "false", 
-                                    "fixHeight": "false", 
-                                    "attachBottom": "false", 
-                                    "attachLeft": "false", 
-                                    "attachRight": "false", 
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
                                     "attachTop": "false"
                                 }
                             }
                         }
-                    ], 
+                    ],
                     "generalData": ""
                 }
             }
-        }, 
+        },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1516817239630663:11021", 
-                "1": "1516817308223821:13637", 
-                "2": "1516817308232411:13640", 
-                "3": "1517007068250121:30557", 
-                "4": "1517007950063410:164295", 
-                "5": "1521514586688760:13308", 
-                "6": "1521514586688774:13315", 
-                "7": "1521514586688837:13345", 
-                "8": "1521514586688892:13375", 
-                "9": "1521514586688945:13405", 
-                "10": "1553280486152725:20882", 
-                "11": "1553280486178545:21148", 
-                "12": "1553280563330554:56394", 
-                "13": "1553280592832129:85307", 
-                "14": "1553280711643327:133710", 
-                "15": "1553280953769897:173801", 
-                "16": "1553280953796388:174067", 
-                "17": "1553281039519742:225261", 
-                "18": "1553281071766692:283257", 
-                "19": "1553281092277095:325844", 
-                "20": "1553281228123300:384526", 
-                "21": "1553281353487298:412127", 
-                "22": "1553286691993655:121656", 
+                "0": "1516817239630663:11021",
+                "1": "1516817308223821:13637",
+                "2": "1516817308232411:13640",
+                "3": "1517007068250121:30557",
+                "4": "1517007950063410:164295",
+                "5": "1521514586688760:13308",
+                "6": "1521514586688774:13315",
+                "7": "1521514586688837:13345",
+                "8": "1521514586688892:13375",
+                "9": "1521514586688945:13405",
+                "10": "1553280486152725:20882",
+                "11": "1553280486178545:21148",
+                "12": "1553280563330554:56394",
+                "13": "1553280592832129:85307",
+                "14": "1553280711643327:133710",
+                "15": "1553280953769897:173801",
+                "16": "1553280953796388:174067",
+                "17": "1553281039519742:225261",
+                "18": "1553281071766692:283257",
+                "19": "1553281092277095:325844",
+                "20": "1553281228123300:384526",
+                "21": "1553281353487298:412127",
+                "22": "1553286691993655:121656",
                 "23": "1553286853045969:206558"
             }
-        }, 
+        },
         "LayerComponent": {
-            "nextLayerId": "2", 
-            "showOrthographicLayer": "true", 
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
-                    "layerId": "0", 
-                    "layerName": "Default Layer", 
-                    "layerMask": "1"
-                }, 
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
                 {
-                    "layerId": "1", 
-                    "layerName": "Orthographic Layer", 
-                    "layerMask": "1048576"
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
                 }
             ]
-        }, 
+        },
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "1", 
-                    "v": "Files\/File1.png"
-                }, 
-                {
-                    "k": "2", 
+                    "k": "2",
                     "v": "Files\/File2.js"
-                }, 
+                },
                 {
-                    "k": "3", 
+                    "k": "3",
                     "v": "Files\/File3.js"
-                }, 
+                },
                 {
-                    "k": "4", 
+                    "k": "4",
                     "v": "Files\/File4.js"
-                }, 
+                },
                 {
-                    "k": "5", 
+                    "k": "5",
                     "v": "Files\/File5.js"
-                }, 
+                },
                 {
-                    "k": "6", 
+                    "k": "6",
                     "v": "Files\/File6.mp3"
-                }, 
+                },
                 {
-                    "k": "7", 
+                    "k": "7",
                     "v": "Files\/File7.mp3"
-                }, 
+                },
                 {
-                    "k": "8", 
+                    "k": "8",
                     "v": "Files\/File8.mp3"
-                }, 
+                },
                 {
-                    "k": "9", 
+                    "k": "9",
                     "v": "Files\/File9"
-                }, 
+                },
                 {
-                    "k": "10", 
+                    "k": "10",
                     "v": "Files\/File10"
-                }, 
+                },
                 {
-                    "k": "11", 
+                    "k": "11",
                     "v": "Files\/File11.png"
-                }, 
+                },
                 {
-                    "k": "12", 
+                    "k": "12",
                     "v": "Files\/File12.png"
-                }, 
+                },
                 {
-                    "k": "13", 
+                    "k": "13",
                     "v": "Files\/File13.js"
-                }, 
+                },
                 {
-                    "k": "15", 
+                    "k": "15",
                     "v": "Files\/File15.js"
-                }, 
+                },
                 {
-                    "k": "16", 
+                    "k": "16",
                     "v": "Files\/File16.js"
-                }, 
+                },
                 {
-                    "k": "17", 
+                    "k": "17",
                     "v": "Files\/File17.png"
-                }, 
+                },
                 {
-                    "k": "18", 
+                    "k": "18",
                     "v": "Files\/File18.js"
-                }, 
+                },
                 {
-                    "k": "19", 
+                    "k": "19",
                     "v": "Files\/File19"
-                }, 
+                },
                 {
-                    "k": "20", 
+                    "k": "20",
                     "v": "Files\/File20.js"
-                }, 
+                },
                 {
-                    "k": "21", 
+                    "k": "21",
                     "v": "Files\/File21.js"
-                }, 
+                },
                 {
-                    "k": "22", 
+                    "k": "22",
                     "v": "Files\/File22.js"
-                }, 
+                },
                 {
-                    "k": "23", 
+                    "k": "23",
                     "v": "Files\/File23.js"
-                }, 
+                },
                 {
-                    "k": "24", 
+                    "k": "24",
                     "v": "Files\/File24.js"
-                }, 
+                },
                 {
-                    "k": "25", 
+                    "k": "25",
                     "v": "Files\/File25.js"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
                 }
             ]
-        }, 
+        },
         "WorldComponent": {
-            "sceneFile": "scene.scn", 
+            "sceneFile": "scene.scn",
             "sceneType": "binaryScene"
         }
-    }, 
+    },
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "1", 
+                        "k": "1",
                         "v": "Textures"
-                    }, 
+                    },
                     {
-                        "k": "2", 
+                        "k": "2",
                         "v": "Helpers"
-                    }, 
+                    },
                     {
-                        "k": "3", 
+                        "k": "3",
                         "v": "Helpers\/TweenSystem"
-                    }, 
+                    },
                     {
-                        "k": "4", 
+                        "k": "4",
                         "v": "Helpers\/TweenSystem\/TweenTypes"
-                    }, 
+                    },
                     {
-                        "k": "5", 
+                        "k": "5",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenAlpha.js"
-                    }, 
+                    },
                     {
-                        "k": "7", 
+                        "k": "7",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenTransform.js"
-                    }, 
+                    },
                     {
-                        "k": "8", 
+                        "k": "8",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenColor.js"
-                    }, 
+                    },
                     {
-                        "k": "9", 
+                        "k": "9",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenChain.js"
-                    }, 
+                    },
                     {
-                        "k": "10", 
+                        "k": "10",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenValue.js"
-                    }, 
+                    },
                     {
-                        "k": "11", 
+                        "k": "11",
                         "v": "Helpers\/TweenSystem\/Tween.js"
-                    }, 
+                    },
                     {
-                        "k": "12", 
+                        "k": "12",
                         "v": "Helpers\/TweenSystem\/TweenManager.js"
-                    }, 
+                    },
                     {
-                        "k": "13", 
+                        "k": "13",
                         "v": "Helpers\/PlayTweensOnStart.js"
-                    }, 
+                    },
                     {
-                        "k": "14", 
+                        "k": "14",
                         "v": "Helpers\/HideWhenRecording.js"
-                    }, 
+                    },
                     {
-                        "k": "15", 
+                        "k": "15",
                         "v": "Helpers\/FreezeCameraOnStart.js"
-                    }, 
+                    },
                     {
-                        "k": "16", 
+                        "k": "16",
                         "v": "FullscreenTemplate"
-                    }, 
+                    },
                     {
-                        "k": "17", 
+                        "k": "17",
                         "v": "FullscreenTemplate\/FullscreenTemplateManager.js"
-                    }, 
+                    },
                     {
-                        "k": "18", 
+                        "k": "18",
                         "v": "FullscreenTemplate\/FullscreenTemplateState.js"
-                    }, 
+                    },
                     {
-                        "k": "19", 
+                        "k": "19",
                         "v": "Guess What [REMOVE_ME]"
-                    }, 
+                    },
                     {
-                        "k": "20", 
+                        "k": "20",
                         "v": "Guess What [REMOVE_ME]\/Textures"
-                    }, 
+                    },
                     {
-                        "k": "21", 
-                        "v": "Guess What [REMOVE_ME]\/Textures\/base_post_effect_lookup_table_vhs.png"
-                    }, 
-                    {
-                        "k": "22", 
+                        "k": "22",
                         "v": "Guess What [REMOVE_ME]\/Textures\/vhs"
-                    }, 
+                    },
                     {
-                        "k": "23", 
+                        "k": "23",
                         "v": "Guess What [REMOVE_ME]\/Textures\/scanlines"
-                    }, 
+                    },
                     {
-                        "k": "24", 
+                        "k": "24",
                         "v": "Guess What [REMOVE_ME]\/Textures\/black.png"
-                    }, 
+                    },
                     {
-                        "k": "25", 
+                        "k": "25",
                         "v": "Guess What [REMOVE_ME]\/Textures\/credit_block.png"
-                    }, 
+                    },
                     {
-                        "k": "26", 
+                        "k": "26",
                         "v": "Guess What [REMOVE_ME]\/Textures\/tap_to_freeze.png"
-                    }, 
+                    },
                     {
-                        "k": "27", 
+                        "k": "27",
                         "v": "Guess What [REMOVE_ME]\/Textures\/guess_what_intro"
-                    }, 
+                    },
                     {
-                        "k": "28", 
+                        "k": "28",
                         "v": "Guess What [REMOVE_ME]\/Sounds"
-                    }, 
+                    },
                     {
-                        "k": "29", 
+                        "k": "29",
                         "v": "Guess What [REMOVE_ME]\/Sounds\/Credit.mp3"
-                    }, 
+                    },
                     {
-                        "k": "30", 
+                        "k": "30",
                         "v": "Guess What [REMOVE_ME]\/Sounds\/GuessWhat.mp3"
-                    }, 
+                    },
                     {
-                        "k": "31", 
+                        "k": "31",
                         "v": "Guess What [REMOVE_ME]\/Sounds\/Idle.mp3"
-                    }, 
+                    },
                     {
-                        "k": "32", 
+                        "k": "32",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenBillboard [DEPRECATED].js"
-                    }, 
+                    },
                     {
-                        "k": "33", 
+                        "k": "33",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenScreenTransform.js"
+                    },
+                    {
+                        "k": "552",
+                        "v": "Guess What [REMOVE_ME]\/Textures\/base_post_effect_lookup_table_vhs.png"
                     }
-                ], 
+                ],
                 "hashes": [
                     {
-                        "k": "5", 
+                        "k": "5",
                         "v": "aa362e7548dcf0b077de03d641431777"
-                    }, 
+                    },
                     {
-                        "k": "6", 
+                        "k": "6",
                         "v": "99bfeaf53ffd6ca8ca2e3019e0b28ab0"
-                    }, 
+                    },
                     {
-                        "k": "7", 
+                        "k": "7",
                         "v": "9389deaec4231b11b4e485b24ccba204"
-                    }, 
+                    },
                     {
-                        "k": "8", 
+                        "k": "8",
                         "v": "6333a68a84a5f7e47993037966d1e135"
-                    }, 
+                    },
                     {
-                        "k": "9", 
+                        "k": "9",
                         "v": "f51e2387d37af7b5a85766408a362e18"
-                    }, 
+                    },
                     {
-                        "k": "10", 
+                        "k": "10",
                         "v": "6c038aa78934d8b410cc753fb5f405a1"
-                    }, 
+                    },
                     {
-                        "k": "11", 
+                        "k": "11",
                         "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
-                    }, 
+                    },
                     {
-                        "k": "12", 
+                        "k": "12",
                         "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
-                    }, 
+                    },
                     {
-                        "k": "13", 
+                        "k": "13",
                         "v": "fade6a38416ade0abc7f6996e860dd07"
-                    }, 
+                    },
                     {
-                        "k": "14", 
-                        "v": "a2c4e2bd50ad4270fc066b3dfb3131ec"
-                    }, 
+                        "k": "14",
+                        "v": "a49529e67d783892c52900ba81c583ee"
+                    },
                     {
-                        "k": "15", 
+                        "k": "15",
                         "v": "11f6ca05427c93a6c565437d744e3457"
-                    }, 
+                    },
                     {
-                        "k": "17", 
+                        "k": "17",
                         "v": "73f9b5c7d1078affd6618e9bca451905"
-                    }, 
+                    },
                     {
-                        "k": "18", 
+                        "k": "18",
                         "v": "ad297e984a33fc549b100c18945a8022"
-                    }, 
+                    },
                     {
-                        "k": "21", 
+                        "k": "21",
                         "v": "0aa35074adcdd01896ed21a44dfad143"
-                    }, 
+                    },
                     {
-                        "k": "22", 
+                        "k": "22",
                         "v": "0a268196030f5f4ab3c47f7b1c5d06dd"
-                    }, 
+                    },
                     {
-                        "k": "23", 
+                        "k": "23",
                         "v": "1050fbbb109225a7594d0f78065ccccc"
-                    }, 
+                    },
                     {
-                        "k": "24", 
+                        "k": "24",
                         "v": "d0e51d81b369ff69ec1786053ecb77a5"
-                    }, 
+                    },
                     {
-                        "k": "25", 
+                        "k": "25",
                         "v": "71e43b8b3f002b0f2b1e0d09154ec104"
-                    }, 
+                    },
                     {
-                        "k": "26", 
+                        "k": "26",
                         "v": "9d15e95f6b7410576e8fdf9374372601"
-                    }, 
+                    },
                     {
-                        "k": "27", 
+                        "k": "27",
                         "v": "8dea1179391047645c3ec23f5a4b73fc"
-                    }, 
+                    },
                     {
-                        "k": "29", 
+                        "k": "29",
                         "v": "a96ab6f6e6f7b51e4dfed55927467eae"
-                    }, 
+                    },
                     {
-                        "k": "30", 
+                        "k": "30",
                         "v": "b3d5ef7d174cc99e010ba5b25bdfaef0"
-                    }, 
+                    },
                     {
-                        "k": "31", 
+                        "k": "31",
                         "v": "943c4ba40f1b7bdfb1b45ab0e3f5f2b9"
-                    }, 
+                    },
                     {
-                        "k": "32", 
+                        "k": "32",
                         "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
-                    }, 
+                    },
                     {
-                        "k": "33", 
+                        "k": "33",
                         "v": "42e34f6843c51889977aed3783ff56e9"
+                    },
+                    {
+                        "k": "552",
+                        "v": "d8a4b873115088aed767133a9b24f955"
                     }
-                ], 
+                ],
                 "publicState": {
                     "tree": {
-                        "isFolder": "true", 
-                        "lastModified": "2019-05-13T11:21:13", 
-                        "name": "Public", 
-                        "hash": "ea63c1d43d9d87d6cdcccb0888137933", 
+                        "isFolder": "true",
+                        "lastModified": "2019-07-31T10:28:09",
+                        "name": "Public",
+                        "hash": "9c70c694bf17c48f9f7375087a85e7fc",
                         "children": [
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:21:13", 
-                                "name": "Textures", 
-                                "hash": "59adb24ef3cdbe0297f05b395827453f", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:28:09",
+                                "name": "Textures",
+                                "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:21:13", 
-                                "name": "Guess What [REMOVE_ME]", 
-                                "hash": "5e9bec32efd626b79074cee3c522423f", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:28:09",
+                                "name": "Guess What [REMOVE_ME]",
+                                "hash": "f807aabbcb3c22bbd4d51dae36341dbc",
                                 "children": [
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:21:13", 
-                                        "name": "Textures", 
-                                        "hash": "aa6a14c967abb9a14d6db38e5513c679", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T10:28:09",
+                                        "name": "Textures",
+                                        "hash": "afc45d80a6d97fe2b35a6ad68ec5e3c6",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "credit_block.png", 
-                                                "hash": "71e43b8b3f002b0f2b1e0d09154ec104", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "credit_block.png",
+                                                "hash": "71e43b8b3f002b0f2b1e0d09154ec104",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "base_post_effect_lookup_table_vhs.png", 
-                                                "hash": "0aa35074adcdd01896ed21a44dfad143", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-30T16:40:18",
+                                                "name": "base_post_effect_lookup_table_vhs.png",
+                                                "hash": "d8a4b873115088aed767133a9b24f955",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:21:13", 
-                                                "name": "vhs", 
-                                                "hash": "adf920808a834f5494ae87e383c15088", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:28:09",
+                                                "name": "vhs",
+                                                "hash": "adf920808a834f5494ae87e383c15088",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "atlas_0.png", 
-                                                        "hash": "f059dd2001adf33ce5c7ffea08db4136", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "f059dd2001adf33ce5c7ffea08db4136",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "animation.t3d", 
-                                                        "hash": "a540e7d9a8df25f8b89c5c75b802a200", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "animation.t3d",
+                                                        "hash": "a540e7d9a8df25f8b89c5c75b802a200",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "black.png", 
-                                                "hash": "d0e51d81b369ff69ec1786053ecb77a5", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "black.png",
+                                                "hash": "d0e51d81b369ff69ec1786053ecb77a5",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "tap_to_freeze.png", 
-                                                "hash": "9d15e95f6b7410576e8fdf9374372601", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "tap_to_freeze.png",
+                                                "hash": "9d15e95f6b7410576e8fdf9374372601",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:21:13", 
-                                                "name": "scanlines", 
-                                                "hash": "a8882ecc496f5472550cd018efc44fce", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:28:09",
+                                                "name": "scanlines",
+                                                "hash": "a8882ecc496f5472550cd018efc44fce",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "atlas_0.png", 
-                                                        "hash": "8afd6154327bce6aa038df1910446d95", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "8afd6154327bce6aa038df1910446d95",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "animation.t3d", 
-                                                        "hash": "e9cc5198155fca978cd740362aa982a9", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "animation.t3d",
+                                                        "hash": "e9cc5198155fca978cd740362aa982a9",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:21:13", 
-                                                "name": "guess_what_intro", 
-                                                "hash": "be5cc204d0fbaf1abdab52bec14f2fc6", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:28:09",
+                                                "name": "guess_what_intro",
+                                                "hash": "be5cc204d0fbaf1abdab52bec14f2fc6",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "atlas_0.png", 
-                                                        "hash": "9c94d844646bf1a87fbb90dfd70b691d", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "9c94d844646bf1a87fbb90dfd70b691d",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "animation.t3d", 
-                                                        "hash": "bd85451eb584b4e11b49633f86850cac", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "animation.t3d",
+                                                        "hash": "bd85451eb584b4e11b49633f86850cac",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:21:13", 
-                                        "name": "Sounds", 
-                                        "hash": "3f3f047139b4fb9e8f5bec8cfc43f39a", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T10:28:09",
+                                        "name": "Sounds",
+                                        "hash": "3f3f047139b4fb9e8f5bec8cfc43f39a",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "Credit.mp3", 
-                                                "hash": "a96ab6f6e6f7b51e4dfed55927467eae", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "Credit.mp3",
+                                                "hash": "a96ab6f6e6f7b51e4dfed55927467eae",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "Idle.mp3", 
-                                                "hash": "943c4ba40f1b7bdfb1b45ab0e3f5f2b9", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "Idle.mp3",
+                                                "hash": "943c4ba40f1b7bdfb1b45ab0e3f5f2b9",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "GuessWhat.mp3", 
-                                                "hash": "b3d5ef7d174cc99e010ba5b25bdfaef0", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "GuessWhat.mp3",
+                                                "hash": "b3d5ef7d174cc99e010ba5b25bdfaef0",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:21:13", 
-                                "name": "FullscreenTemplate", 
-                                "hash": "6a6cb4b77dede522f2d5d163a2567271", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:28:09",
+                                "name": "FullscreenTemplate",
+                                "hash": "6a6cb4b77dede522f2d5d163a2567271",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "FullscreenTemplateManager.js", 
-                                        "hash": "73f9b5c7d1078affd6618e9bca451905", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "FullscreenTemplateManager.js",
+                                        "hash": "73f9b5c7d1078affd6618e9bca451905",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "FullscreenTemplateState.js", 
-                                        "hash": "ad297e984a33fc549b100c18945a8022", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "FullscreenTemplateState.js",
+                                        "hash": "ad297e984a33fc549b100c18945a8022",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:21:13", 
-                                "name": "Helpers", 
-                                "hash": "c682b42fae4602bcdd7ebc83b8093753", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:28:09",
+                                "name": "Helpers",
+                                "hash": "38ceebf9a53bebc40d572473a69d7ad8",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "HideWhenRecording.js", 
-                                        "hash": "a2c4e2bd50ad4270fc066b3dfb3131ec", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-30T16:40:18",
+                                        "name": "HideWhenRecording.js",
+                                        "hash": "a49529e67d783892c52900ba81c583ee",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "PlayTweensOnStart.js", 
-                                        "hash": "fade6a38416ade0abc7f6996e860dd07", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "PlayTweensOnStart.js",
+                                        "hash": "fade6a38416ade0abc7f6996e860dd07",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "FreezeCameraOnStart.js", 
-                                        "hash": "11f6ca05427c93a6c565437d744e3457", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "FreezeCameraOnStart.js",
+                                        "hash": "11f6ca05427c93a6c565437d744e3457",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:21:13", 
-                                        "name": "TweenSystem", 
-                                        "hash": "1fb0c4d2825b07d4f19012e7dfc11674", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T10:28:09",
+                                        "name": "TweenSystem",
+                                        "hash": "1fb0c4d2825b07d4f19012e7dfc11674",
                                         "children": [
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:21:13", 
-                                                "name": "TweenTypes", 
-                                                "hash": "580b2dec38c09c9d3357dd22eba1cc97", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:28:09",
+                                                "name": "TweenTypes",
+                                                "hash": "580b2dec38c09c9d3357dd22eba1cc97",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenChain.js", 
-                                                        "hash": "f51e2387d37af7b5a85766408a362e18", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "TweenChain.js",
+                                                        "hash": "f51e2387d37af7b5a85766408a362e18",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenColor.js", 
-                                                        "hash": "6333a68a84a5f7e47993037966d1e135", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "TweenColor.js",
+                                                        "hash": "6333a68a84a5f7e47993037966d1e135",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenTransform.js", 
-                                                        "hash": "9389deaec4231b11b4e485b24ccba204", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "TweenTransform.js",
+                                                        "hash": "9389deaec4231b11b4e485b24ccba204",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenBillboard [DEPRECATED].js", 
-                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenScreenTransform.js", 
-                                                        "hash": "42e34f6843c51889977aed3783ff56e9", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "TweenScreenTransform.js",
+                                                        "hash": "42e34f6843c51889977aed3783ff56e9",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenValue.js", 
-                                                        "hash": "6c038aa78934d8b410cc753fb5f405a1", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "TweenValue.js",
+                                                        "hash": "6c038aa78934d8b410cc753fb5f405a1",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "TweenAlpha.js", 
-                                                        "hash": "aa362e7548dcf0b077de03d641431777", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "TweenAlpha.js",
+                                                        "hash": "aa362e7548dcf0b077de03d641431777",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:13", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "TweenManager.js", 
-                                                "hash": "1b937dfbcbcd8ef1ee1a275fe7899278", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "TweenManager.js",
+                                                "hash": "1b937dfbcbcd8ef1ee1a275fe7899278",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "Tween.js", 
-                                                "hash": "db1633dd326bc8f976dd02c2fdb5bbf4", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "Tween.js",
+                                                "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:13", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:13", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "false", 
-                                "lastModified": "2019-04-19T01:45:13", 
-                                "name": "folder.lock", 
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                "isFolder": "false",
+                                "lastModified": "2019-07-18T11:44:57",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
                             }
                         ]
                     }
-                }, 
+                },
                 "complexResources": [
-                    "22", 
-                    "23", 
+                    "22",
+                    "23",
                     "27"
                 ]
-            }, 
+            },
             "tree": {
-                "name": "", 
-                "type": "0", 
-                "subtype": "-1", 
-                "resourceId": "-1", 
-                "dependency": "0", 
-                "uid": "-1:-1", 
-                "fileId": "18446744073709551615", 
-                "originalId": "18446744073709551615", 
-                "publicId": "18446744073709551615", 
-                "source": "", 
-                "additional": "", 
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
                 "resources": [
                     {
-                        "name": "Textures", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "1", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "Render Target", 
-                                "type": "1", 
-                                "subtype": "1", 
-                                "resourceId": "1", 
-                                "dependency": "0", 
-                                "uid": "1:1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "Device Camera Texture", 
-                                "type": "1", 
-                                "subtype": "3", 
-                                "resourceId": "2", 
-                                "dependency": "0", 
-                                "uid": "2:2", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "Ortho Camera Target", 
-                                "type": "1", 
-                                "subtype": "1", 
-                                "resourceId": "150", 
-                                "dependency": "0", 
-                                "uid": "1553826776893563:30032", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Ortho Camera Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "150",
+                                "dependency": "0",
+                                "uid": "1553826776893563:30032",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Helpers", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "2", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Helpers",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "2",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "TweenSystem", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "3", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "TweenSystem",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "TweenTypes", 
-                                        "type": "0", 
-                                        "subtype": "-1", 
-                                        "resourceId": "-1", 
-                                        "dependency": "0", 
-                                        "uid": "-1:-1", 
-                                        "fileId": "18446744073709551615", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "4", 
-                                        "source": "", 
-                                        "additional": "", 
+                                        "name": "TweenTypes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "4",
+                                        "source": "",
+                                        "additional": "",
                                         "resources": [
                                             {
-                                                "name": "TweenAlpha", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "130", 
-                                                "dependency": "0", 
-                                                "uid": "1522707022987667:247880", 
-                                                "fileId": "13", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "5", 
-                                                "source": "", 
+                                                "name": "TweenAlpha",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "130",
+                                                "dependency": "0",
+                                                "uid": "1522707022987667:247880",
+                                                "fileId": "13",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "5",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "TweenTransform", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "143", 
-                                                "dependency": "0", 
-                                                "uid": "1522779622424949:349000", 
-                                                "fileId": "20", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "7", 
-                                                "source": "", 
+                                                "name": "TweenTransform",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "143",
+                                                "dependency": "0",
+                                                "uid": "1522779622424949:349000",
+                                                "fileId": "20",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "7",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "TweenColor", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "145", 
-                                                "dependency": "0", 
-                                                "uid": "1522779652584465:349863", 
-                                                "fileId": "21", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "8", 
-                                                "source": "", 
+                                                "name": "TweenColor",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "145",
+                                                "dependency": "0",
+                                                "uid": "1522779652584465:349863",
+                                                "fileId": "21",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "8",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "TweenChain", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "146", 
-                                                "dependency": "0", 
-                                                "uid": "1538676969768833:6946", 
-                                                "fileId": "22", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "9", 
-                                                "source": "", 
+                                                "name": "TweenChain",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "146",
+                                                "dependency": "0",
+                                                "uid": "1538676969768833:6946",
+                                                "fileId": "22",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "9",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "TweenValue", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "147", 
-                                                "dependency": "0", 
-                                                "uid": "1538676969806535:6959", 
-                                                "fileId": "23", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "10", 
-                                                "source": "", 
+                                                "name": "TweenValue",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "147",
+                                                "dependency": "0",
+                                                "uid": "1538676969806535:6959",
+                                                "fileId": "23",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "10",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "TweenBillboard [DEPRECATED]", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "148", 
-                                                "dependency": "0", 
-                                                "uid": "1553580758796947:10556", 
-                                                "fileId": "24", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "32", 
-                                                "source": "", 
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "148",
+                                                "dependency": "0",
+                                                "uid": "1553580758796947:10556",
+                                                "fileId": "24",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "32",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "TweenScreenTransform", 
-                                                "type": "4", 
-                                                "subtype": "0", 
-                                                "resourceId": "149", 
-                                                "dependency": "0", 
-                                                "uid": "1553580758813444:10593", 
-                                                "fileId": "25", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "33", 
-                                                "source": "", 
+                                                "name": "TweenScreenTransform",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "149",
+                                                "dependency": "0",
+                                                "uid": "1553580758813444:10593",
+                                                "fileId": "25",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "33",
+                                                "source": "",
                                                 "additional": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "name": "Tween", 
-                                        "type": "4", 
-                                        "subtype": "0", 
-                                        "resourceId": "28", 
-                                        "dependency": "0", 
-                                        "uid": "1517007068257841:30741", 
-                                        "fileId": "2", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "11", 
-                                        "source": "", 
+                                        "name": "Tween",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "28",
+                                        "dependency": "0",
+                                        "uid": "1517007068257841:30741",
+                                        "fileId": "2",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "11",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "TweenManager", 
-                                        "type": "4", 
-                                        "subtype": "0", 
-                                        "resourceId": "30", 
-                                        "dependency": "0", 
-                                        "uid": "1517007068263011:30765", 
-                                        "fileId": "3", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "12", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }
-                                ]
-                            }, 
-                            {
-                                "name": "PlayTweensOnStart", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "137", 
-                                "dependency": "0", 
-                                "uid": "1522707023107723:247964", 
-                                "fileId": "15", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "13", 
-                                "source": "", 
-                                "additional": ""
-                            }, 
-                            {
-                                "name": "HideWhenRecording", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "138", 
-                                "dependency": "0", 
-                                "uid": "1522707023110402:247976", 
-                                "fileId": "16", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "14", 
-                                "source": "", 
-                                "additional": ""
-                            }, 
-                            {
-                                "name": "FreezeCameraOnStart", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "141", 
-                                "dependency": "0", 
-                                "uid": "1522707023147805:248012", 
-                                "fileId": "18", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "15", 
-                                "source": "", 
-                                "additional": ""
-                            }
-                        ]
-                    }, 
-                    {
-                        "name": "FullscreenTemplate", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "16", 
-                        "source": "", 
-                        "additional": "", 
-                        "resources": [
-                            {
-                                "name": "FullscreenTemplateManager", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "108", 
-                                "dependency": "0", 
-                                "uid": "1521514586825778:13667", 
-                                "fileId": "4", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "17", 
-                                "source": "", 
-                                "additional": ""
-                            }, 
-                            {
-                                "name": "FullscreenTemplateState", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "109", 
-                                "dependency": "0", 
-                                "uid": "1521514586828645:13679", 
-                                "fileId": "5", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18", 
-                                "source": "", 
-                                "additional": ""
-                            }
-                        ]
-                    }, 
-                    {
-                        "name": "Guess What [REMOVE_ME]", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "19", 
-                        "source": "", 
-                        "additional": "", 
-                        "resources": [
-                            {
-                                "name": "Textures", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "20", 
-                                "source": "", 
-                                "additional": "", 
-                                "resources": [
-                                    {
-                                        "name": "base_post_effect_lookup_table_vhs", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "27", 
-                                        "dependency": "0", 
-                                        "uid": "1516817329133536:13711", 
-                                        "fileId": "1", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "21", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }, 
-                                    {
-                                        "name": "vhs", 
-                                        "type": "1", 
-                                        "subtype": "5", 
-                                        "resourceId": "122", 
-                                        "dependency": "0", 
-                                        "uid": "1522707022896624:247768", 
-                                        "fileId": "9", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "22", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }, 
-                                    {
-                                        "name": "scanlines", 
-                                        "type": "1", 
-                                        "subtype": "5", 
-                                        "resourceId": "123", 
-                                        "dependency": "0", 
-                                        "uid": "1522707022911985:247788", 
-                                        "fileId": "10", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "23", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }, 
-                                    {
-                                        "name": "black", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "126", 
-                                        "dependency": "0", 
-                                        "uid": "1522707022943100:247832", 
-                                        "fileId": "11", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "24", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }, 
-                                    {
-                                        "name": "credit_block", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "127", 
-                                        "dependency": "0", 
-                                        "uid": "1522707022945193:247844", 
-                                        "fileId": "12", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "25", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }, 
-                                    {
-                                        "name": "tap_to_freeze", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "139", 
-                                        "dependency": "0", 
-                                        "uid": "1522707023111566:247988", 
-                                        "fileId": "17", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "26", 
-                                        "source": "", 
-                                        "additional": ""
-                                    }, 
-                                    {
-                                        "name": "guess_what_intro", 
-                                        "type": "1", 
-                                        "subtype": "5", 
-                                        "resourceId": "142", 
-                                        "dependency": "0", 
-                                        "uid": "1522707023151851:248024", 
-                                        "fileId": "19", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "27", 
-                                        "source": "", 
+                                        "name": "TweenManager",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "uid": "1517007068263011:30765",
+                                        "fileId": "3",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "12",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "name": "Sounds", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "28", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "PlayTweensOnStart",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "137",
+                                "dependency": "0",
+                                "uid": "1522707023107723:247964",
+                                "fileId": "15",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "HideWhenRecording",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "138",
+                                "dependency": "0",
+                                "uid": "1522707023110402:247976",
+                                "fileId": "16",
+                                "originalId": "18446744073709551615",
+                                "publicId": "14",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FreezeCameraOnStart",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "141",
+                                "dependency": "0",
+                                "uid": "1522707023147805:248012",
+                                "fileId": "18",
+                                "originalId": "18446744073709551615",
+                                "publicId": "15",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "FullscreenTemplate",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "16",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "FullscreenTemplateManager",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "108",
+                                "dependency": "0",
+                                "uid": "1521514586825778:13667",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "17",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "FullscreenTemplateState",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "109",
+                                "dependency": "0",
+                                "uid": "1521514586828645:13679",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Guess What [REMOVE_ME]",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "19",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "20",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "Credit", 
-                                        "type": "5", 
-                                        "subtype": "0", 
-                                        "resourceId": "114", 
-                                        "dependency": "0", 
-                                        "uid": "1521514586869946:13739", 
-                                        "fileId": "6", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "29", 
-                                        "source": "", 
+                                        "name": "vhs",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "122",
+                                        "dependency": "0",
+                                        "uid": "1522707022896624:247768",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "22",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "GuessWhat", 
-                                        "type": "5", 
-                                        "subtype": "0", 
-                                        "resourceId": "115", 
-                                        "dependency": "0", 
-                                        "uid": "1521514586871540:13751", 
-                                        "fileId": "7", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "30", 
-                                        "source": "", 
+                                        "name": "scanlines",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "123",
+                                        "dependency": "0",
+                                        "uid": "1522707022911985:247788",
+                                        "fileId": "10",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "23",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "Idle", 
-                                        "type": "5", 
-                                        "subtype": "0", 
-                                        "resourceId": "116", 
-                                        "dependency": "0", 
-                                        "uid": "1521514586873283:13763", 
-                                        "fileId": "8", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "31", 
-                                        "source": "", 
+                                        "name": "black",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "126",
+                                        "dependency": "0",
+                                        "uid": "1522707022943100:247832",
+                                        "fileId": "11",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "24",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "credit_block",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "127",
+                                        "dependency": "0",
+                                        "uid": "1522707022945193:247844",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "25",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "tap_to_freeze",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "139",
+                                        "dependency": "0",
+                                        "uid": "1522707023111566:247988",
+                                        "fileId": "17",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "26",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "guess_what_intro",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "142",
+                                        "dependency": "0",
+                                        "uid": "1522707023151851:248024",
+                                        "fileId": "19",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "27",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "base_post_effect_lookup_table_vhs",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "151",
+                                        "dependency": "0",
+                                        "uid": "1564447598772091:115197",
+                                        "fileId": "26",
+                                        "originalId": "27",
+                                        "publicId": "552",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Sounds",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "28",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Credit",
+                                        "type": "5",
+                                        "subtype": "0",
+                                        "resourceId": "114",
+                                        "dependency": "0",
+                                        "uid": "1521514586869946:13739",
+                                        "fileId": "6",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "29",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "GuessWhat",
+                                        "type": "5",
+                                        "subtype": "0",
+                                        "resourceId": "115",
+                                        "dependency": "0",
+                                        "uid": "1521514586871540:13751",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "30",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Idle",
+                                        "type": "5",
+                                        "subtype": "0",
+                                        "resourceId": "116",
+                                        "dependency": "0",
+                                        "uid": "1521514586873283:13763",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "31",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
@@ -1924,37 +1937,37 @@
                     }
                 ]
             }
-        }, 
+        },
         "InspectorController": {
             "selection": ""
-        }, 
+        },
         "EffectsController": {
-            "1": "", 
-            "2": "", 
-            "3": "", 
-            "4": "", 
-            "5": "", 
-            "6": "", 
-            "7": "", 
-            "8": "", 
-            "10": "", 
-            "11": "", 
-            "12": "", 
-            "13": "", 
-            "14": "", 
-            "15": "", 
-            "16": "", 
-            "17": "", 
-            "18": "", 
-            "19": "", 
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
             "20": ""
-        }, 
+        },
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            }, 
+            },
             "importInfo": ""
         }
-    }, 
+    },
     "description": "Fullscreen effects triggered on tap or time"
 }

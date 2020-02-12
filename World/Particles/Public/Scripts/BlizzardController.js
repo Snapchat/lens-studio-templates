@@ -12,6 +12,7 @@ function update(eventData)
 {
    if(script.snowMaterial != null)
    {
+        script.snowMaterial.mainPass.spawnMaxParticles = lerp(0.0, 1000.0, script.snowIntensity);
         script.snowMaterial.mainPass.lifeTimeMinMax = vec2.lerp(new vec2(0.3,1.5), new vec2(1.5,1.75), script.snowIntensity);
    }   
 }

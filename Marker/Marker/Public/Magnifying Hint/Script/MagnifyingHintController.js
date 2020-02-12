@@ -1,12 +1,11 @@
 // MagnifyingHintController.js
-// Version: 0.0.1
+// Version: 0.1.0
 // Event: Lens Initialized
 // Description: Controls a preview of a marker that appears when a marker is not visible.
 
 // @input Asset.Texture previewTexture
 
 //@ui {"widget":"separator"}
-// @input float delay = 0.3
 // @input string mainTextHint
 // @input string secondaryTextHint
 
@@ -15,68 +14,147 @@
 // @input Asset.Texture deviceCameraOutput {"showIf":"advanced"}
 // @input SceneObject background  {"showIf":"advanced"}
 // @input SceneObject foreground  {"showIf":"advanced"}
-// @input SceneObject magnifyingGlassPivot  {"showIf":"advanced"}
 // @input SceneObject magnifying  {"showIf":"advanced"}
 // @input SceneObject label  {"showIf":"advanced"}
 
 var totalHeightSnapchatUI = 400;
-var smallPreviewMinMaxScale = [15, 45];
-var largePreviewMinMaxScale = [45, 60];
+var smallPreviewMinMaxScale = [0.4, 0.7];
+var largePreviewScale = 0.85
+var frameWidth = 0.2;
 var hidden = false;
 var openedState = false;
-var label = script.label.getFirstComponent("Component.Label");
+
+var label;
+var fgTransform;
+var bgTransform;
+var mgTransform;
+var srTransform;
+var hintObjects;
+
 var currentTextIndex = 0;
 var currentAngle = 0;
 var rotationSpeed = .025;
+var radius = 0.25;
 var frameDelay = 1;
 
-if (!script.previewTexture) {
-	print("MagnifyingHintController: Please add reference to the `Preview Texture` field to the texture you want to show in the hint.");
-}
-
-function initializeSizing() {
-	var aspect = 1;
-
-	if(script.previewTexture) {
-		setTexture(script.foreground, script.previewTexture);
-		aspect = getPreviewTextureAspectRatio();
-		var originalScale = new vec3(1, 1 * aspect, 0);
+function checkInputValues() {
+	if (!script.previewTexture) {
+		print("WARNING: MagnifyingHintController: PreviewTexture is not set under the advanced tab");
 	}
 
-	var originalScale = new vec3(1, 1 * aspect, 0);
+	if (!script.deviceCameraOutput) {
+		print("ERROR: MagnifyingHintController: DeviceCameraOutput is not set under the advanced tab");
+	}
 
-	var foregroundScale = clampScale(originalScale, smallPreviewMinMaxScale[0], smallPreviewMinMaxScale[1]);
-	var largeForegroundScale = clampScale(foregroundScale.uniformScale(3), largePreviewMinMaxScale[0], largePreviewMinMaxScale[1]);
-	script.foreground.getTransform().setLocalScale(foregroundScale)
-	global.tweenManager.setStartValue(script.foreground, "open", foregroundScale);
-	global.tweenManager.setEndValue(script.foreground, "open", largeForegroundScale);
-	global.tweenManager.setStartValue(script.foreground, "close", largeForegroundScale);
-	global.tweenManager.setEndValue(script.foreground, "close", foregroundScale);
+	if (!script.foreground) {
+		print("WARNING: MagnifyingHintController: Foreground is not set under the advanced tab");
+	}
 
-	var backgroundScale = foregroundScale.add(new vec3(2,2,2));
-	var largeBackgroundScale = largeForegroundScale.add(new vec3(1,1,1));
-	script.background.getTransform().setLocalScale(backgroundScale);
-	global.tweenManager.setStartValue(script.background, "open", backgroundScale);
-	global.tweenManager.setEndValue(script.background, "open", largeBackgroundScale);
-	global.tweenManager.setStartValue(script.background, "close", largeBackgroundScale);
-	global.tweenManager.setEndValue(script.background, "close", backgroundScale);
+	if (!script.background) {
+		print("WARNING: MagnifyingHintController: Background is not set under the advanced tab");
+	}
+
+	if (!script.magnifying) {
+		print("WARNING: MagnifyingHintController: Magnifying is not set under the advanced tab");
+	}
+
+	if (!script.label) {
+		print("WARNING: MagnifyingHintController: Label Text Component is not set under the advanced tab");
+	}
 }
 
-function initialize() {
-	label.text = script.mainTextHint;
 
-	global.tweenManager.startTween(script.background, "transitionin");
-	global.tweenManager.startTween(script.foreground, "transitionin");
-	global.tweenManager.startTween(script.magnifying, "transitionin");
-	global.tweenManager.startTween(script.label, "transitionin");
+function initialize() {
+	if (script.foreground) {
+		fgTransform = script.foreground.getFirstComponent("ScreenTransform");
+		global.tweenManager.startTween(script.foreground, "transitionin");
+	}
+	if (script.background) {
+		bgTransform = script.background.getFirstComponent("ScreenTransform");
+		global.tweenManager.startTween(script.background, "transitionin");
+	}
+
+	if (script.magnifying) {
+		mgTransform = script.magnifying.getFirstComponent("ScreenTransform");
+		global.tweenManager.startTween(script.magnifying, "transitionin");
+	}
+
+	if (script.label) {
+		label = script.label.getFirstComponent("Component.Text");
+		label.text = script.mainTextHint;
+		global.tweenManager.startTween(script.label, "transitionin");
+	}
+
+	srTransform = script.getSceneObject().getFirstComponent("ScreenTransform");
+	hintObjects = script.getSceneObject().getChild(0);
 
 	script.api.show = show;
 	script.api.hide = hide;
 }
 
-function onUpdate() {
 
-	if(global.scene.isRecording()) {
+function initializeSizing() {
+	if (script.foreground && script.previewTexture) {
+		setTexture(script.foreground, script.previewTexture);
+	}
+	if (!script.deviceCameraOutput) {
+		return;
+	}
+	var aspect = script.previewTexture ? getAspectRatio(script.previewTexture) : 1.0;
+	var screenAspect = getAspectRatio(script.deviceCameraOutput);
+
+	var parentSize = srTransform.anchors.getSize();
+	var parentAspect = parentSize.y / parentSize.x;
+	var coeff = aspect / screenAspect / parentAspect;
+	var halfSize = coeff > 1 ? new vec2(1.0 / coeff, 1.0) : new vec2(1.0, 1.0 * coeff);
+
+	var minScale = getOptimalScale(aspect, smallPreviewMinMaxScale[0], smallPreviewMinMaxScale[1]);
+	var maxScale = largePreviewScale;
+
+	var anchors = new vec4(-halfSize.x, -halfSize.y, halfSize.x, halfSize.y);
+	var offsets = new vec4(-1.0, -1.0, 1.0, 1.0).uniformScale(frameWidth);
+
+	var minAnchors = anchors.uniformScale(minScale);
+	var maxAnchors = anchors.uniformScale(maxScale);
+
+
+	if (fgTransform) {
+		setRect(fgTransform.anchors, minAnchors);
+		global.tweenManager.setStartValue(script.foreground, "open", minAnchors);
+		global.tweenManager.setEndValue(script.foreground, "open", maxAnchors);
+		global.tweenManager.setStartValue(script.foreground, "close", maxAnchors);
+		global.tweenManager.setEndValue(script.foreground, "close", minAnchors);
+	}
+
+	if (bgTransform) {
+		setRect(bgTransform.anchors, minAnchors);
+		setRect(bgTransform.offsets, offsets)
+		global.tweenManager.setStartValue(script.background, "open", minAnchors);
+		global.tweenManager.setEndValue(script.background, "open", maxAnchors);
+		global.tweenManager.setStartValue(script.background, "close", maxAnchors);
+		global.tweenManager.setEndValue(script.background, "close", minAnchors);
+	}
+}
+
+function getOptimalScale(aspect, minBound, maxBound) {
+	var t = aspect < 1.0 ? aspect : 1.0 / aspect;
+	scale = lerp(minBound, maxBound, 1.0 - t);
+	return scale;
+}
+
+function setRect(rect, vec) {
+	rect.left = vec.x;
+	rect.bottom = vec.y;
+	rect.right = vec.z;
+	rect.top = vec.w;
+}
+
+function lerp(a, b, t) {
+	return a + t * (b - a);
+}
+
+function onUpdate() {
+	if (global.scene.isRecording()) {
 		hide();
 		return;
 	}
@@ -89,34 +167,55 @@ function onUpdate() {
 		initializeSizing();
 		frameDelay = -1;
 	}
+	if (script.magnifying) {
+		updateMagnifying();
+	}
+}
 
-	// Rotate the magnifying glass
-	var newRotation = quat.angleAxis(currentAngle, vec3.forward());
-	script.magnifyingGlassPivot.getTransform().setLocalRotation(newRotation);
+function updateMagnifying() {
+	var offset = new vec2(Math.cos(currentAngle), Math.sin(currentAngle)).uniformScale(radius);
+	mgTransform.anchors.setCenter(offset);
 	currentAngle += rotationSpeed;
 }
 
 function closeHint() {
-	global.tweenManager.startTween(script.background, "close");
-	global.tweenManager.startTween(script.foreground, "close", function () {
-		global.tweenManager.pauseTween(script.magnifying, "transitionout");
-		global.tweenManager.startTween(script.magnifying, "transitionin");
-		script.label.enabled = true;
-	});
+	if (script.background) {
+		global.tweenManager.startTween(script.background, "close");
+	}
+	if (script.foreground) {
+		global.tweenManager.startTween(script.foreground, "close", showMagnifying);
+	} else {
+		showMagnifying();
+	}
 
-	label.text = script.mainTextHint;
+	if (label) {
+		label.text = script.mainTextHint;
+	}
 
 	openedState = false;
 }
 
+function showMagnifying() {
+	if (script.magnifying) {
+		global.tweenManager.pauseTween(script.magnifying, "transitionout");
+		global.tweenManager.startTween(script.magnifying, "transitionin");
+	}
+}
+
 function openHint() {
-	global.tweenManager.startTween(script.background, "open");
-	global.tweenManager.startTween(script.foreground, "open");
-
-	global.tweenManager.pauseTween(script.magnifying, "transitionin");
-	global.tweenManager.startTween(script.magnifying, "transitionout");
-
-	label.text = script.secondaryTextHint;
+	if (script.background) {
+		global.tweenManager.startTween(script.background, "open");
+	}
+	if (script.foreground) {
+		global.tweenManager.startTween(script.foreground, "open");
+	}
+	if (script.magnifying) {
+		global.tweenManager.pauseTween(script.magnifying, "transitionin");
+		global.tweenManager.startTween(script.magnifying, "transitionout");
+	}
+	if (label) {
+		label.text = script.secondaryTextHint;
+	}
 
 	openedState = true;
 }
@@ -128,16 +227,23 @@ function show() {
 
 	hidden = false;
 
-	script.getSceneObject().getChild(0).enabled = true;
+	hintObjects.enabled = true;
 
 	if (openedState) {
 		closeHint();
 	}
-
-	global.tweenManager.startTween(script.background, "transitionin");
-	global.tweenManager.startTween(script.foreground, "transitionin");
-	global.tweenManager.startTween(script.magnifying, "transitionin");
-	global.tweenManager.startTween(script.label, "transitionin");
+	if (script.background) {
+		global.tweenManager.startTween(script.background, "transitionin");
+	}
+	if (script.foreground) {
+		global.tweenManager.startTween(script.foreground, "transitionin");
+	}
+	if (script.magnifying) {
+		global.tweenManager.startTween(script.magnifying, "transitionin");
+	}
+	if (label) {
+		global.tweenManager.startTween(script.label, "transitionin");
+	}
 }
 
 function hide() {
@@ -147,21 +253,28 @@ function hide() {
 
 	hidden = true;
 
-	global.tweenManager.stopTween(script.background, "transitionin");
-	global.tweenManager.stopTween(script.foreground, "transitionin");
-	global.tweenManager.stopTween(script.magnifying, "transitionin");
-	global.tweenManager.stopTween(script.label, "transitionin");
-
-	global.tweenManager.resetObject(script.background, "transitionin");
-	global.tweenManager.resetObject(script.foreground, "transitionin");
-	global.tweenManager.resetObject(script.magnifying, "transitionin");
-	global.tweenManager.resetObject(script.label, "transitionin");
-
-	script.getSceneObject().getChild(0).enabled = false;
+	if (script.background) {
+		global.tweenManager.stopTween(script.background, "transitionin");
+		global.tweenManager.resetObject(script.background, "transitionin");
+	}
+	if (script.foreground) {
+		global.tweenManager.stopTween(script.foreground, "transitionin");
+		global.tweenManager.resetObject(script.foreground, "transitionin");
+	}
+	if (script.magnifying) {
+		global.tweenManager.stopTween(script.magnifying, "transitionin");
+		global.tweenManager.resetObject(script.magnifying, "transitionin");
+	}
+	if (label) {
+		global.tweenManager.stopTween(script.label, "transitionin");
+		global.tweenManager.resetObject(script.label, "transitionin");
+	}
+	
+	hintObjects.enabled = false;
 }
 
 function onTouchStart() {
-	if(openedState) {
+	if (openedState) {
 		closeHint();
 	} else {
 		openHint();
@@ -169,38 +282,13 @@ function onTouchStart() {
 }
 
 // Texture helpers
-function getPreviewTextureAspectRatio() {
-	return script.previewTexture.getHeight() / script.previewTexture.getWidth();
+function getAspectRatio(texture) {
+	return texture.getHeight() / texture.getWidth();
 }
 
-function setTexture (spriteObject, previewTexture) {
-	var mainPass = spriteObject.getFirstComponent("Component.SpriteVisual").mainPass;
+function setTexture(sceneObject, previewTexture) {
+	var mainPass = sceneObject.getFirstComponent("Component.Image").mainPass;
 	mainPass.baseTex = previewTexture;
-}
-
-function clampScale(scale, minScale, maxScale) {
-	var safeAreaAspect = script.deviceCameraOutput.getWidth() / (script.deviceCameraOutput.getHeight() - totalHeightSnapchatUI);
-	var newScale = vec3.one()
-		.uniformScale(100)
-		.scale(scale);
-
-	var largestComponent = newScale.x >= newScale.y ? "x" : "y";
-	var smallestComponent = largestComponent == "x" ? "y" : "x";
-
-	// If image is wide or square, we need to account for screen aspect ratio
-	if (largestComponent == "x") {
-		maxScale *= safeAreaAspect;
-	}
-
-	// Make sure preview is of min scale
-	newScale = newScale.uniformScale( minScale / newScale[smallestComponent] );
-
-	// Make sure preview doesn't go beyond the screen
-	if (newScale[largestComponent] > maxScale) {
-		newScale = newScale.uniformScale( maxScale / newScale[largestComponent] );
-	}
-
-	return newScale;
 }
 
 // Bind events
@@ -209,5 +297,7 @@ updateEvent.bind(onUpdate);
 
 var touchStartEvent = script.createEvent("TouchStartEvent");
 touchStartEvent.bind(onTouchStart);
+
+checkInputValues();
 
 initialize();

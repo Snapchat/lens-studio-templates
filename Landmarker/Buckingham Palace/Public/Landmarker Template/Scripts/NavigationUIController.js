@@ -40,6 +40,8 @@ var controlPlateCenter = new vec2(script.controlPlate.anchors.left, script.contr
 var controlDotAnchors = script.controlDot.anchors;
 var distanceSymbolAnchors = script.distanceSymbol.anchors;
 var worldOrigin = new vec3(0,0,0);
+var worldUp = vec3.up();
+var worldForward = vec3.forward();
 var manipulating;
 
 // States
@@ -58,13 +60,12 @@ global.touchSystem.touchBlocking = true;
 // Allow double-tap to be passed through to Snapchat to flip the camera.
 global.touchSystem.enableTouchBlockingException("TouchTypeDoubleTap", true);
 
-
 // Events
-function onUpdate (eventData){
-	if (manipulating){
+function onUpdate(eventData) {
+	if (manipulating) {
 		if (controlPos) {
-			var direction = controlPos.worldSpace
-			moveCameraWith( new vec3(direction.x, 0, direction.y));	
+			var direction = controlPos.worldSpace;
+			moveCameraWith(new vec3(direction.x, 0, direction.y));
 		}
 	}
 	else {
@@ -76,7 +77,7 @@ function onUpdate (eventData){
 	updateDistanceMarker();
 }
 
-function onTouchStart (eventData){
+function onTouchStart(eventData) {
 	var touchPos = eventData.getTouchPosition();
 
 	if (touchWithinSpriteAligner(touchPos, script.controlPlate)) {
@@ -85,33 +86,33 @@ function onTouchStart (eventData){
 	}
 }
 
-function onTouchMove (eventData){
+function onTouchMove(eventData) {
 	if (!manipulating) return;
 
 	var touchPos = eventData.getTouchPosition();
 	moveControlDot(touchPos);
 }
 
-function onTouchEnd (eventData){
+function onTouchEnd(eventData) {
 	if (!manipulating) return;
 	manipulating = false;
 	centeringDot = true;
 }
 
 // Helpers
-function screenPosToBindingPoint(screenPos){
+function screenPosToBindingPoint(screenPos) {
 	var x = (screenPos.x * 2) - 1;
 	var y = 1 - (screenPos.y * 2);
 	return new vec2(x, y);
 }
 
-function bindingPointToScreenPos(bindingPoint){
+function bindingPointToScreenPos(bindingPoint) {
 	var x = (bindingPoint.x + 1) / 2;
 	var y = (1 - bindingPoint.y) / 2;
 	return new vec2(x, y);
 }
 
-function getControlPosition (v, radius) {
+function getControlPosition(v, radius) {
 	var screenSpace = v;
 
 	// Convert to worldspace since screen space is affected by aspect ratio
@@ -120,7 +121,7 @@ function getControlPosition (v, radius) {
 
 	// If current V is farther from center than radius, clamp it
 	var distance = clampedWorldSpace.distance(centerWorldPos);
-	if (distance > radius){
+	if (distance > radius) {
 		clampedWorldSpace = centerWorldPos.moveTowards(clampedWorldSpace, radius);
 
 		screenSpace = script.orthoCamera.worldSpaceToScreenSpace(clampedWorldSpace);
@@ -159,7 +160,7 @@ function centerControlDot() {
 	} else {
 		centeringDot = false;
 	}
-	
+
 }
 
 function touchWithinSpriteAligner(touchPos, spriteAligner) {
@@ -173,7 +174,7 @@ function touchWithinSpriteAligner(touchPos, spriteAligner) {
 	var rightBound = (centerInWorldSpace.x + script.controlPlate.offsets.right);
 	var bottomBound = (centerInWorldSpace.y + script.controlPlate.offsets.bottom);
 	var topBound = (centerInWorldSpace.y + script.controlPlate.offsets.top);
-	
+
 	return (
 		screenPosInWorldSpace.x > leftBound
 		&& screenPosInWorldSpace.x < rightBound
@@ -182,22 +183,25 @@ function touchWithinSpriteAligner(touchPos, spriteAligner) {
 	);
 }
 
-function moveCameraWith(direction){
-	var pos = cameraTransform.getWorldPosition()
-	pos = pos.add(direction.uniformScale(moveSpeed));
-	if (pos.distance(worldOrigin) > maxDistanceFromCenter){
+function moveCameraWith(direction) {
+	var cameraDirection = cameraTransform.forward.projectOnPlane(worldUp);
+	var rot = quat.rotationFromTo(worldForward, cameraDirection);
+	var globalDirection = mat4.fromRotation(rot).multiplyDirection(direction);
+	var pos = cameraTransform.getWorldPosition();
+	pos = pos.add(globalDirection.uniformScale(moveSpeed));
+	if (pos.distance(worldOrigin) > maxDistanceFromCenter) {
 		print("NavigationUIController: reach maximum navigation travel distance");
 		return;
 	}
 	cameraTransform.setWorldPosition(pos);
 }
 
-function resetPosition(){
+function resetPosition() {
 	var pos = script.debugViewAnchor.getTransform().getWorldPosition();
 	cameraTransform.setWorldPosition(pos);
 }
 
-function setCameraMode(mode){
+function setCameraMode(mode) {
 	//camera mode 0: look at target
 	switch (mode) {
 		case 0:
@@ -215,12 +219,12 @@ function setCameraMode(mode){
 	}
 }
 
-function setLookAtEnabled(status){
+function setLookAtEnabled(status) {
 	var lookAtComponent = script.sceneCamera.getSceneObject().getFirstComponent("Component.LookAtComponent");
 	lookAtComponent.enabled = status;
 }
 
-function setGyroEnabled(status){
+function setGyroEnabled(status) {
 	var deviceTracking = script.sceneCamera.getSceneObject().getFirstComponent("Component.DeviceTracking");
 	deviceTracking.enabled = status;
 }
@@ -228,9 +232,9 @@ function setGyroEnabled(status){
 function updateDistanceMarker() {
 	var targetPos = script.distanceTarget.getTransform().getWorldPosition();
 
-  // Check if visible
+	// Check if visible
 	var rotationZ = cameraTransform.getWorldRotation().toEulerAngles().z;
-	var distanceMarkerVisible = !(rotationZ > Math.PI*0.9 && rotationZ < Math.PI*1.1);
+	var distanceMarkerVisible = !(rotationZ > Math.PI * 0.9 && rotationZ < Math.PI * 1.1);
 	script.distanceSymbol.getSceneObject().enabled = distanceMarkerVisible;
 	script.distanceText.getSceneObject().enabled = distanceMarkerVisible;
 

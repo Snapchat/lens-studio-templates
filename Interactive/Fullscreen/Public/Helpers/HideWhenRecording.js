@@ -1,5 +1,5 @@
 // HideWhenRecording.js
-// Version: 0.0.1
+// Version: 0.0.2
 // Event: Frame Updated
 // Description: Toggles visibility of Sprites and Visuals when recording. Useful for hints.
 
@@ -19,15 +19,14 @@ else
 }
 
 function setVisualsEnabled (status) {
-    var componentNames = ["Component.MeshVisual", "Component.SpriteVisual"];
+    var allComponents = script.getSceneObject().getAllComponents();
 
-    for (var i = 0; i < componentNames.length; i++)
+    for (var i = 0; i < allComponents.length; i++)
     {
-        for (var j = 0; j < script.getSceneObject().getComponentCount(componentNames[i]); j++)
-        {
-            script.getSceneObject().getComponentByIndex(componentNames[i], j).enabled = status;
-        }   
-    }
+        if (allComponents[i].mainPass) {
+            allComponents[i].enabled = status;
+        }
+    }   
 
     script.isVisible = status;
 }

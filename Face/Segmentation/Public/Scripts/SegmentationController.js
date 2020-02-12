@@ -149,7 +149,9 @@ function configureImage()
 	}
 	else
 	{
-		script.imageBillboard.enabled = false;
+		if(script.imageBillboard){
+			script.imageBillboard.enabled = false;
+		}
 	}
 }
 

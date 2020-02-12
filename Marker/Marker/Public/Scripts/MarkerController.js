@@ -1,5 +1,5 @@
 // MarkerController.js
-// Version: 0.0.1
+// Version: 0.0.2
 // Event: Lens Initialized
 // Description: Controls the marker found and lost behavior. 
 
@@ -23,8 +23,7 @@ function onLensTurnOnEvent()
 var turnOnEvent = script.createEvent("TurnOnEvent");
 turnOnEvent.bind(onLensTurnOnEvent); 
 
-
-script.marker.onMarkerFound = function()
+script.marker.onMarkerFound = wrapFunction(script.marker.onMarkerFound, function()
 {
     if(script.hintControllerScript)
     {
@@ -79,9 +78,9 @@ script.marker.onMarkerFound = function()
         }
     }
 
-}
+});
 
-script.marker.onMarkerLost = function()
+script.marker.onMarkerLost = wrapFunction(script.marker.onMarkerLost, function()
 {
     if(script.hintControllerScript)
     {
@@ -122,4 +121,17 @@ script.marker.onMarkerLost = function()
             script.fadeEffectScript.api.resetFadeEffect();
         }
     }
+});
+
+function wrapFunction(origFunc, newFunc) 
+{
+    if (!origFunc)
+    {
+        return newFunc;
+    }
+    return function() 
+    {
+        origFunc();
+        newFunc();
+    };
 }

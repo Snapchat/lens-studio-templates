@@ -1,1796 +1,1805 @@
 {
-    "lens_id": "", 
-    "document_id": "X6WkTCExoEfYwkBfPv7U", 
-    "original_document_id": "X6WkTCExoEfYwkBfPv7U", 
-    "version": "14", 
-    "lastChanged": "0", 
-    "preview": "icon.png", 
-    "videoPreview": "", 
-    "videoPreviewUpdateTime": "", 
-    "isReadOnly": "true", 
+    "lens_id": "",
+    "document_id": "MthsRfZuauGJtQtuJ4L1",
+    "original_document_id": "X6WkTCExoEfYwkBfPv7U",
+    "version": "16",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
     "studioVersion": {
         "createdWith": {
-            "type": "Public", 
-            "major": "2", 
-            "minor": "0", 
-            "patch": "0", 
-            "build": "2"
-        }, 
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
+        },
         "lastSavedWith": {
-            "type": "Public", 
-            "major": "2", 
-            "minor": "0", 
-            "patch": "0", 
-            "build": "2"
+            "type": "Public",
+            "major": "2",
+            "minor": "1",
+            "patch": "0",
+            "build": "0"
         }
-    }, 
+    },
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "Frames"
-                    ], 
+                    ],
                     [
                         "Materials"
-                    ], 
+                    ],
                     [
                         "Meshes"
-                    ], 
+                    ],
                     [
                         "Scripts"
-                    ], 
+                    ],
                     [
                         "Textures"
                     ]
                 ]
             ]
-        }, 
+        },
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1498868548554305:767", 
-                    "1509488222389516:56404", 
-                    "1509490042146819:170181", 
-                    "1510620159858641:95540", 
-                    "1510620163965409:96627", 
+                    "1498868548554305:767",
+                    "1509488222389516:56404",
+                    "1509490042146819:170181",
+                    "1510620159858641:95540",
+                    "1510620163965409:96627",
                     "1520377647524472:78701"
                 ]
             ]
-        }, 
+        },
         "MetaInfoUIComponent": {
-            "icon_hash": "6826b2d59ba67d7c91508d679d5f7722", 
-            "icon_path": "icon.png", 
+            "icon_hash": "6826b2d59ba67d7c91508d679d5f7722",
+            "icon_path": "icon.png",
             "hints": [
                 ""
-            ], 
-            "lens": "Picture Frame", 
-            "camera": "1", 
+            ],
+            "lens": "Picture Frame",
+            "camera": "1",
             "lens_descriptors": ""
-        }, 
+        },
         "PreviewUiComponent": {
-            "is_back_camera": "true", 
-            "show_snap_ui": "true", 
-            "show_sponsored_ui": "false"
-        }, 
+            "is_back_camera": "true",
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Stairs.jpg",
+                "back_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Stairs.webm",
+                "back_preview_is_favorite": "false"
+            }
+        },
         "InspectorUiComponent": {
             "collapsedList": [
                 ""
             ]
-        }, 
-        "LayerUiComponent": {
-            "colorMap": [
-                {
-                    "k": "1", 
-                    "v": "20"
-                }
-            ]
         }
-    }, 
+    },
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "2", 
-                    "uid": "2:2", 
-                    "name": "Camera Input", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
-                }, 
+                },
                 {
-                    "resId": "5", 
-                    "uid": "1498868100994851:367", 
-                    "name": "\/Resources\/Resource5.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "5",
+                    "uid": "1498868100994851:367",
+                    "name": "\/Resources\/Resource5.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "7", 
-                    "uid": "1498868158392542:504", 
-                    "name": "\/Resources\/Resource7.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "7",
+                    "uid": "1498868158392542:504",
+                    "name": "\/Resources\/Resource7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "11", 
-                    "uid": "1498868172319414:533", 
-                    "name": "\/Resources\/Resource11", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "11",
+                    "uid": "1498868172319414:533",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "13", 
-                    "uid": "1498868868171510:1508", 
-                    "name": "\/Resources\/Resource13.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "13",
+                    "uid": "1498868868171510:1508",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "160", 
-                    "uid": "1509487787794075:30175", 
-                    "name": "\/Resources\/Resource160.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "160",
+                    "uid": "1509487787794075:30175",
+                    "name": "\/Resources\/Resource160.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "182", 
-                    "uid": "1509492833333682:279835", 
-                    "name": "\/Resources\/Resource182.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "182",
+                    "uid": "1509492833333682:279835",
+                    "name": "\/Resources\/Resource182.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "183", 
-                    "uid": "1509492833374091:279844", 
-                    "name": "\/Resources\/Resource183.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "183",
+                    "uid": "1509492833374091:279844",
+                    "name": "\/Resources\/Resource183.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "192", 
-                    "uid": "1509493011908157:280223", 
-                    "name": "\/Resources\/Resource192.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "192",
+                    "uid": "1509493011908157:280223",
+                    "name": "\/Resources\/Resource192.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "193", 
-                    "uid": "1509493011920121:280232", 
-                    "name": "\/Resources\/Resource193.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "193",
+                    "uid": "1509493011920121:280232",
+                    "name": "\/Resources\/Resource193.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "194", 
-                    "uid": "1509493318346040:286994", 
-                    "name": "\/Resources\/Resource194.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "194",
+                    "uid": "1509493318346040:286994",
+                    "name": "\/Resources\/Resource194.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "195", 
-                    "uid": "1509493318391871:287003", 
-                    "name": "\/Resources\/Resource195.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "195",
+                    "uid": "1509493318391871:287003",
+                    "name": "\/Resources\/Resource195.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "196", 
-                    "uid": "1509493318443637:287012", 
-                    "name": "\/Resources\/Resource196.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "196",
+                    "uid": "1509493318443637:287012",
+                    "name": "\/Resources\/Resource196.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "200", 
-                    "uid": "1509493543692629:66391", 
-                    "name": "Camera Output", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "200",
+                    "uid": "1509493543692629:66391",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "0"
-                }, 
+                },
                 {
-                    "resId": "208", 
-                    "uid": "1509520383227958:24746", 
-                    "name": "\/Resources\/Resource208.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "208",
+                    "uid": "1509520383227958:24746",
+                    "name": "\/Resources\/Resource208.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "209", 
-                    "uid": "1510086269405189:8649", 
-                    "name": "\/Resources\/Resource209.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "209",
+                    "uid": "1510086269405189:8649",
+                    "name": "\/Resources\/Resource209.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "210", 
-                    "uid": "1510598751069370:21167", 
-                    "name": "\/Resources\/Resource210.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "210",
+                    "uid": "1510598751069370:21167",
+                    "name": "\/Resources\/Resource210.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "211", 
-                    "uid": "1510598777425338:21184", 
-                    "name": "\/Resources\/Resource211.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "211",
+                    "uid": "1510598777425338:21184",
+                    "name": "\/Resources\/Resource211.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "247", 
-                    "uid": "1510622465578532:8443", 
-                    "name": "\/Resources\/Resource247.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "247",
+                    "uid": "1510622465578532:8443",
+                    "name": "\/Resources\/Resource247.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "250", 
-                    "uid": "1510622465578336:8431", 
-                    "name": "\/Resources\/Resource250.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "250",
+                    "uid": "1510622465578336:8431",
+                    "name": "\/Resources\/Resource250.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "251", 
-                    "uid": "1510622465578083:8415", 
-                    "name": "\/Resources\/Resource251.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "251",
+                    "uid": "1510622465578083:8415",
+                    "name": "\/Resources\/Resource251.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "252", 
-                    "uid": "1510622465510160:8396", 
-                    "name": "\/Resources\/Resource252.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "252",
+                    "uid": "1510622465510160:8396",
+                    "name": "\/Resources\/Resource252.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "257", 
-                    "uid": "1510622784648922:14164", 
-                    "name": "\/Resources\/Resource257.png", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "257",
+                    "uid": "1510622784648922:14164",
+                    "name": "\/Resources\/Resource257.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "261", 
-                    "uid": "1510623174404575:25886", 
-                    "name": "\/Resources\/Resource261.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "261",
+                    "uid": "1510623174404575:25886",
+                    "name": "\/Resources\/Resource261.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "267", 
-                    "uid": "1510623174345981:25871", 
-                    "name": "\/Resources\/Resource267.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "267",
+                    "uid": "1510623174345981:25871",
+                    "name": "\/Resources\/Resource267.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "275", 
-                    "uid": "1510624611313663:97512", 
-                    "name": "\/Resources\/Resource275.js", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "275",
+                    "uid": "1510624611313663:97512",
+                    "name": "\/Resources\/Resource275.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "278", 
-                    "uid": "1510624714392951:103122", 
-                    "name": "\/Resources\/Resource278.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "278",
+                    "uid": "1510624714392951:103122",
+                    "name": "\/Resources\/Resource278.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "279", 
-                    "uid": "1510624714393132:103128", 
-                    "name": "\/Resources\/Resource279.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "279",
+                    "uid": "1510624714393132:103128",
+                    "name": "\/Resources\/Resource279.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "282", 
-                    "uid": "1510624714393309:103134", 
-                    "name": "\/Resources\/Resource282.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "282",
+                    "uid": "1510624714393309:103134",
+                    "name": "\/Resources\/Resource282.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "5"
-                }, 
+                },
                 {
-                    "resId": "327", 
-                    "uid": "1511404974507810:96248", 
-                    "name": "\/Resources\/Resource327", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "327",
+                    "uid": "1511404974507810:96248",
+                    "name": "\/Resources\/Resource327",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "329", 
-                    "uid": "1511405079705702:97231", 
-                    "name": "\/Resources\/Resource329.mesh", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "329",
+                    "uid": "1511405079705702:97231",
+                    "name": "\/Resources\/Resource329.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "331", 
-                    "uid": "1511405247384601:100546", 
-                    "name": "\/Resources\/Resource331", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "331",
+                    "uid": "1511405247384601:100546",
+                    "name": "\/Resources\/Resource331",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "332", 
-                    "uid": "1519941447468011:639987", 
-                    "name": "\/Resources\/Resource332", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "332",
+                    "uid": "1519941447468011:639987",
+                    "name": "\/Resources\/Resource332",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "338", 
-                    "uid": "1519941807816995:642925", 
-                    "name": "\/Resources\/Resource338", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "338",
+                    "uid": "1519941807816995:642925",
+                    "name": "\/Resources\/Resource338",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "344", 
-                    "uid": "1519941967958638:645645", 
-                    "name": "\/Resources\/Resource344", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "344",
+                    "uid": "1519941967958638:645645",
+                    "name": "\/Resources\/Resource344",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
-                }, 
+                },
                 {
-                    "resId": "346", 
-                    "uid": "1519942080527926:647490", 
-                    "name": "\/Resources\/Resource346", 
-                    "sourceFilePath": "", 
-                    "additionalProperties": "", 
+                    "resId": "346",
+                    "uid": "1519942080527926:647490",
+                    "name": "\/Resources\/Resource346",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
                     "flags": "1"
                 }
-            ]
-        }, 
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
         "InspectorComponent": {
             "Component": {
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                }, 
+                },
                 "ScreenTransform": {
-                    "uidData": "", 
+                    "uidData": "",
                     "generalData": ""
                 }
             }
-        }, 
+        },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1498868100994780:363", 
-                "1": "1509488222389516:56404", 
-                "2": "1509488507358977:82149", 
-                "3": "1509490042146819:170181", 
-                "4": "1509492823902701:277439", 
-                "5": "1509493136070300:280430", 
-                "6": "1509493160453737:282494", 
-                "7": "1509493188107488:284538", 
-                "8": "1509494056201058:21458", 
-                "9": "1509494075806741:23629", 
-                "10": "1509494096263146:26050", 
-                "11": "1509494107830153:28190", 
-                "12": "1509519957665504:18597", 
-                "13": "1510618280552451:62803", 
-                "14": "1510618280552550:62843", 
-                "15": "1510618280552609:62870", 
-                "16": "1510620159858641:95540", 
-                "17": "1510620159858656:95543", 
-                "18": "1510620159858681:95549", 
-                "19": "1510620159858696:95555", 
-                "20": "1510620159858709:95561", 
-                "21": "1510620159858720:95567", 
-                "22": "1510620159858739:95573", 
-                "23": "1510620159858751:95579", 
-                "24": "1510620159858761:95585", 
-                "25": "1510620163965409:96627", 
-                "26": "1510620163965423:96630", 
-                "27": "1510620163965447:96636", 
-                "28": "1510620163965461:96642", 
-                "29": "1510620163965473:96648", 
-                "30": "1510620163965483:96654", 
-                "31": "1510620163965494:96660", 
-                "32": "1510620163965505:96666", 
-                "33": "1510620163965515:96672", 
-                "34": "1511404974503917:96242", 
-                "35": "1519941328678572:637049", 
-                "36": "1520377647524472:78701", 
+                "0": "1498868100994780:363",
+                "1": "1509488222389516:56404",
+                "2": "1509488507358977:82149",
+                "3": "1509490042146819:170181",
+                "4": "1509492823902701:277439",
+                "5": "1509493136070300:280430",
+                "6": "1509493160453737:282494",
+                "7": "1509493188107488:284538",
+                "8": "1509494056201058:21458",
+                "9": "1509494075806741:23629",
+                "10": "1509494096263146:26050",
+                "11": "1509494107830153:28190",
+                "12": "1509519957665504:18597",
+                "13": "1510618280552451:62803",
+                "14": "1510618280552550:62843",
+                "15": "1510618280552609:62870",
+                "16": "1510620159858641:95540",
+                "17": "1510620159858656:95543",
+                "18": "1510620159858681:95549",
+                "19": "1510620159858696:95555",
+                "20": "1510620159858709:95561",
+                "21": "1510620159858720:95567",
+                "22": "1510620159858739:95573",
+                "23": "1510620159858751:95579",
+                "24": "1510620159858761:95585",
+                "25": "1510620163965409:96627",
+                "26": "1510620163965423:96630",
+                "27": "1510620163965447:96636",
+                "28": "1510620163965461:96642",
+                "29": "1510620163965473:96648",
+                "30": "1510620163965483:96654",
+                "31": "1510620163965494:96660",
+                "32": "1510620163965505:96666",
+                "33": "1510620163965515:96672",
+                "34": "1511404974503917:96242",
+                "35": "1519941328678572:637049",
+                "36": "1520377647524472:78701",
                 "37": "1553535602748760:61163"
             }
-        }, 
+        },
         "LayerComponent": {
-            "nextLayerId": "3", 
-            "showOrthographicLayer": "false", 
+            "nextLayerId": "3",
+            "showOrthographicLayer": "false",
             "layersInfo": [
                 {
-                    "layerId": "1", 
-                    "layerName": "Default Layer", 
-                    "layerMask": "1"
-                }, 
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
                 {
-                    "layerId": "2", 
-                    "layerName": "Orthographic Layer", 
-                    "layerMask": "1048576"
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
                 }
             ]
-        }, 
+        },
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "1", 
+                    "k": "1",
                     "v": "Files\/File1.mesh"
-                }, 
+                },
                 {
-                    "k": "2", 
+                    "k": "2",
                     "v": "Files\/File2.js"
-                }, 
+                },
                 {
-                    "k": "3", 
+                    "k": "3",
                     "v": "Files\/File3"
-                }, 
+                },
                 {
-                    "k": "4", 
+                    "k": "4",
                     "v": "Files\/File4.js"
-                }, 
+                },
                 {
-                    "k": "5", 
+                    "k": "5",
                     "v": "Files\/File5.js"
-                }, 
+                },
                 {
-                    "k": "6", 
+                    "k": "6",
                     "v": "Files\/File6.png"
-                }, 
+                },
                 {
-                    "k": "7", 
+                    "k": "7",
                     "v": "Files\/File7.png"
-                }, 
+                },
                 {
-                    "k": "8", 
+                    "k": "8",
                     "v": "Files\/File8.png"
-                }, 
+                },
                 {
-                    "k": "9", 
+                    "k": "9",
                     "v": "Files\/File9.png"
-                }, 
+                },
                 {
-                    "k": "10", 
+                    "k": "10",
                     "v": "Files\/File10.png"
-                }, 
+                },
                 {
-                    "k": "11", 
+                    "k": "11",
                     "v": "Files\/File11.png"
-                }, 
+                },
                 {
-                    "k": "12", 
+                    "k": "12",
                     "v": "Files\/File12.png"
-                }, 
+                },
                 {
-                    "k": "13", 
+                    "k": "13",
                     "v": "Files\/File13.mesh"
-                }, 
+                },
                 {
-                    "k": "14", 
+                    "k": "14",
                     "v": "Files\/File14.png"
-                }, 
+                },
                 {
-                    "k": "15", 
+                    "k": "15",
                     "v": "Files\/File15.mesh"
-                }, 
+                },
                 {
-                    "k": "16", 
+                    "k": "16",
                     "v": "Files\/File16.mesh"
-                }, 
+                },
                 {
-                    "k": "17", 
+                    "k": "17",
                     "v": "Files\/File17.mesh"
-                }, 
+                },
                 {
-                    "k": "18", 
+                    "k": "18",
                     "v": "Files\/File18.mesh"
-                }, 
+                },
                 {
-                    "k": "19", 
+                    "k": "19",
                     "v": "Files\/File19.mesh"
-                }, 
+                },
                 {
-                    "k": "20", 
+                    "k": "20",
                     "v": "Files\/File20.mesh"
-                }, 
+                },
                 {
-                    "k": "21", 
+                    "k": "21",
                     "v": "Files\/File21.png"
-                }, 
+                },
                 {
-                    "k": "22", 
+                    "k": "22",
                     "v": "Files\/File22.mesh"
-                }, 
+                },
                 {
-                    "k": "23", 
+                    "k": "23",
                     "v": "Files\/File23.mesh"
-                }, 
+                },
                 {
-                    "k": "24", 
+                    "k": "24",
                     "v": "Files\/File24.js"
-                }, 
+                },
                 {
-                    "k": "25", 
+                    "k": "25",
                     "v": "Files\/File25.mesh"
-                }, 
+                },
                 {
-                    "k": "26", 
+                    "k": "26",
                     "v": "Files\/File26.mesh"
-                }, 
+                },
                 {
-                    "k": "27", 
+                    "k": "27",
                     "v": "Files\/File27.mesh"
-                }, 
+                },
                 {
-                    "k": "28", 
+                    "k": "28",
                     "v": "Files\/File28"
-                }, 
+                },
                 {
-                    "k": "29", 
+                    "k": "29",
                     "v": "Files\/File29.mesh"
-                }, 
+                },
                 {
-                    "k": "30", 
+                    "k": "30",
                     "v": "Files\/File30"
-                }, 
+                },
                 {
-                    "k": "31", 
+                    "k": "31",
                     "v": "Files\/File31"
-                }, 
+                },
                 {
-                    "k": "32", 
+                    "k": "32",
                     "v": "Files\/File32"
-                }, 
+                },
                 {
-                    "k": "33", 
+                    "k": "33",
                     "v": "Files\/File33"
-                }, 
+                },
                 {
-                    "k": "34", 
+                    "k": "34",
                     "v": "Files\/File34"
-                }, 
+                },
                 {
-                    "k": "35", 
+                    "k": "35",
                     "v": "Files\/File35.lsmat"
-                }, 
+                },
                 {
-                    "k": "36", 
+                    "k": "36",
                     "v": "Files\/File36.lsmat"
-                }, 
+                },
                 {
-                    "k": "37", 
+                    "k": "37",
                     "v": "Files\/File37.lsmat"
-                }, 
+                },
                 {
-                    "k": "38", 
+                    "k": "38",
                     "v": "Files\/File38.lsmat"
-                }, 
+                },
                 {
-                    "k": "39", 
+                    "k": "39",
                     "v": "Files\/File39.lsmat"
-                }, 
+                },
                 {
-                    "k": "40", 
+                    "k": "40",
                     "v": "Files\/File40.lsmat"
-                }, 
+                },
                 {
-                    "k": "41", 
+                    "k": "41",
                     "v": "Files\/File41.lsmat"
                 }
             ]
-        }, 
+        },
         "WorldComponent": {
-            "sceneFile": "scene.scn", 
+            "sceneFile": "scene.scn",
             "sceneType": "binaryScene"
         }
-    }, 
+    },
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "1", 
+                        "k": "1",
                         "v": "Frames"
-                    }, 
+                    },
                     {
-                        "k": "2", 
+                        "k": "2",
                         "v": "Frames\/Textures"
-                    }, 
+                    },
                     {
-                        "k": "3", 
+                        "k": "3",
                         "v": "Frames\/Textures\/cap_frame_materialParams.png"
-                    }, 
+                    },
                     {
-                        "k": "4", 
+                        "k": "4",
                         "v": "Frames\/Textures\/cap_frame_base.png"
-                    }, 
+                    },
                     {
-                        "k": "5", 
+                        "k": "5",
                         "v": "Frames\/Textures\/white.png"
-                    }, 
+                    },
                     {
-                        "k": "6", 
+                        "k": "6",
                         "v": "Frames\/Materials"
-                    }, 
+                    },
                     {
-                        "k": "7", 
+                        "k": "7",
                         "v": "Frames\/Materials\/Gloss.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "8", 
+                        "k": "8",
                         "v": "Frames\/Materials\/Matte.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "9", 
+                        "k": "9",
                         "v": "Frames\/Materials\/White.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "10", 
+                        "k": "10",
                         "v": "Frames\/Materials\/Gold.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "11", 
+                        "k": "11",
                         "v": "Frames\/Meshes"
-                    }, 
+                    },
                     {
-                        "k": "12", 
+                        "k": "12",
                         "v": "Frames\/Meshes\/frame_a"
-                    }, 
+                    },
                     {
-                        "k": "13", 
+                        "k": "13",
                         "v": "Frames\/Meshes\/frame_a\/corner_a.mesh"
-                    }, 
+                    },
                     {
-                        "k": "14", 
+                        "k": "14",
                         "v": "Frames\/Meshes\/frame_a\/side_a.mesh"
-                    }, 
+                    },
                     {
-                        "k": "15", 
+                        "k": "15",
                         "v": "Frames\/Meshes\/frame_b"
-                    }, 
+                    },
                     {
-                        "k": "16", 
+                        "k": "16",
                         "v": "Frames\/Meshes\/frame_b\/side_b_matte.mesh"
-                    }, 
+                    },
                     {
-                        "k": "17", 
+                        "k": "17",
                         "v": "Frames\/Meshes\/frame_b\/corner_b_matte.mesh"
-                    }, 
+                    },
                     {
-                        "k": "18", 
+                        "k": "18",
                         "v": "Frames\/Meshes\/frame_b\/side_b.mesh"
-                    }, 
+                    },
                     {
-                        "k": "19", 
+                        "k": "19",
                         "v": "Frames\/Meshes\/frame_b\/corner_b.mesh"
-                    }, 
+                    },
                     {
-                        "k": "20", 
+                        "k": "20",
                         "v": "Frames\/Meshes\/Others"
-                    }, 
+                    },
                     {
-                        "k": "21", 
+                        "k": "21",
                         "v": "Frames\/Meshes\/Others\/ground_grid_mesh.mesh"
-                    }, 
+                    },
                     {
-                        "k": "22", 
+                        "k": "22",
                         "v": "Frames\/Meshes\/Others\/picture_collision_and_caster.mesh"
-                    }, 
+                    },
                     {
-                        "k": "23", 
+                        "k": "23",
                         "v": "Frames\/Meshes\/frame_c"
-                    }, 
+                    },
                     {
-                        "k": "24", 
+                        "k": "24",
                         "v": "Frames\/Meshes\/frame_c\/corner_c.mesh"
-                    }, 
+                    },
                     {
-                        "k": "25", 
+                        "k": "25",
                         "v": "Frames\/Meshes\/frame_c\/side_c.mesh"
-                    }, 
+                    },
                     {
-                        "k": "26", 
+                        "k": "26",
                         "v": "Frames\/Meshes\/frame_c\/star_01.mesh"
-                    }, 
+                    },
                     {
-                        "k": "27", 
+                        "k": "27",
                         "v": "Frames\/Meshes\/frame_c\/star_02.mesh"
-                    }, 
+                    },
                     {
-                        "k": "28", 
+                        "k": "28",
                         "v": "Frames\/Meshes\/frame_c\/star_03.mesh"
-                    }, 
+                    },
                     {
-                        "k": "29", 
+                        "k": "29",
                         "v": "Materials"
-                    }, 
+                    },
                     {
-                        "k": "30", 
+                        "k": "30",
                         "v": "Materials\/ground_grid.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "31", 
+                        "k": "31",
                         "v": "Materials\/matte_shadow.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "32", 
+                        "k": "32",
                         "v": "Materials\/picture.lsmat"
-                    }, 
+                    },
                     {
-                        "k": "33", 
+                        "k": "33",
                         "v": "Scripts"
-                    }, 
+                    },
                     {
-                        "k": "34", 
+                        "k": "34",
                         "v": "Scripts\/GroundGrid.js"
-                    }, 
+                    },
                     {
-                        "k": "35", 
+                        "k": "35",
                         "v": "Scripts\/WorldObjectController.js"
-                    }, 
+                    },
                     {
-                        "k": "36", 
+                        "k": "36",
                         "v": "Scripts\/PictureFrameController.js"
-                    }, 
+                    },
                     {
-                        "k": "37", 
+                        "k": "37",
                         "v": "Scripts\/UniformScale.js"
-                    }, 
+                    },
                     {
-                        "k": "38", 
+                        "k": "38",
                         "v": "Textures"
-                    }, 
+                    },
                     {
-                        "k": "39", 
+                        "k": "39",
                         "v": "Textures\/marvista_diff.png"
-                    }, 
+                    },
                     {
-                        "k": "40", 
+                        "k": "40",
                         "v": "Textures\/marvista_spec.png"
-                    }, 
+                    },
                     {
-                        "k": "41", 
+                        "k": "41",
                         "v": "Textures\/white.png"
-                    }, 
+                    },
                     {
-                        "k": "42", 
+                        "k": "42",
                         "v": "Textures\/ground_grid_mask.png"
-                    }, 
+                    },
                     {
-                        "k": "43", 
+                        "k": "43",
                         "v": "Textures\/ground_grid.png"
-                    }, 
+                    },
                     {
-                        "k": "44", 
+                        "k": "44",
                         "v": "Textures\/picture [REMOVE_ME].png"
-                    }, 
+                    },
                     {
-                        "k": "45", 
+                        "k": "45",
                         "v": "Meshes"
-                    }, 
+                    },
                     {
-                        "k": "46", 
+                        "k": "46",
                         "v": "Meshes\/Plane.mesh"
                     }
-                ], 
+                ],
                 "hashes": [
                     {
-                        "k": "3", 
+                        "k": "3",
                         "v": "39d1728142e928fc2f2e3292eb1825a9"
-                    }, 
+                    },
                     {
-                        "k": "4", 
+                        "k": "4",
                         "v": "e6e030a0075b1caf35ec5f30f3700cdb"
-                    }, 
+                    },
                     {
-                        "k": "5", 
+                        "k": "5",
                         "v": "e6e030a0075b1caf35ec5f30f3700cdb"
-                    }, 
+                    },
                     {
-                        "k": "7", 
+                        "k": "7",
                         "v": "ef93067080102c720597ef85ca178464"
-                    }, 
+                    },
                     {
-                        "k": "8", 
+                        "k": "8",
                         "v": "368ebb33260d15b0e5103d3b187d1619"
-                    }, 
+                    },
                     {
-                        "k": "9", 
+                        "k": "9",
                         "v": "3ba5154b170e246e8f4b757bf25179a9"
-                    }, 
+                    },
                     {
-                        "k": "10", 
+                        "k": "10",
                         "v": "4f9eaa12574034141cc19078cda53cfd"
-                    }, 
+                    },
                     {
-                        "k": "13", 
+                        "k": "13",
                         "v": "b4876c5f63c3f80c80f6d98e6a20fd04"
-                    }, 
+                    },
                     {
-                        "k": "14", 
+                        "k": "14",
                         "v": "10189d781513c46d1a5bbc6bf2362914"
-                    }, 
+                    },
                     {
-                        "k": "16", 
+                        "k": "16",
                         "v": "c45683b1b9e075b103ada6fa226770d6"
-                    }, 
+                    },
                     {
-                        "k": "17", 
+                        "k": "17",
                         "v": "afb3816f7ec07e7c29d629c1f0c27170"
-                    }, 
+                    },
                     {
-                        "k": "18", 
+                        "k": "18",
                         "v": "e5e0b5373f1e7a49462bc0e67d8c0b97"
-                    }, 
+                    },
                     {
-                        "k": "19", 
+                        "k": "19",
                         "v": "4e9b729ff9a823cc1f9191a4e2de0902"
-                    }, 
+                    },
                     {
-                        "k": "21", 
+                        "k": "21",
                         "v": "ca6a55793555b88df4aca4a7329624e5"
-                    }, 
+                    },
                     {
-                        "k": "22", 
+                        "k": "22",
                         "v": "f52264f0fafaf1af8dc0ecd851c00ad1"
-                    }, 
+                    },
                     {
-                        "k": "24", 
+                        "k": "24",
                         "v": "ad23c3c5b1a3d4738a1546031e475e35"
-                    }, 
+                    },
                     {
-                        "k": "25", 
+                        "k": "25",
                         "v": "54073224b78d9d4af74dfdcb2f15afd3"
-                    }, 
+                    },
                     {
-                        "k": "26", 
+                        "k": "26",
                         "v": "dbc8b9d4a96aebcc9c64bc6bbcd7e529"
-                    }, 
+                    },
                     {
-                        "k": "27", 
+                        "k": "27",
                         "v": "41daa34ab03797481fe413ed2e273aea"
-                    }, 
+                    },
                     {
-                        "k": "28", 
+                        "k": "28",
                         "v": "c5b3300952f525e722bb78f859e7b30e"
-                    }, 
+                    },
                     {
-                        "k": "30", 
+                        "k": "30",
                         "v": "c380796334c4a57f3413bad9b1e0194a"
-                    }, 
+                    },
                     {
-                        "k": "31", 
+                        "k": "31",
                         "v": "afdf46bad68e9a4aaf4f5c32300d7d3d"
-                    }, 
+                    },
                     {
-                        "k": "32", 
+                        "k": "32",
                         "v": "e926334285c5632dc039ed1da351eff0"
-                    }, 
+                    },
                     {
-                        "k": "34", 
+                        "k": "34",
                         "v": "09a5c3ee815c9134ffc2d25e7355d78a"
-                    }, 
+                    },
                     {
-                        "k": "35", 
+                        "k": "35",
                         "v": "fb66ad4478ded59ebb2b4df94ba44105"
-                    }, 
+                    },
                     {
-                        "k": "36", 
+                        "k": "36",
                         "v": "ba6f43e25a6a4c1bdbd70d6ccd95e316"
-                    }, 
+                    },
                     {
-                        "k": "37", 
+                        "k": "37",
                         "v": "23cd02cd1f4df9f0af5a572bce43f324"
-                    }, 
+                    },
                     {
-                        "k": "39", 
+                        "k": "39",
                         "v": "12d4df93737811f6fd42aa6b030b3e6c"
-                    }, 
+                    },
                     {
-                        "k": "40", 
+                        "k": "40",
                         "v": "3cc0a1d9deddf2a85fd8d980abc0248c"
-                    }, 
+                    },
                     {
-                        "k": "41", 
+                        "k": "41",
                         "v": "5167f791115e0d7d62e5103740694a36"
-                    }, 
+                    },
                     {
-                        "k": "42", 
+                        "k": "42",
                         "v": "c423d0672421aae010ca988af5ed0711"
-                    }, 
+                    },
                     {
-                        "k": "43", 
+                        "k": "43",
                         "v": "caeea0e0bf0313ac710d99cb41b32f56"
-                    }, 
+                    },
                     {
-                        "k": "44", 
+                        "k": "44",
                         "v": "08a31fb53a9a4fd8fa7cb86a2e03d306"
-                    }, 
+                    },
                     {
-                        "k": "46", 
+                        "k": "46",
                         "v": "4649d59d58657e786eebaad58a052d2a"
-                    }, 
+                    },
                     {
-                        "k": "48", 
+                        "k": "48",
                         "v": "27d610dea5305ce9c8b498e80f698b37"
-                    }, 
+                    },
                     {
-                        "k": "49", 
+                        "k": "49",
                         "v": "8a8e0d78c6cbcb4af64f0f9bdd603b6c"
-                    }, 
+                    },
                     {
-                        "k": "50", 
+                        "k": "50",
                         "v": "680e6628414b9cb060f66bc1607e1547"
-                    }, 
+                    },
                     {
-                        "k": "51", 
+                        "k": "51",
                         "v": "17ebc8dfd5856de9f5d7e2a55ded12b7"
-                    }, 
+                    },
                     {
-                        "k": "52", 
+                        "k": "52",
                         "v": "0a872dd19a8bc343ba7fadc67a381d61"
                     }
-                ], 
+                ],
                 "publicState": {
                     "tree": {
-                        "isFolder": "true", 
-                        "lastModified": "2019-05-13T11:24:59", 
-                        "name": "Public", 
-                        "hash": "97d633a2f112413ef905fc1990dce147", 
+                        "isFolder": "true",
+                        "lastModified": "2019-07-31T10:03:39",
+                        "name": "Public",
+                        "hash": "97d633a2f112413ef905fc1990dce147",
                         "children": [
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:24:59", 
-                                "name": "Textures", 
-                                "hash": "b85f646a15d26d660c635f3dd9fb162a", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:03:39",
+                                "name": "Textures",
+                                "hash": "b85f646a15d26d660c635f3dd9fb162a",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "marvista_diff.png", 
-                                        "hash": "12d4df93737811f6fd42aa6b030b3e6c", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "marvista_diff.png",
+                                        "hash": "12d4df93737811f6fd42aa6b030b3e6c",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "marvista_spec.png", 
-                                        "hash": "3cc0a1d9deddf2a85fd8d980abc0248c", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "marvista_spec.png",
+                                        "hash": "3cc0a1d9deddf2a85fd8d980abc0248c",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "ground_grid.png", 
-                                        "hash": "caeea0e0bf0313ac710d99cb41b32f56", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "ground_grid.png",
+                                        "hash": "caeea0e0bf0313ac710d99cb41b32f56",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "ground_grid_mask.png", 
-                                        "hash": "c423d0672421aae010ca988af5ed0711", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "ground_grid_mask.png",
+                                        "hash": "c423d0672421aae010ca988af5ed0711",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "picture [REMOVE_ME].png", 
-                                        "hash": "08a31fb53a9a4fd8fa7cb86a2e03d306", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "picture [REMOVE_ME].png",
+                                        "hash": "08a31fb53a9a4fd8fa7cb86a2e03d306",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "white.png", 
-                                        "hash": "5167f791115e0d7d62e5103740694a36", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "white.png",
+                                        "hash": "5167f791115e0d7d62e5103740694a36",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:24:59", 
-                                "name": "Materials", 
-                                "hash": "5c6662e4b10c5137c00ecb1b8c14e443", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:03:39",
+                                "name": "Materials",
+                                "hash": "5c6662e4b10c5137c00ecb1b8c14e443",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "ground_grid.lsmat", 
-                                        "hash": "c380796334c4a57f3413bad9b1e0194a", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "ground_grid.lsmat",
+                                        "hash": "c380796334c4a57f3413bad9b1e0194a",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "picture.lsmat", 
-                                        "hash": "e926334285c5632dc039ed1da351eff0", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "picture.lsmat",
+                                        "hash": "e926334285c5632dc039ed1da351eff0",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "matte_shadow.lsmat", 
-                                        "hash": "afdf46bad68e9a4aaf4f5c32300d7d3d", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "matte_shadow.lsmat",
+                                        "hash": "afdf46bad68e9a4aaf4f5c32300d7d3d",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:24:59", 
-                                "name": "Frames", 
-                                "hash": "eb5a96134ef0cdb071b302781ac6624e", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:03:39",
+                                "name": "Frames",
+                                "hash": "eb5a96134ef0cdb071b302781ac6624e",
                                 "children": [
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:24:59", 
-                                        "name": "Textures", 
-                                        "hash": "270975edeb278b3576b7ca8b84bf59f4", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T10:03:39",
+                                        "name": "Textures",
+                                        "hash": "270975edeb278b3576b7ca8b84bf59f4",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "cap_frame_base.png", 
-                                                "hash": "e6e030a0075b1caf35ec5f30f3700cdb", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "cap_frame_base.png",
+                                                "hash": "e6e030a0075b1caf35ec5f30f3700cdb",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "cap_frame_materialParams.png", 
-                                                "hash": "39d1728142e928fc2f2e3292eb1825a9", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "cap_frame_materialParams.png",
+                                                "hash": "39d1728142e928fc2f2e3292eb1825a9",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "white.png", 
-                                                "hash": "e6e030a0075b1caf35ec5f30f3700cdb", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:47",
+                                                "name": "white.png",
+                                                "hash": "e6e030a0075b1caf35ec5f30f3700cdb",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:24:59", 
-                                        "name": "Materials", 
-                                        "hash": "7643a7195657aeec85c214dda13f8f6d", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T10:03:39",
+                                        "name": "Materials",
+                                        "hash": "7643a7195657aeec85c214dda13f8f6d",
                                         "children": [
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "Gloss.lsmat", 
-                                                "hash": "ef93067080102c720597ef85ca178464", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "Gloss.lsmat",
+                                                "hash": "ef93067080102c720597ef85ca178464",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "White.lsmat", 
-                                                "hash": "3ba5154b170e246e8f4b757bf25179a9", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "White.lsmat",
+                                                "hash": "3ba5154b170e246e8f4b757bf25179a9",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "Gold.lsmat", 
-                                                "hash": "4f9eaa12574034141cc19078cda53cfd", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "Gold.lsmat",
+                                                "hash": "4f9eaa12574034141cc19078cda53cfd",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "Matte.lsmat", 
-                                                "hash": "368ebb33260d15b0e5103d3b187d1619", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "Matte.lsmat",
+                                                "hash": "368ebb33260d15b0e5103d3b187d1619",
                                                 "children": ""
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "true", 
-                                        "lastModified": "2019-05-13T11:24:59", 
-                                        "name": "Meshes", 
-                                        "hash": "ae46d601a828403f33c96bccea48ba42", 
+                                        "isFolder": "true",
+                                        "lastModified": "2019-07-31T10:03:39",
+                                        "name": "Meshes",
+                                        "hash": "ae46d601a828403f33c96bccea48ba42",
                                         "children": [
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:24:59", 
-                                                "name": "Others", 
-                                                "hash": "8be5002427c880d7a08ef378f297d222", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:03:39",
+                                                "name": "Others",
+                                                "hash": "8be5002427c880d7a08ef378f297d222",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "ground_grid_mesh.mesh", 
-                                                        "hash": "ca6a55793555b88df4aca4a7329624e5", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "ground_grid_mesh.mesh",
+                                                        "hash": "ca6a55793555b88df4aca4a7329624e5",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "picture_collision_and_caster.mesh", 
-                                                        "hash": "f52264f0fafaf1af8dc0ecd851c00ad1", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "picture_collision_and_caster.mesh",
+                                                        "hash": "f52264f0fafaf1af8dc0ecd851c00ad1",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:24:59", 
-                                                "name": "frame_a", 
-                                                "hash": "47d5b6e142cac719bbb19531837b35f6", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:03:39",
+                                                "name": "frame_a",
+                                                "hash": "47d5b6e142cac719bbb19531837b35f6",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "side_a.mesh", 
-                                                        "hash": "10189d781513c46d1a5bbc6bf2362914", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "side_a.mesh",
+                                                        "hash": "10189d781513c46d1a5bbc6bf2362914",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "corner_a.mesh", 
-                                                        "hash": "b4876c5f63c3f80c80f6d98e6a20fd04", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "corner_a.mesh",
+                                                        "hash": "b4876c5f63c3f80c80f6d98e6a20fd04",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:24:59", 
-                                                "name": "frame_c", 
-                                                "hash": "b49e38c8cc6ecc3838cb8d973d957afe", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:03:39",
+                                                "name": "frame_c",
+                                                "hash": "b49e38c8cc6ecc3838cb8d973d957afe",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "corner_c.mesh", 
-                                                        "hash": "ad23c3c5b1a3d4738a1546031e475e35", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "corner_c.mesh",
+                                                        "hash": "ad23c3c5b1a3d4738a1546031e475e35",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "star_02.mesh", 
-                                                        "hash": "41daa34ab03797481fe413ed2e273aea", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "star_02.mesh",
+                                                        "hash": "41daa34ab03797481fe413ed2e273aea",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "star_03.mesh", 
-                                                        "hash": "c5b3300952f525e722bb78f859e7b30e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "star_03.mesh",
+                                                        "hash": "c5b3300952f525e722bb78f859e7b30e",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "side_c.mesh", 
-                                                        "hash": "54073224b78d9d4af74dfdcb2f15afd3", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "side_c.mesh",
+                                                        "hash": "54073224b78d9d4af74dfdcb2f15afd3",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "star_01.mesh", 
-                                                        "hash": "dbc8b9d4a96aebcc9c64bc6bbcd7e529", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "star_01.mesh",
+                                                        "hash": "dbc8b9d4a96aebcc9c64bc6bbcd7e529",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "true", 
-                                                "lastModified": "2019-05-13T11:24:59", 
-                                                "name": "frame_b", 
-                                                "hash": "3c1d62124cfd152151d2e8348993e677", 
+                                                "isFolder": "true",
+                                                "lastModified": "2019-07-31T10:03:39",
+                                                "name": "frame_b",
+                                                "hash": "3c1d62124cfd152151d2e8348993e677",
                                                 "children": [
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "corner_b.mesh", 
-                                                        "hash": "4e9b729ff9a823cc1f9191a4e2de0902", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "corner_b.mesh",
+                                                        "hash": "4e9b729ff9a823cc1f9191a4e2de0902",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "side_b_matte.mesh", 
-                                                        "hash": "c45683b1b9e075b103ada6fa226770d6", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "side_b_matte.mesh",
+                                                        "hash": "c45683b1b9e075b103ada6fa226770d6",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "corner_b_matte.mesh", 
-                                                        "hash": "afb3816f7ec07e7c29d629c1f0c27170", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "corner_b_matte.mesh",
+                                                        "hash": "afb3816f7ec07e7c29d629c1f0c27170",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "side_b.mesh", 
-                                                        "hash": "e5e0b5373f1e7a49462bc0e67d8c0b97", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "name": "side_b.mesh",
+                                                        "hash": "e5e0b5373f1e7a49462bc0e67d8c0b97",
                                                         "children": ""
-                                                    }, 
+                                                    },
                                                     {
-                                                        "isFolder": "false", 
-                                                        "lastModified": "2019-04-19T01:45:14", 
-                                                        "name": "folder.lock", 
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
                                                     }
                                                 ]
-                                            }, 
+                                            },
                                             {
-                                                "isFolder": "false", 
-                                                "lastModified": "2019-04-19T01:45:14", 
-                                                "name": "folder.lock", 
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                                "isFolder": "false",
+                                                "lastModified": "2019-07-18T11:44:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:24:59", 
-                                "name": "Meshes", 
-                                "hash": "5a8dbd5ce0b3a2fa2c6b14f24abd3dc7", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:03:39",
+                                "name": "Meshes",
+                                "hash": "5a8dbd5ce0b3a2fa2c6b14f24abd3dc7",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "Plane.mesh", 
-                                        "hash": "4649d59d58657e786eebaad58a052d2a", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "Plane.mesh",
+                                        "hash": "4649d59d58657e786eebaad58a052d2a",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "true", 
-                                "lastModified": "2019-05-13T11:24:59", 
-                                "name": "Scripts", 
-                                "hash": "ba78d0566178622651e0d664c722dbb0", 
+                                "isFolder": "true",
+                                "lastModified": "2019-07-31T10:03:39",
+                                "name": "Scripts",
+                                "hash": "ba78d0566178622651e0d664c722dbb0",
                                 "children": [
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "PictureFrameController.js", 
-                                        "hash": "ba6f43e25a6a4c1bdbd70d6ccd95e316", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "PictureFrameController.js",
+                                        "hash": "ba6f43e25a6a4c1bdbd70d6ccd95e316",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "UniformScale.js", 
-                                        "hash": "23cd02cd1f4df9f0af5a572bce43f324", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "UniformScale.js",
+                                        "hash": "23cd02cd1f4df9f0af5a572bce43f324",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "WorldObjectController.js", 
-                                        "hash": "fb66ad4478ded59ebb2b4df94ba44105", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "WorldObjectController.js",
+                                        "hash": "fb66ad4478ded59ebb2b4df94ba44105",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "GroundGrid.js", 
-                                        "hash": "09a5c3ee815c9134ffc2d25e7355d78a", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:47",
+                                        "name": "GroundGrid.js",
+                                        "hash": "09a5c3ee815c9134ffc2d25e7355d78a",
                                         "children": ""
-                                    }, 
+                                    },
                                     {
-                                        "isFolder": "false", 
-                                        "lastModified": "2019-04-19T01:45:14", 
-                                        "name": "folder.lock", 
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                        "isFolder": "false",
+                                        "lastModified": "2019-07-18T11:44:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "isFolder": "false", 
-                                "lastModified": "2019-04-19T01:45:14", 
-                                "name": "folder.lock", 
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
+                                "isFolder": "false",
+                                "lastModified": "2019-07-18T11:44:57",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
                             }
                         ]
                     }
-                }, 
+                },
                 "complexResources": ""
-            }, 
+            },
             "tree": {
-                "name": "", 
-                "type": "0", 
-                "subtype": "-1", 
-                "resourceId": "-1", 
-                "dependency": "0", 
-                "uid": "-1:-1", 
-                "fileId": "18446744073709551615", 
-                "originalId": "18446744073709551615", 
-                "publicId": "18446744073709551615", 
-                "source": "", 
-                "additional": "", 
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
                 "resources": [
                     {
-                        "name": "Frames", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "1", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Frames",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "1",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "Textures", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "2", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "cap_frame_materialParams", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "182", 
-                                        "dependency": "0", 
-                                        "uid": "1509492833333682:279835", 
-                                        "fileId": "6", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "3", 
-                                        "source": "", 
+                                        "name": "cap_frame_materialParams",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "182",
+                                        "dependency": "0",
+                                        "uid": "1509492833333682:279835",
+                                        "fileId": "6",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "3",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "cap_frame_base", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "183", 
-                                        "dependency": "0", 
-                                        "uid": "1509492833374091:279844", 
-                                        "fileId": "7", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "4", 
-                                        "source": "", 
+                                        "name": "cap_frame_base",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "183",
+                                        "dependency": "0",
+                                        "uid": "1509492833374091:279844",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "4",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "white", 
-                                        "type": "1", 
-                                        "subtype": "9", 
-                                        "resourceId": "257", 
-                                        "dependency": "0", 
-                                        "uid": "1510622784648922:14164", 
-                                        "fileId": "21", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "5", 
-                                        "source": "", 
+                                        "name": "white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "257",
+                                        "dependency": "0",
+                                        "uid": "1510622784648922:14164",
+                                        "fileId": "21",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "5",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "name": "Materials", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "6", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "Gloss", 
-                                        "type": "2", 
-                                        "subtype": "0", 
-                                        "resourceId": "332", 
-                                        "dependency": "0", 
-                                        "uid": "1519941447468011:639987", 
-                                        "fileId": "31", 
-                                        "originalId": "35", 
-                                        "publicId": "7", 
-                                        "source": "", 
+                                        "name": "Gloss",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "332",
+                                        "dependency": "0",
+                                        "uid": "1519941447468011:639987",
+                                        "fileId": "31",
+                                        "originalId": "35",
+                                        "publicId": "7",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "Matte", 
-                                        "type": "2", 
-                                        "subtype": "0", 
-                                        "resourceId": "338", 
-                                        "dependency": "0", 
-                                        "uid": "1519941807816995:642925", 
-                                        "fileId": "32", 
-                                        "originalId": "36", 
-                                        "publicId": "8", 
-                                        "source": "", 
+                                        "name": "Matte",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "338",
+                                        "dependency": "0",
+                                        "uid": "1519941807816995:642925",
+                                        "fileId": "32",
+                                        "originalId": "36",
+                                        "publicId": "8",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "White", 
-                                        "type": "2", 
-                                        "subtype": "0", 
-                                        "resourceId": "344", 
-                                        "dependency": "0", 
-                                        "uid": "1519941967958638:645645", 
-                                        "fileId": "33", 
-                                        "originalId": "37", 
-                                        "publicId": "9", 
-                                        "source": "", 
+                                        "name": "White",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "344",
+                                        "dependency": "0",
+                                        "uid": "1519941967958638:645645",
+                                        "fileId": "33",
+                                        "originalId": "37",
+                                        "publicId": "9",
+                                        "source": "",
                                         "additional": ""
-                                    }, 
+                                    },
                                     {
-                                        "name": "Gold", 
-                                        "type": "2", 
-                                        "subtype": "0", 
-                                        "resourceId": "346", 
-                                        "dependency": "0", 
-                                        "uid": "1519942080527926:647490", 
-                                        "fileId": "34", 
-                                        "originalId": "38", 
-                                        "publicId": "10", 
-                                        "source": "", 
+                                        "name": "Gold",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "346",
+                                        "dependency": "0",
+                                        "uid": "1519942080527926:647490",
+                                        "fileId": "34",
+                                        "originalId": "38",
+                                        "publicId": "10",
+                                        "source": "",
                                         "additional": ""
                                     }
                                 ]
-                            }, 
+                            },
                             {
-                                "name": "Meshes", 
-                                "type": "0", 
-                                "subtype": "-1", 
-                                "resourceId": "-1", 
-                                "dependency": "0", 
-                                "uid": "-1:-1", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "11", 
-                                "source": "", 
-                                "additional": "", 
+                                "name": "Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": "",
                                 "resources": [
                                     {
-                                        "name": "frame_a", 
-                                        "type": "0", 
-                                        "subtype": "-1", 
-                                        "resourceId": "-1", 
-                                        "dependency": "0", 
-                                        "uid": "-1:-1", 
-                                        "fileId": "18446744073709551615", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "12", 
-                                        "source": "", 
-                                        "additional": "", 
+                                        "name": "frame_a",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "12",
+                                        "source": "",
+                                        "additional": "",
                                         "resources": [
                                             {
-                                                "name": "corner_a", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "210", 
-                                                "dependency": "0", 
-                                                "uid": "1510598751069370:21167", 
-                                                "fileId": "15", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "13", 
-                                                "source": "", 
+                                                "name": "corner_a",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "210",
+                                                "dependency": "0",
+                                                "uid": "1510598751069370:21167",
+                                                "fileId": "15",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "13",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "side_a", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "211", 
-                                                "dependency": "0", 
-                                                "uid": "1510598777425338:21184", 
-                                                "fileId": "16", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "14", 
-                                                "source": "", 
+                                                "name": "side_a",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "211",
+                                                "dependency": "0",
+                                                "uid": "1510598777425338:21184",
+                                                "fileId": "16",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "14",
+                                                "source": "",
                                                 "additional": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "name": "frame_b", 
-                                        "type": "0", 
-                                        "subtype": "-1", 
-                                        "resourceId": "-1", 
-                                        "dependency": "0", 
-                                        "uid": "-1:-1", 
-                                        "fileId": "18446744073709551615", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "15", 
-                                        "source": "", 
-                                        "additional": "", 
+                                        "name": "frame_b",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": "",
                                         "resources": [
                                             {
-                                                "name": "side_b_matte", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "252", 
-                                                "dependency": "0", 
-                                                "uid": "1510622465510160:8396", 
-                                                "fileId": "17", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "16", 
-                                                "source": "", 
+                                                "name": "side_b_matte",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "252",
+                                                "dependency": "0",
+                                                "uid": "1510622465510160:8396",
+                                                "fileId": "17",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "16",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "corner_b_matte", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "251", 
-                                                "dependency": "0", 
-                                                "uid": "1510622465578083:8415", 
-                                                "fileId": "18", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "17", 
-                                                "source": "", 
+                                                "name": "corner_b_matte",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "251",
+                                                "dependency": "0",
+                                                "uid": "1510622465578083:8415",
+                                                "fileId": "18",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "17",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "side_b", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "250", 
-                                                "dependency": "0", 
-                                                "uid": "1510622465578336:8431", 
-                                                "fileId": "19", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "18", 
-                                                "source": "", 
+                                                "name": "side_b",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "250",
+                                                "dependency": "0",
+                                                "uid": "1510622465578336:8431",
+                                                "fileId": "19",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "corner_b", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "247", 
-                                                "dependency": "0", 
-                                                "uid": "1510622465578532:8443", 
-                                                "fileId": "20", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "19", 
-                                                "source": "", 
+                                                "name": "corner_b",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "247",
+                                                "dependency": "0",
+                                                "uid": "1510622465578532:8443",
+                                                "fileId": "20",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "19",
+                                                "source": "",
                                                 "additional": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "name": "Others", 
-                                        "type": "0", 
-                                        "subtype": "-1", 
-                                        "resourceId": "-1", 
-                                        "dependency": "0", 
-                                        "uid": "-1:-1", 
-                                        "fileId": "18446744073709551615", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "20", 
-                                        "source": "", 
-                                        "additional": "", 
+                                        "name": "Others",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "20",
+                                        "source": "",
+                                        "additional": "",
                                         "resources": [
                                             {
-                                                "name": "ground_grid_mesh", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "5", 
-                                                "dependency": "0", 
-                                                "uid": "1498868100994851:367", 
-                                                "fileId": "1", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "21", 
-                                                "source": "", 
+                                                "name": "ground_grid_mesh",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "5",
+                                                "dependency": "0",
+                                                "uid": "1498868100994851:367",
+                                                "fileId": "1",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "21",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "picture_collision_and_caster", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "208", 
-                                                "dependency": "0", 
-                                                "uid": "1509520383227958:24746", 
-                                                "fileId": "13", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "22", 
-                                                "source": "", 
+                                                "name": "picture_collision_and_caster",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "208",
+                                                "dependency": "0",
+                                                "uid": "1509520383227958:24746",
+                                                "fileId": "13",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "22",
+                                                "source": "",
                                                 "additional": ""
                                             }
                                         ]
-                                    }, 
+                                    },
                                     {
-                                        "name": "frame_c", 
-                                        "type": "0", 
-                                        "subtype": "-1", 
-                                        "resourceId": "-1", 
-                                        "dependency": "0", 
-                                        "uid": "-1:-1", 
-                                        "fileId": "18446744073709551615", 
-                                        "originalId": "18446744073709551615", 
-                                        "publicId": "23", 
-                                        "source": "", 
-                                        "additional": "", 
+                                        "name": "frame_c",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "23",
+                                        "source": "",
+                                        "additional": "",
                                         "resources": [
                                             {
-                                                "name": "corner_c", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "267", 
-                                                "dependency": "0", 
-                                                "uid": "1510623174345981:25871", 
-                                                "fileId": "22", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "24", 
-                                                "source": "", 
+                                                "name": "corner_c",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "267",
+                                                "dependency": "0",
+                                                "uid": "1510623174345981:25871",
+                                                "fileId": "22",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "24",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "side_c", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "261", 
-                                                "dependency": "0", 
-                                                "uid": "1510623174404575:25886", 
-                                                "fileId": "23", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "25", 
-                                                "source": "", 
+                                                "name": "side_c",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "261",
+                                                "dependency": "0",
+                                                "uid": "1510623174404575:25886",
+                                                "fileId": "23",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "25",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "star_01", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "278", 
-                                                "dependency": "0", 
-                                                "uid": "1510624714392951:103122", 
-                                                "fileId": "25", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "26", 
-                                                "source": "", 
+                                                "name": "star_01",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "278",
+                                                "dependency": "0",
+                                                "uid": "1510624714392951:103122",
+                                                "fileId": "25",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "26",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "star_02", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "279", 
-                                                "dependency": "0", 
-                                                "uid": "1510624714393132:103128", 
-                                                "fileId": "26", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "27", 
-                                                "source": "", 
+                                                "name": "star_02",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "279",
+                                                "dependency": "0",
+                                                "uid": "1510624714393132:103128",
+                                                "fileId": "26",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "27",
+                                                "source": "",
                                                 "additional": ""
-                                            }, 
+                                            },
                                             {
-                                                "name": "star_03", 
-                                                "type": "3", 
-                                                "subtype": "0", 
-                                                "resourceId": "282", 
-                                                "dependency": "0", 
-                                                "uid": "1510624714393309:103134", 
-                                                "fileId": "27", 
-                                                "originalId": "18446744073709551615", 
-                                                "publicId": "28", 
-                                                "source": "", 
+                                                "name": "star_03",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "282",
+                                                "dependency": "0",
+                                                "uid": "1510624714393309:103134",
+                                                "fileId": "27",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "28",
+                                                "source": "",
                                                 "additional": ""
                                             }
                                         ]
@@ -1798,312 +1807,312 @@
                                 ]
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Materials", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "29", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "29",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "ground_grid", 
-                                "type": "2", 
-                                "subtype": "0", 
-                                "resourceId": "11", 
-                                "dependency": "0", 
-                                "uid": "1498868172319414:533", 
-                                "fileId": "3", 
-                                "originalId": "39", 
-                                "publicId": "30", 
-                                "source": "", 
+                                "name": "ground_grid",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1498868172319414:533",
+                                "fileId": "3",
+                                "originalId": "39",
+                                "publicId": "30",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "matte_shadow", 
-                                "type": "2", 
-                                "subtype": "0", 
-                                "resourceId": "327", 
-                                "dependency": "0", 
-                                "uid": "1511404974507810:96248", 
-                                "fileId": "28", 
-                                "originalId": "40", 
-                                "publicId": "31", 
-                                "source": "", 
+                                "name": "matte_shadow",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "327",
+                                "dependency": "0",
+                                "uid": "1511404974507810:96248",
+                                "fileId": "28",
+                                "originalId": "40",
+                                "publicId": "31",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "picture", 
-                                "type": "2", 
-                                "subtype": "0", 
-                                "resourceId": "331", 
-                                "dependency": "0", 
-                                "uid": "1511405247384601:100546", 
-                                "fileId": "30", 
-                                "originalId": "41", 
-                                "publicId": "32", 
-                                "source": "", 
+                                "name": "picture",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "331",
+                                "dependency": "0",
+                                "uid": "1511405247384601:100546",
+                                "fileId": "30",
+                                "originalId": "41",
+                                "publicId": "32",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Scripts", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "33", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "33",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "GroundGrid", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "7", 
-                                "dependency": "0", 
-                                "uid": "1498868158392542:504", 
-                                "fileId": "2", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "34", 
-                                "source": "", 
+                                "name": "GroundGrid",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "7",
+                                "dependency": "0",
+                                "uid": "1498868158392542:504",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "34",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "WorldObjectController", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "13", 
-                                "dependency": "0", 
-                                "uid": "1498868868171510:1508", 
-                                "fileId": "4", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "35", 
-                                "source": "", 
+                                "name": "WorldObjectController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "13",
+                                "dependency": "0",
+                                "uid": "1498868868171510:1508",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "35",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "PictureFrameController", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "160", 
-                                "dependency": "0", 
-                                "uid": "1509487787794075:30175", 
-                                "fileId": "5", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "36", 
-                                "source": "", 
+                                "name": "PictureFrameController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "160",
+                                "dependency": "0",
+                                "uid": "1509487787794075:30175",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "36",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "UniformScale", 
-                                "type": "4", 
-                                "subtype": "0", 
-                                "resourceId": "275", 
-                                "dependency": "0", 
-                                "uid": "1510624611313663:97512", 
-                                "fileId": "24", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "37", 
-                                "source": "", 
+                                "name": "UniformScale",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "275",
+                                "dependency": "0",
+                                "uid": "1510624611313663:97512",
+                                "fileId": "24",
+                                "originalId": "18446744073709551615",
+                                "publicId": "37",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Textures", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "38", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "38",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "Device Camera Texture", 
-                                "type": "1", 
-                                "subtype": "3", 
-                                "resourceId": "2", 
-                                "dependency": "0", 
-                                "uid": "2:2", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "marvista_diff", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "192", 
-                                "dependency": "0", 
-                                "uid": "1509493011908157:280223", 
-                                "fileId": "8", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "39", 
-                                "source": "", 
+                                "name": "marvista_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "192",
+                                "dependency": "0",
+                                "uid": "1509493011908157:280223",
+                                "fileId": "8",
+                                "originalId": "18446744073709551615",
+                                "publicId": "39",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "marvista_spec", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "193", 
-                                "dependency": "0", 
-                                "uid": "1509493011920121:280232", 
-                                "fileId": "9", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "40", 
-                                "source": "", 
+                                "name": "marvista_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "193",
+                                "dependency": "0",
+                                "uid": "1509493011920121:280232",
+                                "fileId": "9",
+                                "originalId": "18446744073709551615",
+                                "publicId": "40",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "white", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "194", 
-                                "dependency": "0", 
-                                "uid": "1509493318346040:286994", 
-                                "fileId": "10", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "41", 
-                                "source": "", 
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "194",
+                                "dependency": "0",
+                                "uid": "1509493318346040:286994",
+                                "fileId": "10",
+                                "originalId": "18446744073709551615",
+                                "publicId": "41",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "ground_grid_mask", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "195", 
-                                "dependency": "0", 
-                                "uid": "1509493318391871:287003", 
-                                "fileId": "11", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "42", 
-                                "source": "", 
+                                "name": "ground_grid_mask",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "195",
+                                "dependency": "0",
+                                "uid": "1509493318391871:287003",
+                                "fileId": "11",
+                                "originalId": "18446744073709551615",
+                                "publicId": "42",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "ground_grid", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "196", 
-                                "dependency": "0", 
-                                "uid": "1509493318443637:287012", 
-                                "fileId": "12", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "43", 
-                                "source": "", 
+                                "name": "ground_grid",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "196",
+                                "dependency": "0",
+                                "uid": "1509493318443637:287012",
+                                "fileId": "12",
+                                "originalId": "18446744073709551615",
+                                "publicId": "43",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "Render Target", 
-                                "type": "1", 
-                                "subtype": "1", 
-                                "resourceId": "200", 
-                                "dependency": "0", 
-                                "uid": "1509493543692629:66391", 
-                                "fileId": "18446744073709551615", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "18446744073709551615", 
-                                "source": "", 
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "200",
+                                "dependency": "0",
+                                "uid": "1509493543692629:66391",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
                                 "additional": ""
-                            }, 
+                            },
                             {
-                                "name": "picture [REMOVE_ME]", 
-                                "type": "1", 
-                                "subtype": "9", 
-                                "resourceId": "209", 
-                                "dependency": "0", 
-                                "uid": "1510086269405189:8649", 
-                                "fileId": "14", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "44", 
-                                "source": "", 
+                                "name": "picture [REMOVE_ME]",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "209",
+                                "dependency": "0",
+                                "uid": "1510086269405189:8649",
+                                "fileId": "14",
+                                "originalId": "18446744073709551615",
+                                "publicId": "44",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
-                    }, 
+                    },
                     {
-                        "name": "Meshes", 
-                        "type": "0", 
-                        "subtype": "-1", 
-                        "resourceId": "-1", 
-                        "dependency": "0", 
-                        "uid": "-1:-1", 
-                        "fileId": "18446744073709551615", 
-                        "originalId": "18446744073709551615", 
-                        "publicId": "45", 
-                        "source": "", 
-                        "additional": "", 
+                        "name": "Meshes",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "45",
+                        "source": "",
+                        "additional": "",
                         "resources": [
                             {
-                                "name": "Plane", 
-                                "type": "3", 
-                                "subtype": "0", 
-                                "resourceId": "329", 
-                                "dependency": "0", 
-                                "uid": "1511405079705702:97231", 
-                                "fileId": "29", 
-                                "originalId": "18446744073709551615", 
-                                "publicId": "46", 
-                                "source": "", 
+                                "name": "Plane",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "329",
+                                "dependency": "0",
+                                "uid": "1511405079705702:97231",
+                                "fileId": "29",
+                                "originalId": "18446744073709551615",
+                                "publicId": "46",
+                                "source": "",
                                 "additional": ""
                             }
                         ]
                     }
                 ]
             }
-        }, 
+        },
         "InspectorController": {
             "selection": {
                 "objects": [
                     "1509488507358977:82149"
                 ]
             }
-        }, 
+        },
         "EffectsController": {
-            "1": "", 
-            "2": "", 
-            "3": "", 
-            "4": "", 
-            "5": "", 
-            "6": "", 
-            "7": "", 
-            "8": "", 
-            "10": "", 
-            "11": "", 
-            "12": "", 
-            "13": "", 
-            "14": "", 
-            "15": "", 
-            "16": "", 
-            "17": "", 
-            "18": "", 
-            "19": "", 
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
             "20": ""
-        }, 
+        },
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            }, 
+            },
             "importInfo": ""
         }
-    }, 
+    },
     "description": "A 2D image placed in a 3D frame"
 }

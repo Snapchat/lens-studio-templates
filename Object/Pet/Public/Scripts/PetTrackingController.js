@@ -9,7 +9,7 @@
 // @ui {"widget":"separator"}
 
 // @input bool isRightEyeTracking = false {"label":"Right Eye Tracking"}
-// @ui {"widget":"group_start", "label":"Right Eye Customize", "showIf": "isRightEyeTracking"}
+// @ui {"widget":"group_start", "label":"Right Eye Customization", "showIf": "isRightEyeTracking"}
 // @input Asset.Texture rightEyeTexture { "label":"Right Eye" }
 // @input float rightEyeSize = 0.5 {"label":"Size", "widget":"slider", "min":0.0, "max":1.0, "step":0.01}
 // @input float rightEyeOffsetX = 0.0 {"label":"Offset X","widget":"slider", "min":-1.0, "max":1.0, "step":0.01}
@@ -21,7 +21,7 @@
 // @ui {"widget":"separator"}
 
 // @input bool isLeftEyeTracking = false {"label":"Left Eye Tracking"}
-// @ui {"widget":"group_start", "label":"Left Eye Customize", "showIf": "isLeftEyeTracking"}
+// @ui {"widget":"group_start", "label":"Left Eye Customization", "showIf": "isLeftEyeTracking"}
 // @input Asset.Texture leftEyeTexture { "label":"Left Eye" }
 // @input float leftEyeSize = 0.5 {"label":"Size", "widget":"slider", "min":0.0, "max":1.0, "step":0.01}
 // @input float leftEyeOffsetX = 0.0 {"label":"Offset X","widget":"slider", "min":-1.0, "max":1.0, "step":0.01}
@@ -33,7 +33,7 @@
 // @ui {"widget":"separator"}
 
 // @input bool isNoseTracking = false {"label":"Nose Tracking"}
-// @ui {"widget":"group_start", "label":"Nose Customize", "showIf": "isNoseTracking"}
+// @ui {"widget":"group_start", "label":"Nose Customization", "showIf": "isNoseTracking"}
 // @input Asset.Texture noseTexture { "label":"Nose" }
 // @input float noseSize = 0.5 {"label":"Size", "widget":"slider", "min":0.0, "max":1.0, "step":0.01}
 // @input float noseOffsetX = 0.0 {"label":"Offset X","widget":"slider", "min":-1.0, "max":1.0, "step":0.01}
@@ -45,7 +45,7 @@
 // @ui {"widget":"separator"}
 
 // @input bool isCenterTracking = false {"label":"Center Tracking"}
-// @ui {"widget":"group_start", "label":"Center Customize", "showIf": "isCenterTracking"}
+// @ui {"widget":"group_start", "label":"Center Customization", "showIf": "isCenterTracking"}
 // @input Asset.Texture centerTexture { "label":"Center" }
 // @input float centerSize = 0.5 {"label":"Size", "widget":"slider", "min":0.0, "max":1.0, "step":0.01}
 // @input float centerOffsetX = 0.0 {"label":"Offset X","widget":"slider", "min":-1.0, "max":1.0, "step":0.01}
@@ -281,8 +281,8 @@ function configureTracker(shouldTrack, tracker)
 {
     if (shouldTrack)
     {
-        tracker.onObjectFound = onTrackingFound;
-        tracker.onObjectLost = onTrackingLost;
+        tracker.onObjectFound = wrapFunction(tracker.onObjectFound, onTrackingFound);
+        tracker.onObjectLost = wrapFunction(tracker.onObjectLost, onTrackingLost);
     }
 }
 
@@ -420,6 +420,19 @@ function setHintText()
     {
         script.hintControllerScript.api.updateHintText( script.trackingType );
     }
+}
+
+function wrapFunction(origFunc, newFunc) 
+{
+    if (!origFunc)
+    {
+        return newFunc;
+    }
+    return function() 
+    {
+        origFunc();
+        newFunc();
+    };
 }
 
 var turnOnEvent = script.createEvent( "TurnOnEvent" );

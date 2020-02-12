@@ -1,5 +1,5 @@
 // Behavior.js
-// Version: 0.0.2
+// Version: 0.0.3
 // Event: Lens Initialized
 // Description: Configure a trigger and response in the inspector UI. No scripting required.
 //
@@ -24,7 +24,7 @@
 //  global.behaviorSystem.removeCustomTriggerResponse(triggerName, callback)
 // -----------------
 
-//@input string triggeringEventType = "TouchEvent" {"widget": "combobox", "values": [{"value": "TouchEvent", "label": "Touch Event"}, {"value": "FaceEvent", "label": "Face Event"}, {"value": "TurnOnEvent", "label": "Lens Turned On"}, {"value": "UpdateEvent", "label": "Update"}, {"value": "LateUpdateEvent", "label": "Late Update"}, {"value": "CameraFrontEvent", "label": "Front Camera"}, {"value": "CameraBackEvent", "label": "Back Camera"}, {"value": "animationEnd", "label": "Animation End"}, {"value": "tweenEnd", "label": "Tween End"}, {"value": "lookingAt", "label": "Looking At"}, {"value": "distanceCheck", "label": "Distance Check"}, {"value": "onCustomTrigger", "label": "On Custom Trigger"}, {"value": "None", "label": "None"}], "label": "Trigger"}
+//@input string triggeringEventType = "TouchEvent" {"widget": "combobox", "values": [{"value": "TouchEvent", "label": "Touch Event"}, {"value": "FaceEvent", "label": "Face Event"}, {"value": "TurnOnEvent", "label": "Lens Turned On"}, {"value": "UpdateEvent", "label": "Update"}, {"value": "LateUpdateEvent", "label": "Late Update"}, {"value": "CameraFrontEvent", "label": "Front Camera"}, {"value": "CameraBackEvent", "label": "Back Camera"}, {"value": "animationEnd", "label": "Animation End"}, {"value": "tweenEnd", "label": "Tween End"}, {"value": "lookingAt", "label": "Looking At"}, {"value": "distanceCheck", "label": "Distance Check"}, {"value": "markerTrackingEvent", "label": "Marker Tracking Event"}, {"value": "objectTrackingEvent", "label": "Object Tracking Event"}, {"value": "landmarkerEvent", "label": "Landmarker Event"}, {"value": "recordingStart", "label": "Recording Start"}, {"value": "onCustomTrigger", "label": "On Custom Trigger"}, {"value": "None", "label": "None"}], "label": "Trigger"}
 //@input string touchEventEventType = "TapEvent" {"showIf": "triggeringEventType", "showIfValue": "TouchEvent", "values": [{"value": "TapEvent", "label": "Tap"}, {"value": "TouchStartEvent", "label": "Touch Start"}, {"value": "TouchMoveEvent", "label": "Touch Move"}, {"value": "TouchEndEvent", "label": "Touch End"}], "widget": "combobox", "label": "Event Type"}
 //@input Component.MeshVisual touchEventTouchTarget {"showIf": "triggeringEventType", "showIfValue": "TouchEvent", "label": "Touch Target"}
 
@@ -50,17 +50,29 @@
 //@input SceneObject lookingAtLookingObject {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "label": "Looking Object"}
 //@input SceneObject lookingAtLookTarget {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "label": "Look Target"}
 //@input bool lookingAtFlipForwardVec = true {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "label": "Flip Forward Vec"}
-//@input int lookingAtCompareType = -1 {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "values": [{"value": -1, "label": "Less Than"}, {"value": 0, "label": "Equal To"}, {"value": 1, "label": "Greater Than"}], "widget": "combobox", "label": "Compare Type"}
+//@input int lookingAtCompareType = -1 {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "values": [{"value": -1, "label": "Is Less Than"}, {"value": 0, "label": "Is Equal To"}, {"value": 1, "label": "Is Greater Than"}], "widget": "combobox", "label": "Compare Type"}
 
 //@input float lookingAtAngle = 10.0 {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "label": "Angle"}
 //@input bool lookingAtAllowRepeat {"showIf": "triggeringEventType", "showIfValue": "lookingAt", "label": "Allow Repeat"}
 
 //@input SceneObject distanceCheckObjectA {"showIf": "triggeringEventType", "showIfValue": "distanceCheck", "label": "Object A"}
 //@input SceneObject distanceCheckObjectB {"showIf": "triggeringEventType", "showIfValue": "distanceCheck", "label": "Object B"}
-//@input int distanceCheckCompareType = -1 {"showIf": "triggeringEventType", "showIfValue": "distanceCheck", "values": [{"value": -1, "label": "Less Than"}, {"value": 0, "label": "Equal To"}, {"value": 1, "label": "Greater Than"}], "widget": "combobox", "label": "Compare Type"}
+//@input int distanceCheckCompareType = -1 {"showIf": "triggeringEventType", "showIfValue": "distanceCheck", "values": [{"value": -1, "label": "Is Less Than"}, {"value": 0, "label": "Is Equal To"}, {"value": 1, "label": "Is Greater Than"}], "widget": "combobox", "label": "Compare Type"}
 
 //@input float distanceCheckDistance = 1.0 {"showIf": "triggeringEventType", "showIfValue": "distanceCheck", "label": "Distance"}
 //@input bool distanceCheckAllowRepeat {"showIf": "triggeringEventType", "showIfValue": "distanceCheck", "label": "Allow Repeat"}
+
+//@input string markerTrackingEventEventType = "Marker Found" {"showIf": "triggeringEventType", "showIfValue": "markerTrackingEvent", "values": [{"value": "Marker Found", "label": "Marker Found"}, {"value": "Marker Lost", "label": "Marker Lost"}], "widget": "combobox", "label": "Event Type"}
+
+//@input Component.MarkerTrackingComponent markerTrackingEventMarkerTracking {"showIf": "triggeringEventType", "showIfValue": "markerTrackingEvent", "label": "Marker Tracking"}
+
+//@input string objectTrackingEventEventType = "Object Found" {"showIf": "triggeringEventType", "showIfValue": "objectTrackingEvent", "values": [{"value": "Object Found", "label": "Object Found"}, {"value": "Object Lost", "label": "Object Lost"}], "widget": "combobox", "label": "Event Type"}
+
+//@input Component.ObjectTracking objectTrackingEventObjectTracking {"showIf": "triggeringEventType", "showIfValue": "objectTrackingEvent", "label": "Object Tracking"}
+
+//@input string landmarkerEventEventType = "Location Found" {"showIf": "triggeringEventType", "showIfValue": "landmarkerEvent", "values": [{"value": "Location Found", "label": "Location Found"}, {"value": "Location Lost", "label": "Location Lost"}], "widget": "combobox", "label": "Event Type"}
+
+//@input Component.DeviceLocationTrackingComponent landmarkerEventLocationTracking {"showIf": "triggeringEventType", "showIfValue": "landmarkerEvent", "label": "Location Tracking"}
 
 //@input string onCustomTriggerTriggerName {"showIf": "triggeringEventType", "showIfValue": "onCustomTrigger", "label": "Trigger Name"}
 
@@ -70,14 +82,22 @@
 //@input float triggerDelay {"label": "Delay Time"}
 //@ui {"widget": "group_end"}
 //@ui {"widget": "separator"}
-//@input string responseType = "None" {"widget": "combobox", "values": [{"value": "None", "label": "None"}, {"value": "textureAnimation", "label": "Animate Image"}, {"value": "animateMesh", "label": "Animate Mesh"}, {"value": "playSound", "label": "Play Sound"}, {"value": "setEnabled", "label": "Set Enabled"}, {"value": "setColor", "label": "Set Color"}, {"value": "setTexture", "label": "Set Texture"}, {"value": "setText", "label": "Set Text"}, {"value": "runTween", "label": "Run Tween"}, {"value": "setPosition", "label": "Set Position"}, {"value": "setRotation", "label": "Set Rotation"}, {"value": "setScale", "label": "Set Scale"}, {"value": "setScreenPosition", "label": "Set Screen Position"}, {"value": "setScreenRotation", "label": "Set Screen Rotation"}, {"value": "setScreenSize", "label": "Set Screen Size"}, {"value": "printMessage", "label": "Print Message"}, {"value": "sendCustomTrigger", "label": "Send Custom Trigger"}]}
+//@input string responseType = "None" {"widget": "combobox", "values": [{"value": "None", "label": "None"}, {"value": "textureAnimation", "label": "Animate Image"}, {"value": "animateMesh", "label": "Animate Mesh"}, {"value": "playSound", "label": "Play Sound"}, {"value": "setEnabled", "label": "Set Enabled"}, {"value": "setColor", "label": "Set Color"}, {"value": "setTexture", "label": "Set Texture"}, {"value": "setText", "label": "Set Text"}, {"value": "runTween", "label": "Run Tween"}, {"value": "setPosition", "label": "Set Position"}, {"value": "setRotation", "label": "Set Rotation"}, {"value": "setScale", "label": "Set Scale"}, {"value": "setScreenPosition", "label": "Set Screen Position"}, {"value": "setScreenRotation", "label": "Set Screen Rotation"}, {"value": "setScreenSize", "label": "Set Screen Size"}, {"value": "setBlendshapes", "label": "Set Blendshapes"}, {"value": "instantiatePrefab", "label": "Instantiate Prefab"}, {"value": "printMessage", "label": "Print Message"}, {"value": "sendCustomTrigger", "label": "Send Custom Trigger"}]}
 //@ui {"showIf": "responseType", "showIfValue": "textureAnimation", "widget": "group_start", "label": "Target"}
 //@input Asset.Texture animateImageAnimatedTexture {"showIf": "responseType", "showIfValue": "textureAnimation", "label": "Animated Texture"}
 //@input Component.MeshVisual animateImageVisualObject {"showIf": "responseType", "showIfValue": "textureAnimation", "label": "Visual Object"}
 //@ui {"showIf": "responseType", "showIfValue": "textureAnimation", "widget": "group_end"}
-//@input string animateImageAction = "Play or Resume" {"showIf": "responseType", "showIfValue": "textureAnimation", "values": [{"value": "Play", "label": "Play"}, {"value": "Play or Resume", "label": "Play or Resume"}, {"value": "Pause", "label": "Pause"}, {"value": "Stop", "label": "Stop"}], "widget": "combobox", "label": "Action"}
+//@input string animateImageAction = "Play or Resume" {"showIf": "responseType", "showIfValue": "textureAnimation", "values": [{"value": "Play", "label": "Play"}, {"value": "Play or Resume", "label": "Play or Resume"}, {"value": "Pause", "label": "Pause"}, {"value": "Pause at Frame", "label": "Pause at Frame"}, {"value": "Stop", "label": "Stop"}], "widget": "combobox", "label": "Action"}
 
+//@ui {"showIf": "responseType", "showIfValue": "textureAnimation", "widget": "group_start", "label": "Options"}
 //@input bool animateImageLoop {"showIf": "responseType", "showIfValue": "textureAnimation", "label": "Loop"}
+//@input int animateImagePauseFrame {"showIf": "animateImageAction", "showIfValue": "Pause at Frame", "label": "Pause Frame"}
+//@input bool animateImageAdvanced {"showIf": "responseType", "showIfValue": "textureAnimation", "label": "Advanced"}
+//@ui {"showIf": "animateImageAdvanced", "showIfValue": true, "widget": "group_start", "label": "Warning: This will modify Texture settings!"}
+//@input bool animateImagePingPong {"showIf": "responseType", "showIfValue": "textureAnimation", "label": "Ping Pong"}
+//@input bool animateImageReverse {"showIf": "responseType", "showIfValue": "textureAnimation", "label": "Reverse"}
+//@ui {"showIf": "responseType", "showIfValue": "textureAnimation", "widget": "group_end"}
+//@ui {"showIf": "responseType", "showIfValue": "textureAnimation", "widget": "group_end"}
 
 //@input Component.AnimationMixer animateMeshAnimationMixer {"showIf": "responseType", "showIfValue": "animateMesh", "label": "Animation Mixer"}
 //@ui {"showIf": "responseType", "showIfValue": "animateMesh", "widget": "group_start", "label": "Options"}
@@ -87,12 +107,17 @@
 //@input bool animateMeshLoop {"showIf": "responseType", "showIfValue": "animateMesh", "label": "Loop"}
 //@ui {"showIf": "responseType", "showIfValue": "animateMesh", "widget": "group_end"}
 
+//@input string playSoundAction = "Play" {"showIf": "responseType", "showIfValue": "playSound", "values": [{"value": "Play", "label": "Play"}, {"value": "Stop", "label": "Stop"}], "widget": "combobox", "label": "Action"}
+
 //@ui {"showIf": "responseType", "showIfValue": "playSound", "widget": "group_start", "label": "Target"}
-//@input Asset.AudioTrackAsset playSoundAudioTrack {"showIf": "responseType", "showIfValue": "playSound", "label": "Audio Track"}
+//@input Asset.AudioTrackAsset playSoundAudioTrack {"showIf": "playSoundAction", "showIfValue": "Play", "label": "Audio Track"}
 //@input Component.AudioComponent playSoundAudioComponent {"showIf": "responseType", "showIfValue": "playSound", "label": "Audio Component"}
 //@ui {"showIf": "responseType", "showIfValue": "playSound", "widget": "group_end"}
-//@input bool playSoundLoop {"showIf": "responseType", "showIfValue": "playSound", "label": "Loop"}
-//@input float playSoundVolume = 1.0 {"showIf": "responseType", "widget": "slider", "min": 0.0, "max": 1.0, "step": 0.05, "label": "Volume", "showIfValue": "playSound"}
+//@ui {"showIf": "responseType", "showIfValue": "playSound", "widget": "group_start", "label": "Options"}
+//@input bool playSoundLoop {"showIf": "playSoundAction", "showIfValue": "Play", "label": "Loop"}
+//@input float playSoundVolume = 1.0 {"showIf": "playSoundAction", "widget": "slider", "min": 0.0, "max": 1.0, "showIfValue": "Play", "label": "Volume", "step": 0.05}
+//@input bool playSoundFadeOut {"showIf": "playSoundAction", "showIfValue": "Stop", "label": "Fade Out"}
+//@ui {"showIf": "responseType", "showIfValue": "playSound", "widget": "group_end"}
 
 //@input SceneObject setEnabledTarget {"showIf": "responseType", "showIfValue": "setEnabled", "label": "Target"}
 //@input string setEnabledAction = "Enable" {"showIf": "responseType", "showIfValue": "setEnabled", "values": [{"value": "Enable", "label": "Enable"}, {"value": "Disable", "label": "Disable"}, {"value": "Toggle", "label": "Toggle"}], "widget": "combobox", "label": "Action"}
@@ -146,6 +171,13 @@
 //@input vec2 setScreenSizeOffsetsSize {"showIf": "setScreenSizeSizeType", "showIfValue": "Offsets Rect", "label": "Offsets Size"}
 //@ui {"showIf": "responseType", "showIfValue": "setScreenSize", "widget": "group_end"}
 
+//@input Component.BlendShapes setBlendshapesBlendshapes {"showIf": "responseType", "showIfValue": "setBlendshapes", "label": "Blendshapes"}
+//@input string setBlendshapesName {"showIf": "responseType", "showIfValue": "setBlendshapes", "label": "Name"}
+//@input float setBlendshapesWeight = 0 {"showIf": "responseType", "showIfValue": "setBlendshapes", "label": "Weight"}
+
+//@input Asset.ObjectPrefab instantiatePrefabPrefab {"showIf": "responseType", "showIfValue": "instantiatePrefab", "label": "Prefab"}
+//@input SceneObject instantiatePrefabParent {"showIf": "responseType", "showIfValue": "instantiatePrefab", "label": "Parent"}
+
 //@input string printMessageText {"showIf": "responseType", "showIfValue": "printMessage", "label": "Message"}
 
 //@input string sendCustomTriggerTriggerName {"showIf": "responseType", "showIfValue": "sendCustomTrigger", "label": "Trigger Name"}
@@ -197,14 +229,35 @@ if (!global.behaviorSystem) {
 }
 var lastTriggerTime;
 var localTriggerResponses = [];
+var comparisonFuncs = {
+    "-2": function(sign) {
+        return sign !== 1;
+    },
+    "-1": function(sign) {
+        return sign === -1;
+    },
+    "0": function(sign) {
+        return sign === 0;
+    },
+    "3": function(sign) {
+        return sign !== 0;
+    },
+    "1": function(sign) {
+        return sign === 1;
+    },
+    "2": function(sign) {
+        return sign !== -1;
+    },
+};
 
 function getSign(x) {
-    return ((x > 0) - (x < 0)) || +x;
+    return (Math.abs(x) < .000001) ? 0 : (x > 0 ? 1 : -1);
 }
 
 function setDefault(obj, key, def) {
     if (!obj.hasOwnProperty(key)) {
         obj[key] = def;
+        return def;
     }
     return obj[key];
 }
@@ -247,15 +300,41 @@ function createAndBindEvent(eventType, callback) {
     script.createEvent(eventType).bind(callback);
 }
 
-function whenValueBecomes(valueFunc, desiredValue, callback, optInitialValue) {
-    var lastValue = (optInitialValue === undefined) ? valueFunc() : optInitialValue;
+function whenValueBecomes(valueFunc, desiredValue, callback, allowRepeat, optInitialValue) {
+    var lastValue = (!allowRepeat && optInitialValue === undefined) ? valueFunc() : optInitialValue;
     createAndBindEvent("UpdateEvent", function() {
         var newValue = valueFunc();
-        if (newValue === desiredValue && lastValue !== desiredValue) {
+        if (newValue === desiredValue && (allowRepeat || lastValue !== desiredValue)) {
             callback();
         }
         lastValue = newValue;
     });
+}
+
+function checkCompareType(a, b, compareType) {
+    return comparisonFuncs[compareType](getSign(a - b));
+}
+
+function whenCompareTypeMatches(a, b, compareType, callback, allowRepeat, optInitialValue) {
+    var aFunc = typeof a === "function" ? a : function() {
+        return a;
+    };
+    var bFunc = typeof b === "function" ? b : function() {
+        return b;
+    };
+    whenValueBecomes(function() {
+        return checkCompareType(aFunc(), bFunc(), compareType);
+    }, true, callback, allowRepeat, optInitialValue);
+}
+
+function wrapFunction(origFunc, newFunc) {
+    if (!origFunc) {
+        return newFunc;
+    }
+    return function() {
+        origFunc();
+        newFunc();
+    };
 }
 
 function setTranPos(transform, position, useLocal) {
@@ -272,22 +351,6 @@ function setTranScale(transform, scale, useLocal) {
 
 function getFallbackComponent(component, componentType) {
     return component || safeGetComponent(script.getSceneObject(), componentType);
-}
-
-function setRectCenter(rect, center) {
-    var offset = center.sub(rect.getCenter());
-    rect.left += offset.x;
-    rect.right += offset.x;
-    rect.top += offset.y;
-    rect.bottom += offset.y;
-}
-
-function setRectSize(rect, size) {
-    var center = rect.getCenter();
-    rect.left = center.x - size.x * 0.5;
-    rect.right = center.x + size.x * 0.5;
-    rect.top = center.y + size.y * 0.5;
-    rect.bottom = center.y - size.y * 0.5;
 }
 
 function setupTrigger() {
@@ -316,6 +379,18 @@ function setupTrigger() {
             break;
         case "distanceCheck":
             setupDistanceCheck();
+            break;
+        case "markerTrackingEvent":
+            setupMarkerTrackingEvent();
+            break;
+        case "objectTrackingEvent":
+            setupObjectTrackingEvent();
+            break;
+        case "landmarkerEvent":
+            setupLandmarkerEvent();
+            break;
+        case "recordingStart":
+            setupRecordingStart();
             break;
         case "onCustomTrigger":
             setupOnCustomTrigger();
@@ -366,6 +441,12 @@ function doResponse() {
             break;
         case "setScreenSize":
             triggerSetScreenSize();
+            break;
+        case "setBlendshapes":
+            triggerSetBlendshapes();
+            break;
+        case "instantiatePrefab":
+            triggerInstantiatePrefab();
             break;
         case "printMessage":
             triggerPrintMessage();
@@ -465,7 +546,7 @@ function setupAnimationEnd() {
             }
             whenValueBecomes(function() {
                 return mixerLayer.isPlaying();
-            }, false, onTrigger);
+            }, false, onTrigger, false);
             break;
     }
 }
@@ -482,7 +563,7 @@ function setupTweenEnd() {
     var isPlaying = function() {
         return global.tweenManager.isPlaying(script.tweenEndTargetObject, script.tweenEndTweenName);
     };
-    whenValueBecomes(isPlaying, false, onTrigger, false);
+    whenValueBecomes(isPlaying, false, onTrigger, false, false);
 }
 
 function setupLookingAt() {
@@ -494,43 +575,79 @@ function setupLookingAt() {
         debugPrint("Look Target must be set!");
         return;
     }
-    var validLastFrame;
-    var transA = script.lookingAtLookingObject.getTransform();
-    createAndBindEvent("UpdateEvent", function() {
-        var posA = script.lookingAtLookingObject.getTransform().getWorldPosition();
-        var posB = script.lookingAtLookTarget.getTransform().getWorldPosition();
-        var dir = posB.sub(posA).normalize();
-        var forward = script.lookingAtFlipForwardVec ? transA.back : transA.forward;
-        var angle = forward.angleTo(dir) * 180 / Math.PI;
-        if (getSign(angle - script.lookingAtAngle) == script.lookingAtCompareType) {
-            if (script.lookingAtAllowRepeat || !validLastFrame) {
-                onTrigger();
-            }
-            validLastFrame = true;
-        } else {
-            validLastFrame = false;
-        }
-    });
+    var cutoffRadians = script.lookingAtAngle * Math.PI / 180;
+    var transformA = script.lookingAtLookingObject.getTransform();
+    var transformB = script.lookingAtLookTarget.getTransform();
+    whenCompareTypeMatches(function() {
+        var dir = transformB.getWorldPosition().sub(transformA.getWorldPosition()).normalize();
+        var forward = script.lookingAtFlipForwardVec ? transformA.back : transformA.forward;
+        return forward.angleTo(dir);
+    }, cutoffRadians, script.lookingAtCompareType, onTrigger, script.lookingAtAllowRepeat, false);
 }
 
 function setupDistanceCheck() {
-    var validLastFrame;
     if (!(script.distanceCheckObjectA && script.distanceCheckObjectB)) {
         return;
     }
-    createAndBindEvent("UpdateEvent", function() {
-        var posA = script.distanceCheckObjectA.getTransform().getWorldPosition();
-        var posB = script.distanceCheckObjectB.getTransform().getWorldPosition();
-        var distance = posA.distance(posB);
-        if (getSign(distance - script.distanceCheckDistance) == script.distanceCheckCompareType) {
-            if (script.distanceCheckAllowRepeat || !validLastFrame) {
-                onTrigger();
-            }
-            validLastFrame = true;
-        } else {
-            validLastFrame = false;
-        }
-    });
+    var transformA = script.distanceCheckObjectA.getTransform();
+    var transformB = script.distanceCheckObjectB.getTransform();
+    whenCompareTypeMatches(function() {
+        return transformA.getWorldPosition().distance(transformB.getWorldPosition());
+    }, script.distanceCheckDistance, script.distanceCheckCompareType, onTrigger, script.distanceCheckAllowRepeat, false);
+}
+
+function setupMarkerTrackingEvent() {
+    if (!script.markerTrackingEventMarkerTracking) {
+        debugPrint("Marker Tracking must be set!");
+        return;
+    }
+    var tracker = script.markerTrackingEventMarkerTracking;
+    switch (script.markerTrackingEventEventType) {
+        case "Marker Found":
+            tracker.onMarkerFound = wrapFunction(tracker.onMarkerFound, onTrigger);
+            break;
+        case "Marker Lost":
+            tracker.onMarkerLost = wrapFunction(tracker.onMarkerLost, onTrigger);
+            break;
+    }
+}
+
+function setupObjectTrackingEvent() {
+    if (!script.objectTrackingEventObjectTracking) {
+        debugPrint("Object Tracking must be set!");
+        return;
+    }
+    var tracker = script.objectTrackingEventObjectTracking;
+    switch (script.objectTrackingEventEventType) {
+        case "Object Found":
+            tracker.onObjectFound = wrapFunction(tracker.onObjectFound, onTrigger);
+            break;
+        case "Object Lost":
+            tracker.onObjectLost = wrapFunction(tracker.onObjectLost, onTrigger);
+            break;
+    }
+}
+
+function setupLandmarkerEvent() {
+    if (!script.landmarkerEventLocationTracking) {
+        debugPrint("Location Tracking must be set!");
+        return;
+    }
+    var tracker = script.landmarkerEventLocationTracking;
+    switch (script.landmarkerEventEventType) {
+        case "Location Found":
+            tracker.onLocationFound = wrapFunction(tracker.onLocationFound, onTrigger);
+            break;
+        case "Location Lost":
+            tracker.onLocationLost = wrapFunction(tracker.onLocationLost, onTrigger);
+            break;
+    }
+}
+
+function setupRecordingStart() {
+    whenValueBecomes(function() {
+        return global.scene.isRecording();
+    }, true, onTrigger, false);
 }
 
 function setupOnCustomTrigger() {
@@ -543,13 +660,17 @@ function setupOnCustomTrigger() {
 
 function triggerTextureAnimation() {
     if (!(script.animateImageAnimatedTexture || script.animateImageVisualObject)) {
-        debugPrint("Sprite Target must be set!");
+        debugPrint("Image Target must be set!");
         return;
     }
     if (script.animateImageAnimatedTexture && script.animateImageVisualObject) {
         script.animateImageVisualObject.mainPass.baseTex = script.animateImageAnimatedTexture;
     }
     var tex = script.animateImageAnimatedTexture || script.animateImageVisualObject.mainPass.baseTex;
+    if (script.animateImageAdvanced) {
+        tex.control.isPingPong = script.animateImagePingPong;
+        tex.control.isReversed = script.animateImageReverse;
+    }
     switch (script.animateImageAction) {
         case "Play":
             tex.control.play(script.animateImageLoop ? -1 : 1, 0);
@@ -563,6 +684,9 @@ function triggerTextureAnimation() {
             break;
         case "Pause":
             tex.control.pause();
+            break;
+        case "Pause at Frame":
+            tex.control.pauseAtFrame(script.animateImagePauseFrame);
             break;
         case "Stop":
             tex.control.stop();
@@ -601,12 +725,24 @@ function triggerAnimateMesh() {
 }
 
 function triggerPlaySound() {
-    script.playSoundAudioComponent = script.playSoundAudioComponent || script.getSceneObject().createComponent("Component.AudioComponent");
-    if (script.playSoundAudioTrack) {
-        script.playSoundAudioComponent.audioTrack = script.playSoundAudioTrack;
+    switch (script.playSoundAction) {
+        case "Play":
+            script.playSoundAudioComponent = script.playSoundAudioComponent ||
+                script.getSceneObject().createComponent("Component.AudioComponent");
+            if (script.playSoundAudioTrack) {
+                script.playSoundAudioComponent.audioTrack = script.playSoundAudioTrack;
+            }
+            script.playSoundAudioComponent.volume = script.playSoundVolume;
+            script.playSoundAudioComponent.play(script.playSoundLoop ? -1 : 1);
+            break;
+        case "Stop":
+            if (!script.playSoundAudioComponent) {
+                debugPrint("Audio Component must be set!");
+                return;
+            }
+            script.playSoundAudioComponent.stop(script.playSoundFadeOut);
+            break;
     }
-    script.playSoundAudioComponent.volume = script.playSoundVolume;
-    script.playSoundAudioComponent.play(script.playSoundLoop ? -1 : 1);
 }
 
 function triggerSetEnabled() {
@@ -709,10 +845,10 @@ function triggerSetScreenPosition() {
             screenTran.position = script.setScreenPositionBasicPosition;
             break;
         case "Anchors Rect":
-            setRectCenter(screenTran.anchors, script.setScreenPositionAnchorsCenter);
+            screenTran.anchors.setCenter(script.setScreenPositionAnchorsCenter);
             break;
         case "Offsets Rect":
-            setRectCenter(screenTran.offsets, script.setScreenPositionOffsetsCenter);
+            screenTran.offsets.setCenter(script.setScreenPositionOffsetsCenter);
             break;
     }
 }
@@ -738,12 +874,28 @@ function triggerSetScreenSize() {
             screenTran.scale = script.setScreenSizeBasicScale;
             break;
         case "Anchors Rect":
-            setRectSize(screenTran.anchors, script.setScreenSizeAnchorsSize);
+            screenTran.anchors.setSize(script.setScreenSizeAnchorsSize);
             break;
         case "Offsets Rect":
-            setRectSize(screenTran.offsets, script.setScreenSizeOffsetsSize);
+            screenTran.offsets.setSize(script.setScreenSizeOffsetsSize);
             break;
     }
+}
+
+function triggerSetBlendshapes() {
+    if (!script.setBlendshapesBlendshapes) {
+        debugPrint("Blendshapes must be set!");
+        return;
+    }
+    script.setBlendshapesBlendshapes.setBlendShape(script.setBlendshapesName, script.setBlendshapesWeight);
+}
+
+function triggerInstantiatePrefab() {
+    if (!script.instantiatePrefabPrefab) {
+        debugPrint("Prefab must be set!");
+        return;
+    }
+    script.instantiatePrefabPrefab.instantiate(script.instantiatePrefabParent || null);
 }
 
 function triggerPrintMessage() {
