@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "tZ2BpkeQ_2bz1xV6vbTx",
+    "document_id": "txqxC5wYBYon7kNrzz1_",
     "original_document_id": "3gkiP-dFsRMZ6UYDYQeI",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -110,15 +111,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "318808d05d38a128316f75743525e8fe",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Face In Video",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -468,6 +473,18 @@
                 {
                     "k": "58",
                     "v": "Files\/File58"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.lsmat"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.lsmat"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.lsmat"
                 }
             ]
         },
@@ -628,7 +645,7 @@
                     },
                     {
                         "k": "28",
-                        "v": "cf560c0ea358e6714f596a8e50a64348"
+                        "v": "5ee059c602c9d85a67bea1440659babf"
                     },
                     {
                         "k": "466",
@@ -660,7 +677,7 @@
                     },
                     {
                         "k": "477",
-                        "v": "f5ec8047388179a56c80e4b601e9c673"
+                        "v": "e477ccdca6bac85d6654e97d985143b4"
                     },
                     {
                         "k": "478",
@@ -736,7 +753,7 @@
                     },
                     {
                         "k": "586",
-                        "v": "ac440f87314e8fd29f87c34de6e8e53f"
+                        "v": "acfbe0402189e4e958b685bef35bbd81"
                     },
                     {
                         "k": "587",
@@ -750,13 +767,13 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-08-13T15:38:42",
+                        "lastModified": "2019-10-22T16:57:38",
                         "name": "Public",
-                        "hash": "cb952beb973b6e96846f517852657b38",
+                        "hash": "920738e1a133518ed62ec23490325a1d",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:42",
+                                "lastModified": "2019-10-22T16:57:38",
                                 "name": "Textures",
                                 "hash": "8b5d47e3fe76a6bde46f420f7854e243",
                                 "children": [
@@ -799,29 +816,29 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:42",
+                                "lastModified": "2019-10-22T16:57:38",
                                 "name": "Materials",
-                                "hash": "fa611dd581e29304e835e75529b0ec20",
+                                "hash": "108c484f9afed2b679b18425ed1e0a97",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:42",
+                                        "lastModified": "2019-10-22T16:56:58",
                                         "name": "error_material.lsmat",
-                                        "hash": "f5ec8047388179a56c80e4b601e9c673",
+                                        "hash": "e477ccdca6bac85d6654e97d985143b4",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:42",
+                                        "lastModified": "2019-10-22T16:56:58",
                                         "name": "background_material.lsmat",
-                                        "hash": "ac440f87314e8fd29f87c34de6e8e53f",
+                                        "hash": "acfbe0402189e4e958b685bef35bbd81",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:42",
+                                        "lastModified": "2019-10-22T16:56:58",
                                         "name": "image_material.lsmat",
-                                        "hash": "cf560c0ea358e6714f596a8e50a64348",
+                                        "hash": "5ee059c602c9d85a67bea1440659babf",
                                         "children": ""
                                     },
                                     {
@@ -835,7 +852,7 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:42",
+                                "lastModified": "2019-10-22T16:57:38",
                                 "name": "Scripts",
                                 "hash": "fbc5ed655856162aed9aca971cfd5f03",
                                 "children": [
@@ -857,21 +874,21 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:42",
+                                "lastModified": "2019-10-22T16:57:38",
                                 "name": "Face In Video Example",
-                                "hash": "f42153d9a912f93e0e57929adca8c687",
+                                "hash": "5131cf15ac322f528358a3c980f4acba",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-08-13T15:38:42",
+                                        "lastModified": "2019-10-22T16:57:38",
                                         "name": "Textures",
-                                        "hash": "fbb59d84a4d280f8713a1ea7826b2312",
+                                        "hash": "8eb5af0c2e498b1005e4e3441987ccca",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-08-13T15:38:42",
+                                                "lastModified": "2019-10-22T16:57:38",
                                                 "name": "peapod_animated_texture",
-                                                "hash": "d7005c504b15fdc28abf36932ef856a7",
+                                                "hash": "5d6d19b40d6e39d66eaec954193debe8",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
@@ -907,6 +924,13 @@
                                                         "name": "animation.t3d",
                                                         "hash": "88ee722737b853cda51cc623686ea219",
                                                         "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-22T16:56:48",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
                                                     }
                                                 ]
                                             },
@@ -928,7 +952,7 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-08-13T15:38:42",
+                                        "lastModified": "2019-10-22T16:57:38",
                                         "name": "TrackingData",
                                         "hash": "a557b11c89b7f2ea18b03c7f08ced79a",
                                         "children": [
@@ -998,7 +1022,7 @@
                                 "dependency": "0",
                                 "uid": "1559949448306403:143831",
                                 "fileId": "38",
-                                "originalId": "39",
+                                "originalId": "18446744073709551615",
                                 "publicId": "476",
                                 "source": "",
                                 "additional": ""
@@ -1076,7 +1100,7 @@
                                 "dependency": "0",
                                 "uid": "1559869469625398:226488",
                                 "fileId": "21",
-                                "originalId": "22",
+                                "originalId": "18446744073709551615",
                                 "publicId": "24",
                                 "source": "",
                                 "additional": ""
@@ -1132,7 +1156,7 @@
                                 "dependency": "0",
                                 "uid": "1559869519887334:231574",
                                 "fileId": "25",
-                                "originalId": "26",
+                                "originalId": "59",
                                 "publicId": "28",
                                 "source": "",
                                 "additional": ""
@@ -1145,7 +1169,7 @@
                                 "dependency": "0",
                                 "uid": "1559951810618435:287585",
                                 "fileId": "40",
-                                "originalId": "41",
+                                "originalId": "60",
                                 "publicId": "477",
                                 "source": "",
                                 "additional": ""
@@ -1158,7 +1182,7 @@
                                 "dependency": "0",
                                 "uid": "1562806303005889:272159",
                                 "fileId": "55",
-                                "originalId": "56",
+                                "originalId": "61",
                                 "publicId": "586",
                                 "source": "",
                                 "additional": ""

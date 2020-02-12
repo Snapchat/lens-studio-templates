@@ -1,5 +1,5 @@
 // TweenTransform.js
-// Version: 0.0.2
+// Version: 0.0.5
 // Event: Any Event
 // Description: Runs a tween on a Lens Studio transform using TweenJS
 // ----- USAGE -----
@@ -35,6 +35,7 @@ if( !script.sceneObject )
 }
 
 // Setup the external API
+script.api.tweenObject = script.getSceneObject();
 script.api.tweenType = "transform";
 script.api.tweenName = script.tweenName;
 script.api.time = script.time;
@@ -42,6 +43,7 @@ script.api.startTween = startTween;
 script.api.resetObject = resetObject;
 script.api.tween = null;
 script.api.type = script.type;
+script.api.movementType = script.movementType;
 script.api.setupTween = setupTween;
 script.api.setupTweenBackwards = setupTweenBackwards;
 script.api.sceneObject = script.sceneObject;
@@ -54,6 +56,12 @@ script.api.setStart = setStart;
 script.api.setEnd = setEnd;
 script.api.manualStart = false;
 script.api.manualEnd = false;
+script.api.playAutomatically = script.playAutomatically;
+
+if ( global.tweenManager && global.tweenManager.addToRegistry )
+{
+    global.tweenManager.addToRegistry(script);
+}
 
 // Manually set start value
 function setStart( start )
@@ -91,7 +99,7 @@ function updateToEnd()
 
 // Play it automatically if specified
 if( script.playAutomatically )
-{
+{    
     // Start the tween
     startTween();
 }
@@ -241,6 +249,10 @@ function setupTween()
 // Resets the object to its start
 function resetObject()
 {
+    if (script.api.start == null) {
+        return;
+    }
+
     var startValue = (script.type == 2) ? {
         "x": 0
     } : {
@@ -302,7 +314,7 @@ function setupTweenBackwards()
 // Here's were the values returned by the tween are used
 // to drive the transform of the SceneObject
 function updateValue( value )
-{
+{   
     var DEG_TO_RAD = 0.0174533;
     var transform = script.api.sceneObject.getTransform();
     var local = script.isLocal ? "Local" : "World";

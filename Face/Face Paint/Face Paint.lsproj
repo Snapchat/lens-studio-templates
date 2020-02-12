@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "m9CHxHD1SpCBQgXeEYP7",
+    "document_id": "fkBDaZkDlkS5vihLDRRZ",
     "original_document_id": "eKJWBb5lCZNEaIqoD4gy",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -216,15 +217,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "8ccd910a39bf5544656a25f0ba2be30b",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Face Paint",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -890,60 +895,60 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T10:56:22",
+                        "lastModified": "2019-10-22T14:33:48",
                         "name": "Public",
                         "hash": "5972e14a778f6d286682c5f3a4b6d666",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:56:22",
+                                "lastModified": "2019-10-22T14:33:48",
                                 "name": "Textures",
                                 "hash": "07105c41eb580dc4ad0eb3cc23e41353",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_diff.png",
                                         "hash": "311a76924cee5e58d7271449b3bd1b2e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_spec.png",
                                         "hash": "f52bc2d64df8998994aa36365eddbf6f",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Face Substitution Points",
                                         "hash": "0316dc8f1fb77950f082899eee61586e",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Lips.png",
                                                 "hash": "c3712766256cc2c114e8e8f697694047",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Eye.png",
                                                 "hash": "98b380616d4bfed1d0f4bc1dae59944a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Full.png",
                                                 "hash": "11f4d5b93501561a110fa6434d320c06",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -952,7 +957,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -961,33 +966,33 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:56:22",
+                                "lastModified": "2019-10-22T14:33:48",
                                 "name": "Face Paint Template [REMOVE_ME]",
                                 "hash": "e31a84f00515dc3d3ff07d7dfcf4fd60",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Paint",
                                         "hash": "e9b9f2148fae00aadada6f1015e87b6a",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "paint.png",
                                                 "hash": "2f118712bba6583028996fc0c2486420",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "paint_lips.png",
                                                 "hash": "dfd7e5f0597cb26a02ad1d960b016843",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -996,34 +1001,34 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Flower",
                                         "hash": "0434cb110d1aed6e35a72bdccda9d95d",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "flowers.png",
                                                 "hash": "e14237312b3bb7abbedc2134bdf55f33",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "flower_cheeks.png",
                                                 "hash": "a40ee5172258a770f833604756100e89",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "flower_lips.png",
                                                 "hash": "25b02f90d45fa85d25b0d5ec22c93381",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1032,34 +1037,34 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Dripping",
                                         "hash": "a9ce924b0f82560c131cf70b8f0b74e8",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "dripping.png",
                                                 "hash": "d62d8d2214c908b0de8492bb192106b8",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "dripping_lips.png",
                                                 "hash": "0e40f7e6e676928371c0485da4113638",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "dripping_cheeks.png",
                                                 "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1068,41 +1073,41 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Bird",
                                         "hash": "3af705c25d977291a4648e10ff5a7947",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "bird.png",
                                                 "hash": "756ee50b55f2a8dfd96546f78caa9510",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "bird_cheeks.png",
                                                 "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "bird_lips_1.png",
                                                 "hash": "7077c307c97eac06ac748600338d5484",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "bird_lips_2.png",
                                                 "hash": "0381b263eef4ee605d3d3b8d78aed401",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1111,41 +1116,41 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Swan",
                                         "hash": "9800ea9bf4c5a70102d7c6ee02e259a7",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "swan_eye_color.png",
                                                 "hash": "027c5785a7afa5e0225d8930b8297867",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "swan.png",
                                                 "hash": "97d2aa16a7c133c1312f46bc31496b9a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "swan_cheeks.png",
                                                 "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "swan_lips.png",
                                                 "hash": "700c853ad34480e6c8d973928d7d98a4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1154,34 +1159,34 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:56:22",
+                                        "lastModified": "2019-10-22T14:33:48",
                                         "name": "Koi",
                                         "hash": "aa09255a1bd9dbf08d2a457d24809f82",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "koi.png",
                                                 "hash": "bb09e3e1c8c09f13e9bd555cfa7db133",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "koi_lips.png",
                                                 "hash": "3349e862d602cd97ce11343ab4db2bb4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "koi_cheeks.png",
                                                 "hash": "a8bbeb205ee118ae8a2238b3d17e7a88",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1190,7 +1195,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1199,7 +1204,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:57",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""

@@ -1,5 +1,5 @@
 // TweenManager.js
-// Version: 0.0.3
+// Version: 0.0.5
 // Event: Lens Initialized
 // Description: Calls TweenJS' update and adds some global helper functions
 //
@@ -10,7 +10,7 @@
 // To stop a tween by name on a given object
 //  global.tweenManager.stopTween( tweenObject, tweenName )
 //
-// Resets the tween, call before starting the tween again
+// To reset object, call before starting the tween again
 //  global.tweenManager.resetObject( tweenObject, tweenName )
 //
 // To pause a tween on a given object
@@ -21,6 +21,15 @@
 //
 // Get the value of a Tween Value
 // global.tweenManager.getGenericTweenValue( tweenObject, tweenName )
+//
+// To reset tween on a given object
+//  global.tweenManager.resetTween( tweenObject, tweenName )
+//
+// To reset all registered tweens
+//  global.tweenManager.resetTweens()
+//
+// To start all registered tweens which has PlayAutomatically set to true
+//  global.tweenManager.restartAutoTweens()
 // -----------------
 
 
@@ -322,7 +331,7 @@ function stopTween( tweenObject, tweenName )
         debugPrint( "Tween Manager: Stopping " + tweenName );
         if ( tweenScriptComponent.api.tweenType == "chain")
         {
-            if ( tweenScriptComponent.api.playAll )
+            if ( tweenScriptComponent.api.playAll && tweenScriptComponent.api.allTweens)
             {
                 for ( var i = 0; i < tweenScriptComponent.api.allTweens.length; i++)
                 {
@@ -421,6 +430,93 @@ function resetObject( tweenObject, tweenName )
         tweenScriptComponent.api.resetObject();
     }
 }
+
+
+// Global function to reset and start tween again
+function resetTween( tweenObject, tweenName)
+{
+    var tweenScriptComponent = findTween( tweenObject, tweenName );
+    resetTweenComponent(tweenScriptComponent);
+}
+
+function resetTweenComponent( tweenScriptComponent)
+{
+    if( tweenScriptComponent )
+    {
+        debugPrint("Tween Manager: Resetting tween " + tweenScriptComponent.api.tweenName);
+
+        if (tweenScriptComponent.api.tweenType == "chain") {
+            tweenScriptComponent.api.backwards = false;
+            debugPrint("Tween Manager: Chain Tween reset is not fully supported");
+        }
+
+        if (tweenScriptComponent.api.movementType && tweenScriptComponent.api.movementType > 0) {
+            debugPrint("Tween Manager: Reset for this tween movement type is not fully supported");
+        }
+
+        // Remove tween if it already exists
+        if( tweenScriptComponent.api.tween )
+        {
+            if ( Array.isArray(tweenScriptComponent.api.tween))
+            {
+                for ( var i in tweenScriptComponent.api.tween )
+                {
+                    TWEEN.remove( tweenScriptComponent.api.tween[i] );
+                }
+            }
+            else
+            {
+                TWEEN.remove( tweenScriptComponent.api.tween );
+            }
+        }
+        tweenScriptComponent.api.resetObject();
+    }
+}
+
+
+// Global function to reset all tweens
+function resetTweens()
+{
+    for (var i = 0; i < script.registry.length; i++) {
+        var tweenScriptComponent = script.registry[i]; 
+        resetTweenComponent(tweenScriptComponent);
+    }
+}
+
+// Global function to restart all playAutomatically tweens
+function restartAutoTweens()
+{
+    for (var i = 0; i < script.registry.length; i++) {
+        var tweenScriptComponent = script.registry[i];
+        
+        if ( tweenScriptComponent && tweenScriptComponent.api.playAutomatically) {
+            debugPrint("Restarting tween " + tweenScriptComponent.api.tweenName);
+
+            // Start the tween
+            tweenScriptComponent.api.startTween();
+        }
+    }
+}
+
+
+script.registry = [];
+
+function addToRegistry( tweenScriptComponent )
+{
+    if ( tweenScriptComponent ) {
+        debugPrint("Adding tween " + tweenScriptComponent.api.tweenName + " to Tween Manager registry");
+        script.registry[script.registry.length++] = tweenScriptComponent;
+        return true;
+    }
+    return false;
+}
+
+function cleanRegistry()
+{
+    script.registry = [];
+}
+
+
 
 // Create the easing type string that will be used by the tween
 function getTweenEasingType( easingFunction, easingType )
@@ -597,3 +693,8 @@ global.tweenManager.setStartValue = setStartValue;
 global.tweenManager.setEndValue = setEndValue;
 global.tweenManager.isPlaying = isPlaying;
 global.tweenManager.isPaused = isPaused;
+global.tweenManager.addToRegistry = addToRegistry;
+global.tweenManager.cleanRegistry = cleanRegistry;
+global.tweenManager.resetTween = resetTween;
+global.tweenManager.resetTweens = resetTweens;
+global.tweenManager.restartAutoTweens = restartAutoTweens;

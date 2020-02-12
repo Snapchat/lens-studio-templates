@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "-snK5pFBnA8pyTWe8ENi",
+    "document_id": "kCeQCQT2lzrqhB7CNIXn",
     "original_document_id": "nCexpW957lEQrKWYUH6T",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -90,15 +91,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "0f258e59f96a02c89cf0fb095962faa6",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Simple High Score",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "false",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -646,40 +651,40 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T11:51:39",
+                        "lastModified": "2019-10-22T16:25:48",
                         "name": "Public",
                         "hash": "c4ddad26abcc7fe578f21e37b0901013",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:52:33",
+                                "lastModified": "2019-10-22T16:25:48",
                                 "name": "Textures",
                                 "hash": "9e7f48e653e054959a22666e871b2504",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "high_score_background.png",
                                         "hash": "b25950724eeadee3e7e7402a7c8964cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "add_point.png",
                                         "hash": "04f5960ac636fbbe13580ac182710449",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "end_game.png",
                                         "hash": "553a88d6ef0baffe4710aa602dcf8b68",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -688,27 +693,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:51:39",
+                                "lastModified": "2019-10-22T16:25:48",
                                 "name": "Default",
                                 "hash": "5d0daf4be82fee50df678f1d3a4975ad",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "echopark_diff.png",
                                         "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "echopark_spec.png",
                                         "hash": "8e599835d0d45c5879eafb1f474469cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -717,34 +722,34 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:51:39",
+                                "lastModified": "2019-10-22T16:25:48",
                                 "name": "Scripts",
                                 "hash": "20ea4bc0d3769710dace4ba59cecbc2f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "IncrementScore.js",
                                         "hash": "6957de1011c0c4785ca2d4e3b75c59aa",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "EndGame.js",
                                         "hash": "63a50aceab941a84b3496b1d8b88c806",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:45:01",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "SimpleHighScoreController.js",
                                         "hash": "a9541cf9532b106b7a834ec395ea2695",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -753,20 +758,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:51:39",
+                                "lastModified": "2019-10-22T16:25:48",
                                 "name": "Fonts",
                                 "hash": "0459529f1b7919024ddd6417c7d8daf4",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "jellee_roman.ttf",
                                         "hash": "09438cae5178fea614cfd0b16e719824",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:50",
+                                        "lastModified": "2019-10-16T11:55:58",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -775,7 +780,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:50",
+                                "lastModified": "2019-10-16T11:55:58",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""

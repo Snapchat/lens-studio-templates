@@ -292,8 +292,7 @@ function calculateRemainingDays()
 
     var customUserDate = roundedDate( new Date() );
 
-    customUserDate.setDate( day );
-    customUserDate.setMonth( month - 1 );
+    customUserDate.setMonth( month - 1, day );
 
     // Leap day
     if (month == 2 && day == 29) 
@@ -342,8 +341,7 @@ function findNextLeapDay( startDate )
         year += 1;
     }
     date.setFullYear( year );
-    date.setDate( 29 );
-    date.setMonth( 1 );
+    date.setMonth( 1, 29 );
     return date;
 }
 
@@ -351,8 +349,7 @@ function roundedDate( date )
 {
     var roundedDay = new Date();
     roundedDay.setFullYear( date.getFullYear() );
-    roundedDay.setMonth( date.getMonth() );
-    roundedDay.setDate( date.getDate() );
+    roundedDay.setMonth( date.getMonth(), date.getDate() );
     roundedDay.setHours( 0 );
     roundedDay.setMinutes( 0 );
     roundedDay.setSeconds( 0 );

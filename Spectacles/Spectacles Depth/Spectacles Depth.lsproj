@@ -1,0 +1,3689 @@
+{
+    "lens_id": "",
+    "document_id": "4ubnWEA3xsi_GLV6Th_r",
+    "original_document_id": "T7-8eDGSoHilt64pQBM6",
+    "version": "19",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "2",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Assets"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint1"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint1 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint1 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint10"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint10 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint10 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint11"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint11 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint2 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint2 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint3 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint3 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint4"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint4 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint4 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint5"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint5 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint5 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint6"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint6 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint6 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint7"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint7 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint7 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint8"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint8_2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint8_3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint9"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint9 2"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Animations",
+                        "joint9 3"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes",
+                        "Ltnng_001"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes",
+                        "Ltnng_002"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes",
+                        "Ltnng_003"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes",
+                        "cloud_mesh"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes",
+                        "clouf_face"
+                    ],
+                    [
+                        "Assets",
+                        "cloud [REMOVE_ME]",
+                        "Meshes",
+                        "clouf_face1"
+                    ],
+                    [
+                        "Default"
+                    ],
+                    [
+                        "Default",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Default",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Materials"
+                    ],
+                    [
+                        "Materials",
+                        "animated_texture_unlit"
+                    ],
+                    [
+                        "Materials",
+                        "cloud_diffuse"
+                    ],
+                    [
+                        "Materials",
+                        "cloud_face_happy_diffuse"
+                    ],
+                    [
+                        "Materials",
+                        "cloud_face_sad_diffuse"
+                    ],
+                    [
+                        "Materials",
+                        "lightning_diffuse"
+                    ],
+                    [
+                        "Particles"
+                    ],
+                    [
+                        "Particles",
+                        "cloud_smoke"
+                    ],
+                    [
+                        "Particles",
+                        "clouds_texture_sheet"
+                    ],
+                    [
+                        "Particles",
+                        "emitter_1000"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "Duplication Utilities"
+                    ],
+                    [
+                        "Scripts",
+                        "Duplication Utilities",
+                        "AnimatedTextureMaterialDuplicationHelper"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers",
+                        "ExampleHelper[EDIT_ME]"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers",
+                        "Play2DAnimation"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers",
+                        "PlayParticles"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers",
+                        "PlayStop3DAnimation"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers",
+                        "SetEnabledSceneObject"
+                    ],
+                    [
+                        "Scripts",
+                        "Object Spawner Helpers",
+                        "TriggerBehaviorScript"
+                    ],
+                    [
+                        "Scripts",
+                        "ObjectSpawner"
+                    ],
+                    [
+                        "Scripts",
+                        "SpectaclesTimeLoopHelper"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 0"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 1"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 2"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 3"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 4"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 5"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 6"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 7"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 8"
+                    ],
+                    [
+                        "Textures",
+                        "Animated Textures",
+                        "cloud_puff 9"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "cloud_diffuse"
+                    ],
+                    [
+                        "Textures",
+                        "cloud_face_happy"
+                    ],
+                    [
+                        "Textures",
+                        "cloud_face_sad"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1571800088650866:59934",
+                    "1571800088653228:59958",
+                    "1571800088655108:59994",
+                    "1571800088655492:59996",
+                    "1571800088732833:60230",
+                    "1571800088879783:60548"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "0121ebdd5479e7c253e2ed4fe52e8e0f",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Spectacles Depth",
+            "applicability": "4",
+            "lens_descriptors": [
+                "SUPPORTS_NEWPORT_DEPTH"
+            ]
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "2",
+                "camera_type": "4"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Playground\/Playground.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1571800086761834:58259",
+                    "name": "Files\/File3.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1571800086777089:58271",
+                    "name": "Files\/File4",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1571800086915446:58296",
+                    "name": "Files\/File6.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1571800086933060:58308",
+                    "name": "Files\/File7.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1571800086952048:58320",
+                    "name": "Files\/File8.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1571800087010917:58357",
+                    "name": "Files\/File11.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1571800087029908:58369",
+                    "name": "Files\/File12.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1571800087052835:58384",
+                    "name": "Files\/File13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1571800087066434:58396",
+                    "name": "Files\/File14",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1571800087122440:58410",
+                    "name": "Files\/File16.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1571800087152283:58422",
+                    "name": "Files\/File18.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1571800087184324:58434",
+                    "name": "Files\/File20.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1571800087212294:58446",
+                    "name": "Files\/File22.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1571800087231903:58458",
+                    "name": "Files\/File24",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1571800087356233:58472",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1571800087375645:58484",
+                    "name": "Files\/File28",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1571800087494677:58498",
+                    "name": "Files\/File30",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1571800087614712:58512",
+                    "name": "Files\/File32",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1571800087751661:58529",
+                    "name": "Files\/File34.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1571800087774915:58544",
+                    "name": "Files\/File35.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1571800087800069:58559",
+                    "name": "Files\/File36.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1571800087827762:58574",
+                    "name": "Files\/File37.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1571800087852332:58589",
+                    "name": "Files\/File38.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1571800087875706:58604",
+                    "name": "Files\/File39.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1571800087882978:58616",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1571800087884197:58650",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1571800087884699:58684",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1571800087885210:58718",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1571800087885747:58752",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1571800087886280:58786",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1571800087886796:58820",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1571800087887333:58854",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "43",
+                    "uid": "1571800087887898:58888",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1571800087888471:58922",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "45",
+                    "uid": "1571800087889020:58956",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1571800087889594:58990",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1571800087890170:59024",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1571800087890753:59058",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1571800087891517:59092",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1571800087892203:59126",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1571800087892932:59160",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1571800087893758:59194",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1571800087894577:59228",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1571800087895010:59241",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1571800087895414:59254",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1571800087898452:59288",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1571800087899290:59322",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1571800087900059:59356",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1571800087900477:59369",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1571800087901182:59403",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1571800087901935:59437",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1571800087902875:59471",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1571800087903322:59484",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1571800087904147:59518",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1571800087904970:59552",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1571800087905861:59586",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1571800087934287:59601",
+                    "name": "Files\/File40",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1571800088007153:59619",
+                    "name": "Files\/File41",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1571800088077293:59637",
+                    "name": "Files\/File42",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1571800088143845:59655",
+                    "name": "Files\/File43",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1571800088214210:59673",
+                    "name": "Files\/File44",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1571800088282911:59691",
+                    "name": "Files\/File45",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1571800088353278:59709",
+                    "name": "Files\/File46",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1571800088427614:59727",
+                    "name": "Files\/File47",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1571800088503522:59745",
+                    "name": "Files\/File48",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1571800088575854:59763",
+                    "name": "Files\/File49",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1571800217216662:98676",
+                    "name": "Files\/File50.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1571800217229924:98683",
+                    "name": "Files\/File51.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1571802040113748:53630",
+                    "name": "Files\/File52",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1571881224290332:232310",
+                    "name": "Files\/File54.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": [
+                    {
+                        "k": "1571800087066434:58396",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "b71e1f86eda5021909d8f077e988f160",
+                                        "ui": "018e2e8cc07108d39c432dd71d29496d",
+                                        "includes": ""
+                                    },
+                                    "flags": "266"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1571802040113748:53630",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "874f5b5402ca140083023d267c016551",
+                                        "ui": "3f886d2fbafb87b2e37b2bcbf1139db9",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1571800088650866:59934",
+                "1": "1571800088651183:59936",
+                "2": "1571800088652208:59947",
+                "3": "1571800088653228:59958",
+                "4": "1571800088653533:59960",
+                "5": "1571800088654263:59966",
+                "6": "1571800088655108:59994",
+                "7": "1571800088655492:59996",
+                "8": "1571800088655835:59998",
+                "9": "1571800088715109:60052",
+                "10": "1571800088716430:60066",
+                "11": "1571800088716831:60068",
+                "12": "1571800088717159:60070",
+                "13": "1571800088717933:60074",
+                "14": "1571800088718654:60078",
+                "15": "1571800088719344:60082",
+                "16": "1571800088720108:60086",
+                "17": "1571800088721086:60092",
+                "18": "1571800088722184:60106",
+                "19": "1571800088723276:60120",
+                "20": "1571800088724359:60134",
+                "21": "1571800088725469:60148",
+                "22": "1571800088725809:60150",
+                "23": "1571800088726125:60152",
+                "24": "1571800088726437:60154",
+                "25": "1571800088727383:60160",
+                "26": "1571800088727709:60162",
+                "27": "1571800088728714:60168",
+                "28": "1571800088729048:60170",
+                "29": "1571800088732833:60230",
+                "30": "1571800088733287:60232",
+                "31": "1571800088856519:60356",
+                "32": "1571800088856954:60358",
+                "33": "1571800088858202:60372",
+                "34": "1571800088859503:60386",
+                "35": "1571800088859884:60388",
+                "36": "1571800088860255:60390",
+                "37": "1571800088861070:60394",
+                "38": "1571800088861831:60398",
+                "39": "1571800088862656:60402",
+                "40": "1571800088863431:60406",
+                "41": "1571800088864532:60412",
+                "42": "1571800088865779:60426",
+                "43": "1571800088866990:60440",
+                "44": "1571800088868222:60454",
+                "45": "1571800088869485:60468",
+                "46": "1571800088869887:60470",
+                "47": "1571800088870262:60472",
+                "48": "1571800088870649:60474",
+                "49": "1571800088871950:60480",
+                "50": "1571800088872360:60482",
+                "51": "1571800088873635:60488",
+                "52": "1571800088874032:60490",
+                "53": "1571800088879783:60548",
+                "54": "1571800088880255:60550",
+                "55": "1571800088881619:60564",
+                "56": "1571800088882086:60566",
+                "57": "1571800088883580:60580",
+                "58": "1571800088885068:60594",
+                "59": "1571800088885558:60596",
+                "60": "1571800088886025:60598",
+                "61": "1571800088886979:60602",
+                "62": "1571800088887891:60606",
+                "63": "1571800088888800:60610",
+                "64": "1571800088889685:60614",
+                "65": "1571800088891063:60620",
+                "66": "1571800088892461:60634",
+                "67": "1571800088893938:60648",
+                "68": "1571800088895202:60662",
+                "69": "1571800088896361:60676",
+                "70": "1571800088896742:60678",
+                "71": "1571800088897093:60680",
+                "72": "1571800088897476:60682",
+                "73": "1571800088898633:60688",
+                "74": "1571800088898984:60690",
+                "75": "1571800088900024:60696",
+                "76": "1571800088900383:60698",
+                "77": "1571881227899637:235126"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.lsmat"
+                },
+                {
+                    "k": "6",
+                    "v": "Files\/File6.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.js"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.js"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.js"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12.js"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13.mesh"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15.lsmat"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.png"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17.png"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.jpg"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.jpg"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20.png"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.png"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.png"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.lsmat"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.lsmat"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.lsmat"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34.mesh"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.mesh"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36.mesh"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.mesh"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.mesh"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.mesh"
+                },
+                {
+                    "k": "40",
+                    "v": "Files\/File40"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48"
+                },
+                {
+                    "k": "49",
+                    "v": "Files\/File49"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.js"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.js"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.lsmat"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.js"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Default\/echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Default\/echopark_spec.png"
+                    },
+                    {
+                        "k": "112",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "113",
+                        "v": "Scripts\/ObjectSpawner.js"
+                    },
+                    {
+                        "k": "114",
+                        "v": "Materials"
+                    },
+                    {
+                        "k": "115",
+                        "v": "Materials\/animated_texture_unlit.lsmat"
+                    },
+                    {
+                        "k": "116",
+                        "v": "Scripts\/Duplication Utilities"
+                    },
+                    {
+                        "k": "117",
+                        "v": "Scripts\/Duplication Utilities\/AnimatedTextureMaterialDuplicationHelper.js"
+                    },
+                    {
+                        "k": "118",
+                        "v": "Scripts\/Object Spawner Helpers"
+                    },
+                    {
+                        "k": "119",
+                        "v": "Scripts\/Object Spawner Helpers\/PlayStop3DAnimation.js"
+                    },
+                    {
+                        "k": "120",
+                        "v": "Scripts\/Object Spawner Helpers\/SetEnabledSceneObject.js"
+                    },
+                    {
+                        "k": "121",
+                        "v": "Default"
+                    },
+                    {
+                        "k": "123",
+                        "v": "Scripts\/Object Spawner Helpers\/Play2DAnimation.js"
+                    },
+                    {
+                        "k": "124",
+                        "v": "Scripts\/Object Spawner Helpers\/PlayParticles.js"
+                    },
+                    {
+                        "k": "125",
+                        "v": "Particles"
+                    },
+                    {
+                        "k": "126",
+                        "v": "Particles\/emitter_1000.mesh"
+                    },
+                    {
+                        "k": "127",
+                        "v": "Particles\/cloud_smoke.lsmat"
+                    },
+                    {
+                        "k": "128",
+                        "v": "Particles\/clouds_texture_sheet.png"
+                    },
+                    {
+                        "k": "129",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "130",
+                        "v": "Textures\/cloud_diffuse.jpg"
+                    },
+                    {
+                        "k": "131",
+                        "v": "Textures\/cloud_face_happy.png"
+                    },
+                    {
+                        "k": "132",
+                        "v": "Textures\/cloud_face_sad.png"
+                    },
+                    {
+                        "k": "133",
+                        "v": "Materials\/cloud_diffuse.lsmat"
+                    },
+                    {
+                        "k": "134",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "135",
+                        "v": "Materials\/cloud_face_happy_diffuse.lsmat"
+                    },
+                    {
+                        "k": "136",
+                        "v": "Materials\/cloud_face_sad_diffuse.lsmat"
+                    },
+                    {
+                        "k": "137",
+                        "v": "Materials\/lightning_diffuse.lsmat"
+                    },
+                    {
+                        "k": "138",
+                        "v": "Assets"
+                    },
+                    {
+                        "k": "139",
+                        "v": "Assets\/cloud [REMOVE_ME]"
+                    },
+                    {
+                        "k": "140",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes"
+                    },
+                    {
+                        "k": "141",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes\/clouf_face.mesh"
+                    },
+                    {
+                        "k": "142",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes\/clouf_face1.mesh"
+                    },
+                    {
+                        "k": "143",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes\/cloud_mesh.mesh"
+                    },
+                    {
+                        "k": "144",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes\/Ltnng_001.mesh"
+                    },
+                    {
+                        "k": "145",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes\/Ltnng_002.mesh"
+                    },
+                    {
+                        "k": "146",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Meshes\/Ltnng_003.mesh"
+                    },
+                    {
+                        "k": "147",
+                        "v": "Assets\/cloud [REMOVE_ME]\/Animations"
+                    },
+                    {
+                        "k": "148",
+                        "v": "Textures\/Animated Textures"
+                    },
+                    {
+                        "k": "149",
+                        "v": "Textures\/Animated Textures\/cloud_puff 0"
+                    },
+                    {
+                        "k": "150",
+                        "v": "Textures\/Animated Textures\/cloud_puff 1"
+                    },
+                    {
+                        "k": "151",
+                        "v": "Textures\/Animated Textures\/cloud_puff 2"
+                    },
+                    {
+                        "k": "152",
+                        "v": "Textures\/Animated Textures\/cloud_puff 3"
+                    },
+                    {
+                        "k": "153",
+                        "v": "Textures\/Animated Textures\/cloud_puff 4"
+                    },
+                    {
+                        "k": "154",
+                        "v": "Textures\/Animated Textures\/cloud_puff 5"
+                    },
+                    {
+                        "k": "155",
+                        "v": "Textures\/Animated Textures\/cloud_puff 6"
+                    },
+                    {
+                        "k": "156",
+                        "v": "Textures\/Animated Textures\/cloud_puff 7"
+                    },
+                    {
+                        "k": "157",
+                        "v": "Textures\/Animated Textures\/cloud_puff 8"
+                    },
+                    {
+                        "k": "158",
+                        "v": "Textures\/Animated Textures\/cloud_puff 9"
+                    },
+                    {
+                        "k": "159",
+                        "v": "Scripts\/Object Spawner Helpers\/ExampleHelper[EDIT_ME].js"
+                    },
+                    {
+                        "k": "160",
+                        "v": "Scripts\/Object Spawner Helpers\/TriggerBehaviorScript.js"
+                    },
+                    {
+                        "k": "163",
+                        "v": "Default\/Spectacles Depth.lsmat"
+                    },
+                    {
+                        "k": "175",
+                        "v": "Scripts\/SpectaclesTimeLoopHelper.js"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "113",
+                        "v": "fe7c710f776fb86feb41449fa734f316"
+                    },
+                    {
+                        "k": "115",
+                        "v": "280ba3b83fa24c116cfd5bb956bf415e"
+                    },
+                    {
+                        "k": "117",
+                        "v": "352b6f1449ac17a0f2cbddf50acbf282"
+                    },
+                    {
+                        "k": "119",
+                        "v": "de2d2b214b8523c06455399dd5a73a0c"
+                    },
+                    {
+                        "k": "120",
+                        "v": "ac3dbe3568a5034bba947648e9c16e0b"
+                    },
+                    {
+                        "k": "122",
+                        "v": "9e63e6cf9ecc27d1e83fccf9eed46b12"
+                    },
+                    {
+                        "k": "123",
+                        "v": "f2846e73bb06d8b5a3a3c39b60ed4347"
+                    },
+                    {
+                        "k": "124",
+                        "v": "63f2bc81f9e900ae9d37a8cbc956c258"
+                    },
+                    {
+                        "k": "126",
+                        "v": "adc36fff2957674601d705ed729586cf"
+                    },
+                    {
+                        "k": "127",
+                        "v": "9dd3b1b65c2e0aa3bb6afd94f4d9cbfb"
+                    },
+                    {
+                        "k": "128",
+                        "v": "36137a1396811f0baa8c6bb0e893782a"
+                    },
+                    {
+                        "k": "130",
+                        "v": "460763fd6878b6c75c6d06989c2cf4c7"
+                    },
+                    {
+                        "k": "131",
+                        "v": "f09d1e54976b41b7ce93d869a6504091"
+                    },
+                    {
+                        "k": "132",
+                        "v": "ae8470df1f42c7459c6b174554c217a8"
+                    },
+                    {
+                        "k": "133",
+                        "v": "64b2e73d6cabffc677185eec272c7fe1"
+                    },
+                    {
+                        "k": "134",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "135",
+                        "v": "69ee4535f55dffa2a66a1b8b85dea61f"
+                    },
+                    {
+                        "k": "136",
+                        "v": "8642a29db3249e072d9dca01d38f92dc"
+                    },
+                    {
+                        "k": "137",
+                        "v": "385999efab7b2577ae2956847c217119"
+                    },
+                    {
+                        "k": "141",
+                        "v": "5fc886f1cd0527e1b7eb6985b6fb48b3"
+                    },
+                    {
+                        "k": "142",
+                        "v": "e9c8da3c23175406ad8d5123ba1b6cd7"
+                    },
+                    {
+                        "k": "143",
+                        "v": "bae64bec7f9c5be904933439702ae5e9"
+                    },
+                    {
+                        "k": "144",
+                        "v": "5a89bc870c5d199a444242e36f532133"
+                    },
+                    {
+                        "k": "145",
+                        "v": "b7a6fcf9cde708b509af24713a4e8bbd"
+                    },
+                    {
+                        "k": "146",
+                        "v": "2f14fd533cb6ea59e899ec02fd42e180"
+                    },
+                    {
+                        "k": "149",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "150",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "151",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "152",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "153",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "154",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "155",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "156",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "157",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "158",
+                        "v": "752bfa6324b544de0874bec89279a22c"
+                    },
+                    {
+                        "k": "159",
+                        "v": "1bb0696245242b9e1dd253bb7d1f0947"
+                    },
+                    {
+                        "k": "160",
+                        "v": "659f466280e931be803796d6d125fb67"
+                    },
+                    {
+                        "k": "163",
+                        "v": "94fd94d75bf7a9a44a645d7c95e7a978"
+                    },
+                    {
+                        "k": "175",
+                        "v": "9fba1326638c3b1202054a4ac7ca7231"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-10-28T09:58:20",
+                        "name": "Public",
+                        "hash": "f95db30f802bd72156826c2381707c73",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-10-23T16:08:27",
+                                "name": "Textures",
+                                "hash": "c20a63fedf9f9e0e975780837e081436",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_face_happy.png",
+                                        "hash": "f09d1e54976b41b7ce93d869a6504091",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_diffuse.jpg",
+                                        "hash": "460763fd6878b6c75c6d06989c2cf4c7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_face_sad.png",
+                                        "hash": "ae8470df1f42c7459c6b174554c217a8",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "Animated Textures",
+                                        "hash": "35b410d2883d8ea770a2b57027fe2dc6",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 5",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 2",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 3",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 4",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 8",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 1",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 6",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 7",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 0",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "cloud_puff 9",
+                                                "hash": "752bfa6324b544de0874bec89279a22c",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "ab7f871781fc0c9808f743b428d1e2f3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "animation.t3d",
+                                                        "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-10-23T16:08:27",
+                                "name": "Materials",
+                                "hash": "db175f76fb7f8250386419f1af6ae745",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_face_happy_diffuse.lsmat",
+                                        "hash": "69ee4535f55dffa2a66a1b8b85dea61f",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "animated_texture_unlit.lsmat",
+                                        "hash": "280ba3b83fa24c116cfd5bb956bf415e",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "lightning_diffuse.lsmat",
+                                        "hash": "385999efab7b2577ae2956847c217119",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_face_sad_diffuse.lsmat",
+                                        "hash": "8642a29db3249e072d9dca01d38f92dc",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_diffuse.lsmat",
+                                        "hash": "64b2e73d6cabffc677185eec272c7fe1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-10-23T16:08:27",
+                                "name": "Default",
+                                "hash": "051517ab2fa3feeb2cee6aa909af6795",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "Spectacles Depth.lsmat",
+                                        "hash": "94fd94d75bf7a9a44a645d7c95e7a978",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-10-23T16:08:27",
+                                "name": "Particles",
+                                "hash": "c01bb54cc289eee1212de20d06b1f2f3",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "emitter_1000.mesh",
+                                        "hash": "adc36fff2957674601d705ed729586cf",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "clouds_texture_sheet.png",
+                                        "hash": "36137a1396811f0baa8c6bb0e893782a",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud_smoke.lsmat",
+                                        "hash": "9dd3b1b65c2e0aa3bb6afd94f4d9cbfb",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-10-28T09:59:02",
+                                "name": "Scripts",
+                                "hash": "d3f6c480dfd916a1d6fa2e2033504384",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "Duplication Utilities",
+                                        "hash": "9d3a74d97e6f7e5df78e64448bf58cc9",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "AnimatedTextureMaterialDuplicationHelper.js",
+                                                "hash": "352b6f1449ac17a0f2cbddf50acbf282",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "ObjectSpawner.js",
+                                        "hash": "fe7c710f776fb86feb41449fa734f316",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-28T09:59:02",
+                                        "name": "SpectaclesTimeLoopHelper.js",
+                                        "hash": "9fba1326638c3b1202054a4ac7ca7231",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-10-28T09:58:17",
+                                        "name": "Object Spawner Helpers",
+                                        "hash": "cde93972eb6bb47645f479cc11ffe2d6",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "PlayParticles.js",
+                                                "hash": "63f2bc81f9e900ae9d37a8cbc956c258",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "ExampleHelper[EDIT_ME].js",
+                                                "hash": "1bb0696245242b9e1dd253bb7d1f0947",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "TriggerBehaviorScript.js",
+                                                "hash": "659f466280e931be803796d6d125fb67",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "PlayStop3DAnimation.js",
+                                                "hash": "de2d2b214b8523c06455399dd5a73a0c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "Play2DAnimation.js",
+                                                "hash": "f2846e73bb06d8b5a3a3c39b60ed4347",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-30T17:15:31",
+                                                "name": "SetEnabledSceneObject.js",
+                                                "hash": "ac3dbe3568a5034bba947648e9c16e0b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-10-23T16:08:27",
+                                "name": "Assets",
+                                "hash": "909d33725deb16d16c2f0c50c639fce5",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "cloud [REMOVE_ME]",
+                                        "hash": "291e26d333a9265c11898e3be667bb99",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "Meshes",
+                                                "hash": "7805114a7989110830c2199f9a4345df",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "Ltnng_002.mesh",
+                                                        "hash": "b7a6fcf9cde708b509af24713a4e8bbd",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "clouf_face1.mesh",
+                                                        "hash": "e9c8da3c23175406ad8d5123ba1b6cd7",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "Ltnng_003.mesh",
+                                                        "hash": "2f14fd533cb6ea59e899ec02fd42e180",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "Ltnng_001.mesh",
+                                                        "hash": "5a89bc870c5d199a444242e36f532133",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "cloud_mesh.mesh",
+                                                        "hash": "bae64bec7f9c5be904933439702ae5e9",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "clouf_face.mesh",
+                                                        "hash": "5fc886f1cd0527e1b7eb6985b6fb48b3",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "Animations",
+                                                "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T16:08:27",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-23T16:08:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-10-23T16:08:27",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-10-23T16:08:27",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "149",
+                    "150",
+                    "151",
+                    "152",
+                    "153",
+                    "154",
+                    "155",
+                    "156",
+                    "157",
+                    "158"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "112",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "ObjectSpawner",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "10",
+                                "dependency": "0",
+                                "uid": "1571800086761834:58259",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "113",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Duplication Utilities",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "116",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "AnimatedTextureMaterialDuplicationHelper",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "12",
+                                        "dependency": "0",
+                                        "uid": "1571800086915446:58296",
+                                        "fileId": "6",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "117",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Object Spawner Helpers",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "118",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "PlayStop3DAnimation",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "13",
+                                        "dependency": "0",
+                                        "uid": "1571800086933060:58308",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "119",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "SetEnabledSceneObject",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "14",
+                                        "dependency": "0",
+                                        "uid": "1571800086952048:58320",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "120",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Play2DAnimation",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "16",
+                                        "dependency": "0",
+                                        "uid": "1571800087010917:58357",
+                                        "fileId": "11",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "123",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "PlayParticles",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "uid": "1571800087029908:58369",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "124",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "ExampleHelper[EDIT_ME]",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "77",
+                                        "dependency": "0",
+                                        "uid": "1571800217216662:98676",
+                                        "fileId": "50",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "159",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "TriggerBehaviorScript",
+                                        "type": "4",
+                                        "subtype": "0",
+                                        "resourceId": "78",
+                                        "dependency": "0",
+                                        "uid": "1571800217229924:98683",
+                                        "fileId": "51",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "160",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "SpectaclesTimeLoopHelper",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "80",
+                                "dependency": "0",
+                                "uid": "1571881224290332:232310",
+                                "fileId": "54",
+                                "originalId": "18446744073709551615",
+                                "publicId": "175",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Materials",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "114",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "animated_texture_unlit",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1571800086777089:58271",
+                                "fileId": "4",
+                                "originalId": "5",
+                                "publicId": "115",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cloud_diffuse",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "24",
+                                "dependency": "0",
+                                "uid": "1571800087231903:58458",
+                                "fileId": "24",
+                                "originalId": "25",
+                                "publicId": "133",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cloud_face_happy_diffuse",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "26",
+                                "dependency": "0",
+                                "uid": "1571800087375645:58484",
+                                "fileId": "28",
+                                "originalId": "29",
+                                "publicId": "135",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cloud_face_sad_diffuse",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "27",
+                                "dependency": "0",
+                                "uid": "1571800087494677:58498",
+                                "fileId": "30",
+                                "originalId": "31",
+                                "publicId": "136",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "lightning_diffuse",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "28",
+                                "dependency": "0",
+                                "uid": "1571800087614712:58512",
+                                "fileId": "32",
+                                "originalId": "33",
+                                "publicId": "137",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Default",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "121",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "8",
+                                "dependency": "0",
+                                "uid": "1517446348230286:84828",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1517446348234137:84840",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Spectacles Depth",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "79",
+                                "dependency": "0",
+                                "uid": "1571802040113748:53630",
+                                "fileId": "52",
+                                "originalId": "53",
+                                "publicId": "163",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Particles",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "125",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "emitter_1000",
+                                "type": "3",
+                                "subtype": "0",
+                                "resourceId": "18",
+                                "dependency": "0",
+                                "uid": "1571800087052835:58384",
+                                "fileId": "13",
+                                "originalId": "18446744073709551615",
+                                "publicId": "126",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cloud_smoke",
+                                "type": "2",
+                                "subtype": "0",
+                                "resourceId": "19",
+                                "dependency": "0",
+                                "uid": "1571800087066434:58396",
+                                "fileId": "14",
+                                "originalId": "15",
+                                "publicId": "127",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "clouds_texture_sheet",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "20",
+                                "dependency": "0",
+                                "uid": "1571800087122440:58410",
+                                "fileId": "16",
+                                "originalId": "17",
+                                "publicId": "128",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "129",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "cloud_diffuse",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "21",
+                                "dependency": "0",
+                                "uid": "1571800087152283:58422",
+                                "fileId": "18",
+                                "originalId": "19",
+                                "publicId": "130",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cloud_face_happy",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "22",
+                                "dependency": "0",
+                                "uid": "1571800087184324:58434",
+                                "fileId": "20",
+                                "originalId": "21",
+                                "publicId": "131",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "cloud_face_sad",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "23",
+                                "dependency": "0",
+                                "uid": "1571800087212294:58446",
+                                "fileId": "22",
+                                "originalId": "23",
+                                "publicId": "132",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "25",
+                                "dependency": "0",
+                                "uid": "1571800087356233:58472",
+                                "fileId": "26",
+                                "originalId": "27",
+                                "publicId": "134",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Animated Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "148",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "cloud_puff 0",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "67",
+                                        "dependency": "0",
+                                        "uid": "1571800087934287:59601",
+                                        "fileId": "40",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "149",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 1",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "68",
+                                        "dependency": "0",
+                                        "uid": "1571800088007153:59619",
+                                        "fileId": "41",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "150",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 2",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "69",
+                                        "dependency": "0",
+                                        "uid": "1571800088077293:59637",
+                                        "fileId": "42",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "151",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 3",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "70",
+                                        "dependency": "0",
+                                        "uid": "1571800088143845:59655",
+                                        "fileId": "43",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "152",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 4",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "71",
+                                        "dependency": "0",
+                                        "uid": "1571800088214210:59673",
+                                        "fileId": "44",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "153",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 5",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "72",
+                                        "dependency": "0",
+                                        "uid": "1571800088282911:59691",
+                                        "fileId": "45",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "154",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 6",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "73",
+                                        "dependency": "0",
+                                        "uid": "1571800088353278:59709",
+                                        "fileId": "46",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "155",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 7",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "74",
+                                        "dependency": "0",
+                                        "uid": "1571800088427614:59727",
+                                        "fileId": "47",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "156",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 8",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "75",
+                                        "dependency": "0",
+                                        "uid": "1571800088503522:59745",
+                                        "fileId": "48",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "157",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "cloud_puff 9",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "76",
+                                        "dependency": "0",
+                                        "uid": "1571800088575854:59763",
+                                        "fileId": "49",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "158",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Assets",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "138",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "cloud [REMOVE_ME]",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "139",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Meshes",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "140",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "clouf_face",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "29",
+                                                "dependency": "0",
+                                                "uid": "1571800087751661:58529",
+                                                "fileId": "34",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "141",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "clouf_face1",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "30",
+                                                "dependency": "0",
+                                                "uid": "1571800087774915:58544",
+                                                "fileId": "35",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "142",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "cloud_mesh",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "31",
+                                                "dependency": "0",
+                                                "uid": "1571800087800069:58559",
+                                                "fileId": "36",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "143",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Ltnng_001",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "32",
+                                                "dependency": "0",
+                                                "uid": "1571800087827762:58574",
+                                                "fileId": "37",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "144",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Ltnng_002",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "33",
+                                                "dependency": "0",
+                                                "uid": "1571800087852332:58589",
+                                                "fileId": "38",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "145",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "Ltnng_003",
+                                                "type": "3",
+                                                "subtype": "0",
+                                                "resourceId": "34",
+                                                "dependency": "0",
+                                                "uid": "1571800087875706:58604",
+                                                "fileId": "39",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "146",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Animations",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "147",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "joint1",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "35",
+                                                "dependency": "0",
+                                                "uid": "1571800087882978:58616",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint1 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "36",
+                                                "dependency": "0",
+                                                "uid": "1571800087884197:58650",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint1 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "37",
+                                                "dependency": "0",
+                                                "uid": "1571800087884699:58684",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "38",
+                                                "dependency": "0",
+                                                "uid": "1571800087885210:58718",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint2 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "39",
+                                                "dependency": "0",
+                                                "uid": "1571800087885747:58752",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint2 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "40",
+                                                "dependency": "0",
+                                                "uid": "1571800087886280:58786",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "41",
+                                                "dependency": "0",
+                                                "uid": "1571800087886796:58820",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint3 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "42",
+                                                "dependency": "0",
+                                                "uid": "1571800087887333:58854",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint3 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "43",
+                                                "dependency": "0",
+                                                "uid": "1571800087887898:58888",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint4",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "44",
+                                                "dependency": "0",
+                                                "uid": "1571800087888471:58922",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint4 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "45",
+                                                "dependency": "0",
+                                                "uid": "1571800087889020:58956",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint4 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "46",
+                                                "dependency": "0",
+                                                "uid": "1571800087889594:58990",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint5",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "47",
+                                                "dependency": "0",
+                                                "uid": "1571800087890170:59024",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint5 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "48",
+                                                "dependency": "0",
+                                                "uid": "1571800087890753:59058",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint5 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "49",
+                                                "dependency": "0",
+                                                "uid": "1571800087891517:59092",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint6",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "50",
+                                                "dependency": "0",
+                                                "uid": "1571800087892203:59126",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint6 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "51",
+                                                "dependency": "0",
+                                                "uid": "1571800087892932:59160",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint6 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "52",
+                                                "dependency": "0",
+                                                "uid": "1571800087893758:59194",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint11",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "53",
+                                                "dependency": "0",
+                                                "uid": "1571800087894577:59228",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint11 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "54",
+                                                "dependency": "0",
+                                                "uid": "1571800087895010:59241",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint7",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "55",
+                                                "dependency": "0",
+                                                "uid": "1571800087895414:59254",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint7 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "56",
+                                                "dependency": "0",
+                                                "uid": "1571800087898452:59288",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint7 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "57",
+                                                "dependency": "0",
+                                                "uid": "1571800087899290:59322",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint8",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "58",
+                                                "dependency": "0",
+                                                "uid": "1571800087900059:59356",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint9",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "59",
+                                                "dependency": "0",
+                                                "uid": "1571800087900477:59369",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint9 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "60",
+                                                "dependency": "0",
+                                                "uid": "1571800087901182:59403",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint9 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "61",
+                                                "dependency": "0",
+                                                "uid": "1571800087901935:59437",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint8_2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "62",
+                                                "dependency": "0",
+                                                "uid": "1571800087902875:59471",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint10",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "63",
+                                                "dependency": "0",
+                                                "uid": "1571800087903322:59484",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint10 2",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "64",
+                                                "dependency": "0",
+                                                "uid": "1571800087904147:59518",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint10 3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "65",
+                                                "dependency": "0",
+                                                "uid": "1571800087904970:59552",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "joint8_3",
+                                                "type": "8",
+                                                "subtype": "0",
+                                                "resourceId": "66",
+                                                "dependency": "0",
+                                                "uid": "1571800087905861:59586",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "18446744073709551615",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1571800088654263:59966"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    },
+    "description": "Send an object flying that will collide and react to surfaces in your video"
+}

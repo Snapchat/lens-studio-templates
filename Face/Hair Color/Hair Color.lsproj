@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "4hwFoMPg5lrRyDEXvrhK",
+    "document_id": "j2nvjQNf5ctLW_cnh_xI",
     "original_document_id": "HwFw1KYJkzm1-7HAoXk3",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -109,27 +110,33 @@
                     "101:100",
                     "1547598907782469:10961",
                     "1551140371705317:152468",
+                    "1551208397713821:14245",
                     "1551208397714026:14251",
                     "1551747799153939:4468",
                     "1551896561471547:20029",
                     "1560796651203052:1172857",
                     "1560796655702392:1175263",
-                    "1561081271652285:411874"
+                    "1561081271652285:411874",
+                    "1561081403369950:472617"
                 ]
             ]
         },
         "MetaInfoUIComponent": {
             "icon_hash": "6ce5be66a6344cf695192d04ac1ee693",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Hair Color",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -269,8 +276,8 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "117",
-                    "uid": "1561580907772300:302483",
+                    "resId": "119",
+                    "uid": "1571790456905175:195614",
                     "name": "Portrait Hair Segmentation",
                     "sourceFilePath": "",
                     "additionalProperties": "",
@@ -278,7 +285,88 @@
                 }
             ],
             "MaterialUpdateManager": {
-                "unrecognizedMaterials": ""
+                "unrecognizedMaterials": [
+                    {
+                        "k": "1551140371737705:152602",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "0feba0a472a9e2158baa6eb8e560ce80",
+                                        "ui": "f0392dbe9b3cb5b7b9a32b18356cb4ed",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1551140371744144:152614",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "fd74cdc213a4054c651a1514d426c2cb",
+                                        "ui": "a121f0fd4a9396ae03cd256e6f175ece",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1561580604360397:142173",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "c47a6ad98875519fdae292210e37a04e",
+                                        "ui": "",
+                                        "includes": ""
+                                    },
+                                    "flags": "266"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1561580710159281:195730",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "b863441793c7b2d867c8fa485f6c1a26",
+                                        "ui": "",
+                                        "includes": ""
+                                    },
+                                    "flags": "266"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "k": "1561580851708335:273788",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "5db2d49cbb6b55f5b712e99d21172ea9",
+                                        "ui": "689d26626b5fd9fc7208b3b9f962d128",
+                                        "includes": ""
+                                    },
+                                    "flags": "280"
+                                }
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "InspectorComponent": {
@@ -435,6 +523,30 @@
                 {
                     "k": "65",
                     "v": "Files\/File65.lsmat"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.lsmat"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.lsmat"
+                },
+                {
+                    "k": "68",
+                    "v": "Files\/File68.lsmat"
+                },
+                {
+                    "k": "69",
+                    "v": "Files\/File69.lsmat"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.lsmat"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.lsmat"
                 }
             ]
         },
@@ -551,11 +663,11 @@
                     },
                     {
                         "k": "16",
-                        "v": "0727b9c62babae971df191b898ea65a5"
+                        "v": "4c1cdd231edbee1237d7fed1691d1cba"
                     },
                     {
                         "k": "17",
-                        "v": "9ecd863702066cdea0073297f7e1d985"
+                        "v": "b38da3a932a3a8399d6d510a2e0267b3"
                     },
                     {
                         "k": "18",
@@ -671,7 +783,7 @@
                     },
                     {
                         "k": "437",
-                        "v": "b07acbde0e5f02bd97aad85d86192349"
+                        "v": "3794c1e6d41230b413d6ccef818b45d1"
                     },
                     {
                         "k": "438",
@@ -679,15 +791,15 @@
                     },
                     {
                         "k": "439",
-                        "v": "18f9c488c7db52b1daae73f089ffab46"
+                        "v": "81a0f3d0db3c33240dd56bc4059edd18"
                     },
                     {
                         "k": "440",
-                        "v": "aeeb15065fbb7eb7cd10706b4ba5568a"
+                        "v": "e901ddaabb4c5fd244b4419a4acc08f8"
                     },
                     {
                         "k": "441",
-                        "v": "ee6ce1ce6c59efa0054ae66be1246d8b"
+                        "v": "c53a35c9fd64ac2cbde661e231a82678"
                     },
                     {
                         "k": "442",
@@ -765,25 +877,25 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T12:11:55",
+                        "lastModified": "2019-10-22T17:25:38",
                         "name": "Public",
-                        "hash": "c8ec07f9e8075bfe56e5624fac74214c",
+                        "hash": "5e6cdfce4ba926fa69439a36001ec1ae",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T12:11:55",
+                                "lastModified": "2019-10-22T17:25:38",
                                 "name": "Hair Coloring",
-                                "hash": "1814961b0d0087945f698462667df3ac",
+                                "hash": "3d82fb70d57fd7d9ee42daf31698816b",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T12:11:55",
+                                        "lastModified": "2019-10-22T17:25:38",
                                         "name": "Textures",
                                         "hash": "59adb24ef3cdbe0297f05b395827453f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-09-20T14:11:09",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -792,61 +904,61 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T12:11:55",
+                                        "lastModified": "2019-10-22T17:28:21",
                                         "name": "Materials",
-                                        "hash": "4e4a2370f9e97f145cd0f1c6cfa4612b",
+                                        "hash": "9034aeb29f8fad23142b17b8b9769e33",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-10-22T17:28:13",
                                                 "name": "hair_color.lsmat",
-                                                "hash": "ee6ce1ce6c59efa0054ae66be1246d8b",
+                                                "hash": "c53a35c9fd64ac2cbde661e231a82678",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-10-22T17:26:39",
                                                 "name": "detector_2.lsmat",
-                                                "hash": "aeeb15065fbb7eb7cd10706b4ba5568a",
+                                                "hash": "e901ddaabb4c5fd244b4419a4acc08f8",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-10-22T17:28:21",
                                                 "name": "detector_1.lsmat",
-                                                "hash": "18f9c488c7db52b1daae73f089ffab46",
+                                                "hash": "81a0f3d0db3c33240dd56bc4059edd18",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-10-22T17:27:55",
                                                 "name": "image.lsmat",
-                                                "hash": "b07acbde0e5f02bd97aad85d86192349",
+                                                "hash": "3794c1e6d41230b413d6ccef818b45d1",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T12:11:55",
+                                                "lastModified": "2019-10-22T17:26:38",
                                                 "name": "gaussian_blur",
-                                                "hash": "c9e3862a6eae6178ca1535e39bee57ae",
+                                                "hash": "8004caea4f3b4a03392aea1450ecdf8a",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-30T16:40:20",
+                                                        "lastModified": "2019-10-22T17:26:38",
                                                         "name": "gauss_blur_horz_pass.lsmat",
-                                                        "hash": "0727b9c62babae971df191b898ea65a5",
+                                                        "hash": "4c1cdd231edbee1237d7fed1691d1cba",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-30T16:40:20",
+                                                        "lastModified": "2019-10-22T17:26:38",
                                                         "name": "gauss_blur_vert_pass.lsmat",
-                                                        "hash": "9ecd863702066cdea0073297f7e1d985",
+                                                        "hash": "b38da3a932a3a8399d6d510a2e0267b3",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-30T16:40:20",
+                                                        "lastModified": "2019-09-20T14:11:09",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -855,7 +967,7 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-09-20T14:11:09",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -864,27 +976,27 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T12:11:55",
+                                        "lastModified": "2019-10-22T17:25:38",
                                         "name": "Scripts",
                                         "hash": "e54edd48dae399e962ac28621a3f1116",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-09-20T14:11:09",
                                                 "name": "HairColorProvider.js",
                                                 "hash": "1079c11dd5a5e2e80cd73bcd48f8c6c7",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-09-20T14:11:09",
                                                 "name": "HairColorController.js",
                                                 "hash": "1438a1d977f6a4b94308f2c0f0c2b083",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:20",
+                                                "lastModified": "2019-09-20T14:11:09",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -893,7 +1005,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-30T16:40:20",
+                                        "lastModified": "2019-09-20T14:11:09",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -902,13 +1014,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T12:11:55",
+                                "lastModified": "2019-10-22T17:25:38",
                                 "name": "Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-30T16:40:20",
+                                        "lastModified": "2019-09-20T14:11:09",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -917,7 +1029,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-30T16:40:20",
+                                "lastModified": "2019-09-20T14:11:09",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1020,7 +1132,7 @@
                                         "dependency": "0",
                                         "uid": "1561081578284620:565181",
                                         "fileId": "54",
-                                        "originalId": "59",
+                                        "originalId": "66",
                                         "publicId": "437",
                                         "source": "",
                                         "additional": ""
@@ -1033,7 +1145,7 @@
                                         "dependency": "0",
                                         "uid": "1561580604360397:142173",
                                         "fileId": "60",
-                                        "originalId": "63",
+                                        "originalId": "67",
                                         "publicId": "439",
                                         "source": "",
                                         "additional": ""
@@ -1046,7 +1158,7 @@
                                         "dependency": "0",
                                         "uid": "1561580710159281:195730",
                                         "fileId": "61",
-                                        "originalId": "64",
+                                        "originalId": "68",
                                         "publicId": "440",
                                         "source": "",
                                         "additional": ""
@@ -1059,7 +1171,7 @@
                                         "dependency": "0",
                                         "uid": "1561580851708335:273788",
                                         "fileId": "62",
-                                        "originalId": "65",
+                                        "originalId": "69",
                                         "publicId": "441",
                                         "source": "",
                                         "additional": ""
@@ -1085,7 +1197,7 @@
                                                 "dependency": "0",
                                                 "uid": "1551140371737705:152602",
                                                 "fileId": "7",
-                                                "originalId": "34",
+                                                "originalId": "70",
                                                 "publicId": "16",
                                                 "source": "",
                                                 "additional": ""
@@ -1098,7 +1210,7 @@
                                                 "dependency": "0",
                                                 "uid": "1551140371744144:152614",
                                                 "fileId": "8",
-                                                "originalId": "35",
+                                                "originalId": "71",
                                                 "publicId": "17",
                                                 "source": "",
                                                 "additional": ""
@@ -1176,9 +1288,9 @@
                                         "name": "Portrait Hair Segmentation",
                                         "type": "1",
                                         "subtype": "14",
-                                        "resourceId": "117",
+                                        "resourceId": "119",
                                         "dependency": "0",
-                                        "uid": "1561580907772300:302483",
+                                        "uid": "1571790456905175:195614",
                                         "fileId": "18446744073709551615",
                                         "originalId": "18446744073709551615",
                                         "publicId": "18446744073709551615",

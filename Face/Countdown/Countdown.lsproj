@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "pL5EXuYjRr83IY9X9eWX",
+    "document_id": "eAoVZtbDwO2o8zMpomyJ",
     "original_document_id": "H1NoAHoh0dGDncB36Per",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -32,71 +33,7 @@
                         "Fonts"
                     ],
                     [
-                        "Fonts",
-                        "BebasNeue"
-                    ],
-                    [
-                        "Fonts",
-                        "GrandHotel-Regular"
-                    ],
-                    [
                         "Materials"
-                    ],
-                    [
-                        "Materials",
-                        "Tertiary_ring"
-                    ],
-                    [
-                        "Materials",
-                        "animated_burst"
-                    ],
-                    [
-                        "Materials",
-                        "frame_behind_layer"
-                    ],
-                    [
-                        "Materials",
-                        "frame_lenses"
-                    ],
-                    [
-                        "Materials",
-                        "frame_top_Layer"
-                    ],
-                    [
-                        "Materials",
-                        "hat_main_Tertiary"
-                    ],
-                    [
-                        "Materials",
-                        "hat_main_primary"
-                    ],
-                    [
-                        "Materials",
-                        "hat_main_secondary"
-                    ],
-                    [
-                        "Materials",
-                        "hat_paper_Tertiary"
-                    ],
-                    [
-                        "Materials",
-                        "hat_paper_primary"
-                    ],
-                    [
-                        "Materials",
-                        "hat_paper_secondary"
-                    ],
-                    [
-                        "Materials",
-                        "pom"
-                    ],
-                    [
-                        "Materials",
-                        "primary_ring"
-                    ],
-                    [
-                        "Materials",
-                        "secondary_ring"
                     ],
                     [
                         "Models"
@@ -112,60 +49,6 @@
                     ],
                     [
                         "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Cone"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Cone_2"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Cone_3"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Gili1_0_1"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Gili2_1_1"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Gili3_2_2"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Gili4_3_1"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "Torus"
-                    ],
-                    [
-                        "Models",
-                        "birthday_hat",
-                        "Meshes",
-                        "bubo"
-                    ],
-                    [
-                        "Models",
                         "glasses_round"
                     ],
                     [
@@ -174,139 +57,20 @@
                         "Meshes"
                     ],
                     [
-                        "Models",
-                        "glasses_round",
-                        "Meshes",
-                        "Frame"
-                    ],
-                    [
-                        "Models",
-                        "glasses_round",
-                        "Meshes",
-                        "Lenses"
-                    ],
-                    [
                         "Scripts"
-                    ],
-                    [
-                        "Scripts",
-                        "CountdownController"
                     ],
                     [
                         "Segmentation Textures"
                     ],
                     [
-                        "Segmentation Textures",
-                        "Portrait Background Segmentation"
-                    ],
-                    [
                         "Textures"
                     ],
                     [
-                        "Textures",
-                        "background_ring"
-                    ],
-                    [
-                        "Textures",
-                        "base"
-                    ],
-                    [
-                        "Textures",
-                        "black"
-                    ],
-                    [
-                        "Textures",
-                        "burst_animation"
-                    ],
-                    [
-                        "Textures",
-                        "echopark_diff"
-                    ],
-                    [
-                        "Textures",
-                        "echopark_spec"
-                    ],
-                    [
-                        "Textures",
-                        "lens_gradient"
-                    ],
-                    [
-                        "Textures",
-                        "materialParams"
-                    ],
-                    [
-                        "Textures",
-                        "normal"
-                    ],
-                    [
-                        "Textures",
-                        "paper_params_0"
-                    ],
-                    [
-                        "Textures",
-                        "paper_params_1"
-                    ],
-                    [
-                        "Textures",
-                        "paper_params_2"
-                    ],
-                    [
-                        "Textures",
-                        "pom_diffuse"
-                    ],
-                    [
-                        "Textures",
-                        "sunglasses_animation"
-                    ],
-                    [
                         "Tween"
-                    ],
-                    [
-                        "Tween",
-                        "Tween"
-                    ],
-                    [
-                        "Tween",
-                        "TweenManager"
                     ],
                     [
                         "Tween",
                         "TweenTypes"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenAlpha"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenBillboard [DEPRECATED]"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenChain"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenColor"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenScreenTransform"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenTransform"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
-                        "TweenValue"
                     ]
                 ]
             ]
@@ -317,7 +81,6 @@
                     "101:100",
                     "1517446348227994:84813",
                     "1556750194911919:26979",
-                    "1556750194912515:26983",
                     "1556819126198204:21415",
                     "1556819126212936:21510",
                     "1556819777068248:136383",
@@ -330,30 +93,38 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "f986d0822a0fd54bbd7d9cec2408a66a",
+            "icon_hash": "52401c5d4ef04daed32e10fecc8abdc8",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 "lens_hint_open_your_mouth"
             ],
             "lens": "Countdown",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Images\/Person 2.jpg",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "spectacles_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
-                "front_preview_is_favorite": "false",
                 "back_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
-                "back_preview_is_favorite": "false"
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Open Mouth Person 1.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "spectacles_preview_is_favorite": "false"
             }
         },
         "InspectorUiComponent": {
@@ -363,6 +134,10 @@
                     "1556750501721331:28979"
                 ]
             ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
         }
     },
     "model": {
@@ -465,14 +240,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "26",
-                    "uid": "1556817880347072:123685",
-                    "name": "Files\/File24.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "27",
                     "uid": "1556817880448065:123700",
                     "name": "Files\/File25.js",
@@ -503,14 +270,6 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
-                },
-                {
-                    "resId": "35",
-                    "uid": "1556819292224477:54028",
-                    "name": "Portrait Background Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
                 },
                 {
                     "resId": "36",
@@ -799,6 +558,22 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "104",
+                    "uid": "1571788545374223:77354",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "105",
+                    "uid": "1571881712911431:334161",
+                    "name": "Files\/File200.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -807,6 +582,10 @@
         },
         "InspectorComponent": {
             "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
                 },
@@ -980,10 +759,6 @@
                 {
                     "k": "23",
                     "v": "Files\/File23.js"
-                },
-                {
-                    "k": "24",
-                    "v": "Files\/File24.js"
                 },
                 {
                     "k": "25",
@@ -1312,6 +1087,70 @@
                 {
                     "k": "182",
                     "v": "Files\/File182.mesh"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.lsmat"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.lsmat"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.lsmat"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.lsmat"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.lsmat"
+                },
+                {
+                    "k": "188",
+                    "v": "Files\/File188.lsmat"
+                },
+                {
+                    "k": "189",
+                    "v": "Files\/File189.lsmat"
+                },
+                {
+                    "k": "190",
+                    "v": "Files\/File190.lsmat"
+                },
+                {
+                    "k": "191",
+                    "v": "Files\/File191.lsmat"
+                },
+                {
+                    "k": "192",
+                    "v": "Files\/File192.lsmat"
+                },
+                {
+                    "k": "193",
+                    "v": "Files\/File193.lsmat"
+                },
+                {
+                    "k": "194",
+                    "v": "Files\/File194.lsmat"
+                },
+                {
+                    "k": "195",
+                    "v": "Files\/File195.lsmat"
+                },
+                {
+                    "k": "196",
+                    "v": "Files\/File196.lsmat"
+                },
+                {
+                    "k": "199",
+                    "v": "Files\/File199."
+                },
+                {
+                    "k": "200",
+                    "v": "Files\/File200.js"
                 }
             ]
         },
@@ -1382,7 +1221,7 @@
                     },
                     {
                         "k": "16",
-                        "v": "Textures\/sunglasses_animation.mp4"
+                        "v": "Textures\/sunglasses_animation"
                     },
                     {
                         "k": "17",
@@ -1427,10 +1266,6 @@
                     {
                         "k": "27",
                         "v": "Tween\/TweenTypes\/TweenAlpha.js"
-                    },
-                    {
-                        "k": "28",
-                        "v": "Tween\/TweenTypes\/TweenBillboard [DEPRECATED].js"
                     },
                     {
                         "k": "29",
@@ -1575,6 +1410,14 @@
                     {
                         "k": "89",
                         "v": "Models\/glasses_round\/Meshes\/Lenses.mesh"
+                    },
+                    {
+                        "k": "176",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "177",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
                     }
                 ],
                 "hashes": [
@@ -1636,7 +1479,7 @@
                     },
                     {
                         "k": "16",
-                        "v": "a61949fba388e95fc36618d48fe83d15"
+                        "v": "057420fab45fbf5d1d452d264cdd4155"
                     },
                     {
                         "k": "18",
@@ -1648,7 +1491,7 @@
                     },
                     {
                         "k": "21",
-                        "v": "f0b334046a6bd08fb543c2891d779ae9"
+                        "v": "d1bd9b54486ef609a0abb97af297fac5"
                     },
                     {
                         "k": "23",
@@ -1656,15 +1499,15 @@
                     },
                     {
                         "k": "25",
-                        "v": "9389deaec4231b11b4e485b24ccba204"
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
                     },
                     {
                         "k": "26",
-                        "v": "6333a68a84a5f7e47993037966d1e135"
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
                     },
                     {
                         "k": "27",
-                        "v": "aa362e7548dcf0b077de03d641431777"
+                        "v": "4ca6ca961ac63737cdfdb95767c3e077"
                     },
                     {
                         "k": "28",
@@ -1672,19 +1515,19 @@
                     },
                     {
                         "k": "29",
-                        "v": "6c038aa78934d8b410cc753fb5f405a1"
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
                     },
                     {
                         "k": "30",
-                        "v": "f51e2387d37af7b5a85766408a362e18"
+                        "v": "a8212c4a0d7f900c75c80ad4829f91f0"
                     },
                     {
                         "k": "31",
-                        "v": "42e34f6843c51889977aed3783ff56e9"
+                        "v": "15f4c60fdceda581e50db7b5e824cda4"
                     },
                     {
                         "k": "32",
-                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                        "v": "a094f372f9487690786f930bd7030e82"
                     },
                     {
                         "k": "35",
@@ -1728,59 +1571,59 @@
                     },
                     {
                         "k": "50",
-                        "v": "5d36869a8c895789c4edb532e458cd7c"
+                        "v": "2f056d4115b96310df10b8573305e608"
                     },
                     {
                         "k": "51",
-                        "v": "519c51fe6d2d4f97c5568ce0ed6b7267"
+                        "v": "0cc87ebe752662c6b2c740fa7502e01e"
                     },
                     {
                         "k": "52",
-                        "v": "49c62ea2583dc82954bab9c945629856"
+                        "v": "c232837d8016b5fd3a9fe7b5f1c5aed7"
                     },
                     {
                         "k": "53",
-                        "v": "8169e3f4c66f6249191651906f374122"
+                        "v": "fcada4307625a93e1331901e65c1b60a"
                     },
                     {
                         "k": "54",
-                        "v": "350373f4f46521c9b635906f9cb910ab"
+                        "v": "ad3f22a274d07ccd6ccfe47b0b3f6c40"
                     },
                     {
                         "k": "55",
-                        "v": "e101daad53f7201d3dbedb8c4f947c95"
+                        "v": "8796b1d37e932ea7335f70d8b4c55d24"
                     },
                     {
                         "k": "56",
-                        "v": "4a45dfc3926303ce843d227c9abf9b58"
+                        "v": "3b560ed68385d0e6c1e4c8caa8585b35"
                     },
                     {
                         "k": "57",
-                        "v": "73d05c6eea6274e0248f266a1a9112df"
+                        "v": "79cd6e4d8d50fafbd42cf18f32685d58"
                     },
                     {
                         "k": "58",
-                        "v": "e9b45bb22b16ad1e4c4c0b4357d0cf23"
+                        "v": "ae814385e83f9aeb82ad64bdeb08b375"
                     },
                     {
                         "k": "59",
-                        "v": "4e6194597e53139af6ed3de1560afa7c"
+                        "v": "6852fb189cb0638daf2d7afaed541a73"
                     },
                     {
                         "k": "60",
-                        "v": "4dca673d154866e9e59e76b596f20312"
+                        "v": "8c118f25e9f5e71707c18a532227f65f"
                     },
                     {
                         "k": "61",
-                        "v": "ca0a4d8a4cd0cbddd8dbcc94e8cd9958"
+                        "v": "c7af6402df5adc8e08048eb200d88fdf"
                     },
                     {
                         "k": "62",
-                        "v": "1d81b52694d8b1f3201bfb7d8995609d"
+                        "v": "b37b349a936f340d50926aa387d800e8"
                     },
                     {
                         "k": "63",
-                        "v": "afc8529b6ab90b65586fb1205a9aff57"
+                        "v": "13c17678567295851ea4d6cd602777a8"
                     },
                     {
                         "k": "67",
@@ -1857,137 +1700,168 @@
                     {
                         "k": "92",
                         "v": "4bc3a682df552b86af365d6b9ccfc746"
+                    },
+                    {
+                        "k": "128",
+                        "v": "2088c705106ea0369881d1c77c6e4ccf"
+                    },
+                    {
+                        "k": "129",
+                        "v": "057420fab45fbf5d1d452d264cdd4155"
+                    },
+                    {
+                        "k": "176",
+                        "v": "1b3c33a31e2012e2fb122c85002e1df4"
+                    },
+                    {
+                        "k": "177",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T07:44:59",
+                        "lastModified": "2019-10-29T17:39:06",
                         "name": "Public",
-                        "hash": "73a5382e7a2174e663fb7dceeffa26e7",
+                        "hash": "64338d3a7208c0920ea0065781392a8a",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-01T09:57:23",
+                                "lastModified": "2019-10-29T16:46:26",
                                 "name": "Textures",
-                                "hash": "0e95caf2908a80338644ebbaaed713a3",
+                                "hash": "66cdb348f01078be7d6419f5b8aed1a0",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "paper_params_2.png",
                                         "hash": "cb23ef51acaa68262bf291ba559bb929",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "echopark_diff.png",
                                         "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "paper_params_1.png",
                                         "hash": "4871c3670c090f021ef81eccf452ffdf",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "paper_params_0.png",
                                         "hash": "7bc02686e1248b8f588b31481898df17",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T07:44:59",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "burst_animation",
-                                        "hash": "2088c705106ea0369881d1c77c6e4ccf",
+                                        "hash": "4f8faab54e852146b53746d8536fe3de",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-15T12:28:17",
                                                 "name": "atlas_0.png",
                                                 "hash": "aed4efa99f5bdf7ea32024636519d111",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-15T12:28:17",
                                                 "name": "animation.t3d",
                                                 "hash": "b453f69131b748efe10a52bf97c7bbc9",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-29T16:46:26",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-10-29T16:46:26",
+                                        "name": "sunglasses_animation",
+                                        "hash": "057420fab45fbf5d1d452d264cdd4155",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-10-29T16:46:26",
+                                                "name": "video.mp4",
+                                                "hash": "a61949fba388e95fc36618d48fe83d15",
                                                 "children": ""
                                             }
                                         ]
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "pom_diffuse.png",
                                         "hash": "a963376c822f47f7947178098f700106",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "echopark_spec.png",
                                         "hash": "8e599835d0d45c5879eafb1f474469cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "materialParams.png",
                                         "hash": "9a48827fd0d277f53b3074eac4d6ad52",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "black.png",
                                         "hash": "0ac41d56ae8d60a3ce10d709a8a9f2c9",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "background_ring.png",
                                         "hash": "5135d86c468bf673037b582ed463be83",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "base.png",
                                         "hash": "8588ed5a54012f08bde8e6e7913bd90d",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "normal.png",
                                         "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "lens_gradient.png",
                                         "hash": "f48bb2a835f0d15518260e806b53d824",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
-                                        "name": "sunglasses_animation.mp4",
-                                        "hash": "a61949fba388e95fc36618d48fe83d15",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1996,68 +1870,83 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T07:44:59",
+                                "lastModified": "2019-10-29T17:38:40",
                                 "name": "Tween",
-                                "hash": "1fb0c4d2825b07d4f19012e7dfc11674",
+                                "hash": "62895164f88abeeede1493d7da01241d",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T07:44:59",
+                                        "lastModified": "2019-10-29T17:32:01",
                                         "name": "TweenTypes",
-                                        "hash": "580b2dec38c09c9d3357dd22eba1cc97",
+                                        "hash": "e40711bb4f8625c50edc867f0a226ef2",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenChain.js",
-                                                "hash": "f51e2387d37af7b5a85766408a362e18",
+                                                "hash": "a8212c4a0d7f900c75c80ad4829f91f0",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenColor.js",
-                                                "hash": "6333a68a84a5f7e47993037966d1e135",
+                                                "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenTransform.js",
-                                                "hash": "9389deaec4231b11b4e485b24ccba204",
+                                                "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89",
                                                 "children": ""
                                             },
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
-                                                "name": "TweenBillboard [DEPRECATED].js",
-                                                "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
-                                                "children": ""
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T18:34:29",
+                                                "name": "Legacy",
+                                                "hash": "1b3c33a31e2012e2fb122c85002e1df4",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T18:34:29",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T18:34:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenScreenTransform.js",
-                                                "hash": "42e34f6843c51889977aed3783ff56e9",
+                                                "hash": "15f4c60fdceda581e50db7b5e824cda4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenValue.js",
-                                                "hash": "6c038aa78934d8b410cc753fb5f405a1",
+                                                "hash": "8a3af68c16493bc48b0f7f17a1d6c065",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenAlpha.js",
-                                                "hash": "aa362e7548dcf0b077de03d641431777",
+                                                "hash": "4ca6ca961ac63737cdfdb95767c3e077",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-23T18:34:29",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -2066,21 +1955,21 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-29T16:46:22",
                                         "name": "TweenManager.js",
-                                        "hash": "1b937dfbcbcd8ef1ee1a275fe7899278",
+                                        "hash": "a094f372f9487690786f930bd7030e82",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-23T18:34:29",
                                         "name": "Tween.js",
                                         "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-23T18:34:29",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2089,111 +1978,111 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-01T09:57:27",
+                                "lastModified": "2019-10-29T16:46:26",
                                 "name": "Materials",
-                                "hash": "da60a09f69a1e0016c015a0b31639199",
+                                "hash": "ee642c4fe7073f5eb868141f0b5dd302",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "hat_paper_secondary.lsmat",
-                                        "hash": "e101daad53f7201d3dbedb8c4f947c95",
+                                        "hash": "8796b1d37e932ea7335f70d8b4c55d24",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "hat_main_Tertiary.lsmat",
-                                        "hash": "4dca673d154866e9e59e76b596f20312",
+                                        "hash": "8c118f25e9f5e71707c18a532227f65f",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "primary_ring.lsmat",
-                                        "hash": "5d36869a8c895789c4edb532e458cd7c",
+                                        "hash": "2f056d4115b96310df10b8573305e608",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "secondary_ring.lsmat",
-                                        "hash": "519c51fe6d2d4f97c5568ce0ed6b7267",
+                                        "hash": "0cc87ebe752662c6b2c740fa7502e01e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "hat_main_secondary.lsmat",
-                                        "hash": "4e6194597e53139af6ed3de1560afa7c",
+                                        "hash": "6852fb189cb0638daf2d7afaed541a73",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-01T09:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "pom.lsmat",
-                                        "hash": "73d05c6eea6274e0248f266a1a9112df",
+                                        "hash": "79cd6e4d8d50fafbd42cf18f32685d58",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "animated_burst.lsmat",
-                                        "hash": "8169e3f4c66f6249191651906f374122",
+                                        "hash": "fcada4307625a93e1331901e65c1b60a",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "frame_behind_layer.lsmat",
-                                        "hash": "1d81b52694d8b1f3201bfb7d8995609d",
+                                        "hash": "b37b349a936f340d50926aa387d800e8",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "frame_top_Layer.lsmat",
-                                        "hash": "ca0a4d8a4cd0cbddd8dbcc94e8cd9958",
+                                        "hash": "c7af6402df5adc8e08048eb200d88fdf",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "hat_paper_Tertiary.lsmat",
-                                        "hash": "350373f4f46521c9b635906f9cb910ab",
+                                        "hash": "ad3f22a274d07ccd6ccfe47b0b3f6c40",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "frame_lenses.lsmat",
-                                        "hash": "afc8529b6ab90b65586fb1205a9aff57",
+                                        "hash": "13c17678567295851ea4d6cd602777a8",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "hat_paper_primary.lsmat",
-                                        "hash": "4a45dfc3926303ce843d227c9abf9b58",
+                                        "hash": "3b560ed68385d0e6c1e4c8caa8585b35",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "hat_main_primary.lsmat",
-                                        "hash": "e9b45bb22b16ad1e4c4c0b4357d0cf23",
+                                        "hash": "ae814385e83f9aeb82ad64bdeb08b375",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "Tertiary_ring.lsmat",
-                                        "hash": "49c62ea2583dc82954bab9c945629856",
+                                        "hash": "c232837d8016b5fd3a9fe7b5f1c5aed7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2202,39 +2091,39 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T07:44:59",
+                                "lastModified": "2019-10-16T00:34:44",
                                 "name": "Models",
                                 "hash": "a9944138f9a735337f5e85730496b54e",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T07:44:59",
+                                        "lastModified": "2019-10-16T00:34:44",
                                         "name": "glasses_round",
                                         "hash": "e14f0acf94e7537ec576db00323ec388",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T07:44:59",
+                                                "lastModified": "2019-10-16T00:34:44",
                                                 "name": "Meshes",
                                                 "hash": "9e38741188ac7ea59b193bb485b63b40",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Lenses.mesh",
                                                         "hash": "b5a6da21e6f7901ab51109405ce6f688",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Frame.mesh",
                                                         "hash": "fc9525b607b252705f8b6ac7984bad00",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -2243,7 +2132,7 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-15T12:28:17",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -2252,82 +2141,82 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T07:44:59",
+                                        "lastModified": "2019-10-16T00:34:44",
                                         "name": "birthday_hat",
                                         "hash": "5f4561f91886fd8595352bc701a1bb20",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T07:44:59",
+                                                "lastModified": "2019-10-16T00:34:44",
                                                 "name": "Meshes",
                                                 "hash": "19f5b4636295f653b8f45accbd7248d2",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Gili2_1_1.mesh",
                                                         "hash": "4011b925239ddeedfd50728a58e75374",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Cone_2.mesh",
                                                         "hash": "162504b1de0b65f7ecbe50d6dae74f8b",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Cone_3.mesh",
                                                         "hash": "d8c605827051fb27499869afaa4c93dd",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Gili1_0_1.mesh",
                                                         "hash": "7f239eaeaca82d0329484ab2ac5d8b0a",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Torus.mesh",
                                                         "hash": "83d292954b83fabbbcf00db5328ee952",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Gili3_2_2.mesh",
                                                         "hash": "1f493a2af67ff0cefd37f262ad172166",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Gili4_3_1.mesh",
                                                         "hash": "391f2b529e671fc3ae98166c8ed80dce",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "Cone.mesh",
                                                         "hash": "f1c262fc576759eb9fd71fd1fdd6c87a",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "bubo.mesh",
                                                         "hash": "be49b42a2f4708dd30104b3f6ff9bbd0",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-22T11:57:28",
+                                                        "lastModified": "2019-10-15T12:28:17",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -2336,7 +2225,7 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-22T11:57:28",
+                                                "lastModified": "2019-10-15T12:28:17",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -2345,7 +2234,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2354,20 +2243,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-01T09:57:27",
+                                "lastModified": "2019-10-29T16:46:26",
                                 "name": "Scripts",
-                                "hash": "31893b6111bb7a5ae5d8447b8fa79ae5",
+                                "hash": "c8f432e8703d2e7641b1fc25b32c24fc",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-01T18:26:14",
+                                        "lastModified": "2019-10-29T16:46:26",
                                         "name": "CountdownController.js",
-                                        "hash": "f0b334046a6bd08fb543c2891d779ae9",
+                                        "hash": "d1bd9b54486ef609a0abb97af297fac5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2376,13 +2265,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T07:44:59",
+                                "lastModified": "2019-10-29T17:39:01",
                                 "name": "Segmentation Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:28",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2391,27 +2280,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T07:44:59",
+                                "lastModified": "2019-10-16T00:34:44",
                                 "name": "Fonts",
                                 "hash": "491deb242a970701d7809ce434bab0f2",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "GrandHotel-Regular.otf",
                                         "hash": "12b13e1fb62fe03b9039600c319d52b9",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "BebasNeue.otf",
                                         "hash": "51b4a619fab5e1a38643657191a85aa5",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-22T11:57:27",
+                                        "lastModified": "2019-10-15T12:28:17",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -2420,7 +2309,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-22T11:57:28",
+                                "lastModified": "2019-10-15T12:28:17",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -2429,7 +2318,8 @@
                     }
                 },
                 "complexResources": [
-                    "4"
+                    "4",
+                    "16"
                 ]
             },
             "tree": {
@@ -2459,149 +2349,6 @@
                         "additional": "",
                         "resources": [
                             {
-                                "name": "background_ring",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "34",
-                                "dependency": "0",
-                                "uid": "1556819104756528:21012",
-                                "fileId": "34",
-                                "originalId": "35",
-                                "publicId": "3",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "burst_animation",
-                                "type": "1",
-                                "subtype": "5",
-                                "resourceId": "39",
-                                "dependency": "0",
-                                "uid": "1556829412433016:538135",
-                                "fileId": "42",
-                                "originalId": "18446744073709551615",
-                                "publicId": "4",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "base",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "49",
-                                "dependency": "0",
-                                "uid": "1556836424814475:9266",
-                                "fileId": "74",
-                                "originalId": "75",
-                                "publicId": "5",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "materialParams",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "50",
-                                "dependency": "0",
-                                "uid": "1556836424976802:9281",
-                                "fileId": "76",
-                                "originalId": "77",
-                                "publicId": "6",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "normal",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "51",
-                                "dependency": "0",
-                                "uid": "1556836425138615:9296",
-                                "fileId": "78",
-                                "originalId": "79",
-                                "publicId": "7",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "lens_gradient",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "52",
-                                "dependency": "0",
-                                "uid": "1556836425302524:9311",
-                                "fileId": "80",
-                                "originalId": "81",
-                                "publicId": "8",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "black",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "58",
-                                "dependency": "0",
-                                "uid": "1556840497261443:10919",
-                                "fileId": "91",
-                                "originalId": "92",
-                                "publicId": "9",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "paper_params_0",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "61",
-                                "dependency": "0",
-                                "uid": "1556906774007240:338400",
-                                "fileId": "97",
-                                "originalId": "98",
-                                "publicId": "10",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "paper_params_1",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "62",
-                                "dependency": "0",
-                                "uid": "1556906774168370:338415",
-                                "fileId": "99",
-                                "originalId": "100",
-                                "publicId": "11",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "paper_params_2",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "63",
-                                "dependency": "0",
-                                "uid": "1556906774329559:338430",
-                                "fileId": "101",
-                                "originalId": "102",
-                                "publicId": "12",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "pom_diffuse",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "78",
-                                "dependency": "0",
-                                "uid": "1556906777016909:338660",
-                                "fileId": "124",
-                                "originalId": "125",
-                                "publicId": "13",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
                                 "name": "Render Target",
                                 "type": "1",
                                 "subtype": "1",
@@ -2628,6 +2375,162 @@
                                 "additional": ""
                             },
                             {
+                                "name": "sunglasses_animation",
+                                "type": "1",
+                                "subtype": "7",
+                                "resourceId": "96",
+                                "dependency": "0",
+                                "uid": "1561412315844538:36767",
+                                "fileId": "162",
+                                "originalId": "18446744073709551615",
+                                "publicId": "16",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "burst_animation",
+                                "type": "1",
+                                "subtype": "5",
+                                "resourceId": "39",
+                                "dependency": "0",
+                                "uid": "1556829412433016:538135",
+                                "fileId": "42",
+                                "originalId": "18446744073709551615",
+                                "publicId": "4",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "background_ring",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "34",
+                                "dependency": "0",
+                                "uid": "1556819104756528:21012",
+                                "fileId": "34",
+                                "originalId": "18446744073709551615",
+                                "publicId": "3",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "49",
+                                "dependency": "0",
+                                "uid": "1556836424814475:9266",
+                                "fileId": "74",
+                                "originalId": "18446744073709551615",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "materialParams",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "50",
+                                "dependency": "0",
+                                "uid": "1556836424976802:9281",
+                                "fileId": "76",
+                                "originalId": "18446744073709551615",
+                                "publicId": "6",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "51",
+                                "dependency": "0",
+                                "uid": "1556836425138615:9296",
+                                "fileId": "78",
+                                "originalId": "18446744073709551615",
+                                "publicId": "7",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "lens_gradient",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "52",
+                                "dependency": "0",
+                                "uid": "1556836425302524:9311",
+                                "fileId": "80",
+                                "originalId": "18446744073709551615",
+                                "publicId": "8",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "black",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "58",
+                                "dependency": "0",
+                                "uid": "1556840497261443:10919",
+                                "fileId": "91",
+                                "originalId": "18446744073709551615",
+                                "publicId": "9",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "paper_params_0",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "61",
+                                "dependency": "0",
+                                "uid": "1556906774007240:338400",
+                                "fileId": "97",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "paper_params_1",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "62",
+                                "dependency": "0",
+                                "uid": "1556906774168370:338415",
+                                "fileId": "99",
+                                "originalId": "18446744073709551615",
+                                "publicId": "11",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "paper_params_2",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "63",
+                                "dependency": "0",
+                                "uid": "1556906774329559:338430",
+                                "fileId": "101",
+                                "originalId": "18446744073709551615",
+                                "publicId": "12",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "pom_diffuse",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "78",
+                                "dependency": "0",
+                                "uid": "1556906777016909:338660",
+                                "fileId": "124",
+                                "originalId": "18446744073709551615",
+                                "publicId": "13",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
                                 "name": "echopark_diff",
                                 "type": "1",
                                 "subtype": "9",
@@ -2650,19 +2553,6 @@
                                 "fileId": "2",
                                 "originalId": "18446744073709551615",
                                 "publicId": "15",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "sunglasses_animation",
-                                "type": "1",
-                                "subtype": "7",
-                                "resourceId": "96",
-                                "dependency": "0",
-                                "uid": "1561412315844538:36767",
-                                "fileId": "162",
-                                "originalId": "163",
-                                "publicId": "16",
                                 "source": "",
                                 "additional": ""
                             }
@@ -2816,19 +2706,6 @@
                                         "additional": ""
                                     },
                                     {
-                                        "name": "TweenBillboard [DEPRECATED]",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "26",
-                                        "dependency": "0",
-                                        "uid": "1556817880347072:123685",
-                                        "fileId": "24",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "28",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
                                         "name": "TweenValue",
                                         "type": "4",
                                         "subtype": "0",
@@ -2866,6 +2743,34 @@
                                         "publicId": "31",
                                         "source": "",
                                         "additional": ""
+                                    },
+                                    {
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "176",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "105",
+                                                "dependency": "0",
+                                                "uid": "1571881712911431:334161",
+                                                "fileId": "200",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "177",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
                                     }
                                 ]
                             },
@@ -2905,7 +2810,7 @@
                                 "dependency": "0",
                                 "uid": "1556819328079280:55502",
                                 "fileId": "36",
-                                "originalId": "37",
+                                "originalId": "183",
                                 "publicId": "50",
                                 "source": "",
                                 "additional": ""
@@ -2918,7 +2823,7 @@
                                 "dependency": "0",
                                 "uid": "1556823135939378:287598",
                                 "fileId": "38",
-                                "originalId": "39",
+                                "originalId": "184",
                                 "publicId": "51",
                                 "source": "",
                                 "additional": ""
@@ -2931,7 +2836,7 @@
                                 "dependency": "0",
                                 "uid": "1556823136823513:288777",
                                 "fileId": "40",
-                                "originalId": "41",
+                                "originalId": "185",
                                 "publicId": "52",
                                 "source": "",
                                 "additional": ""
@@ -2944,7 +2849,7 @@
                                 "dependency": "0",
                                 "uid": "1556829412593608:538154",
                                 "fileId": "43",
-                                "originalId": "44",
+                                "originalId": "186",
                                 "publicId": "53",
                                 "source": "",
                                 "additional": ""
@@ -2957,7 +2862,7 @@
                                 "dependency": "0",
                                 "uid": "1556906775296685:338565",
                                 "fileId": "113",
-                                "originalId": "114",
+                                "originalId": "187",
                                 "publicId": "54",
                                 "source": "",
                                 "additional": ""
@@ -2970,7 +2875,7 @@
                                 "dependency": "0",
                                 "uid": "1556906775608931:338581",
                                 "fileId": "115",
-                                "originalId": "116",
+                                "originalId": "188",
                                 "publicId": "55",
                                 "source": "",
                                 "additional": ""
@@ -2983,7 +2888,7 @@
                                 "dependency": "0",
                                 "uid": "1556906776244342:338613",
                                 "fileId": "119",
-                                "originalId": "120",
+                                "originalId": "189",
                                 "publicId": "56",
                                 "source": "",
                                 "additional": ""
@@ -2996,7 +2901,7 @@
                                 "dependency": "0",
                                 "uid": "1556906777142949:338675",
                                 "fileId": "126",
-                                "originalId": "127",
+                                "originalId": "190",
                                 "publicId": "57",
                                 "source": "",
                                 "additional": ""
@@ -3009,7 +2914,7 @@
                                 "dependency": "0",
                                 "uid": "1557183561531428:51597",
                                 "fileId": "152",
-                                "originalId": "153",
+                                "originalId": "191",
                                 "publicId": "58",
                                 "source": "",
                                 "additional": ""
@@ -3022,7 +2927,7 @@
                                 "dependency": "0",
                                 "uid": "1557183562971105:53377",
                                 "fileId": "154",
-                                "originalId": "155",
+                                "originalId": "192",
                                 "publicId": "59",
                                 "source": "",
                                 "additional": ""
@@ -3035,7 +2940,7 @@
                                 "dependency": "0",
                                 "uid": "1557183563743541:55165",
                                 "fileId": "156",
-                                "originalId": "157",
+                                "originalId": "193",
                                 "publicId": "60",
                                 "source": "",
                                 "additional": ""
@@ -3048,7 +2953,7 @@
                                 "dependency": "0",
                                 "uid": "1561412508995865:47921",
                                 "fileId": "169",
-                                "originalId": "170",
+                                "originalId": "194",
                                 "publicId": "61",
                                 "source": "",
                                 "additional": ""
@@ -3061,7 +2966,7 @@
                                 "dependency": "0",
                                 "uid": "1561412509464282:47958",
                                 "fileId": "171",
-                                "originalId": "172",
+                                "originalId": "195",
                                 "publicId": "62",
                                 "source": "",
                                 "additional": ""
@@ -3074,7 +2979,7 @@
                                 "dependency": "0",
                                 "uid": "1556836424448389:9250",
                                 "fileId": "72",
-                                "originalId": "73",
+                                "originalId": "196",
                                 "publicId": "63",
                                 "source": "",
                                 "additional": ""
@@ -3316,9 +3221,9 @@
                                 "name": "Portrait Background Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "35",
+                                "resourceId": "104",
                                 "dependency": "0",
-                                "uid": "1556819292224477:54028",
+                                "uid": "1571788545374223:77354",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",

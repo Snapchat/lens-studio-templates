@@ -1,5 +1,5 @@
 // TweenChain.js
-// Version 0.0.1
+// Version: 0.0.5
 // Event: Any Event
 // Description: Chains multiple tween scripts attached to single object together
 // ----- USAGE -----
@@ -28,6 +28,7 @@ if (!script.sceneObject){
 }
 
 // Setup the external API.
+script.api.tweenObject = script.getSceneObject();
 script.api.tweenType = "chain";
 script.api.tweenName = script.tweenName;
 script.api.startTween = startTween;
@@ -48,6 +49,12 @@ script.api.updateToEnd = updateToEnd;
 script.api.chainTweensPingPongOnce = chainTweensPingPongOnce;
 script.api.loopType = script.loopType;
 script.api.playAll = script.playAll;
+script.api.playAutomatically = script.playAutomatically;
+
+if ( global.tweenManager && global.tweenManager.addToRegistry )
+{
+    global.tweenManager.addToRegistry(script);
+}
 
 // Update the tween to its start
 function updateToStart()

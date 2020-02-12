@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "cGp3dW8NJpcsCkIPoS6J",
+    "document_id": "f6WP1XuC8_cgy7Xz0cp7",
     "original_document_id": "VT4cjfhtPz_jqCf8zV9U",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -53,15 +54,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "373d2e56d9daebf7d02ceff5be9a6f81",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Distort",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -223,33 +228,33 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T10:55:43",
+                        "lastModified": "2019-10-22T14:33:13",
                         "name": "Public",
                         "hash": "4de2d3bb8ebfe4a2412591053a7dd396",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:55:43",
+                                "lastModified": "2019-10-22T14:33:13",
                                 "name": "Textures",
                                 "hash": "5d0daf4be82fee50df678f1d3a4975ad",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_diff.png",
                                         "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_spec.png",
                                         "hash": "8e599835d0d45c5879eafb1f474469cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -258,7 +263,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:57",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""

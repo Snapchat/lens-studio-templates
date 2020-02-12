@@ -106,7 +106,6 @@ function checkDistanceToCamera()
         if( isObjectTracking )
         {
             ratio = 1.0;
-            script.skeletalControllerScript.api.toggleAllImages( true );
         }
     }
 
@@ -228,12 +227,6 @@ function checkInputValues()
     if( !script.skeletalControllerScript.api.showHint )
     {
         print( "SkeletalTrackingHintController, ERROR: Please make sure the SkeletalTrackingController script contains the showHint function" );
-        return false;
-    }
-
-    if( !script.skeletalControllerScript.api.toggleAllImages )
-    {
-        print( "SkeletalTrackingHintController, ERROR: Please make sure the SkeletalTrackingController script contains the toggleAllImages function" );
         return false;
     }
 
