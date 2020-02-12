@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "8LmFLEnhNgIdmJwzy7V0",
+    "document_id": "SXfPbQ9gP-y6wIfd6eSO",
     "original_document_id": "spppQ1kY-asScG0c4MB-",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -98,15 +99,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "51a20af55556ecd3d0639b39b4a89ade",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Trigger",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -821,6 +826,30 @@
                 {
                     "k": "49",
                     "v": "Files\/File49.png"
+                },
+                {
+                    "k": "50",
+                    "v": "Files\/File50.lsmat"
+                },
+                {
+                    "k": "51",
+                    "v": "Files\/File51.lsmat"
+                },
+                {
+                    "k": "52",
+                    "v": "Files\/File52.lsmat"
+                },
+                {
+                    "k": "53",
+                    "v": "Files\/File53.lsmat"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.lsmat"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.lsmat"
                 }
             ]
         },
@@ -1053,7 +1082,7 @@
                     },
                     {
                         "k": "10",
-                        "v": "6e57b8c988b0a95f4043120b3cb39869"
+                        "v": "f43f6c46c0ea9001ba4dcebe5718fe42"
                     },
                     {
                         "k": "13",
@@ -1101,23 +1130,23 @@
                     },
                     {
                         "k": "26",
-                        "v": "d01e26f01019a520b5e8000fd65bb53a"
+                        "v": "80d21e80f8ac22ba4261322eca4d69cc"
                     },
                     {
                         "k": "27",
-                        "v": "cce3c8f7fc4288c4eceb120584ed7eec"
+                        "v": "b1fbbc1430bb6876cde76a5a20b192a4"
                     },
                     {
                         "k": "28",
-                        "v": "8517acdb00e541e62b41e5d8bb6f2736"
+                        "v": "a0bc71ebaa442e22e753ce84d582384f"
                     },
                     {
                         "k": "29",
-                        "v": "f27c5150eb18527398f451543106d0ba"
+                        "v": "41de121041709bc93ab49269b7f2f362"
                     },
                     {
                         "k": "30",
-                        "v": "0aeb6311c2c4f73d9a68dc59ba1183d7"
+                        "v": "8b92b15eb54c8718fec055c474fc373b"
                     },
                     {
                         "k": "32",
@@ -1219,33 +1248,33 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T11:02:17",
+                        "lastModified": "2019-10-22T14:27:17",
                         "name": "Public",
-                        "hash": "80966844447d1555c19da594d8fbdf50",
+                        "hash": "1e39f0f1807f4cf0fea7f0ac545c7fd2",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:02:17",
+                                "lastModified": "2019-10-22T14:27:17",
                                 "name": "Textures",
                                 "hash": "701b8f3711e445f281136e0edec0ced9",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_diff.png",
                                         "hash": "aa95238d3783050e2b5e40115a236c11",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_spec.png",
                                         "hash": "d0e9f0ffaa267a738c9e0383a57ed499",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1254,20 +1283,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:02:17",
+                                "lastModified": "2019-10-22T14:27:17",
                                 "name": "Materials",
-                                "hash": "834aa966d2d58e32cacaaaf1fddb1a3b",
+                                "hash": "0e3e545cf203d6077c5cdf53671e46f8",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-22T14:27:01",
                                         "name": "Occluder.lsmat",
-                                        "hash": "6e57b8c988b0a95f4043120b3cb39869",
+                                        "hash": "f43f6c46c0ea9001ba4dcebe5718fe42",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1276,20 +1305,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:02:17",
+                                "lastModified": "2019-10-22T14:27:17",
                                 "name": "Meshes",
                                 "hash": "4845a7712aa525ec885f0e25e27cdcf6",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "Occluder Mesh.mesh",
                                         "hash": "1ee3b04bde1071400dcab59b4f7859e0",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1298,27 +1327,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:02:17",
+                                "lastModified": "2019-10-22T14:27:17",
                                 "name": "Scripts",
                                 "hash": "5d34d77f1552be4de1b93267786bd166",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "ShowHint.js",
                                         "hash": "7d3fc87924048dc888fc14593acfc785",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "FaceTriggerAnim.js",
                                         "hash": "40143bd93ae3f37b3fd165346e0e15cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1327,60 +1356,60 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:02:17",
+                                "lastModified": "2019-10-22T14:27:17",
                                 "name": "Sunglasses [REMOVE_ME]",
-                                "hash": "b2e11450a249f915448445166be0b79a",
+                                "hash": "a5a0b97b94837515f6bbbe5ef8c122ef",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T11:02:17",
+                                        "lastModified": "2019-10-22T14:27:17",
                                         "name": "2D Textures",
                                         "hash": "cb737a6e87007fb2d98853f61472dde1",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "VignettePink.png",
                                                 "hash": "8367fdcdff2284178b57ce8baddb2c23",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "SunglassesType.png",
                                                 "hash": "370793aaae681ff7bc53e3330f45fcc5",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:19",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Post_effect_lookup_table.png",
                                                 "hash": "73d34e29a426f7b7d56e36649f712f64",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T11:02:17",
+                                                "lastModified": "2019-10-22T14:27:17",
                                                 "name": "SunglassesTypeHighlight",
                                                 "hash": "934a923fa71b60a166934eaf77b5bace",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:48",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "atlas_0.jpg",
                                                         "hash": "b0e8bea4091ecd77a3b7c3d213c1f29f",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:58",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "animation.t3d",
                                                         "hash": "25f67fb29536d57139b3ee81879cf311",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:58",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -1389,7 +1418,7 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1398,104 +1427,104 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T11:02:17",
+                                        "lastModified": "2019-10-22T14:27:17",
                                         "name": "Textures",
                                         "hash": "8d44df99aa72c4d7ced5e4161fa562e9",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Lens_base.png",
                                                 "hash": "1fec054ca4237c6fbed86516417e84c4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Frame_materialParams.png",
                                                 "hash": "13a1c222136cce2d9e924ed7d1048d58",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Lens_materialParams.png",
                                                 "hash": "bb9b2f723b32fc0f5862af2afd018d66",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Frame_normal.png",
                                                 "hash": "9d5bd4f4dc6af99a4726faaea5f365b4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_EyeLash_base.png",
                                                 "hash": "b80e21ca10395ade389b191d7883d5fc",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_EyeLash_normal.png",
                                                 "hash": "68bcdd328e91375232661ca80a419002",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Drop_materialParams.png",
                                                 "hash": "9d98a060b8fc2a7b7ecdf2f3835003d2",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Frame_base.png",
                                                 "hash": "9fe3121816520d33a01c7710019382fa",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Lens_normal.png",
                                                 "hash": "9d5bd4f4dc6af99a4726faaea5f365b4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Drop_normal.png",
                                                 "hash": "616ef9791014c8d0d2a9ef7f6024e7df",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_EyeLash_materialParams.png",
                                                 "hash": "0b84b5de13084e2a19ddc300f3a0f050",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Drop2_base.png",
                                                 "hash": "6561ed5e238ed5083f975445bf7f3b35",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Sunglasses_Drop_base.png",
                                                 "hash": "8584828ece6e2568cb26635556abf258",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1504,48 +1533,48 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T11:02:17",
+                                        "lastModified": "2019-10-22T14:27:17",
                                         "name": "Materials",
-                                        "hash": "f72867b5d170ef3e1a83397d6cb8ea8e",
+                                        "hash": "ab2723c0d5e9ff6ee102ecda730c24ae",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-22T14:27:00",
                                                 "name": "Frame.lsmat",
-                                                "hash": "d01e26f01019a520b5e8000fd65bb53a",
+                                                "hash": "80d21e80f8ac22ba4261322eca4d69cc",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-22T14:27:01",
                                                 "name": "DropR.lsmat",
-                                                "hash": "8517acdb00e541e62b41e5d8bb6f2736",
+                                                "hash": "a0bc71ebaa442e22e753ce84d582384f",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-22T14:27:01",
                                                 "name": "EyeLash.lsmat",
-                                                "hash": "cce3c8f7fc4288c4eceb120584ed7eec",
+                                                "hash": "b1fbbc1430bb6876cde76a5a20b192a4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-22T14:27:01",
                                                 "name": "Lenses.lsmat",
-                                                "hash": "0aeb6311c2c4f73d9a68dc59ba1183d7",
+                                                "hash": "8b92b15eb54c8718fec055c474fc373b",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-22T14:27:01",
                                                 "name": "DropL.lsmat",
-                                                "hash": "f27c5150eb18527398f451543106d0ba",
+                                                "hash": "41de121041709bc93ab49269b7f2f362",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1554,90 +1583,90 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T11:02:17",
+                                        "lastModified": "2019-10-22T14:27:17",
                                         "name": "Meshes",
                                         "hash": "33295dbd5c9ec514ab8f16c8f761c721",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Clip_L.mesh",
                                                 "hash": "82a08797f750f6c50409e03544280818",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Lens_L.mesh",
                                                 "hash": "da8161cd39acfcc6dd50010711cd517a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Frame.mesh",
                                                 "hash": "7b48df4e1cb0c74c5970080586956e6f",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "EyeLash_L.mesh",
                                                 "hash": "7152bc8f73dd93dafc1ba66b34d21001",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ClipBack_L.mesh",
                                                 "hash": "df4e9482ab4c89189cad617863ac1e57",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ClipBack_R.mesh",
                                                 "hash": "bff1b6d45ca500bd258e6e6bce4b2d49",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "EyeLash_R.mesh",
                                                 "hash": "8fe49fdc341aa5f0140a73bc623dde31",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Clip_R.mesh",
                                                 "hash": "5c67fd751c6a1fe4aa3cb38d608552ef",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Lens_R.mesh",
                                                 "hash": "14e99fdd6eb3e8b8c42dd0f96a66bb4d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Drop_R.mesh",
                                                 "hash": "beb757a993b938bd54ef60674df0c470",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Drop_L.mesh",
                                                 "hash": "4f6587b45f32957b01e6d551d9599784",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1646,13 +1675,13 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T11:02:17",
+                                        "lastModified": "2019-10-22T14:27:17",
                                         "name": "Animations",
                                         "hash": "59adb24ef3cdbe0297f05b395827453f",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:58",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1661,7 +1690,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1670,7 +1699,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:58",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1852,7 +1881,7 @@
                                 "dependency": "0",
                                 "uid": "1515183269066956:56843",
                                 "fileId": "23",
-                                "originalId": "40",
+                                "originalId": "50",
                                 "publicId": "10",
                                 "source": "",
                                 "additional": ""
@@ -2118,7 +2147,7 @@
                                         "dependency": "0",
                                         "uid": "1515108629422120:31227",
                                         "fileId": "15",
-                                        "originalId": "41",
+                                        "originalId": "51",
                                         "publicId": "26",
                                         "source": "",
                                         "additional": ""
@@ -2131,7 +2160,7 @@
                                         "dependency": "0",
                                         "uid": "1515108794670097:32034",
                                         "fileId": "18",
-                                        "originalId": "42",
+                                        "originalId": "52",
                                         "publicId": "27",
                                         "source": "",
                                         "additional": ""
@@ -2144,7 +2173,7 @@
                                         "dependency": "0",
                                         "uid": "1515109022185897:32799",
                                         "fileId": "19",
-                                        "originalId": "43",
+                                        "originalId": "53",
                                         "publicId": "28",
                                         "source": "",
                                         "additional": ""
@@ -2157,7 +2186,7 @@
                                         "dependency": "0",
                                         "uid": "1515109127968243:33519",
                                         "fileId": "20",
-                                        "originalId": "44",
+                                        "originalId": "54",
                                         "publicId": "29",
                                         "source": "",
                                         "additional": ""
@@ -2170,7 +2199,7 @@
                                         "dependency": "0",
                                         "uid": "1515109154853207:33640",
                                         "fileId": "21",
-                                        "originalId": "45",
+                                        "originalId": "55",
                                         "publicId": "30",
                                         "source": "",
                                         "additional": ""
@@ -2421,7 +2450,7 @@
                                         "dependency": "0",
                                         "uid": "1564445792775751:62821",
                                         "fileId": "48",
-                                        "originalId": "49",
+                                        "originalId": "18446744073709551615",
                                         "publicId": "105",
                                         "source": "",
                                         "additional": ""

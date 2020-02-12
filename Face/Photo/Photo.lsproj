@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "E4H1dz8VIP4drW-uMAfg",
+    "document_id": "KOWJbzD8njTvWiZhdfpk",
     "original_document_id": "ugHJiZ2Q-6UGVM3RPDvH",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -111,15 +112,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "28110296497ebcc4cba71560f1759146",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Photo",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -561,33 +566,33 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T11:00:37",
+                        "lastModified": "2019-10-22T14:29:26",
                         "name": "Public",
                         "hash": "df7dd7c59de2a1b613f172ddec39da9a",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:00:37",
+                                "lastModified": "2019-10-22T14:29:26",
                                 "name": "Textures",
                                 "hash": "5d0daf4be82fee50df678f1d3a4975ad",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_diff.png",
                                         "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_spec.png",
                                         "hash": "8e599835d0d45c5879eafb1f474469cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -596,104 +601,104 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:00:37",
+                                "lastModified": "2019-10-22T14:29:26",
                                 "name": "Opacity Textures",
                                 "hash": "a8a97048ee2a0ca9e5cc6726005a66ff",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "full_no_eye.png",
                                         "hash": "83d322aa1172cae41aa520f17bcc2041",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "nose.png",
                                         "hash": "1ab6da4f5ef25334ee6b757c7618d3b9",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "full_no_lips.png",
                                         "hash": "60f9b7fd5f432347d2a6c33814a392ce",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "full_no_eye_lips.png",
                                         "hash": "95e79b482ffce043795f199cdc1f3969",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "lips.png",
                                         "hash": "8016e4882eac65654954081feffd1ac7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "cheeks.png",
                                         "hash": "36e8a00b55dfdb429771f98cb0a943db",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "eye_4.png",
                                         "hash": "685c03692eb04109941ea0ade52e3f59",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "eye_3.png",
                                         "hash": "7f97707eb3e42b45c6b03d5e990045d3",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "forehead_2.png",
                                         "hash": "d76b5ded2fa1d9d412e463b47eeb12fd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "eye_2.png",
                                         "hash": "42867e2460badb8c40372c660aeeedfa",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "full.png",
                                         "hash": "5da508b500472344200a23a0e069d1c9",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "forehead_1.png",
                                         "hash": "9426dd26e34f9577cbf93579b02fcda2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "eye_1.png",
                                         "hash": "c75c126e9e6ddc2fc191875fbc32c147",
                                         "children": ""
@@ -702,14 +707,14 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:48",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "example_texture [REMOVE_ME].png",
                                 "hash": "86c3a77828c5f504000ce8f3f28fbaba",
                                 "children": ""
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:57",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""

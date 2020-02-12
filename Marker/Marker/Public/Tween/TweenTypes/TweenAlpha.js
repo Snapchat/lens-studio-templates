@@ -1,5 +1,5 @@
 // TweenAlpha.js
-// Version: 0.0.4
+// Version: 0.0.5
 // Event: Any Event
 // Description: Runs a tween on a Lens Studio object's alpha using TweenJS
 // ----- USAGE -----
@@ -31,11 +31,12 @@
 
 // If no scene object is specified, use object the script is attached to
 if( !script.sceneObject )
-{
+{    
     script.sceneObject = script.getSceneObject();
 }
 
 // Setup the external API
+script.api.tweenObject = script.getSceneObject();
 script.api.tweenType = "alpha";
 script.api.tweenName = script.tweenName;
 script.api.time = script.time;
@@ -58,6 +59,12 @@ script.api.setStart = setStart;
 script.api.setEnd = setEnd;
 script.api.manualStart = false;
 script.api.manualEnd = false;
+script.api.playAutomatically = script.playAutomatically;
+
+if ( global.tweenManager && global.tweenManager.addToRegistry )
+{
+    global.tweenManager.addToRegistry(script);
+}
 
 // Manually set start value
 function setStart( start )
@@ -409,6 +416,10 @@ function updateVisual(visualComponent, value){
 // Resets the object to its start
 function resetObject()
 {
+    if (script.api.tweenObjects == null) {
+        return;
+    }
+    
     for ( var i = 0; i < script.api.tweenObjects.length; i++)
     {
         var tweenObject = script.api.tweenObjects[i];

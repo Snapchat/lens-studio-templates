@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "2ZmMD1oTwOzV5SGhJWK8",
+    "document_id": "0LEsMvQDVgjy5IpM4IUa",
     "original_document_id": "9Ymufa54hCCtpZMBC6aq",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -62,11 +63,6 @@
                     [
                         "Tween",
                         "TweenTypes",
-                        "TweenBillboard [DEPRECATED]"
-                    ],
-                    [
-                        "Tween",
-                        "TweenTypes",
                         "TweenChain"
                     ],
                     [
@@ -97,36 +93,48 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "dbb18a5a3ec5a61b5245839bf3c57b84",
+            "icon_hash": "29a6835a8313aeb82826b60b64d048fe",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 "lens_hint_tap"
             ],
             "lens": "Soundboard",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "false",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Images\/Person 5.jpg",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "spectacles_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 5.webm",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "spectacles_preview_is_favorite": "false"
             }
         },
         "InspectorUiComponent": {
             "collapsedList": [
                 ""
             ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
         }
     },
     "model": {
@@ -389,20 +397,41 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "198",
-                    "uid": "1553647174954233:1862770",
-                    "name": "Files\/File40.js",
+                    "resId": "199",
+                    "uid": "1571880459257081:241972",
+                    "name": "Files\/File48.js",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
-                "unrecognizedMaterials": ""
+                "unrecognizedMaterials": [
+                    {
+                        "k": "1517262583403918:37361",
+                        "v": [
+                            {
+                                "k": "0",
+                                "v": {
+                                    "hashes": {
+                                        "shader": "401e272b7caf9f55558827cdcd076e9c",
+                                        "ui": "9787f7bac843be7d6b8cae0a51270db3",
+                                        "includes": ""
+                                    },
+                                    "flags": "273"
+                                }
+                            }
+                        ]
+                    }
+                ]
             }
         },
         "InspectorComponent": {
             "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
                 },
@@ -800,8 +829,36 @@
                     "v": "Files\/File39.js"
                 },
                 {
-                    "k": "40",
-                    "v": "Files\/File40.js"
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.lsmat"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.js"
                 }
             ]
         },
@@ -959,8 +1016,12 @@
                         "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
                     },
                     {
-                        "k": "65",
-                        "v": "Tween\/TweenTypes\/TweenBillboard [DEPRECATED].js"
+                        "k": "623",
+                        "v": "Tween\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "624",
+                        "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
                     }
                 ],
                 "hashes": [
@@ -970,31 +1031,31 @@
                     },
                     {
                         "k": "4",
-                        "v": "cf3dce20ed24c4e2ba8a9245fb6de309"
+                        "v": "bf2618b30298e7df3c1fbfcd0c73141b"
                     },
                     {
                         "k": "5",
-                        "v": "cd9879bed9600cd066fa4ca088fd0b0f"
+                        "v": "c20a3bc95053094e123752838ab96550"
                     },
                     {
                         "k": "6",
-                        "v": "1a72f66ab1354433484f0912902c60f8"
+                        "v": "549ff205f8c7665c5a96580ae2d95cd2"
                     },
                     {
                         "k": "7",
-                        "v": "402996d302fc637171da398e17a6861c"
+                        "v": "558363307ad5d96f06367af8b99a5c77"
                     },
                     {
                         "k": "8",
-                        "v": "be68138457e9fc37fb273c1becd01ef8"
+                        "v": "0f4083b743ae9980ac01f13d4c133e69"
                     },
                     {
                         "k": "9",
-                        "v": "54de57a31c2cc8dae3d1ad6af90e2de9"
+                        "v": "67a5505cc7c4d428e4437d0903873c19"
                     },
                     {
                         "k": "10",
-                        "v": "fad8ca01761a86036c45ab5c4e97e5e5"
+                        "v": "96b833d598bdbbe638e7ff05e35faf83"
                     },
                     {
                         "k": "12",
@@ -1002,15 +1063,15 @@
                     },
                     {
                         "k": "15",
-                        "v": "9389deaec4231b11b4e485b24ccba204"
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
                     },
                     {
                         "k": "16",
-                        "v": "6333a68a84a5f7e47993037966d1e135"
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
                     },
                     {
                         "k": "17",
-                        "v": "aa362e7548dcf0b077de03d641431777"
+                        "v": "4ca6ca961ac63737cdfdb95767c3e077"
                     },
                     {
                         "k": "18",
@@ -1018,11 +1079,11 @@
                     },
                     {
                         "k": "19",
-                        "v": "f51e2387d37af7b5a85766408a362e18"
+                        "v": "a8212c4a0d7f900c75c80ad4829f91f0"
                     },
                     {
                         "k": "20",
-                        "v": "6c038aa78934d8b410cc753fb5f405a1"
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
                     },
                     {
                         "k": "21",
@@ -1134,40 +1195,48 @@
                     },
                     {
                         "k": "63",
-                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                        "v": "a094f372f9487690786f930bd7030e82"
                     },
                     {
                         "k": "64",
-                        "v": "42e34f6843c51889977aed3783ff56e9"
+                        "v": "15f4c60fdceda581e50db7b5e824cda4"
                     },
                     {
                         "k": "65",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    },
+                    {
+                        "k": "623",
+                        "v": "1b3c33a31e2012e2fb122c85002e1df4"
+                    },
+                    {
+                        "k": "624",
                         "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T11:29:00",
+                        "lastModified": "2019-10-29T17:57:56",
                         "name": "Public",
-                        "hash": "0549589ee4c9b953f673fced364e1826",
+                        "hash": "ed2d1795d17134e1a2c1c42c1c7baa97",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:29:00",
+                                "lastModified": "2019-10-16T00:06:07",
                                 "name": "Textures",
                                 "hash": "fc9ef7c998e07e4aa02c612a4efb630e",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "button.png",
                                         "hash": "15e9e087e756239c4b89cb0d032660db",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1176,68 +1245,83 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:29:00",
+                                "lastModified": "2019-10-29T17:38:40",
                                 "name": "Tween",
-                                "hash": "1fb0c4d2825b07d4f19012e7dfc11674",
+                                "hash": "62895164f88abeeede1493d7da01241d",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T11:29:00",
+                                        "lastModified": "2019-10-29T17:32:01",
                                         "name": "TweenTypes",
-                                        "hash": "580b2dec38c09c9d3357dd22eba1cc97",
+                                        "hash": "e40711bb4f8625c50edc867f0a226ef2",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenChain.js",
-                                                "hash": "f51e2387d37af7b5a85766408a362e18",
+                                                "hash": "a8212c4a0d7f900c75c80ad4829f91f0",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:59",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenColor.js",
-                                                "hash": "6333a68a84a5f7e47993037966d1e135",
+                                                "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenTransform.js",
-                                                "hash": "9389deaec4231b11b4e485b24ccba204",
+                                                "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89",
                                                 "children": ""
                                             },
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:59",
-                                                "name": "TweenBillboard [DEPRECATED].js",
-                                                "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
-                                                "children": ""
+                                                "isFolder": "true",
+                                                "lastModified": "2019-10-23T18:34:29",
+                                                "name": "Legacy",
+                                                "hash": "1b3c33a31e2012e2fb122c85002e1df4",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T18:34:29",
+                                                        "name": "TweenBillboard [DEPRECATED].js",
+                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-10-23T18:34:29",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:59",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenScreenTransform.js",
-                                                "hash": "42e34f6843c51889977aed3783ff56e9",
+                                                "hash": "15f4c60fdceda581e50db7b5e824cda4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:48",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenValue.js",
-                                                "hash": "6c038aa78934d8b410cc753fb5f405a1",
+                                                "hash": "8a3af68c16493bc48b0f7f17a1d6c065",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:59",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenAlpha.js",
-                                                "hash": "aa362e7548dcf0b077de03d641431777",
+                                                "hash": "4ca6ca961ac63737cdfdb95767c3e077",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:59",
+                                                "lastModified": "2019-10-23T18:34:29",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1246,21 +1330,21 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-29T16:46:22",
                                         "name": "TweenManager.js",
-                                        "hash": "1b937dfbcbcd8ef1ee1a275fe7899278",
+                                        "hash": "a094f372f9487690786f930bd7030e82",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-23T18:34:29",
                                         "name": "Tween.js",
                                         "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-23T18:34:29",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1269,62 +1353,62 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:29:00",
+                                "lastModified": "2019-10-29T16:46:25",
                                 "name": "Materials",
-                                "hash": "1d3ece64831518f2f0053a4e9397664d",
+                                "hash": "45b80c2f5194d122aba6e4b60bfd0b77",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "button_F.lsmat",
-                                        "hash": "fad8ca01761a86036c45ab5c4e97e5e5",
+                                        "hash": "96b833d598bdbbe638e7ff05e35faf83",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "invisible.lsmat",
-                                        "hash": "cf3dce20ed24c4e2ba8a9245fb6de309",
+                                        "hash": "bf2618b30298e7df3c1fbfcd0c73141b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "button_D.lsmat",
-                                        "hash": "be68138457e9fc37fb273c1becd01ef8",
+                                        "hash": "0f4083b743ae9980ac01f13d4c133e69",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "button_B.lsmat",
-                                        "hash": "1a72f66ab1354433484f0912902c60f8",
+                                        "hash": "549ff205f8c7665c5a96580ae2d95cd2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "button_E.lsmat",
-                                        "hash": "54de57a31c2cc8dae3d1ad6af90e2de9",
+                                        "hash": "67a5505cc7c4d428e4437d0903873c19",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "button_C.lsmat",
-                                        "hash": "402996d302fc637171da398e17a6861c",
+                                        "hash": "558363307ad5d96f06367af8b99a5c77",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-29T16:46:25",
                                         "name": "button_A.lsmat",
-                                        "hash": "cd9879bed9600cd066fa4ca088fd0b0f",
+                                        "hash": "c20a3bc95053094e123752838ab96550",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1333,55 +1417,55 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:29:00",
+                                "lastModified": "2019-10-16T00:06:07",
                                 "name": "Sounds [REPLACE_ME]",
                                 "hash": "aac9a07256248f18693fa3277b073ecc",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_a.mp3",
                                         "hash": "81d53d69c9df7302901d6c7b40ed548d",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_b.mp3",
                                         "hash": "e925a187d9b9d8680007edf8243870a1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_c.mp3",
                                         "hash": "f39fd60ab480e9a6ebb3bf763f1ce387",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_f.mp3",
                                         "hash": "e1274ded79c9001e8291fcb8c09ada73",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_d.mp3",
                                         "hash": "c038de535a6b622fcf35d51041bbb3e7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_e.mp3",
                                         "hash": "1b4d9d131426cf5e1aa69fb2ae12a2f1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1390,55 +1474,55 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:29:00",
+                                "lastModified": "2019-10-16T00:06:07",
                                 "name": "Visuals [REPLACE_ME]",
                                 "hash": "adb735c14e5beedb2c6df353893c1000",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_b.png",
                                         "hash": "8922470ff26f39d7b22c0d7d5df571e3",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_c.png",
                                         "hash": "ee211ff04e56c55ec159dec73b64792d",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_a.png",
                                         "hash": "5a74ecc3fb346cb9d61fcf5d24ece450",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_d.png",
                                         "hash": "9c9ed0a1086a7c3b3d73a6af8291a4e7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_e.png",
                                         "hash": "7e053e85a8e467d8aeec4fd950c98c50",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "kitty_f.png",
                                         "hash": "d9eadc9189a40b5dd7a20b080b43679b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1447,20 +1531,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:29:00",
+                                "lastModified": "2019-10-16T00:06:07",
                                 "name": "Scripts",
                                 "hash": "c85d4d0ae0f92b17e2071231feadcf4e",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "SoundboardKey.js",
                                         "hash": "e9d3f86c63fddf47d6e79a442c84ee06",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1469,7 +1553,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:59",
+                                "lastModified": "2019-10-12T09:44:54",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1580,7 +1664,7 @@
                                 "dependency": "0",
                                 "uid": "1517262583403918:37361",
                                 "fileId": "2",
-                                "originalId": "30",
+                                "originalId": "41",
                                 "publicId": "4",
                                 "source": "",
                                 "additional": ""
@@ -1593,7 +1677,7 @@
                                 "dependency": "0",
                                 "uid": "1517612507854728:3073",
                                 "fileId": "4",
-                                "originalId": "31",
+                                "originalId": "42",
                                 "publicId": "5",
                                 "source": "",
                                 "additional": ""
@@ -1606,7 +1690,7 @@
                                 "dependency": "0",
                                 "uid": "1520892659378973:191785",
                                 "fileId": "11",
-                                "originalId": "32",
+                                "originalId": "43",
                                 "publicId": "6",
                                 "source": "",
                                 "additional": ""
@@ -1619,7 +1703,7 @@
                                 "dependency": "0",
                                 "uid": "1520892665077008:191823",
                                 "fileId": "12",
-                                "originalId": "33",
+                                "originalId": "44",
                                 "publicId": "7",
                                 "source": "",
                                 "additional": ""
@@ -1632,7 +1716,7 @@
                                 "dependency": "0",
                                 "uid": "1520892667219816:191849",
                                 "fileId": "13",
-                                "originalId": "34",
+                                "originalId": "45",
                                 "publicId": "8",
                                 "source": "",
                                 "additional": ""
@@ -1645,7 +1729,7 @@
                                 "dependency": "0",
                                 "uid": "1520892669271960:191875",
                                 "fileId": "14",
-                                "originalId": "35",
+                                "originalId": "46",
                                 "publicId": "9",
                                 "source": "",
                                 "additional": ""
@@ -1658,7 +1742,7 @@
                                 "dependency": "0",
                                 "uid": "1520892672739335:191901",
                                 "fileId": "15",
-                                "originalId": "36",
+                                "originalId": "47",
                                 "publicId": "10",
                                 "source": "",
                                 "additional": ""
@@ -1798,17 +1882,32 @@
                                         "additional": ""
                                     },
                                     {
-                                        "name": "TweenBillboard [DEPRECATED]",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "198",
+                                        "name": "Legacy",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
                                         "dependency": "0",
-                                        "uid": "1553647174954233:1862770",
-                                        "fileId": "40",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
                                         "originalId": "18446744073709551615",
-                                        "publicId": "65",
+                                        "publicId": "623",
                                         "source": "",
-                                        "additional": ""
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "TweenBillboard [DEPRECATED]",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "199",
+                                                "dependency": "0",
+                                                "uid": "1571880459257081:241972",
+                                                "fileId": "48",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "624",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
                                     }
                                 ]
                             },

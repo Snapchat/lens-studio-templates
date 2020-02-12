@@ -1,5 +1,5 @@
 // Behavior.js
-// Version: 0.0.3
+// Version: 0.0.4
 // Event: Lens Initialized
 // Description: Configure a trigger and response in the inspector UI. No scripting required.
 //
@@ -229,6 +229,7 @@ if (!global.behaviorSystem) {
 }
 var lastTriggerTime;
 var localTriggerResponses = [];
+var resetUpdateChecks = [];
 var comparisonFuncs = {
     "-2": function(sign) {
         return sign !== 1;
@@ -301,7 +302,13 @@ function createAndBindEvent(eventType, callback) {
 }
 
 function whenValueBecomes(valueFunc, desiredValue, callback, allowRepeat, optInitialValue) {
-    var lastValue = (!allowRepeat && optInitialValue === undefined) ? valueFunc() : optInitialValue;
+    var lastValue;
+    var initLastValue = function() {
+        lastValue = (!allowRepeat && optInitialValue === undefined) ? valueFunc() : optInitialValue;
+    };
+    resetUpdateChecks.push(initLastValue);
+    initLastValue();
+
     createAndBindEvent("UpdateEvent", function() {
         var newValue = valueFunc();
         if (newValue === desiredValue && (allowRepeat || lastValue !== desiredValue)) {
@@ -353,6 +360,12 @@ function getFallbackComponent(component, componentType) {
     return component || safeGetComponent(script.getSceneObject(), componentType);
 }
 
+function reInitialize() {
+    lastTriggerTime = null;
+    resetUpdateChecks.forEach(safeCall);
+}
+global.scBehaviorSystem.addCustomTriggerResponse("_reinitialize_all_behaviors", reInitialize);
+
 function setupTrigger() {
     switch (script.triggeringEventType) {
         case "TouchEvent":
@@ -362,6 +375,8 @@ function setupTrigger() {
             setupFaceEvent();
             break;
         case "TurnOnEvent":
+            setupTurnOnEvent();
+            break;
         case "UpdateEvent":
         case "LateUpdateEvent":
         case "CameraFrontEvent":
@@ -507,6 +522,11 @@ function setupFaceEvent() {
     var faceEvent = script.createEvent(script.faceEventEventType);
     faceEvent.faceIndex = script.faceEventFaceIndex;
     faceEvent.bind(onTrigger);
+}
+
+function setupTurnOnEvent() {
+    createAndBindEvent("TurnOnEvent", onTrigger);
+    global.scBehaviorSystem.addCustomTriggerResponse("_trigger_all_turn_on_behaviors", onTrigger);
 }
 
 function setupAnimationEnd() {

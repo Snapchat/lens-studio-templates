@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "pfz4goG9Az95Lx_xwCAQ",
+    "document_id": "ErvTZjm-mkJcsYj3FgTY",
     "original_document_id": "Ys2VVuSE2iZyH3xv5UBe",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -373,15 +374,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "a2a5f03bd440f18deba7691f969a2e07",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "2D Objects",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -1332,33 +1337,33 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T10:45:04",
+                        "lastModified": "2019-10-22T14:29:54",
                         "name": "Public",
                         "hash": "916d6fa5f70dedc2de5bd7f1972cd501",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:45:03",
+                                "lastModified": "2019-10-22T14:29:54",
                                 "name": "Textures",
                                 "hash": "5d0daf4be82fee50df678f1d3a4975ad",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_diff.png",
                                         "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "echopark_spec.png",
                                         "hash": "8e599835d0d45c5879eafb1f474469cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1367,103 +1372,103 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:45:04",
+                                "lastModified": "2019-10-22T14:29:54",
                                 "name": "2D Objects Template [REMOVE_ME]",
                                 "hash": "a2bc29609fb624635b0e9f5c1bfaab9a",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:45:04",
+                                        "lastModified": "2019-10-22T14:29:54",
                                         "name": "Sunglasses",
                                         "hash": "81ef72f66f6078366f6413ac3b81febf",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "star_lens.png",
                                                 "hash": "d6f7d413c131c2fd07cecfa7364fbb0e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "eagle_lens.png",
                                                 "hash": "69d88417aada0ae141195a3821d87bd2",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "kitty_sunglasses.png",
                                                 "hash": "d780009c9fc53ffefa8590ca03b306c5",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "pink_lens.png",
                                                 "hash": "08649fdf92986a331d6c9d5a63ca9e6f",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "round_lenses.png",
                                                 "hash": "4c1c63c26de5b10166a6025fc047b579",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "heart_sunglasses.png",
                                                 "hash": "fd2e687299636ff16f93236e8a41ea5a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "eagle_lens_2.png",
                                                 "hash": "048ca406f1d83e0a6023a38701476126",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "kitty_lens.png",
                                                 "hash": "11469be76bcaa839ae82b26320925caa",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "star_sunglasses.png",
                                                 "hash": "fa58298396d57ab0866ac218d2640f02",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "pink_sunglasses.png",
                                                 "hash": "59b88d6c7c5af148db256b5673ada2ad",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "heart_lens.png",
                                                 "hash": "3cd3611585da76cff761c6c2355dfa73",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "round_sunglasses.png",
                                                 "hash": "41899a09c781319792af8d4393d38b9b",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1472,55 +1477,55 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:45:04",
+                                        "lastModified": "2019-10-22T14:29:54",
                                         "name": "Nose",
                                         "hash": "7239d3be9836bd9fda2773d8086bac11",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "nose_clown.png",
                                                 "hash": "208697e43bd4afdd20cb945f3553d996",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "nose_deer.png",
                                                 "hash": "9dc788ac89bafd2c22927a450336ca21",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "nose_dog.png",
                                                 "hash": "c6103110df464ff36e6cfddbba0c2f15",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "nose_simple.png",
                                                 "hash": "c20d1b247e3af5fc38e30157698912d2",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "nose_heart.png",
                                                 "hash": "2adb7bc099b69a8d88b78e0845053b9d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "nose_pig.png",
                                                 "hash": "c82a64836d401b06ae24ed0fda3964dd",
                                                 "children": ""
@@ -1529,48 +1534,48 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:45:04",
+                                        "lastModified": "2019-10-22T14:29:54",
                                         "name": "Ear",
                                         "hash": "c04119ff91fb9fbb598289d5d2ba0a75",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ear_kitty.png",
                                                 "hash": "d87281dddd8aa187edc5f081d958799e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ear_wolf.png",
                                                 "hash": "931c0fa68e22e6e30837778edd1c65ec",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ear_purple_long.png",
                                                 "hash": "d53539b7c49e8e1a07c8db8b5d109b26",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ear_bear.png",
                                                 "hash": "bfa201ee66a9fce54e9d35e2658e6c37",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "ear_fox.png",
                                                 "hash": "59e4265ac4cecff2cb9ac30c3a9df57e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1579,62 +1584,62 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:45:04",
+                                        "lastModified": "2019-10-22T14:29:54",
                                         "name": "Headband",
                                         "hash": "2fb25ead935799cce60fced8c5754637",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_worm.png",
                                                 "hash": "53bc67c7aa9e1cf128d28367d3b2a6ef",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_clown.png",
                                                 "hash": "d5699697bcb7b32001f9c65c7a7f75f0",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_kitty.png",
                                                 "hash": "246299323ff3dc0fd4e179b6538f3d1e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_dots.png",
                                                 "hash": "c246a6346accccfd55fc960df210bd4a",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_half.png",
                                                 "hash": "0d8eb94fc24173135813992e02b8b3ed",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_rainbow.png",
                                                 "hash": "1a199698a9185fdf31ae999bd2f2aa2f",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "headband_clown_black.png",
                                                 "hash": "93307977425256731eca21d51ea37d5e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1643,48 +1648,48 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:45:04",
+                                        "lastModified": "2019-10-22T14:29:54",
                                         "name": "Extras",
                                         "hash": "8364421a21a2aef7268cfd431889968d",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "extra_antlers.png",
                                                 "hash": "5b5d19da9770ffb4da694d3c6fa7d171",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "extra_whiskers_white.png",
                                                 "hash": "3d3c6a7084e3ec701e6a0230ea9a6c3d",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "extra_whiskers_colored.png",
                                                 "hash": "c51f4ef5db325933d5c981b638bc5633",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "extra_whiskers_black.png",
                                                 "hash": "2b58d128442db7f9ccacea0aafda9aa2",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1695,7 +1700,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:57",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""

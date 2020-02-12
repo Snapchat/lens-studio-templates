@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "5Sxk2kaA9_MKHy6cbQ4I",
+    "document_id": "5PpefBFMdDwItR-lCvUN",
     "original_document_id": "3tDFoR2Rh118ri0RfbS9",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -144,12 +145,6 @@
                         "Helpers",
                         "TweenSystem",
                         "TweenTypes",
-                        "TweenBillboard [DEPRECATED]"
-                    ],
-                    [
-                        "Helpers",
-                        "TweenSystem",
-                        "TweenTypes",
                         "TweenChain"
                     ],
                     [
@@ -216,36 +211,48 @@
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "feb45b248415964f183336576ff1bd2e",
+            "icon_hash": "070d94e3e46fe9181e2ab93f83dff1f3",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 "lens_hint_tap"
             ],
             "lens": "FullscreenTemplate",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "true",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "1"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "spectacles_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "spectacles_preview_is_favorite": "false"
             }
         },
         "InspectorUiComponent": {
             "collapsedList": [
                 ""
             ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
         }
     },
     "model": {
@@ -436,14 +443,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "148",
-                    "uid": "1553580758796947:10556",
-                    "name": "Files\/File24.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "149",
                     "uid": "1553580758813444:10593",
                     "name": "Files\/File25.js",
@@ -466,6 +465,14 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "152",
+                    "uid": "1571880412781981:228005",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -474,6 +481,10 @@
         },
         "InspectorComponent": {
             "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
                 },
@@ -813,10 +824,6 @@
                     "v": "Files\/File23.js"
                 },
                 {
-                    "k": "24",
-                    "v": "Files\/File24.js"
-                },
-                {
                     "k": "25",
                     "v": "Files\/File25.js"
                 },
@@ -827,6 +834,10 @@
                 {
                     "k": "27",
                     "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
                 }
             ]
         },
@@ -956,22 +967,26 @@
                         "v": "Guess What [REMOVE_ME]\/Sounds\/Idle.mp3"
                     },
                     {
-                        "k": "32",
-                        "v": "Helpers\/TweenSystem\/TweenTypes\/TweenBillboard [DEPRECATED].js"
-                    },
-                    {
                         "k": "33",
                         "v": "Helpers\/TweenSystem\/TweenTypes\/TweenScreenTransform.js"
                     },
                     {
                         "k": "552",
                         "v": "Guess What [REMOVE_ME]\/Textures\/base_post_effect_lookup_table_vhs.png"
+                    },
+                    {
+                        "k": "621",
+                        "v": "Helpers\/TweenSystem\/TweenTypes\/Legacy"
+                    },
+                    {
+                        "k": "622",
+                        "v": "Helpers\/TweenSystem\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
                     }
                 ],
                 "hashes": [
                     {
                         "k": "5",
-                        "v": "aa362e7548dcf0b077de03d641431777"
+                        "v": "4ca6ca961ac63737cdfdb95767c3e077"
                     },
                     {
                         "k": "6",
@@ -979,19 +994,19 @@
                     },
                     {
                         "k": "7",
-                        "v": "9389deaec4231b11b4e485b24ccba204"
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
                     },
                     {
                         "k": "8",
-                        "v": "6333a68a84a5f7e47993037966d1e135"
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
                     },
                     {
                         "k": "9",
-                        "v": "f51e2387d37af7b5a85766408a362e18"
+                        "v": "a8212c4a0d7f900c75c80ad4829f91f0"
                     },
                     {
                         "k": "10",
-                        "v": "6c038aa78934d8b410cc753fb5f405a1"
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
                     },
                     {
                         "k": "11",
@@ -999,7 +1014,7 @@
                     },
                     {
                         "k": "12",
-                        "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
+                        "v": "a094f372f9487690786f930bd7030e82"
                     },
                     {
                         "k": "13",
@@ -1067,29 +1082,37 @@
                     },
                     {
                         "k": "33",
-                        "v": "42e34f6843c51889977aed3783ff56e9"
+                        "v": "15f4c60fdceda581e50db7b5e824cda4"
                     },
                     {
                         "k": "552",
                         "v": "d8a4b873115088aed767133a9b24f955"
+                    },
+                    {
+                        "k": "621",
+                        "v": "1b3c33a31e2012e2fb122c85002e1df4"
+                    },
+                    {
+                        "k": "622",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T10:28:09",
+                        "lastModified": "2019-10-15T18:59:12",
                         "name": "Public",
-                        "hash": "9c70c694bf17c48f9f7375087a85e7fc",
+                        "hash": "7df3280b50d17b7cd0a813e6120ebe7d",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:28:09",
+                                "lastModified": "2019-10-15T18:59:12",
                                 "name": "Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1098,53 +1121,53 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:28:09",
+                                "lastModified": "2019-10-15T18:59:12",
                                 "name": "Guess What [REMOVE_ME]",
                                 "hash": "f807aabbcb3c22bbd4d51dae36341dbc",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:28:09",
+                                        "lastModified": "2019-10-15T18:59:12",
                                         "name": "Textures",
                                         "hash": "afc45d80a6d97fe2b35a6ad68ec5e3c6",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "credit_block.png",
                                                 "hash": "71e43b8b3f002b0f2b1e0d09154ec104",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-30T16:40:18",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "base_post_effect_lookup_table_vhs.png",
                                                 "hash": "d8a4b873115088aed767133a9b24f955",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T10:28:09",
+                                                "lastModified": "2019-10-15T18:59:12",
                                                 "name": "vhs",
                                                 "hash": "adf920808a834f5494ae87e383c15088",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "atlas_0.png",
                                                         "hash": "f059dd2001adf33ce5c7ffea08db4136",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "animation.t3d",
                                                         "hash": "a540e7d9a8df25f8b89c5c75b802a200",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -1153,41 +1176,41 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "black.png",
                                                 "hash": "d0e51d81b369ff69ec1786053ecb77a5",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "tap_to_freeze.png",
                                                 "hash": "9d15e95f6b7410576e8fdf9374372601",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T10:28:09",
+                                                "lastModified": "2019-10-15T18:59:12",
                                                 "name": "scanlines",
                                                 "hash": "a8882ecc496f5472550cd018efc44fce",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "atlas_0.png",
                                                         "hash": "8afd6154327bce6aa038df1910446d95",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "animation.t3d",
                                                         "hash": "e9cc5198155fca978cd740362aa982a9",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -1196,27 +1219,27 @@
                                             },
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T10:28:09",
+                                                "lastModified": "2019-10-15T18:59:12",
                                                 "name": "guess_what_intro",
                                                 "hash": "be5cc204d0fbaf1abdab52bec14f2fc6",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "atlas_0.png",
                                                         "hash": "9c94d844646bf1a87fbb90dfd70b691d",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "animation.t3d",
                                                         "hash": "bd85451eb584b4e11b49633f86850cac",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-12T09:44:53",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -1225,7 +1248,7 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1234,34 +1257,34 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:28:09",
+                                        "lastModified": "2019-10-15T18:59:12",
                                         "name": "Sounds",
                                         "hash": "3f3f047139b4fb9e8f5bec8cfc43f39a",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Credit.mp3",
                                                 "hash": "a96ab6f6e6f7b51e4dfed55927467eae",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "Idle.mp3",
                                                 "hash": "943c4ba40f1b7bdfb1b45ab0e3f5f2b9",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "GuessWhat.mp3",
                                                 "hash": "b3d5ef7d174cc99e010ba5b25bdfaef0",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1270,7 +1293,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1279,27 +1302,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:28:09",
+                                "lastModified": "2019-10-15T18:59:12",
                                 "name": "FullscreenTemplate",
                                 "hash": "6a6cb4b77dede522f2d5d163a2567271",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "FullscreenTemplateManager.js",
                                         "hash": "73f9b5c7d1078affd6618e9bca451905",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "FullscreenTemplateState.js",
                                         "hash": "ad297e984a33fc549b100c18945a8022",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1308,95 +1331,110 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T10:28:09",
+                                "lastModified": "2019-10-15T18:59:12",
                                 "name": "Helpers",
-                                "hash": "38ceebf9a53bebc40d572473a69d7ad8",
+                                "hash": "4ff35c76f845b5c044a0e47e905f344e",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-30T16:40:18",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "HideWhenRecording.js",
                                         "hash": "a49529e67d783892c52900ba81c583ee",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "PlayTweensOnStart.js",
                                         "hash": "fade6a38416ade0abc7f6996e860dd07",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:47",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "FreezeCameraOnStart.js",
                                         "hash": "11f6ca05427c93a6c565437d744e3457",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-07-31T10:28:09",
+                                        "lastModified": "2019-10-29T18:03:14",
                                         "name": "TweenSystem",
-                                        "hash": "1fb0c4d2825b07d4f19012e7dfc11674",
+                                        "hash": "62895164f88abeeede1493d7da01241d",
                                         "children": [
                                             {
                                                 "isFolder": "true",
-                                                "lastModified": "2019-07-31T10:28:09",
+                                                "lastModified": "2019-10-29T17:32:01",
                                                 "name": "TweenTypes",
-                                                "hash": "580b2dec38c09c9d3357dd22eba1cc97",
+                                                "hash": "e40711bb4f8625c50edc867f0a226ef2",
                                                 "children": [
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "lastModified": "2019-10-29T17:32:01",
                                                         "name": "TweenChain.js",
-                                                        "hash": "f51e2387d37af7b5a85766408a362e18",
+                                                        "hash": "a8212c4a0d7f900c75c80ad4829f91f0",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-29T17:32:01",
                                                         "name": "TweenColor.js",
-                                                        "hash": "6333a68a84a5f7e47993037966d1e135",
+                                                        "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "lastModified": "2019-10-29T17:32:01",
                                                         "name": "TweenTransform.js",
-                                                        "hash": "9389deaec4231b11b4e485b24ccba204",
+                                                        "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89",
                                                         "children": ""
                                                     },
                                                     {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
-                                                        "name": "TweenBillboard [DEPRECATED].js",
-                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
-                                                        "children": ""
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-10-23T18:34:29",
+                                                        "name": "Legacy",
+                                                        "hash": "1b3c33a31e2012e2fb122c85002e1df4",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-10-23T18:34:29",
+                                                                "name": "TweenBillboard [DEPRECATED].js",
+                                                                "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-10-23T18:34:29",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-29T17:32:01",
                                                         "name": "TweenScreenTransform.js",
-                                                        "hash": "42e34f6843c51889977aed3783ff56e9",
+                                                        "hash": "15f4c60fdceda581e50db7b5e824cda4",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:47",
+                                                        "lastModified": "2019-10-29T17:32:01",
                                                         "name": "TweenValue.js",
-                                                        "hash": "6c038aa78934d8b410cc753fb5f405a1",
+                                                        "hash": "8a3af68c16493bc48b0f7f17a1d6c065",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-29T17:32:01",
                                                         "name": "TweenAlpha.js",
-                                                        "hash": "aa362e7548dcf0b077de03d641431777",
+                                                        "hash": "4ca6ca961ac63737cdfdb95767c3e077",
                                                         "children": ""
                                                     },
                                                     {
                                                         "isFolder": "false",
-                                                        "lastModified": "2019-07-18T11:44:57",
+                                                        "lastModified": "2019-10-23T18:34:29",
                                                         "name": "folder.lock",
                                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                         "children": ""
@@ -1405,21 +1443,21 @@
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-29T16:46:22",
                                                 "name": "TweenManager.js",
-                                                "hash": "1b937dfbcbcd8ef1ee1a275fe7899278",
+                                                "hash": "a094f372f9487690786f930bd7030e82",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:47",
+                                                "lastModified": "2019-10-23T18:34:29",
                                                 "name": "Tween.js",
                                                 "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-07-18T11:44:57",
+                                                "lastModified": "2019-10-12T09:44:53",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -1428,7 +1466,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:57",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -1437,7 +1475,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:57",
+                                "lastModified": "2019-10-12T09:44:53",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -1623,19 +1661,6 @@
                                                 "additional": ""
                                             },
                                             {
-                                                "name": "TweenBillboard [DEPRECATED]",
-                                                "type": "4",
-                                                "subtype": "0",
-                                                "resourceId": "148",
-                                                "dependency": "0",
-                                                "uid": "1553580758796947:10556",
-                                                "fileId": "24",
-                                                "originalId": "18446744073709551615",
-                                                "publicId": "32",
-                                                "source": "",
-                                                "additional": ""
-                                            },
-                                            {
                                                 "name": "TweenScreenTransform",
                                                 "type": "4",
                                                 "subtype": "0",
@@ -1647,6 +1672,34 @@
                                                 "publicId": "33",
                                                 "source": "",
                                                 "additional": ""
+                                            },
+                                            {
+                                                "name": "Legacy",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "621",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "TweenBillboard [DEPRECATED]",
+                                                        "type": "4",
+                                                        "subtype": "0",
+                                                        "resourceId": "152",
+                                                        "dependency": "0",
+                                                        "uid": "1571880412781981:228005",
+                                                        "fileId": "28",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "622",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
                                             }
                                         ]
                                     },
@@ -1872,7 +1925,7 @@
                                         "dependency": "0",
                                         "uid": "1564447598772091:115197",
                                         "fileId": "26",
-                                        "originalId": "27",
+                                        "originalId": "18446744073709551615",
                                         "publicId": "552",
                                         "source": "",
                                         "additional": ""

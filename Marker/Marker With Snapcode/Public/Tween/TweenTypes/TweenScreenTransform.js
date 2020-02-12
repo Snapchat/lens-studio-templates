@@ -1,5 +1,5 @@
 // TweenScreenTransform.js
-// Version: 0.0.1
+// Version: 0.0.5
 // Event: Any Event
 // Description: Runs a tween on a Lens Studio ScreenTransform using TweenJS
 // ----- USAGE -----
@@ -104,8 +104,10 @@ if( !script.sceneObject )
 }
 
 // Setup the external API
+script.api.tweenObject = script.getSceneObject();
 script.api.tweenType = "screen_transform";
 script.api.type = script.type;
+script.api.movementType = script.movementType;
 script.api.time = script.time;
 script.api.tweenName = script.tweenName;
 script.api.startTween = startTween;
@@ -123,6 +125,12 @@ script.api.setStart = setStart;
 script.api.setEnd = setEnd;
 script.api.manualStart = false;
 script.api.manualEnd = false;
+script.api.playAutomatically = script.playAutomatically;
+
+if ( global.tweenManager && global.tweenManager.addToRegistry ) 
+{
+    global.tweenManager.addToRegistry(script);
+}
 
 // Manually set start value
 function setStart( start )
@@ -460,6 +468,10 @@ function setupTweenBackwards()
 
 function resetObject()
 {
+    if (script.api.start == null) {
+        return;
+    }
+
     if(script.type == PropertyType.Rotation){
         startValue = {"x": 0};
     }
@@ -488,6 +500,10 @@ function resetObject()
 
 function updateValue( value )
 {
+    if (script.api.sceneObject == null) {
+        return;
+    }
+
     var DEG_TO_RAD = 0.0174533;
     var componentCount = script.api.sceneObject.getComponentCount( "Component.ScreenTransform" );
 

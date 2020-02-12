@@ -1,5 +1,5 @@
 // TweenColor.js
-// Version: 0.0.2
+// Version: 0.0.5
 // Event: Any Event
 // Description: Runs a tween on a Lens Studio color using TweenJS
 // ----- USAGE -----
@@ -43,8 +43,10 @@ if( !script.sceneObject )
 }
 
 // Setup the external API
+script.api.tweenObject = script.getSceneObject();
 script.api.tweenType = "color";
 script.api.tweenName = script.tweenName;
+script.api.movementType = script.movementType;
 script.api.time = script.time;
 script.api.startTween = startTween;
 script.api.resetObject = resetObject;
@@ -62,7 +64,13 @@ script.api.setStart = setStart;
 script.api.setEnd = setEnd;
 script.api.manualStart = false;
 script.api.manualEnd = false;
+script.api.playAutomatically = script.playAutomatically;
 
+if ( global.tweenManager && global.tweenManager.addToRegistry )
+{
+    global.tweenManager.addToRegistry(script);
+}
+    
 // Manually set start value
 function setStart( start )
 {
@@ -424,6 +432,10 @@ function setupTweenBackwards()
 // Resets the object to its start
 function resetObject()
 {
+    if (script.api.tweenObjects == null) {
+        return;
+    }
+
     for ( var i = 0; i < script.api.tweenObjects.length; i++)
     {
         var tweenObject = script.api.tweenObjects[i];

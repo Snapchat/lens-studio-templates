@@ -1,25 +1,26 @@
 {
     "lens_id": "",
-    "document_id": "3PZVOigaTZqmNmldUzOb",
+    "document_id": "lY4I47IG3FZdEmyI49Xf",
     "original_document_id": "ed-gPtFtBZdpsELKeh9_",
-    "version": "16",
+    "version": "19",
     "lastChanged": "0",
     "preview": "icon.png",
-    "videoPreview": "",
+    "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
     "isReadOnly": "true",
+    "isAutoSaved": "false",
     "studioVersion": {
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "1",
+            "minor": "2",
             "patch": "0",
             "build": "0"
         }
@@ -150,15 +151,19 @@
         "MetaInfoUIComponent": {
             "icon_hash": "99f9a381c242ecdea9ac64d1cb856022",
             "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
             "hints": [
                 ""
             ],
             "lens": "Segmentation",
-            "camera": "2",
+            "applicability": "3",
             "lens_descriptors": ""
         },
         "PreviewUiComponent": {
-            "is_back_camera": "false",
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
@@ -285,54 +290,6 @@
                     "flags": "1"
                 },
                 {
-                    "resId": "150",
-                    "uid": "1538778201964126:3291",
-                    "name": "Portrait Background Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "151",
-                    "uid": "1538778502255310:3330",
-                    "name": "Portrait Hair Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "152",
-                    "uid": "1538778504661461:3343",
-                    "name": "Portrait Shoulder Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "153",
-                    "uid": "1538778518815946:3743",
-                    "name": "Portrait Face Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "154",
-                    "uid": "1538778521563728:3763",
-                    "name": "Portrait Head Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
-                    "resId": "156",
-                    "uid": "1538778525265938:3783",
-                    "name": "Sky Segmentation",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "0"
-                },
-                {
                     "resId": "157",
                     "uid": "1539126337825344:3581",
                     "name": "\/Resources\/Resource157",
@@ -371,6 +328,54 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "162",
+                    "uid": "1571785356605059:504223",
+                    "name": "Portrait Background Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "163",
+                    "uid": "1571785388290149:504913",
+                    "name": "Portrait Hair Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "164",
+                    "uid": "1571785391573977:505216",
+                    "name": "Portrait Shoulder Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1571785394741814:505523",
+                    "name": "Portrait Face Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "166",
+                    "uid": "1571785398208911:505836",
+                    "name": "Portrait Head Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "167",
+                    "uid": "1571785403273496:506155",
+                    "name": "Sky Segmentation",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
                 }
             ],
             "MaterialUpdateManager": {
@@ -561,6 +566,22 @@
                 {
                     "k": "21",
                     "v": "Files\/File21.png"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.lsmat"
                 }
             ]
         },
@@ -669,19 +690,19 @@
                     },
                     {
                         "k": "6",
-                        "v": "de1ac33fd27a13a37979b535e4207d45"
+                        "v": "029a6db1ac68db60c545bbfac6a99d9b"
                     },
                     {
                         "k": "7",
-                        "v": "803c6866de4fef9d612480eb1ecb2081"
+                        "v": "a14e79c32deacf015d77aeda0967ac49"
                     },
                     {
                         "k": "8",
-                        "v": "60f5e0a4178e6d0e1ec594f409795535"
+                        "v": "68f6125acdbdd0eb5acedb943ae275f2"
                     },
                     {
                         "k": "9",
-                        "v": "2d6318b7beb8e6815f74371ba98d1636"
+                        "v": "e10b1de8f38e73754280688d25854d01"
                     },
                     {
                         "k": "11",
@@ -723,47 +744,47 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-07-31T11:30:36",
+                        "lastModified": "2019-10-22T16:03:47",
                         "name": "Public",
-                        "hash": "47c8bc7d344c4cc6c560d07873fcc758",
+                        "hash": "e97682cc289dd289f15a94400a3edc4b",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:30:36",
+                                "lastModified": "2019-10-22T16:03:47",
                                 "name": "Materials",
-                                "hash": "eb215a93228a63bd4987f362cb6f46bf",
+                                "hash": "d4b4d7aebeabe0b3f402e32f5bfd8395",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-22T16:02:15",
                                         "name": "BackgroundMat.lsmat",
-                                        "hash": "2d6318b7beb8e6815f74371ba98d1636",
+                                        "hash": "e10b1de8f38e73754280688d25854d01",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-22T16:02:15",
                                         "name": "TileMat.lsmat",
-                                        "hash": "de1ac33fd27a13a37979b535e4207d45",
+                                        "hash": "029a6db1ac68db60c545bbfac6a99d9b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-22T16:02:15",
                                         "name": "FillMat.lsmat",
-                                        "hash": "60f5e0a4178e6d0e1ec594f409795535",
+                                        "hash": "68f6125acdbdd0eb5acedb943ae275f2",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-10-22T16:02:15",
                                         "name": "TileScrollingMat.lsmat",
-                                        "hash": "803c6866de4fef9d612480eb1ecb2081",
+                                        "hash": "a14e79c32deacf015d77aeda0967ac49",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -772,34 +793,34 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:30:36",
+                                "lastModified": "2019-10-22T16:03:47",
                                 "name": "Example Textures [REMOVE_ME]",
                                 "hash": "f3e5d602801dea60a3e10f15a726b738",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-30T16:40:19",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "old_paper_post_effect.png",
                                         "hash": "3acd9c68c33b25e370568c8e3ca488c7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "space_background.png",
                                         "hash": "87daba2e83cda8b89532e73ab3b19542",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "heart.png",
                                         "hash": "6710d4920c2779d69d1ed688105767f7",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -808,62 +829,62 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:30:36",
+                                "lastModified": "2019-10-22T16:03:47",
                                 "name": "Default Textures",
                                 "hash": "76f03cc87c33512dbab8bb5f9e84d0ef",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "echopark_diff.png",
                                         "hash": "671afbc1d6810060ccbaac866a91cfa1",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "empty.png",
                                         "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "echopark_spec.png",
                                         "hash": "8e599835d0d45c5879eafb1f474469cd",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "MaterialParams.png",
                                         "hash": "af2715bddfbca2d4e72f470d285c5010",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "Base.png",
                                         "hash": "cb607d7b25a160872c49fb4d2635cc33",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "Normal.png",
                                         "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:48",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "white.png",
                                         "hash": "960a06e2a80d46091b8215f96b633951",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:58",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -872,20 +893,20 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:30:36",
+                                "lastModified": "2019-10-22T16:03:47",
                                 "name": "Scripts",
                                 "hash": "840e00e972259a2296fe27c86d8f3b8d",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-30T16:40:19",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "SegmentationController.js",
                                         "hash": "bdf5de95e84ea35f0830c0815025b763",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-08-13T15:38:38",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -894,13 +915,13 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-07-31T11:30:36",
+                                "lastModified": "2019-10-22T16:03:47",
                                 "name": "Segmentation Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-07-18T11:44:59",
+                                        "lastModified": "2019-09-20T13:15:36",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -909,7 +930,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-07-18T11:44:59",
+                                "lastModified": "2019-08-13T15:38:38",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -979,7 +1000,7 @@
                                 "dependency": "0",
                                 "uid": "1564444797948882:5329",
                                 "fileId": "20",
-                                "originalId": "21",
+                                "originalId": "18446744073709551615",
                                 "publicId": "21",
                                 "source": "",
                                 "additional": ""
@@ -1007,7 +1028,7 @@
                                 "dependency": "0",
                                 "uid": "1539126337825344:3581",
                                 "fileId": "12",
-                                "originalId": "16",
+                                "originalId": "22",
                                 "publicId": "6",
                                 "source": "",
                                 "additional": ""
@@ -1020,7 +1041,7 @@
                                 "dependency": "0",
                                 "uid": "1539126341853514:3608",
                                 "fileId": "13",
-                                "originalId": "17",
+                                "originalId": "23",
                                 "publicId": "7",
                                 "source": "",
                                 "additional": ""
@@ -1033,7 +1054,7 @@
                                 "dependency": "0",
                                 "uid": "1539126346682103:3631",
                                 "fileId": "14",
-                                "originalId": "18",
+                                "originalId": "24",
                                 "publicId": "8",
                                 "source": "",
                                 "additional": ""
@@ -1046,7 +1067,7 @@
                                 "dependency": "0",
                                 "uid": "1539126348212916:3665",
                                 "fileId": "15",
-                                "originalId": "19",
+                                "originalId": "25",
                                 "publicId": "9",
                                 "source": "",
                                 "additional": ""
@@ -1230,9 +1251,9 @@
                                 "name": "Portrait Background Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "150",
+                                "resourceId": "162",
                                 "dependency": "0",
-                                "uid": "1538778201964126:3291",
+                                "uid": "1571785356605059:504223",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
@@ -1243,9 +1264,9 @@
                                 "name": "Portrait Hair Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "151",
+                                "resourceId": "163",
                                 "dependency": "0",
-                                "uid": "1538778502255310:3330",
+                                "uid": "1571785388290149:504913",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
@@ -1256,9 +1277,9 @@
                                 "name": "Portrait Shoulder Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "152",
+                                "resourceId": "164",
                                 "dependency": "0",
-                                "uid": "1538778504661461:3343",
+                                "uid": "1571785391573977:505216",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
@@ -1269,9 +1290,9 @@
                                 "name": "Portrait Face Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "153",
+                                "resourceId": "165",
                                 "dependency": "0",
-                                "uid": "1538778518815946:3743",
+                                "uid": "1571785394741814:505523",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
@@ -1282,9 +1303,9 @@
                                 "name": "Portrait Head Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "154",
+                                "resourceId": "166",
                                 "dependency": "0",
-                                "uid": "1538778521563728:3763",
+                                "uid": "1571785398208911:505836",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",
@@ -1295,9 +1316,9 @@
                                 "name": "Sky Segmentation",
                                 "type": "1",
                                 "subtype": "14",
-                                "resourceId": "156",
+                                "resourceId": "167",
                                 "dependency": "0",
-                                "uid": "1538778525265938:3783",
+                                "uid": "1571785403273496:506155",
                                 "fileId": "18446744073709551615",
                                 "originalId": "18446744073709551615",
                                 "publicId": "18446744073709551615",

@@ -1,5 +1,5 @@
 // TweenValue.js
-// Version: 0.0.1
+// Version: 0.0.5
 // Event: Any Event
 // Description: Runs a tween on a generic data type
 // ----- USAGE -----
@@ -31,6 +31,7 @@
 //@input string easingType = "Out" {"widget":"combobox", "values":[{"label":"In", "value":"In"}, {"label":"Out", "value":"Out"}, {"label":"In / Out", "value":"InOut"}]}
 
 // Setup the external API
+script.api.tweenObject = script.getSceneObject();
 script.api.tweenType = "value";
 script.api.tweenName = script.tweenName;
 script.api.time = script.time;
@@ -49,6 +50,12 @@ script.api.setStart = setStart;
 script.api.setEnd = setEnd;
 script.api.manualStart = false;
 script.api.manualEnd = false;
+script.api.playAutomatically = script.playAutomatically;
+
+if ( global.tweenManager && global.tweenManager.addToRegistry )
+{
+    global.tweenManager.addToRegistry(script);
+}
 
 if ( script.dataType <= 1 )
 {

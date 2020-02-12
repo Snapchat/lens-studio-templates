@@ -3,44 +3,69 @@
 //@input int faceIndex = 0 {"widget":"combobox", "values":[{"label":"First", "value":0}, {"label":"Second", "value":1} ]}
 //@ui {"widget":"separator"}
 
-//@input bool enableLips = true {"label": "Lips tint"}
+//@input bool enableLips = true {"label": "Lips Tint"}
+//@ui {"widget":"group_start", "label": "Lips Tint Properties",  "showIf" : "enableLips"}
 //@input vec3 colorLips = {1.0,0.0,0.0} {"widget":"color", "showIf" : "enableLips", "label":"Color"}
 //@input float alphaLips = 0.45 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf" : "enableLips", "label": "Intensity"}
+//@ui {"widget":"group_end"}
 
-//@input bool enableLipgloss = true {"label": "Lip gloss"}
+//@input bool enableLipgloss = true {"label": "Lip Gloss"}
+//@ui {"widget":"group_start", "label": "Lip Gloss Properties",  "showIf" : "enableLipgloss"}
 //@input vec3 colorLipgloss = {1.0,1.0,1.0} {"widget":"color", "showIf" : "enableLipgloss", "label":"Color"}
 //@input float alphaLipgloss = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf" : "enableLipgloss", "label": "Intensity"}
+//@ui {"widget":"group_end"}
 //@ui {"widget":"separator"}
 
 //@input bool enableBlush = true {"label": "Blush"}
+//@ui {"widget":"group_start", "label": "Blush Properties",  "showIf" : "enableBlush"}
 //@input vec3 colorBlush = {0.92,0.65,0.68} {"widget":"color", "showIf" : "enableBlush", "label":"Color"}
 //@input float alphaBlush = 0.5 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf" : "enableBlush", "label": "Intensity"}
+//@ui {"widget":"group_end"}
 //@ui {"widget":"separator"}
 
 
 //@input bool enableEyeliner = true {"label": "Eyeliner"}
+//@ui {"widget":"group_start", "label": "Eyeliner Properties",  "showIf" : "enableEyeliner"}
 //@input vec3 colorEyeliner = {0.2,0.2,0.2} {"widget":"color", "showIf" : "enableEyeliner", "label":"Color"}
 //@input float alphaEyeliner = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf" : "enableEyeliner", "label": "Intensity"}
+//@ui {"widget":"group_end"}
 //@ui {"widget":"separator"}
 
 //@input bool enableEyeshadow = true {"label": "Eyeshadow"}
+//@ui {"widget":"group_start", "label": "Eyeshadow Properties",  "showIf" : "enableEyeshadow"}
 //@input int eyeshadowType = 1 {"widget":"combobox", "values":[{"label":"Single color", "value":0}, {"label":"Two colors", "value":1}, {"label":"Single color heavy", "value":2}, {"label":"Two colors heavy", "value":3}], "showIf" : "enableEyeshadow", "label":"Type"}
+
+//@ui {"widget":"group_start", "label": "First Color"}
 //@input vec3 colorEyeshadow1 = {1.0,0.0,0.0} {"widget":"color", "showIf" : "enableEyeshadow", "label":"Color"}
 //@input float alphaEyeshadow1 = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf":"enableEyeshadow", "label": "Intensity"}
-//@input vec3 colorEyeshadow2 = {0.0,1.0,0.0} {"widget":"color", "showIf" : "eyeshadowType", "showIfValue":1, "label":"Color 2"}
-//@input float alphaEyeshadow2 = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf":"eyeshadowType", "showIfValue":1, "label": "Intensity 2"}
-//@input vec3 colorEyeshadow3 = {0.0,0.0,1.0} {"widget":"color", "showIf" : "eyeshadowType", "showIfValue":3, "label":"Color 2"}
-//@input float alphaEyeshadow3 = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf":"eyeshadowType", "showIfValue":3, "label": "Intensity 2"}
+//@ui {"widget":"group_end"}
+
+//@ui {"widget":"group_start", "label": "Second Color", "showIf" : "eyeshadowType", "showIfValue" : 1}
+//@input vec3 colorEyeshadow2 = {0.0,1.0,0.0} {"widget":"color", "label":"Color 2"}
+//@input float alphaEyeshadow2 = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "label": "Intensity 2"}
+//@ui {"widget":"group_end"}
+
+//@ui {"widget":"group_start", "label": "Second Color", "showIf" : "eyeshadowType", "showIfValue" : 3}
+//@input vec3 colorEyeshadow3 = {0.0,0.0,1.0} {"widget":"color", "label":"Color 2"}
+//@input float alphaEyeshadow3 = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "label": "Intensity 2"}
+//@ui {"widget":"group_end"}
+//@ui {"widget":"group_end"}
+
+
 //@ui {"widget":"separator"}
 
 //@input bool enableMascara = true {"label": "Mascara"}
+//@ui {"widget":"group_start", "label": "Mascara Properties",  "showIf" : "enableMascara"}
 //@input vec3 colorMascara = {1.0,0.0,0.0} {"widget":"color", "showIf" : "enableMascara", "label":"Color"}
 //@input float alphaMascara = 0.8 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf" : "enableMascara", "label": "Intensity"}
+//@ui {"widget":"group_end"}
 //@ui {"widget":"separator"}
 
 //@input bool enableEyebrows = true {"label": "Eyebrows"}
+//@ui {"widget":"group_start", "label": "Eyebrows Properties",  "showIf" : "enableEyebrows"}
 //@input vec3 colorEyebrows = {0.0,0.0,0.0} {"widget":"color", "showIf" : "enableEyebrows", "label":"Color"}
 //@input float alphaEyebrows = 0.4 {"widget":"slider", "min": 0.0, "max": 1.0, "step": 0.01, "showIf" : "enableEyebrows", "label": "Intensity"}
+//@ui {"widget":"group_end"}
 //@ui {"widget":"separator"}
 
 //@input bool advanced = false
