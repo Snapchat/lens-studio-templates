@@ -1,391 +1,405 @@
 {
-    "lens_id": "",
-    "document_id": "f6WP1XuC8_cgy7Xz0cp7",
-    "original_document_id": "VT4cjfhtPz_jqCf8zV9U",
-    "version": "19",
-    "lastChanged": "0",
-    "preview": "icon.png",
-    "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
-    "isReadOnly": "true",
-    "isAutoSaved": "false",
+    "lens_id": "", 
+    "document_id": "4_6DMwb4pAf0eKI_2VH_", 
+    "original_document_id": "VT4cjfhtPz_jqCf8zV9U", 
+    "version": "20", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "preview.mp4", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "isAutoSaved": "false", 
     "studioVersion": {
         "createdWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
-        },
+        }, 
         "lastSavedWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
         }
-    },
+    }, 
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "Textures"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "echopark_diff"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "echopark_spec"
                     ]
                 ]
             ]
-        },
+        }, 
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1520545124839409:8915",
+                    "1520545124839409:8915", 
                     "1521579880374201:98983"
                 ]
             ]
-        },
+        }, 
         "MetaInfoUIComponent": {
-            "icon_hash": "373d2e56d9daebf7d02ceff5be9a6f81",
-            "icon_path": "icon.png",
-            "video_preview_path": "preview.mp4",
+            "icon_hash": "373d2e56d9daebf7d02ceff5be9a6f81", 
+            "icon_path": "icon.png", 
+            "video_preview_path": "preview.mp4", 
             "hints": [
                 ""
-            ],
-            "lens": "Distort",
-            "applicability": "3",
+            ], 
+            "lens": "Distort", 
+            "applicability": "3", 
             "lens_descriptors": ""
-        },
+        }, 
         "PreviewUiComponent": {
             "preview_descriptor": {
-                "is_capture": "0",
+                "is_capture": "0", 
                 "camera_type": "2"
-            },
-            "show_snap_ui": "true",
-            "show_sponsored_ui": "false",
+            }, 
+            "show_snap_ui": "true", 
+            "show_sponsored_ui": "false", 
             "preview_images_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 4.jpg",
-                "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
-                "back_preview_is_favorite": "false"
-            },
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 4.jpg", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg", 
+                "spectacles_preview_is_favorite": "false"
+            }, 
             "preview_videos_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 4.webm",
-                "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
-                "back_preview_is_favorite": "false"
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 4.webm", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm", 
+                "spectacles_preview_is_favorite": "false"
             }
-        },
+        }, 
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1518226550068507:3240",
-                    "1518226574000129:3669",
-                    "1518226589449768:4022",
-                    "1519253497673742:42697",
-                    "1521587431033166:189970",
-                    "1521657048542418:114208",
+                    "1518226550068507:3240", 
+                    "1518226574000129:3669", 
+                    "1518226589449768:4022", 
+                    "1519253497673742:42697", 
+                    "1521587431033166:189970", 
+                    "1521657048542418:114208", 
                     "1521689538601074:1776"
                 ]
             ]
+        }, 
+        "UiComponent": {
+            "active_graph_material": "-1:-1", 
+            "active_graph_pass": "-1"
         }
-    },
+    }, 
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "1",
-                    "uid": "1:1",
-                    "name": "Camera Output",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "2",
-                    "uid": "2:2",
-                    "name": "Camera Input",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "11",
-                    "uid": "1521579880378101:99002",
-                    "name": "\/Resources\/Resource11.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "11", 
+                    "uid": "1521579880378101:99002", 
+                    "name": "\/Resources\/Resource11.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "12",
-                    "uid": "1521579880381342:99014",
-                    "name": "\/Resources\/Resource12.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "12", 
+                    "uid": "1521579880381342:99014", 
+                    "name": "\/Resources\/Resource12.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
                 }
-            ],
+            ], 
             "MaterialUpdateManager": {
                 "unrecognizedMaterials": ""
             }
-        },
+        }, 
         "InspectorComponent": {
             "Component": {
+                "EyeColorVisual": {
+                    "uidData": "", 
+                    "generalData": ""
+                }, 
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                },
+                }, 
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": "", 
                     "generalData": ""
                 }
             }
-        },
+        }, 
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1518226500867080:1012",
-                "1": "1518226500869921:1016",
-                "2": "1519253497673742:42697",
-                "3": "1520545124839409:8915",
-                "4": "1521513758309418:22659",
-                "5": "1521579880374201:98983",
-                "6": "1521579880374221:98986",
-                "7": "1521579880374267:98992",
-                "8": "1521587431033166:189970",
-                "9": "1521587431037760:189973",
-                "10": "1521587431056051:190004",
+                "0": "1518226500867080:1012", 
+                "1": "1518226500869921:1016", 
+                "2": "1519253497673742:42697", 
+                "3": "1520545124839409:8915", 
+                "4": "1521513758309418:22659", 
+                "5": "1521579880374201:98983", 
+                "6": "1521579880374221:98986", 
+                "7": "1521579880374267:98992", 
+                "8": "1521587431033166:189970", 
+                "9": "1521587431037760:189973", 
+                "10": "1521587431056051:190004", 
                 "11": "1521689538601074:1776"
             }
-        },
+        }, 
         "LayerComponent": {
-            "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "nextLayerId": "2", 
+            "showOrthographicLayer": "false", 
             "layersInfo": [
                 {
-                    "layerId": "0",
-                    "layerName": "Default Layer",
-                    "layerMask": "1",
+                    "layerId": "0", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1", 
                     "colorCode": "20"
-                },
+                }, 
                 {
-                    "layerId": "1",
-                    "layerName": "Orthographic Layer",
-                    "layerMask": "1048576",
+                    "layerId": "1", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576", 
                     "colorCode": "21"
                 }
             ]
-        },
+        }, 
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "1",
+                    "k": "1", 
                     "v": "Files\/File1.png"
-                },
+                }, 
                 {
-                    "k": "2",
+                    "k": "2", 
                     "v": "Files\/File2.png"
                 }
             ]
-        },
+        }, 
         "WorldComponent": {
-            "sceneFile": "scene.scn",
+            "sceneFile": "scene.scn", 
             "sceneType": "binaryScene"
         }
-    },
+    }, 
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "1",
+                        "k": "1", 
                         "v": "Textures"
-                    },
+                    }, 
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "Textures\/echopark_diff.png"
-                    },
+                    }, 
                     {
-                        "k": "3",
+                        "k": "3", 
                         "v": "Textures\/echopark_spec.png"
                     }
-                ],
+                ], 
                 "hashes": [
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "671afbc1d6810060ccbaac866a91cfa1"
-                    },
+                    }, 
                     {
-                        "k": "3",
+                        "k": "3", 
                         "v": "8e599835d0d45c5879eafb1f474469cd"
                     }
-                ],
+                ], 
                 "publicState": {
                     "tree": {
-                        "isFolder": "true",
-                        "lastModified": "2019-10-22T14:33:13",
-                        "name": "Public",
-                        "hash": "4de2d3bb8ebfe4a2412591053a7dd396",
+                        "isFolder": "true", 
+                        "lastModified": "2019-10-22T14:33:13", 
+                        "name": "Public", 
+                        "hash": "4de2d3bb8ebfe4a2412591053a7dd396", 
                         "children": [
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T14:33:13",
-                                "name": "Textures",
-                                "hash": "5d0daf4be82fee50df678f1d3a4975ad",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T14:33:13", 
+                                "name": "Textures", 
+                                "hash": "5d0daf4be82fee50df678f1d3a4975ad", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "echopark_diff.png",
-                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "echopark_diff.png", 
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "echopark_spec.png",
-                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "echopark_spec.png", 
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "false",
-                                "lastModified": "2019-10-12T09:44:53",
-                                "name": "folder.lock",
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "isFolder": "false", 
+                                "lastModified": "2019-10-12T09:44:53", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                 "children": ""
                             }
                         ]
                     }
-                },
+                }, 
                 "complexResources": ""
-            },
+            }, 
             "tree": {
-                "name": "",
-                "type": "0",
-                "subtype": "-1",
-                "resourceId": "-1",
-                "dependency": "0",
-                "uid": "-1:-1",
-                "fileId": "18446744073709551615",
-                "originalId": "18446744073709551615",
-                "publicId": "18446744073709551615",
-                "source": "",
-                "additional": "",
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
                 "resources": [
                     {
-                        "name": "Textures",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "1",
-                        "source": "",
-                        "additional": "",
+                        "name": "Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "1", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "Render Target",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "1",
-                                "dependency": "0",
-                                "uid": "1:1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Render Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "1", 
+                                "dependency": "0", 
+                                "uid": "1:1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "Device Camera Texture",
-                                "type": "1",
-                                "subtype": "3",
-                                "resourceId": "2",
-                                "dependency": "0",
-                                "uid": "2:2",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Device Camera Texture", 
+                                "type": "1", 
+                                "subtype": "3", 
+                                "resourceId": "2", 
+                                "dependency": "0", 
+                                "uid": "2:2", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "echopark_diff",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "11",
-                                "dependency": "0",
-                                "uid": "1521579880378101:99002",
-                                "fileId": "1",
-                                "originalId": "18446744073709551615",
-                                "publicId": "2",
-                                "source": "",
+                                "name": "echopark_diff", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "11", 
+                                "dependency": "0", 
+                                "uid": "1521579880378101:99002", 
+                                "fileId": "1", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "2", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "echopark_spec",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "12",
-                                "dependency": "0",
-                                "uid": "1521579880381342:99014",
-                                "fileId": "2",
-                                "originalId": "18446744073709551615",
-                                "publicId": "3",
-                                "source": "",
+                                "name": "echopark_spec", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "12", 
+                                "dependency": "0", 
+                                "uid": "1521579880381342:99014", 
+                                "fileId": "2", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "3", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
                     }
                 ]
             }
-        },
+        }, 
         "InspectorController": {
             "selection": ""
-        },
+        }, 
         "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-        },
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": "", 
+            "22": "", 
+            "23": ""
+        }, 
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            },
+            }, 
             "importInfo": ""
         }
-    },
-    "description": "Stretch, buldge and add additional features to the user's face"
+    }, 
+    "description": "Stretch, bulge and add additional features to the user's face"
 }

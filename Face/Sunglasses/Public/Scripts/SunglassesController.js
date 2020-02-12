@@ -74,10 +74,17 @@ function configureFramesCustomization()
     {
         for( var i = 0; i < script.properties.api.frames.length; i++ )
         {
-            script.properties.api.frames[i].enabled = false;
+            if( script.properties.api.frames[i] )
+            {
+                script.properties.api.frames[i].enabled = false;
+            }
         }
-        script.properties.api.frames[ script.frameType ].enabled = true;
-
+        
+        if( script.properties.api.frames[ script.frameType ] )
+        {
+           script.properties.api.frames[ script.frameType ].enabled = true; 
+        }
+        
         if( script.properties.api.frameNormals )
         {
             script.properties.api.frameMaterial.mainPass.normalTex = script.properties.api.frameNormals[script.frameType];
@@ -134,7 +141,10 @@ function configureLensCustomization()
         {
             for( var i = 0; i < script.properties.api.lensMeshes.length; i++ )
             {
-                script.properties.api.lensMeshes[i].mainMaterial = script.properties.api.lensMaterialCustom;
+                if( script.properties.api.lensMeshes[i] )
+                {
+                    script.properties.api.lensMeshes[i].mainMaterial = script.properties.api.lensMaterialCustom;
+                }
             }
 
             if( script.properties.api.lensMaterialCustom )
@@ -160,7 +170,9 @@ function configureLensCustomization()
         {
             for( var i = 0; i < script.properties.api.lensMeshes.length; i++ )
             {
-                script.properties.api.lensMeshes[i].mainMaterial = script.properties.api.lensMaterial;
+                if (script.properties.api.lensMeshes[i]) {
+                     script.properties.api.lensMeshes[i].mainMaterial = script.properties.api.lensMaterial;   
+                }
             }
 
             if( script.properties.api.lensMaterial )
@@ -268,13 +280,26 @@ function configureSecondHead()
     {
         for( var i = 1; i < 2; i++ )
         {
-            var secondHeadObject = script.properties.api.headBinding.getParent().copyWholeHierarchy( script.properties.api.headBinding );
-            secondHeadObject.getFirstComponent( "Component.Head" ).faceIndex = i;
+            if( script.properties.api.headBinding )
+            {
+                var secondHeadObject = script.properties.api.headBinding.getParent().copyWholeHierarchy( script.properties.api.headBinding );
+                secondHeadObject.getFirstComponent( "Component.Head" ).faceIndex = i;
+            }
+            else
+            {
+                print( "SunglassesController: Make sure Head Binding object exist and is set on the Sunglasses Properties [DO_NOT_EDIT] object." );
+            }
 
-            var secondHeadRetouch = script.properties.api.faceRetouch.getParent().copyWholeHierarchy( script.properties.api.faceRetouch );
-            secondHeadRetouch.getFirstComponent( "Component.RetouchVisual" ).faceIndex = i;
+            if( script.properties.api.faceRetouch )
+            {
+                var secondHeadRetouch = script.properties.api.faceRetouch.getParent().copyWholeHierarchy( script.properties.api.faceRetouch );
+                secondHeadRetouch.getFirstComponent( "Component.RetouchVisual" ).faceIndex = i;
+            }
+            else
+            {
+                print( "SunglassesController: Make sure Face Retouch object exist and is set on the Sunglasses Properties [DO_NOT_EDIT] object." );
+            }         
         }
-        
     }
 }
 

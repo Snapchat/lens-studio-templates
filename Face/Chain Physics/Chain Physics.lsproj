@@ -1,0 +1,2157 @@
+{
+    "lens_id": "",
+    "document_id": "ViJaCG-35Cz7pUAQOG-B",
+    "original_document_id": "xXS_buCaWFiwyfvAxUUy",
+    "version": "20",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Chain Physics Resources"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Face Mesh"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "Matte Shadow"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "face_material"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "leaf_blue"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "leaf_green"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "leaf_purple"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "notes_material"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "petals_material"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Materials",
+                        "stem_material"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "Leaf"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "Leaf",
+                        "Meshes"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "Leaf",
+                        "Meshes",
+                        "Leaf"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Animations"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Animations",
+                        "Leaf"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Animations",
+                        "MusicalNote"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Animations",
+                        "MusicalNote_1"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Animations",
+                        "Petals"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes",
+                        "Grass"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes",
+                        "Head"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes",
+                        "Leaf"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes",
+                        "MusicalNote_1"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes",
+                        "Petals"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Models",
+                        "flower_rig",
+                        "Meshes",
+                        "Stem"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Textures"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Textures",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Textures",
+                        "leaf_base"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Textures",
+                        "leaf_normal"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Textures",
+                        "leaf_prams"
+                    ],
+                    [
+                        "Chain Physics Resources",
+                        "Textures",
+                        "singing_animated"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "ChainController"
+                    ],
+                    [
+                        "Scripts",
+                        "JSMathLibrary"
+                    ],
+                    [
+                        "Scripts",
+                        "PositionBasedDynamicsHelpers"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1574464450801947:72561",
+                    "1574464450802161:72563",
+                    "1574464450805380:72627",
+                    "1574464450805652:72629",
+                    "1574464450817508:72797",
+                    "1574708048175316:105676",
+                    "1574725874352700:510832",
+                    "1574725885778804:512548",
+                    "1574725912019425:514183",
+                    "1574731464459323:25167",
+                    "1574731464460179:25169"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "b7900837e840cd65ebe8588714c1c31f",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                ""
+            ],
+            "lens": "Chain Physics",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 4.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Smile Person 4.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1574464446263903:71993",
+                    "name": "Files\/File3.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1574464446361891:72005",
+                    "name": "Files\/File4.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1574464446446097:72017",
+                    "name": "Files\/File5.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1574464446742813:72059",
+                    "name": "Files\/File8.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1574464446854506:72075",
+                    "name": "Files\/File9.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1574464446978769:72091",
+                    "name": "Files\/File10.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1574464447065255:72107",
+                    "name": "Files\/File11.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "18",
+                    "uid": "1574464447100505:72119",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1574464447102011:72146",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1574464447199770:72177",
+                    "name": "Files\/File12",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "21",
+                    "uid": "1574464447370905:72193",
+                    "name": "Files\/File13",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1574464447668519:72208",
+                    "name": "Files\/File15",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1574464447943572:72223",
+                    "name": "Files\/File17",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1574464448254613:72242",
+                    "name": "Files\/File19.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1574464448292318:72255",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1574464448293149:72282",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1574464448295441:72309",
+                    "name": "Files\/File20",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1574464448694632:72328",
+                    "name": "Files\/File22.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1574464448735293:72340",
+                    "name": "Files\/File23",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1574464448910314:72359",
+                    "name": "Files\/File25.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1574464448983634:72371",
+                    "name": "Files\/File26.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1574464449152370:72383",
+                    "name": "Files\/File28.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1574464449357952:72395",
+                    "name": "Files\/File30.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "34",
+                    "uid": "1574464449484434:72407",
+                    "name": "Files\/File32",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1574464449800442:72422",
+                    "name": "Files\/File34",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1574464450247660:72437",
+                    "name": "Files\/File36",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1574464450611663:72452",
+                    "name": "Files\/File38.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1574464480154957:74782",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1574464450699038:72466",
+                "1": "1574464450700710:72490",
+                "2": "1574464450701103:72492",
+                "3": "1574464450801947:72561",
+                "4": "1574464450802161:72563",
+                "5": "1574464450802922:72577",
+                "6": "1574464450803831:72591",
+                "7": "1574464450804689:72605",
+                "8": "1574464450805380:72627",
+                "9": "1574464450805652:72629",
+                "10": "1574464450805870:72631",
+                "11": "1574464450806075:72633",
+                "12": "1574464450806865:72647",
+                "13": "1574464450807095:72649",
+                "14": "1574464450807302:72651",
+                "15": "1574464450807516:72653",
+                "16": "1574464450807754:72655",
+                "17": "1574464450807970:72657",
+                "18": "1574464450808183:72659",
+                "19": "1574464450809642:72675",
+                "20": "1574464450810813:72691",
+                "21": "1574464450811879:72707",
+                "22": "1574464450812625:72713",
+                "23": "1574464450813662:72727",
+                "24": "1574464450814684:72743",
+                "25": "1574464450817508:72797",
+                "26": "1574464450881835:72943",
+                "27": "1574464450883582:72954",
+                "28": "1574731464459323:25167",
+                "29": "1574731464460179:25169",
+                "30": "1574731464460534:25171",
+                "31": "1574731464460875:25173",
+                "32": "1574731464461234:25175"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "3",
+                    "v": "Files\/File3.js"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.js"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.js"
+                },
+                {
+                    "k": "7",
+                    "v": "Files\/File7.lsmat"
+                },
+                {
+                    "k": "8",
+                    "v": "Files\/File8.mesh"
+                },
+                {
+                    "k": "9",
+                    "v": "Files\/File9.mesh"
+                },
+                {
+                    "k": "10",
+                    "v": "Files\/File10.mesh"
+                },
+                {
+                    "k": "11",
+                    "v": "Files\/File11.mesh"
+                },
+                {
+                    "k": "12",
+                    "v": "Files\/File12"
+                },
+                {
+                    "k": "13",
+                    "v": "Files\/File13"
+                },
+                {
+                    "k": "14",
+                    "v": "Files\/File14.lsmat"
+                },
+                {
+                    "k": "15",
+                    "v": "Files\/File15"
+                },
+                {
+                    "k": "16",
+                    "v": "Files\/File16.lsmat"
+                },
+                {
+                    "k": "17",
+                    "v": "Files\/File17"
+                },
+                {
+                    "k": "18",
+                    "v": "Files\/File18.lsmat"
+                },
+                {
+                    "k": "19",
+                    "v": "Files\/File19.mesh"
+                },
+                {
+                    "k": "20",
+                    "v": "Files\/File20"
+                },
+                {
+                    "k": "21",
+                    "v": "Files\/File21.lsmat"
+                },
+                {
+                    "k": "22",
+                    "v": "Files\/File22.mesh"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23"
+                },
+                {
+                    "k": "24",
+                    "v": "Files\/File24.lsmat"
+                },
+                {
+                    "k": "25",
+                    "v": "Files\/File25.mesh"
+                },
+                {
+                    "k": "26",
+                    "v": "Files\/File26.png"
+                },
+                {
+                    "k": "27",
+                    "v": "Files\/File27.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.png"
+                },
+                {
+                    "k": "29",
+                    "v": "Files\/File29.png"
+                },
+                {
+                    "k": "30",
+                    "v": "Files\/File30.png"
+                },
+                {
+                    "k": "31",
+                    "v": "Files\/File31.png"
+                },
+                {
+                    "k": "32",
+                    "v": "Files\/File32"
+                },
+                {
+                    "k": "33",
+                    "v": "Files\/File33.lsmat"
+                },
+                {
+                    "k": "34",
+                    "v": "Files\/File34"
+                },
+                {
+                    "k": "35",
+                    "v": "Files\/File35.lsmat"
+                },
+                {
+                    "k": "36",
+                    "v": "Files\/File36"
+                },
+                {
+                    "k": "37",
+                    "v": "Files\/File37.lsmat"
+                },
+                {
+                    "k": "38",
+                    "v": "Files\/File38.png"
+                },
+                {
+                    "k": "39",
+                    "v": "Files\/File39.png"
+                },
+                {
+                    "k": "41",
+                    "v": "Files\/File41.lsmat"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.lsmat"
+                },
+                {
+                    "k": "43",
+                    "v": "Files\/File43.lsmat"
+                },
+                {
+                    "k": "44",
+                    "v": "Files\/File44.lsmat"
+                },
+                {
+                    "k": "45",
+                    "v": "Files\/File45.lsmat"
+                },
+                {
+                    "k": "46",
+                    "v": "Files\/File46.lsmat"
+                },
+                {
+                    "k": "47",
+                    "v": "Files\/File47.lsmat"
+                },
+                {
+                    "k": "48",
+                    "v": "Files\/File48.lsmat"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "61",
+                        "v": "Scripts"
+                    },
+                    {
+                        "k": "62",
+                        "v": "Scripts\/JSMathLibrary.js"
+                    },
+                    {
+                        "k": "63",
+                        "v": "Scripts\/ChainController.js"
+                    },
+                    {
+                        "k": "64",
+                        "v": "Scripts\/PositionBasedDynamicsHelpers.js"
+                    },
+                    {
+                        "k": "67",
+                        "v": "Chain Physics Resources"
+                    },
+                    {
+                        "k": "68",
+                        "v": "Chain Physics Resources\/Models\/flower_rig"
+                    },
+                    {
+                        "k": "69",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes"
+                    },
+                    {
+                        "k": "70",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes\/Head.mesh"
+                    },
+                    {
+                        "k": "71",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes\/Petals.mesh"
+                    },
+                    {
+                        "k": "72",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes\/Leaf.mesh"
+                    },
+                    {
+                        "k": "73",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes\/Stem.mesh"
+                    },
+                    {
+                        "k": "74",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Animations"
+                    },
+                    {
+                        "k": "75",
+                        "v": "Chain Physics Resources\/Textures"
+                    },
+                    {
+                        "k": "76",
+                        "v": "Chain Physics Resources\/Textures\/singing_animated"
+                    },
+                    {
+                        "k": "77",
+                        "v": "Chain Physics Resources\/Materials"
+                    },
+                    {
+                        "k": "78",
+                        "v": "Chain Physics Resources\/Materials\/stem_material.lsmat"
+                    },
+                    {
+                        "k": "79",
+                        "v": "Chain Physics Resources\/Materials\/petals_material.lsmat"
+                    },
+                    {
+                        "k": "80",
+                        "v": "Chain Physics Resources\/Materials\/face_material.lsmat"
+                    },
+                    {
+                        "k": "81",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes\/MusicalNote_1.mesh"
+                    },
+                    {
+                        "k": "82",
+                        "v": "Chain Physics Resources\/Materials\/notes_material.lsmat"
+                    },
+                    {
+                        "k": "83",
+                        "v": "Chain Physics Resources\/Models\/flower_rig\/Meshes\/Grass.mesh"
+                    },
+                    {
+                        "k": "84",
+                        "v": "Chain Physics Resources\/Materials\/Matte Shadow.lsmat"
+                    },
+                    {
+                        "k": "85",
+                        "v": "Chain Physics Resources\/Models\/Leaf"
+                    },
+                    {
+                        "k": "86",
+                        "v": "Chain Physics Resources\/Models\/Leaf\/Meshes"
+                    },
+                    {
+                        "k": "87",
+                        "v": "Chain Physics Resources\/Models\/Leaf\/Meshes\/Leaf.mesh"
+                    },
+                    {
+                        "k": "88",
+                        "v": "Chain Physics Resources\/Textures\/leaf_normal.png"
+                    },
+                    {
+                        "k": "89",
+                        "v": "Chain Physics Resources\/Textures\/leaf_prams.png"
+                    },
+                    {
+                        "k": "90",
+                        "v": "Chain Physics Resources\/Textures\/leaf_base.png"
+                    },
+                    {
+                        "k": "91",
+                        "v": "Chain Physics Resources\/Materials\/leaf_purple.lsmat"
+                    },
+                    {
+                        "k": "92",
+                        "v": "Chain Physics Resources\/Materials\/leaf_blue.lsmat"
+                    },
+                    {
+                        "k": "93",
+                        "v": "Chain Physics Resources\/Materials\/leaf_green.lsmat"
+                    },
+                    {
+                        "k": "94",
+                        "v": "Chain Physics Resources\/Textures\/MaterialParams.png"
+                    },
+                    {
+                        "k": "95",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "126",
+                        "v": "Chain Physics Resources\/Models"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "62",
+                        "v": "d3ffbd3144a880f5c980be6dae0f4110"
+                    },
+                    {
+                        "k": "63",
+                        "v": "b9af92fbe33c6c4f4fbbc93ad6ffd1e3"
+                    },
+                    {
+                        "k": "64",
+                        "v": "d50d88a36b661417b0089c16b097da41"
+                    },
+                    {
+                        "k": "66",
+                        "v": "6b99c1d403a712b2bce55edb106a52ea"
+                    },
+                    {
+                        "k": "70",
+                        "v": "c159a938eeb74d275ac2366df692abb4"
+                    },
+                    {
+                        "k": "71",
+                        "v": "da7090681a0940f7f19887b2cc4980d2"
+                    },
+                    {
+                        "k": "72",
+                        "v": "92af8772741789a372a90348bac24281"
+                    },
+                    {
+                        "k": "73",
+                        "v": "6201b9f4830f4fabbfbdda2c6391ebc7"
+                    },
+                    {
+                        "k": "76",
+                        "v": "f5cb7dd19ca5e910c5b4e70ef81e2e2d"
+                    },
+                    {
+                        "k": "78",
+                        "v": "96c63f9f7ecebdf1bd5a139c3e40fe47"
+                    },
+                    {
+                        "k": "79",
+                        "v": "db3f84901c8997a87464cce08ecf41d5"
+                    },
+                    {
+                        "k": "80",
+                        "v": "3712dfa6bb0898d83b2c7422ad9222bf"
+                    },
+                    {
+                        "k": "81",
+                        "v": "15f6d90e57a7eaadcec82e7f3ea3488d"
+                    },
+                    {
+                        "k": "82",
+                        "v": "8948b707011c4efba16d46443ce2df0b"
+                    },
+                    {
+                        "k": "83",
+                        "v": "1dddd5c6221e2ef600376f667f76f055"
+                    },
+                    {
+                        "k": "84",
+                        "v": "6b4d3e001aede9af56fb599f9afc0524"
+                    },
+                    {
+                        "k": "87",
+                        "v": "8fde57efa41c64df7bcdf6648ff9c300"
+                    },
+                    {
+                        "k": "88",
+                        "v": "8ca2eb1e107e837c9657cc417d87f68b"
+                    },
+                    {
+                        "k": "89",
+                        "v": "a01db099c47f71985489bd60a25225e0"
+                    },
+                    {
+                        "k": "90",
+                        "v": "defb1ef2cae344f3de6d1a33a98b7c3a"
+                    },
+                    {
+                        "k": "91",
+                        "v": "8a5ee430c16b6b07f8ea6b75bae03fbf"
+                    },
+                    {
+                        "k": "92",
+                        "v": "882bff8592460078512d411b6f22bac0"
+                    },
+                    {
+                        "k": "93",
+                        "v": "de8bd31d6531d91a38cfb036767cf7ff"
+                    },
+                    {
+                        "k": "94",
+                        "v": "6bd001d345074a168e601bc52936747c"
+                    },
+                    {
+                        "k": "96",
+                        "v": "8ab09f6061693bd85017e1258e7d1a4c"
+                    },
+                    {
+                        "k": "97",
+                        "v": "bd3d9f4e6da5b17bfc38563f68052088"
+                    },
+                    {
+                        "k": "99",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "100",
+                        "v": "140cdfe492844878e47c2f365a85f1f5"
+                    },
+                    {
+                        "k": "508",
+                        "v": "24471c42b5f700f0ebd2b46e5eb93216"
+                    },
+                    {
+                        "k": "510",
+                        "v": "4b78a6dd0646930bddc24dd698bf0fce"
+                    },
+                    {
+                        "k": "511",
+                        "v": "1e7270e560e11bf8f4da58585e9702ad"
+                    },
+                    {
+                        "k": "512",
+                        "v": "338cc8205692819196cef5030502589f"
+                    },
+                    {
+                        "k": "513",
+                        "v": "07794e8e00daeaf5f5ab779c7f6fd53c"
+                    },
+                    {
+                        "k": "515",
+                        "v": "e7f1fc87adeb56dbb16e29963614a486"
+                    },
+                    {
+                        "k": "516",
+                        "v": "e6660446b3fc41f3c6ee13ce6091fb10"
+                    },
+                    {
+                        "k": "517",
+                        "v": "a654c2f66084ad367564cbef39ca57f9"
+                    },
+                    {
+                        "k": "518",
+                        "v": "a4df5ac361d350e5778fda6726332eda"
+                    },
+                    {
+                        "k": "519",
+                        "v": "6e691859536a7d8027e558ec26c10218"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-11-26T14:46:53",
+                        "name": "Public",
+                        "hash": "3d9d3b95b1bdde93168f8530815d8c6d",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-11-26T14:46:25",
+                                "name": "Textures",
+                                "hash": "5d0daf4be82fee50df678f1d3a4975ad",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:45",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:45",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-11-26T14:46:53",
+                                "name": "Chain Physics Resources",
+                                "hash": "0692283aae0d69c66922cf5a2df10663",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-26T14:45:45",
+                                        "name": "Textures",
+                                        "hash": "c3b528d2e842ab5e81bde78a56d21d36",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "singing_animated",
+                                                "hash": "f5cb7dd19ca5e910c5b4e70ef81e2e2d",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "atlas_0.png",
+                                                        "hash": "9e256e2c418054edd58801c5bf5587bc",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "animation.t3d",
+                                                        "hash": "0efc89a4890dbfbd93e714988da1816f",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "MaterialParams.png",
+                                                "hash": "6bd001d345074a168e601bc52936747c",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "leaf_prams.png",
+                                                "hash": "a01db099c47f71985489bd60a25225e0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "leaf_normal.png",
+                                                "hash": "8ca2eb1e107e837c9657cc417d87f68b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "leaf_base.png",
+                                                "hash": "defb1ef2cae344f3de6d1a33a98b7c3a",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-26T14:46:55",
+                                        "name": "Materials",
+                                        "hash": "d834fc0cbe0f6ba028a7c8ba70f996fe",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:54",
+                                                "name": "notes_material.lsmat",
+                                                "hash": "8948b707011c4efba16d46443ce2df0b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:55",
+                                                "name": "leaf_green.lsmat",
+                                                "hash": "de8bd31d6531d91a38cfb036767cf7ff",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:54",
+                                                "name": "stem_material.lsmat",
+                                                "hash": "96c63f9f7ecebdf1bd5a139c3e40fe47",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:55",
+                                                "name": "leaf_purple.lsmat",
+                                                "hash": "8a5ee430c16b6b07f8ea6b75bae03fbf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:54",
+                                                "name": "Matte Shadow.lsmat",
+                                                "hash": "6b4d3e001aede9af56fb599f9afc0524",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:54",
+                                                "name": "petals_material.lsmat",
+                                                "hash": "db3f84901c8997a87464cce08ecf41d5",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:55",
+                                                "name": "leaf_blue.lsmat",
+                                                "hash": "882bff8592460078512d411b6f22bac0",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:54",
+                                                "name": "face_material.lsmat",
+                                                "hash": "3712dfa6bb0898d83b2c7422ad9222bf",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-26T14:46:41",
+                                        "name": "Models",
+                                        "hash": "cfcee2793ed647db9c4ea870da8698b9",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "Leaf",
+                                                "hash": "9b2e5f2d77228f1fc3cf09ba3c28c7a5",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "Meshes",
+                                                        "hash": "8d12f1d280b6f32cf186f7dd0f6ae068",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "Leaf.mesh",
+                                                                "hash": "8fde57efa41c64df7bcdf6648ff9c300",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-26T14:45:45",
+                                                "name": "flower_rig",
+                                                "hash": "d093dfae4b320981812381d0af4619dd",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "Meshes",
+                                                        "hash": "0af3c75a7e6218e196b8fd93fc14b9df",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "MusicalNote_1.mesh",
+                                                                "hash": "15f6d90e57a7eaadcec82e7f3ea3488d",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "Stem.mesh",
+                                                                "hash": "6201b9f4830f4fabbfbdda2c6391ebc7",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "Grass.mesh",
+                                                                "hash": "1dddd5c6221e2ef600376f667f76f055",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "Petals.mesh",
+                                                                "hash": "da7090681a0940f7f19887b2cc4980d2",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "Head.mesh",
+                                                                "hash": "c159a938eeb74d275ac2366df692abb4",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "Leaf.mesh",
+                                                                "hash": "92af8772741789a372a90348bac24281",
+                                                                "children": ""
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "Animations",
+                                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-26T14:45:45",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-26T14:45:45",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-26T14:46:34",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:45",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-11-26T14:45:46",
+                                "name": "Scripts",
+                                "hash": "15cf71d2ba7b2cf13c25cf23244989d2",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:46",
+                                        "name": "JSMathLibrary.js",
+                                        "hash": "d3ffbd3144a880f5c980be6dae0f4110",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:46",
+                                        "name": "PositionBasedDynamicsHelpers.js",
+                                        "hash": "d50d88a36b661417b0089c16b097da41",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:45",
+                                        "name": "ChainController.js",
+                                        "hash": "b9af92fbe33c6c4f4fbbc93ad6ffd1e3",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:45:46",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-26T14:45:46",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "76"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "95",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "8",
+                                "dependency": "0",
+                                "uid": "1517446348230286:84828",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1517446348234137:84840",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scripts",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "61",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "JSMathLibrary",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "10",
+                                "dependency": "0",
+                                "uid": "1574464446263903:71993",
+                                "fileId": "3",
+                                "originalId": "18446744073709551615",
+                                "publicId": "62",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "ChainController",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1574464446361891:72005",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "63",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "PositionBasedDynamicsHelpers",
+                                "type": "4",
+                                "subtype": "0",
+                                "resourceId": "12",
+                                "dependency": "0",
+                                "uid": "1574464446446097:72017",
+                                "fileId": "5",
+                                "originalId": "18446744073709551615",
+                                "publicId": "64",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Chain Physics Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "67",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Models",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "126",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "flower_rig",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "68",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "69",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Head",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "14",
+                                                        "dependency": "0",
+                                                        "uid": "1574464446742813:72059",
+                                                        "fileId": "8",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "70",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Petals",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "15",
+                                                        "dependency": "0",
+                                                        "uid": "1574464446854506:72075",
+                                                        "fileId": "9",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "71",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Leaf",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "16",
+                                                        "dependency": "0",
+                                                        "uid": "1574464446978769:72091",
+                                                        "fileId": "10",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "72",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Stem",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "17",
+                                                        "dependency": "0",
+                                                        "uid": "1574464447065255:72107",
+                                                        "fileId": "11",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "73",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "MusicalNote_1",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "24",
+                                                        "dependency": "0",
+                                                        "uid": "1574464448254613:72242",
+                                                        "fileId": "19",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "81",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Grass",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "28",
+                                                        "dependency": "0",
+                                                        "uid": "1574464448694632:72328",
+                                                        "fileId": "22",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "83",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "name": "Animations",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "74",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Petals",
+                                                        "type": "8",
+                                                        "subtype": "0",
+                                                        "resourceId": "18",
+                                                        "dependency": "0",
+                                                        "uid": "1574464447100505:72119",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "Leaf",
+                                                        "type": "8",
+                                                        "subtype": "0",
+                                                        "resourceId": "19",
+                                                        "dependency": "0",
+                                                        "uid": "1574464447102011:72146",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "MusicalNote_1",
+                                                        "type": "8",
+                                                        "subtype": "0",
+                                                        "resourceId": "25",
+                                                        "dependency": "0",
+                                                        "uid": "1574464448292318:72255",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    },
+                                                    {
+                                                        "name": "MusicalNote",
+                                                        "type": "8",
+                                                        "subtype": "0",
+                                                        "resourceId": "26",
+                                                        "dependency": "0",
+                                                        "uid": "1574464448293149:72282",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "18446744073709551615",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Leaf",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "85",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Meshes",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "86",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Leaf",
+                                                        "type": "3",
+                                                        "subtype": "0",
+                                                        "resourceId": "30",
+                                                        "dependency": "0",
+                                                        "uid": "1574464448910314:72359",
+                                                        "fileId": "25",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "87",
+                                                        "source": "",
+                                                        "additional": ""
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "75",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "singing_animated",
+                                        "type": "1",
+                                        "subtype": "5",
+                                        "resourceId": "20",
+                                        "dependency": "0",
+                                        "uid": "1574464447199770:72177",
+                                        "fileId": "12",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "76",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "leaf_normal",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "31",
+                                        "dependency": "0",
+                                        "uid": "1574464448983634:72371",
+                                        "fileId": "26",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "88",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "leaf_prams",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "32",
+                                        "dependency": "0",
+                                        "uid": "1574464449152370:72383",
+                                        "fileId": "28",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "89",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "leaf_base",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "33",
+                                        "dependency": "0",
+                                        "uid": "1574464449357952:72395",
+                                        "fileId": "30",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "90",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "MaterialParams",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "37",
+                                        "dependency": "0",
+                                        "uid": "1574464450611663:72452",
+                                        "fileId": "38",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "94",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Materials",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "77",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "stem_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "21",
+                                        "dependency": "0",
+                                        "uid": "1574464447370905:72193",
+                                        "fileId": "13",
+                                        "originalId": "41",
+                                        "publicId": "78",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "petals_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "22",
+                                        "dependency": "0",
+                                        "uid": "1574464447668519:72208",
+                                        "fileId": "15",
+                                        "originalId": "42",
+                                        "publicId": "79",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "face_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "23",
+                                        "dependency": "0",
+                                        "uid": "1574464447943572:72223",
+                                        "fileId": "17",
+                                        "originalId": "43",
+                                        "publicId": "80",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "notes_material",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "27",
+                                        "dependency": "0",
+                                        "uid": "1574464448295441:72309",
+                                        "fileId": "20",
+                                        "originalId": "44",
+                                        "publicId": "82",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Matte Shadow",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "29",
+                                        "dependency": "0",
+                                        "uid": "1574464448735293:72340",
+                                        "fileId": "23",
+                                        "originalId": "45",
+                                        "publicId": "84",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "leaf_purple",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "34",
+                                        "dependency": "0",
+                                        "uid": "1574464449484434:72407",
+                                        "fileId": "32",
+                                        "originalId": "46",
+                                        "publicId": "91",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "leaf_blue",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "35",
+                                        "dependency": "0",
+                                        "uid": "1574464449800442:72422",
+                                        "fileId": "34",
+                                        "originalId": "47",
+                                        "publicId": "92",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "leaf_green",
+                                        "type": "2",
+                                        "subtype": "0",
+                                        "resourceId": "36",
+                                        "dependency": "0",
+                                        "uid": "1574464450247660:72437",
+                                        "fileId": "36",
+                                        "originalId": "48",
+                                        "publicId": "93",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Face Mesh",
+                                "type": "3",
+                                "subtype": "2",
+                                "resourceId": "38",
+                                "dependency": "0",
+                                "uid": "1574464480154957:74782",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    },
+    "description": "Simulate the movement of chains, earrings, and more"
+}

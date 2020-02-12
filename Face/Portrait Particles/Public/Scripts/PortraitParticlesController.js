@@ -65,7 +65,7 @@
 // @input Component.Image header {"label":"Header Image", "showIf": "hideMe"}
 // @input Component.Image footer {"label":"Footer Image", "showIf": "hideMe"}
 // @input Component.Text textComponent {"label":"Text", "showIf": "hideMe"}
-// @input Component.MeshVisual customParticleMesh {"label":"Text", "showIf": "hideMe"}
+// @input Component.MeshVisual customParticleMesh {"label":"Particle Mesh", "showIf": "hideMe"}
 // @input Component.PostEffectVisual postEffect {"label":"Post Effect", "showIf": "hideMe"}
 
 configureFooter();

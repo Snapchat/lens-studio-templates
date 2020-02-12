@@ -1,8 +1,8 @@
 {
     "lens_id": "",
-    "document_id": "KEdu0vXQnonvdQY8zENk",
+    "document_id": "YQzWEK5WcpaoXJWywEyk",
     "original_document_id": "AVgMg-syw5U2kd2BKq2K",
-    "version": "19",
+    "version": "20",
     "lastChanged": "0",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
@@ -13,14 +13,14 @@
         "createdWith": {
             "type": "Public",
             "major": "2",
-            "minor": "2",
+            "minor": "3",
             "patch": "0",
             "build": "0"
         },
         "lastSavedWith": {
             "type": "Public",
             "major": "2",
-            "minor": "2",
+            "minor": "3",
             "patch": "0",
             "build": "0"
         }
@@ -113,16 +113,20 @@
             "show_snap_ui": "true",
             "show_sponsored_ui": "false",
             "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Images\/Pair 1.jpg",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
             },
             "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
+                "back_preview_is_favorite": "false",
                 "front_preview_id": "bundle:PreviewPresets\/Videos\/Pair Idle Persons 1.webm",
                 "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
-                "back_preview_is_favorite": "false"
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
             }
         },
         "InspectorUiComponent": {
@@ -135,6 +139,10 @@
                     "1526434734031729:76282"
                 ]
             ]
+        },
+        "UiComponent": {
+            "active_graph_material": "-1:-1",
+            "active_graph_pass": "-1"
         }
     },
     "model": {
@@ -214,24 +222,7 @@
                 }
             ],
             "MaterialUpdateManager": {
-                "unrecognizedMaterials": [
-                    {
-                        "k": "1571874607125786:344635",
-                        "v": [
-                            {
-                                "k": "0",
-                                "v": {
-                                    "hashes": {
-                                        "shader": "b71e1f86eda5021909d8f077e988f160",
-                                        "ui": "018e2e8cc07108d39c432dd71d29496d",
-                                        "includes": ""
-                                    },
-                                    "flags": "266"
-                                }
-                            }
-                        ]
-                    }
-                ]
+                "unrecognizedMaterials": ""
             }
         },
         "InspectorComponent": {
@@ -370,6 +361,10 @@
                 {
                     "k": "22",
                     "v": "Files\/File22.lsmat"
+                },
+                {
+                    "k": "23",
+                    "v": "Files\/File23.lsmat"
                 }
             ]
         },
@@ -498,7 +493,7 @@
                     },
                     {
                         "k": "552",
-                        "v": "fc2e26619d7c1dc93f739698bb93f72f"
+                        "v": "7ec7339aed07f63409ba9533e62de957"
                     },
                     {
                         "k": "553",
@@ -508,19 +503,19 @@
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2019-10-23T16:51:58",
+                        "lastModified": "2019-10-22T16:43:11",
                         "name": "Public",
-                        "hash": "3b3294922713f96b15a2a5af8ae233e9",
+                        "hash": "751f31a1dd5b66a92ab43d998f76dff2",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:37",
+                                "lastModified": "2019-10-22T16:43:11",
                                 "name": "Textures",
                                 "hash": "59adb24ef3cdbe0297f05b395827453f",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -529,27 +524,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:37",
+                                "lastModified": "2019-10-22T16:43:11",
                                 "name": "Scripts",
                                 "hash": "752e19ca8de2c98a9548a339f10146bd",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "FaceInsetController.js",
                                         "hash": "8b4949376da545a239ff14f6f1682739",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "BlizzardController.js",
                                         "hash": "3dcc4c67b80a37f34087d753df82149e",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -558,27 +553,27 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:37",
+                                "lastModified": "2019-10-22T16:43:11",
                                 "name": "Billboard Textures [REPLACE_ME]",
                                 "hash": "b61f41b1f290e5411773d5ce731dd41d",
                                 "children": [
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "background_image [REPLACE_ME].png",
                                         "hash": "340369d7fa6704a7cb75c4935d0dd3f8",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "primary_image [REPLACE_ME].png",
                                         "hash": "27cd793bb1a81356a5700912d3f4dac6",
                                         "children": ""
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:53",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -587,26 +582,26 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2019-08-13T15:38:37",
+                                "lastModified": "2019-10-22T16:43:11",
                                 "name": "ParticleResources",
-                                "hash": "34ed060d768df9e28274c407d385ee08",
+                                "hash": "01d191982d678e7963357796aee305e5",
                                 "children": [
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-22T16:43:11",
                                         "name": "Textures",
                                         "hash": "207b71d5adbb07972444d590ec6eb906",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-08-13T15:38:37",
+                                                "lastModified": "2019-10-12T09:44:54",
                                                 "name": "fireball_2x2.jpg",
                                                 "hash": "24006fd7408670db8d6088bf3d7f5f5e",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-08-13T15:38:37",
+                                                "lastModified": "2019-10-12T09:44:54",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -615,20 +610,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-10-23T16:52:31",
+                                        "lastModified": "2019-12-02T17:58:04",
                                         "name": "Materials",
-                                        "hash": "7d71e756d5413b3aee1898491f8b9973",
+                                        "hash": "d27fce26a849a0fe62fe474846fdd995",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-10-23T16:52:31",
+                                                "lastModified": "2019-12-02T17:58:04",
                                                 "name": "particle_blizzard [EDIT_ME].lsmat",
-                                                "hash": "fc2e26619d7c1dc93f739698bb93f72f",
+                                                "hash": "7ec7339aed07f63409ba9533e62de957",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-08-13T15:38:37",
+                                                "lastModified": "2019-10-12T09:44:54",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -637,20 +632,20 @@
                                     },
                                     {
                                         "isFolder": "true",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-22T16:43:11",
                                         "name": "Meshes",
                                         "hash": "d7a591cced5cae3eff4182207df71439",
                                         "children": [
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-08-13T15:38:37",
+                                                "lastModified": "2019-10-12T09:44:54",
                                                 "name": "emitter_1000.mesh",
                                                 "hash": "adc36fff2957674601d705ed729586cf",
                                                 "children": ""
                                             },
                                             {
                                                 "isFolder": "false",
-                                                "lastModified": "2019-08-13T15:38:37",
+                                                "lastModified": "2019-10-12T09:44:54",
                                                 "name": "folder.lock",
                                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                                 "children": ""
@@ -659,7 +654,7 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2019-08-13T15:38:37",
+                                        "lastModified": "2019-10-12T09:44:54",
                                         "name": "folder.lock",
                                         "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                         "children": ""
@@ -668,7 +663,7 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2019-08-13T15:38:37",
+                                "lastModified": "2019-10-12T09:44:54",
                                 "name": "folder.lock",
                                 "hash": "d41d8cd98f00b204e9800998ecf8427e",
                                 "children": ""
@@ -904,7 +899,7 @@
                                         "dependency": "0",
                                         "uid": "1571874607125786:344635",
                                         "fileId": "21",
-                                        "originalId": "22",
+                                        "originalId": "23",
                                         "publicId": "552",
                                         "source": "",
                                         "additional": ""
@@ -938,7 +933,9 @@
             "17": "",
             "18": "",
             "19": "",
-            "20": ""
+            "20": "",
+            "22": "",
+            "23": ""
         },
         "ObjectPrefabController": {
             "state": {

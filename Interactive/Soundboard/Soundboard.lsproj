@@ -1,423 +1,423 @@
 {
-    "lens_id": "",
-    "document_id": "0LEsMvQDVgjy5IpM4IUa",
-    "original_document_id": "9Ymufa54hCCtpZMBC6aq",
-    "version": "19",
-    "lastChanged": "0",
-    "preview": "icon.png",
-    "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
-    "isReadOnly": "true",
-    "isAutoSaved": "false",
+    "lens_id": "", 
+    "document_id": "_jXGDQuU31yYAjk1yhb1", 
+    "original_document_id": "9Ymufa54hCCtpZMBC6aq", 
+    "version": "20", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "preview.mp4", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "isAutoSaved": "false", 
     "studioVersion": {
         "createdWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
-        },
+        }, 
         "lastSavedWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
         }
-    },
+    }, 
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "Materials"
-                    ],
+                    ], 
                     [
                         "Scripts"
-                    ],
+                    ], 
                     [
-                        "Scripts",
+                        "Scripts", 
                         "SoundboardKey"
-                    ],
+                    ], 
                     [
                         "Sounds [REPLACE_ME]"
-                    ],
+                    ], 
                     [
                         "Textures"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "Live Target"
-                    ],
+                    ], 
                     [
                         "Tween"
-                    ],
+                    ], 
                     [
-                        "Tween",
+                        "Tween", 
                         "TweenManager"
-                    ],
+                    ], 
                     [
-                        "Tween",
+                        "Tween", 
                         "TweenTypes"
-                    ],
+                    ], 
                     [
-                        "Tween",
-                        "TweenTypes",
+                        "Tween", 
+                        "TweenTypes", 
                         "TweenChain"
-                    ],
+                    ], 
                     [
-                        "Tween",
-                        "TweenTypes",
+                        "Tween", 
+                        "TweenTypes", 
                         "TweenScreenTransform"
-                    ],
+                    ], 
                     [
-                        "Tween",
-                        "TweenTypes",
+                        "Tween", 
+                        "TweenTypes", 
                         "TweenValue"
-                    ],
+                    ], 
                     [
                         "Visuals [REPLACE_ME]"
                     ]
                 ]
             ]
-        },
+        }, 
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1517262137359444:17993",
-                    "1517535808380717:2585",
-                    "1517535821204100:3028",
-                    "1517535842721424:3640",
+                    "1517262137359444:17993", 
+                    "1517535808380717:2585", 
+                    "1517535821204100:3028", 
+                    "1517535842721424:3640", 
                     "1517535842750107:3721"
                 ]
             ]
-        },
+        }, 
         "MetaInfoUIComponent": {
-            "icon_hash": "29a6835a8313aeb82826b60b64d048fe",
-            "icon_path": "icon.png",
-            "video_preview_path": "preview.mp4",
+            "icon_hash": "29a6835a8313aeb82826b60b64d048fe", 
+            "icon_path": "icon.png", 
+            "video_preview_path": "preview.mp4", 
             "hints": [
                 "lens_hint_tap"
-            ],
-            "lens": "Soundboard",
-            "applicability": "3",
+            ], 
+            "lens": "Soundboard", 
+            "applicability": "3", 
             "lens_descriptors": ""
-        },
+        }, 
         "PreviewUiComponent": {
             "preview_descriptor": {
-                "is_capture": "0",
+                "is_capture": "0", 
                 "camera_type": "2"
-            },
-            "show_snap_ui": "false",
-            "show_sponsored_ui": "false",
+            }, 
+            "show_snap_ui": "false", 
+            "show_sponsored_ui": "false", 
             "preview_images_project_config": {
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
-                "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 5.jpg",
-                "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg",
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 5.jpg", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Patio.jpg", 
                 "spectacles_preview_is_favorite": "false"
-            },
+            }, 
             "preview_videos_project_config": {
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
-                "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 5.webm",
-                "front_preview_is_favorite": "false",
-                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm",
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 5.webm", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Patio.webm", 
                 "spectacles_preview_is_favorite": "false"
             }
-        },
+        }, 
         "InspectorUiComponent": {
             "collapsedList": [
                 ""
             ]
-        },
+        }, 
         "UiComponent": {
-            "active_graph_material": "-1:-1",
+            "active_graph_material": "-1:-1", 
             "active_graph_pass": "-1"
         }
-    },
+    }, 
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "1",
-                    "uid": "1:1",
-                    "name": "Camera Output",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "2",
-                    "uid": "2:2",
-                    "name": "Camera Input",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "21",
-                    "uid": "1517262583403918:37361",
-                    "name": "\/Resources\/Resource21",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "21", 
+                    "uid": "1517262583403918:37361", 
+                    "name": "\/Resources\/Resource21", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "56",
-                    "uid": "1517612456799019:2796",
-                    "name": "\/Resources\/Resource56.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "56", 
+                    "uid": "1517612456799019:2796", 
+                    "name": "\/Resources\/Resource56.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "59",
-                    "uid": "1517612507854728:3073",
-                    "name": "\/Resources\/Resource59",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "59", 
+                    "uid": "1517612507854728:3073", 
+                    "name": "\/Resources\/Resource59", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "98",
-                    "uid": "1518730197423357:6223",
-                    "name": "\/Resources\/Resource98.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "98", 
+                    "uid": "1518730197423357:6223", 
+                    "name": "\/Resources\/Resource98.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "99",
-                    "uid": "1518730197429819:6235",
-                    "name": "\/Resources\/Resource99.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "99", 
+                    "uid": "1518730197429819:6235", 
+                    "name": "\/Resources\/Resource99.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "107",
-                    "uid": "1518730197461945:6331",
-                    "name": "\/Resources\/Resource107.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "107", 
+                    "uid": "1518730197461945:6331", 
+                    "name": "\/Resources\/Resource107.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "109",
-                    "uid": "1518730197475575:6355",
-                    "name": "\/Resources\/Resource109.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "109", 
+                    "uid": "1518730197475575:6355", 
+                    "name": "\/Resources\/Resource109.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "157",
-                    "uid": "1520892659378973:191785",
-                    "name": "\/Resources\/Resource157",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "157", 
+                    "uid": "1520892659378973:191785", 
+                    "name": "\/Resources\/Resource157", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "158",
-                    "uid": "1520892665077008:191823",
-                    "name": "\/Resources\/Resource158",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "158", 
+                    "uid": "1520892665077008:191823", 
+                    "name": "\/Resources\/Resource158", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "159",
-                    "uid": "1520892667219816:191849",
-                    "name": "\/Resources\/Resource159",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "159", 
+                    "uid": "1520892667219816:191849", 
+                    "name": "\/Resources\/Resource159", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "160",
-                    "uid": "1520892669271960:191875",
-                    "name": "\/Resources\/Resource160",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "160", 
+                    "uid": "1520892669271960:191875", 
+                    "name": "\/Resources\/Resource160", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "161",
-                    "uid": "1520892672739335:191901",
-                    "name": "\/Resources\/Resource161",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "161", 
+                    "uid": "1520892672739335:191901", 
+                    "name": "\/Resources\/Resource161", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "168",
-                    "uid": "1520962169595153:41158",
-                    "name": "\/Resources\/Resource168.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "168", 
+                    "uid": "1520962169595153:41158", 
+                    "name": "\/Resources\/Resource168.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "169",
-                    "uid": "1520962169656888:41173",
-                    "name": "\/Resources\/Resource169.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "169", 
+                    "uid": "1520962169656888:41173", 
+                    "name": "\/Resources\/Resource169.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "170",
-                    "uid": "1520962169720998:41188",
-                    "name": "\/Resources\/Resource170.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "170", 
+                    "uid": "1520962169720998:41188", 
+                    "name": "\/Resources\/Resource170.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "171",
-                    "uid": "1520962169777088:41203",
-                    "name": "\/Resources\/Resource171.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "171", 
+                    "uid": "1520962169777088:41203", 
+                    "name": "\/Resources\/Resource171.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "172",
-                    "uid": "1520962169806361:41218",
-                    "name": "\/Resources\/Resource172.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "172", 
+                    "uid": "1520962169806361:41218", 
+                    "name": "\/Resources\/Resource172.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "173",
-                    "uid": "1520962169841745:41233",
-                    "name": "\/Resources\/Resource173.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "173", 
+                    "uid": "1520962169841745:41233", 
+                    "name": "\/Resources\/Resource173.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "174",
-                    "uid": "1520962233874544:41353",
-                    "name": "\/Resources\/Resource174.mp3",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "174", 
+                    "uid": "1520962233874544:41353", 
+                    "name": "\/Resources\/Resource174.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "175",
-                    "uid": "1520962233929689:41380",
-                    "name": "\/Resources\/Resource175.mp3",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "175", 
+                    "uid": "1520962233929689:41380", 
+                    "name": "\/Resources\/Resource175.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "176",
-                    "uid": "1520962233985979:41407",
-                    "name": "\/Resources\/Resource176.mp3",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "176", 
+                    "uid": "1520962233985979:41407", 
+                    "name": "\/Resources\/Resource176.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "177",
-                    "uid": "1520962234034875:41434",
-                    "name": "\/Resources\/Resource177.mp3",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "177", 
+                    "uid": "1520962234034875:41434", 
+                    "name": "\/Resources\/Resource177.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "178",
-                    "uid": "1520962234092035:41461",
-                    "name": "\/Resources\/Resource178.mp3",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "178", 
+                    "uid": "1520962234092035:41461", 
+                    "name": "\/Resources\/Resource178.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "179",
-                    "uid": "1520962234148642:41488",
-                    "name": "\/Resources\/Resource179.mp3",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "179", 
+                    "uid": "1520962234148642:41488", 
+                    "name": "\/Resources\/Resource179.mp3", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "180",
-                    "uid": "1538677161052705:26325",
-                    "name": "\/Resources\/Resource180.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "180", 
+                    "uid": "1538677161052705:26325", 
+                    "name": "\/Resources\/Resource180.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "181",
-                    "uid": "1538677161096881:26338",
-                    "name": "\/Resources\/Resource181.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "181", 
+                    "uid": "1538677161096881:26338", 
+                    "name": "\/Resources\/Resource181.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "182",
-                    "uid": "1553301559743029:43047",
-                    "name": "Files\/File37.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "182", 
+                    "uid": "1553301559743029:43047", 
+                    "name": "Files\/File37.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "195",
-                    "uid": "1553301561721461:43266",
-                    "name": "Render Target",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "195", 
+                    "uid": "1553301561721461:43266", 
+                    "name": "Render Target", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "196",
-                    "uid": "1553645689947751:288845",
-                    "name": "Files\/File38.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "196", 
+                    "uid": "1553645689947751:288845", 
+                    "name": "Files\/File38.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "197",
-                    "uid": "1553645695946274:296662",
-                    "name": "Files\/File39.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "197", 
+                    "uid": "1553645695946274:296662", 
+                    "name": "Files\/File39.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "199",
-                    "uid": "1571880459257081:241972",
-                    "name": "Files\/File48.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "199", 
+                    "uid": "1571880459257081:241972", 
+                    "name": "Files\/File48.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
                 }
-            ],
+            ], 
             "MaterialUpdateManager": {
                 "unrecognizedMaterials": [
                     {
-                        "k": "1517262583403918:37361",
+                        "k": "1517262583403918:37361", 
                         "v": [
                             {
-                                "k": "0",
+                                "k": "0", 
                                 "v": {
                                     "hashes": {
-                                        "shader": "401e272b7caf9f55558827cdcd076e9c",
-                                        "ui": "9787f7bac843be7d6b8cae0a51270db3",
+                                        "shader": "401e272b7caf9f55558827cdcd076e9c", 
+                                        "ui": "9787f7bac843be7d6b8cae0a51270db3", 
                                         "includes": ""
-                                    },
+                                    }, 
                                     "flags": "273"
                                 }
                             }
@@ -425,1739 +425,1769 @@
                     }
                 ]
             }
-        },
+        }, 
         "InspectorComponent": {
             "Component": {
                 "EyeColorVisual": {
-                    "uidData": "",
+                    "uidData": "", 
                     "generalData": ""
-                },
+                }, 
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                },
+                }, 
                 "ScreenTransform": {
                     "uidData": [
                         {
-                            "k": "1553301561722970:43288",
+                            "k": "1553301561722970:43288", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "true",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "true", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301562138454:43623",
+                            "k": "1553301562138454:43623", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "true",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "true", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301562311593:43958",
+                            "k": "1553301562311593:43958", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "true",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "true", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301562469682:44293",
+                            "k": "1553301562469682:44293", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "true",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "true", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301562568566:44628",
+                            "k": "1553301562568566:44628", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "true",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "true", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301562751076:44963",
+                            "k": "1553301562751076:44963", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "true",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "true", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301562901761:45298",
+                            "k": "1553301562901761:45298", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301672820533:58486",
+                            "k": "1553301672820533:58486", 
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "false", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301672922821:58804",
+                            "k": "1553301672922821:58804", 
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "false", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301673021301:59122",
+                            "k": "1553301673021301:59122", 
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "false", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301673129193:59440",
+                            "k": "1553301673129193:59440", 
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "false", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301673227909:59758",
+                            "k": "1553301673227909:59758", 
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "false", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301673323097:60076",
+                            "k": "1553301673323097:60076", 
                             "v": {
-                                "isBasicMode": "false",
+                                "isBasicMode": "false", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1553301673422559:60394",
+                            "k": "1553301673422559:60394", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
                         }
-                    ],
+                    ], 
                     "generalData": ""
                 }
             }
-        },
+        }, 
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1517261554193229:949",
-                "1": "1518730197413801:6039",
-                "2": "1553301561721726:43277",
-                "3": "1553301561722487:43284",
-                "4": "1553301562138065:43619",
-                "5": "1553301562311253:43954",
-                "6": "1553301562469265:44289",
-                "7": "1553301562567999:44624",
-                "8": "1553301562750512:44959",
-                "9": "1553301672819654:58475",
-                "10": "1553301672820169:58482",
-                "11": "1553301672922243:58800",
-                "12": "1553301673020808:59118",
-                "13": "1553301673128688:59436",
-                "14": "1553301673227378:59754",
+                "0": "1517261554193229:949", 
+                "1": "1518730197413801:6039", 
+                "2": "1553301561721726:43277", 
+                "3": "1553301561722487:43284", 
+                "4": "1553301562138065:43619", 
+                "5": "1553301562311253:43954", 
+                "6": "1553301562469265:44289", 
+                "7": "1553301562567999:44624", 
+                "8": "1553301562750512:44959", 
+                "9": "1553301672819654:58475", 
+                "10": "1553301672820169:58482", 
+                "11": "1553301672922243:58800", 
+                "12": "1553301673020808:59118", 
+                "13": "1553301673128688:59436", 
+                "14": "1553301673227378:59754", 
                 "15": "1553301673322393:60072"
             }
-        },
+        }, 
         "LayerComponent": {
-            "nextLayerId": "3",
-            "showOrthographicLayer": "true",
+            "nextLayerId": "3", 
+            "showOrthographicLayer": "true", 
             "layersInfo": [
                 {
-                    "layerId": "0",
-                    "layerName": "Default Layer",
-                    "layerMask": "1",
+                    "layerId": "0", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1", 
                     "colorCode": "20"
-                },
+                }, 
                 {
-                    "layerId": "1",
-                    "layerName": "Orthographic Layer",
-                    "layerMask": "1048576",
+                    "layerId": "1", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576", 
                     "colorCode": "21"
-                },
+                }, 
                 {
-                    "layerId": "2",
-                    "layerName": "Layer 1",
-                    "layerMask": "2",
+                    "layerId": "2", 
+                    "layerName": "Layer 1", 
+                    "layerMask": "2", 
                     "colorCode": "0"
                 }
             ]
-        },
+        }, 
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "2",
+                    "k": "2", 
                     "v": "Files\/File2"
-                },
+                }, 
                 {
-                    "k": "3",
+                    "k": "3", 
                     "v": "Files\/File3.png"
-                },
+                }, 
                 {
-                    "k": "4",
+                    "k": "4", 
                     "v": "Files\/File4"
-                },
+                }, 
                 {
-                    "k": "5",
+                    "k": "5", 
                     "v": "Files\/File5.js"
-                },
+                }, 
                 {
-                    "k": "6",
+                    "k": "6", 
                     "v": "Files\/File6.js"
-                },
+                }, 
                 {
-                    "k": "8",
+                    "k": "8", 
                     "v": "Files\/File8.js"
-                },
+                }, 
                 {
-                    "k": "9",
+                    "k": "9", 
                     "v": "Files\/File9.js"
-                },
+                }, 
                 {
-                    "k": "11",
+                    "k": "11", 
                     "v": "Files\/File11"
-                },
+                }, 
                 {
-                    "k": "12",
+                    "k": "12", 
                     "v": "Files\/File12"
-                },
+                }, 
                 {
-                    "k": "13",
+                    "k": "13", 
                     "v": "Files\/File13"
-                },
+                }, 
                 {
-                    "k": "14",
+                    "k": "14", 
                     "v": "Files\/File14"
-                },
+                }, 
                 {
-                    "k": "15",
+                    "k": "15", 
                     "v": "Files\/File15"
-                },
+                }, 
                 {
-                    "k": "16",
+                    "k": "16", 
                     "v": "Files\/File16.png"
-                },
+                }, 
                 {
-                    "k": "17",
+                    "k": "17", 
                     "v": "Files\/File17.png"
-                },
+                }, 
                 {
-                    "k": "18",
+                    "k": "18", 
                     "v": "Files\/File18.png"
-                },
+                }, 
                 {
-                    "k": "19",
+                    "k": "19", 
                     "v": "Files\/File19.png"
-                },
+                }, 
                 {
-                    "k": "20",
+                    "k": "20", 
                     "v": "Files\/File20.png"
-                },
+                }, 
                 {
-                    "k": "21",
+                    "k": "21", 
                     "v": "Files\/File21.png"
-                },
+                }, 
                 {
-                    "k": "22",
+                    "k": "22", 
                     "v": "Files\/File22.mp3"
-                },
+                }, 
                 {
-                    "k": "23",
+                    "k": "23", 
                     "v": "Files\/File23.mp3"
-                },
+                }, 
                 {
-                    "k": "24",
+                    "k": "24", 
                     "v": "Files\/File24.mp3"
-                },
+                }, 
                 {
-                    "k": "25",
+                    "k": "25", 
                     "v": "Files\/File25.mp3"
-                },
+                }, 
                 {
-                    "k": "26",
+                    "k": "26", 
                     "v": "Files\/File26.mp3"
-                },
+                }, 
                 {
-                    "k": "27",
+                    "k": "27", 
                     "v": "Files\/File27.mp3"
-                },
+                }, 
                 {
-                    "k": "28",
+                    "k": "28", 
                     "v": "Files\/File28.js"
-                },
+                }, 
                 {
-                    "k": "29",
+                    "k": "29", 
                     "v": "Files\/File29.js"
-                },
+                }, 
                 {
-                    "k": "30",
+                    "k": "30", 
                     "v": "Files\/File30.lsmat"
-                },
+                }, 
                 {
-                    "k": "31",
+                    "k": "31", 
                     "v": "Files\/File31.lsmat"
-                },
+                }, 
                 {
-                    "k": "32",
+                    "k": "32", 
                     "v": "Files\/File32.lsmat"
-                },
+                }, 
                 {
-                    "k": "33",
+                    "k": "33", 
                     "v": "Files\/File33.lsmat"
-                },
+                }, 
                 {
-                    "k": "34",
+                    "k": "34", 
                     "v": "Files\/File34.lsmat"
-                },
+                }, 
                 {
-                    "k": "35",
+                    "k": "35", 
                     "v": "Files\/File35.lsmat"
-                },
+                }, 
                 {
-                    "k": "36",
+                    "k": "36", 
                     "v": "Files\/File36.lsmat"
-                },
+                }, 
                 {
-                    "k": "37",
+                    "k": "37", 
                     "v": "Files\/File37.js"
-                },
+                }, 
                 {
-                    "k": "38",
+                    "k": "38", 
                     "v": "Files\/File38.js"
-                },
+                }, 
                 {
-                    "k": "39",
+                    "k": "39", 
                     "v": "Files\/File39.js"
-                },
+                }, 
                 {
-                    "k": "41",
+                    "k": "41", 
                     "v": "Files\/File41.lsmat"
-                },
+                }, 
                 {
-                    "k": "42",
+                    "k": "42", 
                     "v": "Files\/File42.lsmat"
-                },
+                }, 
                 {
-                    "k": "43",
+                    "k": "43", 
                     "v": "Files\/File43.lsmat"
-                },
+                }, 
                 {
-                    "k": "44",
+                    "k": "44", 
                     "v": "Files\/File44.lsmat"
-                },
+                }, 
                 {
-                    "k": "45",
+                    "k": "45", 
                     "v": "Files\/File45.lsmat"
-                },
+                }, 
                 {
-                    "k": "46",
+                    "k": "46", 
                     "v": "Files\/File46.lsmat"
-                },
+                }, 
                 {
-                    "k": "47",
+                    "k": "47", 
                     "v": "Files\/File47.lsmat"
-                },
+                }, 
                 {
-                    "k": "48",
+                    "k": "48", 
                     "v": "Files\/File48.js"
+                }, 
+                {
+                    "k": "49", 
+                    "v": "Files\/File49.lsmat"
+                }, 
+                {
+                    "k": "50", 
+                    "v": "Files\/File50.lsmat"
+                }, 
+                {
+                    "k": "51", 
+                    "v": "Files\/File51.lsmat"
+                }, 
+                {
+                    "k": "52", 
+                    "v": "Files\/File52.lsmat"
+                }, 
+                {
+                    "k": "53", 
+                    "v": "Files\/File53.lsmat"
+                }, 
+                {
+                    "k": "54", 
+                    "v": "Files\/File54.lsmat"
+                }, 
+                {
+                    "k": "55", 
+                    "v": "Files\/File55.lsmat"
                 }
             ]
-        },
+        }, 
         "WorldComponent": {
-            "sceneFile": "scene.scn",
+            "sceneFile": "scene.scn", 
             "sceneType": "binaryScene"
         }
-    },
+    }, 
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "1",
+                        "k": "1", 
                         "v": "Textures"
-                    },
+                    }, 
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "Textures\/button.png"
-                    },
+                    }, 
                     {
-                        "k": "3",
+                        "k": "3", 
                         "v": "Materials"
-                    },
+                    }, 
                     {
-                        "k": "4",
+                        "k": "4", 
                         "v": "Materials\/invisible.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "5",
+                        "k": "5", 
                         "v": "Materials\/button_A.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "6",
+                        "k": "6", 
                         "v": "Materials\/button_B.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "7",
+                        "k": "7", 
                         "v": "Materials\/button_C.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "8",
+                        "k": "8", 
                         "v": "Materials\/button_D.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "9",
+                        "k": "9", 
                         "v": "Materials\/button_E.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "10",
+                        "k": "10", 
                         "v": "Materials\/button_F.lsmat"
-                    },
+                    }, 
                     {
-                        "k": "11",
+                        "k": "11", 
                         "v": "Scripts"
-                    },
+                    }, 
                     {
-                        "k": "13",
+                        "k": "13", 
                         "v": "Tween"
-                    },
+                    }, 
                     {
-                        "k": "14",
+                        "k": "14", 
                         "v": "Tween\/TweenTypes"
-                    },
+                    }, 
                     {
-                        "k": "15",
+                        "k": "15", 
                         "v": "Tween\/TweenTypes\/TweenTransform.js"
-                    },
+                    }, 
                     {
-                        "k": "16",
+                        "k": "16", 
                         "v": "Tween\/TweenTypes\/TweenColor.js"
-                    },
+                    }, 
                     {
-                        "k": "17",
+                        "k": "17", 
                         "v": "Tween\/TweenTypes\/TweenAlpha.js"
-                    },
+                    }, 
                     {
-                        "k": "19",
+                        "k": "19", 
                         "v": "Tween\/TweenTypes\/TweenChain.js"
-                    },
+                    }, 
                     {
-                        "k": "20",
+                        "k": "20", 
                         "v": "Tween\/TweenTypes\/TweenValue.js"
-                    },
+                    }, 
                     {
-                        "k": "21",
+                        "k": "21", 
                         "v": "Tween\/Tween.js"
-                    },
+                    }, 
                     {
-                        "k": "23",
+                        "k": "23", 
                         "v": "Sounds [REPLACE_ME]"
-                    },
+                    }, 
                     {
-                        "k": "24",
+                        "k": "24", 
                         "v": "Sounds [REPLACE_ME]\/kitty_a.mp3"
-                    },
+                    }, 
                     {
-                        "k": "25",
+                        "k": "25", 
                         "v": "Sounds [REPLACE_ME]\/kitty_b.mp3"
-                    },
+                    }, 
                     {
-                        "k": "26",
+                        "k": "26", 
                         "v": "Sounds [REPLACE_ME]\/kitty_c.mp3"
-                    },
+                    }, 
                     {
-                        "k": "27",
+                        "k": "27", 
                         "v": "Sounds [REPLACE_ME]\/kitty_d.mp3"
-                    },
+                    }, 
                     {
-                        "k": "28",
+                        "k": "28", 
                         "v": "Sounds [REPLACE_ME]\/kitty_e.mp3"
-                    },
+                    }, 
                     {
-                        "k": "29",
+                        "k": "29", 
                         "v": "Sounds [REPLACE_ME]\/kitty_f.mp3"
-                    },
+                    }, 
                     {
-                        "k": "30",
+                        "k": "30", 
                         "v": "Visuals [REPLACE_ME]"
-                    },
+                    }, 
                     {
-                        "k": "31",
+                        "k": "31", 
                         "v": "Visuals [REPLACE_ME]\/kitty_a.png"
-                    },
+                    }, 
                     {
-                        "k": "32",
+                        "k": "32", 
                         "v": "Visuals [REPLACE_ME]\/kitty_b.png"
-                    },
+                    }, 
                     {
-                        "k": "33",
+                        "k": "33", 
                         "v": "Visuals [REPLACE_ME]\/kitty_c.png"
-                    },
+                    }, 
                     {
-                        "k": "34",
+                        "k": "34", 
                         "v": "Visuals [REPLACE_ME]\/kitty_d.png"
-                    },
+                    }, 
                     {
-                        "k": "35",
+                        "k": "35", 
                         "v": "Visuals [REPLACE_ME]\/kitty_e.png"
-                    },
+                    }, 
                     {
-                        "k": "36",
+                        "k": "36", 
                         "v": "Visuals [REPLACE_ME]\/kitty_f.png"
-                    },
+                    }, 
                     {
-                        "k": "37",
+                        "k": "37", 
                         "v": "Scripts\/SoundboardKey.js"
-                    },
+                    }, 
                     {
-                        "k": "63",
+                        "k": "63", 
                         "v": "Tween\/TweenManager.js"
-                    },
+                    }, 
                     {
-                        "k": "64",
+                        "k": "64", 
                         "v": "Tween\/TweenTypes\/TweenScreenTransform.js"
-                    },
+                    }, 
                     {
-                        "k": "623",
+                        "k": "623", 
                         "v": "Tween\/TweenTypes\/Legacy"
-                    },
+                    }, 
                     {
-                        "k": "624",
+                        "k": "624", 
                         "v": "Tween\/TweenTypes\/Legacy\/TweenBillboard [DEPRECATED].js"
                     }
-                ],
+                ], 
                 "hashes": [
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "15e9e087e756239c4b89cb0d032660db"
-                    },
+                    }, 
                     {
-                        "k": "4",
-                        "v": "bf2618b30298e7df3c1fbfcd0c73141b"
-                    },
+                        "k": "4", 
+                        "v": "e4b81216a2ced4c55bf1158482051c59"
+                    }, 
                     {
-                        "k": "5",
-                        "v": "c20a3bc95053094e123752838ab96550"
-                    },
+                        "k": "5", 
+                        "v": "a7f8ba9921cdb199ffb8a643333ef035"
+                    }, 
                     {
-                        "k": "6",
-                        "v": "549ff205f8c7665c5a96580ae2d95cd2"
-                    },
+                        "k": "6", 
+                        "v": "9fb1db6cd61769c304a8cd488d6acca3"
+                    }, 
                     {
-                        "k": "7",
-                        "v": "558363307ad5d96f06367af8b99a5c77"
-                    },
+                        "k": "7", 
+                        "v": "c4118e5c4d013d92537d1722f224cf5e"
+                    }, 
                     {
-                        "k": "8",
-                        "v": "0f4083b743ae9980ac01f13d4c133e69"
-                    },
+                        "k": "8", 
+                        "v": "0e6a90a39639698afd7325a6fdb6c71b"
+                    }, 
                     {
-                        "k": "9",
-                        "v": "67a5505cc7c4d428e4437d0903873c19"
-                    },
+                        "k": "9", 
+                        "v": "38522b51f8e2c0cb56ccd8d89290b267"
+                    }, 
                     {
-                        "k": "10",
-                        "v": "96b833d598bdbbe638e7ff05e35faf83"
-                    },
+                        "k": "10", 
+                        "v": "a16444d5dfd4a76c2356f0e356def1a9"
+                    }, 
                     {
-                        "k": "12",
+                        "k": "12", 
                         "v": "5f3e2d869750a2eb24f08bc39e591589"
-                    },
+                    }, 
                     {
-                        "k": "15",
+                        "k": "15", 
                         "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
-                    },
+                    }, 
                     {
-                        "k": "16",
+                        "k": "16", 
                         "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
-                    },
+                    }, 
                     {
-                        "k": "17",
+                        "k": "17", 
                         "v": "4ca6ca961ac63737cdfdb95767c3e077"
-                    },
+                    }, 
                     {
-                        "k": "18",
+                        "k": "18", 
                         "v": "99bfeaf53ffd6ca8ca2e3019e0b28ab0"
-                    },
+                    }, 
                     {
-                        "k": "19",
+                        "k": "19", 
                         "v": "a8212c4a0d7f900c75c80ad4829f91f0"
-                    },
+                    }, 
                     {
-                        "k": "20",
+                        "k": "20", 
                         "v": "8a3af68c16493bc48b0f7f17a1d6c065"
-                    },
+                    }, 
                     {
-                        "k": "21",
+                        "k": "21", 
                         "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
-                    },
+                    }, 
                     {
-                        "k": "22",
+                        "k": "22", 
                         "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
-                    },
+                    }, 
                     {
-                        "k": "24",
+                        "k": "24", 
                         "v": "81d53d69c9df7302901d6c7b40ed548d"
-                    },
+                    }, 
                     {
-                        "k": "25",
+                        "k": "25", 
                         "v": "e925a187d9b9d8680007edf8243870a1"
-                    },
+                    }, 
                     {
-                        "k": "26",
+                        "k": "26", 
                         "v": "f39fd60ab480e9a6ebb3bf763f1ce387"
-                    },
+                    }, 
                     {
-                        "k": "27",
+                        "k": "27", 
                         "v": "c038de535a6b622fcf35d51041bbb3e7"
-                    },
+                    }, 
                     {
-                        "k": "28",
+                        "k": "28", 
                         "v": "1b4d9d131426cf5e1aa69fb2ae12a2f1"
-                    },
+                    }, 
                     {
-                        "k": "29",
+                        "k": "29", 
                         "v": "e1274ded79c9001e8291fcb8c09ada73"
-                    },
+                    }, 
                     {
-                        "k": "31",
+                        "k": "31", 
                         "v": "5a74ecc3fb346cb9d61fcf5d24ece450"
-                    },
+                    }, 
                     {
-                        "k": "32",
+                        "k": "32", 
                         "v": "8922470ff26f39d7b22c0d7d5df571e3"
-                    },
+                    }, 
                     {
-                        "k": "33",
+                        "k": "33", 
                         "v": "ee211ff04e56c55ec159dec73b64792d"
-                    },
+                    }, 
                     {
-                        "k": "34",
+                        "k": "34", 
                         "v": "9c9ed0a1086a7c3b3d73a6af8291a4e7"
-                    },
+                    }, 
                     {
-                        "k": "35",
+                        "k": "35", 
                         "v": "7e053e85a8e467d8aeec4fd950c98c50"
-                    },
+                    }, 
                     {
-                        "k": "36",
+                        "k": "36", 
                         "v": "d9eadc9189a40b5dd7a20b080b43679b"
-                    },
+                    }, 
                     {
-                        "k": "37",
+                        "k": "37", 
                         "v": "e9d3f86c63fddf47d6e79a442c84ee06"
-                    },
+                    }, 
                     {
-                        "k": "38",
+                        "k": "38", 
                         "v": "45d195fc362af2598273c2e831d4e059"
-                    },
+                    }, 
                     {
-                        "k": "39",
+                        "k": "39", 
                         "v": "b93522a88bc937fd705b65d38d73b1cd"
-                    },
+                    }, 
                     {
-                        "k": "40",
+                        "k": "40", 
                         "v": "f8cd4bb6135b464db80449346616fb1b"
-                    },
+                    }, 
                     {
-                        "k": "41",
+                        "k": "41", 
                         "v": "1d65021042863009759271697f1c4e16"
-                    },
+                    }, 
                     {
-                        "k": "42",
+                        "k": "42", 
                         "v": "1cba17bbd98a96fe67e3c262f820c64c"
-                    },
+                    }, 
                     {
-                        "k": "43",
+                        "k": "43", 
                         "v": "f07e8a43f6e8913a9994c5c358ee5d6e"
-                    },
+                    }, 
                     {
-                        "k": "44",
+                        "k": "44", 
                         "v": "81d53d69c9df7302901d6c7b40ed548d"
-                    },
+                    }, 
                     {
-                        "k": "45",
+                        "k": "45", 
                         "v": "e925a187d9b9d8680007edf8243870a1"
-                    },
+                    }, 
                     {
-                        "k": "46",
+                        "k": "46", 
                         "v": "f39fd60ab480e9a6ebb3bf763f1ce387"
-                    },
+                    }, 
                     {
-                        "k": "47",
+                        "k": "47", 
                         "v": "c038de535a6b622fcf35d51041bbb3e7"
-                    },
+                    }, 
                     {
-                        "k": "48",
+                        "k": "48", 
                         "v": "1b4d9d131426cf5e1aa69fb2ae12a2f1"
-                    },
+                    }, 
                     {
-                        "k": "49",
+                        "k": "49", 
                         "v": "e1274ded79c9001e8291fcb8c09ada73"
-                    },
+                    }, 
                     {
-                        "k": "63",
+                        "k": "63", 
                         "v": "a094f372f9487690786f930bd7030e82"
-                    },
+                    }, 
                     {
-                        "k": "64",
+                        "k": "64", 
                         "v": "15f4c60fdceda581e50db7b5e824cda4"
-                    },
+                    }, 
                     {
-                        "k": "65",
+                        "k": "65", 
                         "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
-                    },
+                    }, 
                     {
-                        "k": "623",
+                        "k": "623", 
                         "v": "1b3c33a31e2012e2fb122c85002e1df4"
-                    },
+                    }, 
                     {
-                        "k": "624",
+                        "k": "624", 
                         "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
                     }
-                ],
+                ], 
                 "publicState": {
                     "tree": {
-                        "isFolder": "true",
-                        "lastModified": "2019-10-29T17:57:56",
-                        "name": "Public",
-                        "hash": "ed2d1795d17134e1a2c1c42c1c7baa97",
+                        "isFolder": "true", 
+                        "lastModified": "2019-11-26T16:07:07", 
+                        "name": "Public", 
+                        "hash": "383d9d07524011067406c23b8fb90c7f", 
                         "children": [
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-16T00:06:07",
-                                "name": "Textures",
-                                "hash": "fc9ef7c998e07e4aa02c612a4efb630e",
+                                "isFolder": "true", 
+                                "lastModified": "2019-11-26T16:07:07", 
+                                "name": "Textures", 
+                                "hash": "fc9ef7c998e07e4aa02c612a4efb630e", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "button.png",
-                                        "hash": "15e9e087e756239c4b89cb0d032660db",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "button.png", 
+                                        "hash": "15e9e087e756239c4b89cb0d032660db", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-29T17:38:40",
-                                "name": "Tween",
-                                "hash": "62895164f88abeeede1493d7da01241d",
+                                "isFolder": "true", 
+                                "lastModified": "2019-11-26T16:07:07", 
+                                "name": "Tween", 
+                                "hash": "62895164f88abeeede1493d7da01241d", 
                                 "children": [
                                     {
-                                        "isFolder": "true",
-                                        "lastModified": "2019-10-29T17:32:01",
-                                        "name": "TweenTypes",
-                                        "hash": "e40711bb4f8625c50edc867f0a226ef2",
+                                        "isFolder": "true", 
+                                        "lastModified": "2019-11-26T16:07:07", 
+                                        "name": "TweenTypes", 
+                                        "hash": "e40711bb4f8625c50edc867f0a226ef2", 
                                         "children": [
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-29T17:32:01",
-                                                "name": "TweenChain.js",
-                                                "hash": "a8212c4a0d7f900c75c80ad4829f91f0",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-10-30T17:14:00", 
+                                                "name": "TweenChain.js", 
+                                                "hash": "a8212c4a0d7f900c75c80ad4829f91f0", 
                                                 "children": ""
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-29T17:32:01",
-                                                "name": "TweenColor.js",
-                                                "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-10-30T17:14:00", 
+                                                "name": "TweenColor.js", 
+                                                "hash": "c131d6b8c0d4a0024e8bc15b93f5b58b", 
                                                 "children": ""
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-29T17:32:01",
-                                                "name": "TweenTransform.js",
-                                                "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-10-30T17:14:00", 
+                                                "name": "TweenTransform.js", 
+                                                "hash": "b8c4f74a16d1548b5c8cecb4b54a3c89", 
                                                 "children": ""
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "true",
-                                                "lastModified": "2019-10-23T18:34:29",
-                                                "name": "Legacy",
-                                                "hash": "1b3c33a31e2012e2fb122c85002e1df4",
+                                                "isFolder": "true", 
+                                                "lastModified": "2019-11-26T16:07:07", 
+                                                "name": "Legacy", 
+                                                "hash": "1b3c33a31e2012e2fb122c85002e1df4", 
                                                 "children": [
                                                     {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2019-10-23T18:34:29",
-                                                        "name": "TweenBillboard [DEPRECATED].js",
-                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7",
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-10-28T09:59:01", 
+                                                        "name": "TweenBillboard [DEPRECATED].js", 
+                                                        "hash": "871e69e1d4fb4192ebb4b4623bd6ede7", 
                                                         "children": ""
-                                                    },
+                                                    }, 
                                                     {
-                                                        "isFolder": "false",
-                                                        "lastModified": "2019-10-23T18:34:29",
-                                                        "name": "folder.lock",
-                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "isFolder": "false", 
+                                                        "lastModified": "2019-10-28T09:59:01", 
+                                                        "name": "folder.lock", 
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                                         "children": ""
                                                     }
                                                 ]
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-29T17:32:01",
-                                                "name": "TweenScreenTransform.js",
-                                                "hash": "15f4c60fdceda581e50db7b5e824cda4",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-10-30T17:14:00", 
+                                                "name": "TweenScreenTransform.js", 
+                                                "hash": "15f4c60fdceda581e50db7b5e824cda4", 
                                                 "children": ""
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-29T17:32:01",
-                                                "name": "TweenValue.js",
-                                                "hash": "8a3af68c16493bc48b0f7f17a1d6c065",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-10-30T17:14:00", 
+                                                "name": "TweenValue.js", 
+                                                "hash": "8a3af68c16493bc48b0f7f17a1d6c065", 
                                                 "children": ""
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-29T17:32:01",
-                                                "name": "TweenAlpha.js",
-                                                "hash": "4ca6ca961ac63737cdfdb95767c3e077",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-10-30T17:14:00", 
+                                                "name": "TweenAlpha.js", 
+                                                "hash": "4ca6ca961ac63737cdfdb95767c3e077", 
                                                 "children": ""
-                                            },
+                                            }, 
                                             {
-                                                "isFolder": "false",
-                                                "lastModified": "2019-10-23T18:34:29",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "isFolder": "false", 
+                                                "lastModified": "2019-08-13T15:38:38", 
+                                                "name": "folder.lock", 
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                                 "children": ""
                                             }
                                         ]
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:22",
-                                        "name": "TweenManager.js",
-                                        "hash": "a094f372f9487690786f930bd7030e82",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-28T09:59:01", 
+                                        "name": "TweenManager.js", 
+                                        "hash": "a094f372f9487690786f930bd7030e82", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-23T18:34:29",
-                                        "name": "Tween.js",
-                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "Tween.js", 
+                                        "hash": "db1633dd326bc8f976dd02c2fdb5bbf4", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-23T18:34:29",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-29T16:46:25",
-                                "name": "Materials",
-                                "hash": "45b80c2f5194d122aba6e4b60bfd0b77",
+                                "isFolder": "true", 
+                                "lastModified": "2019-11-26T16:07:15", 
+                                "name": "Materials", 
+                                "hash": "5091aae4ef669104a908ab85477bdb9d", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "button_F.lsmat",
-                                        "hash": "96b833d598bdbbe638e7ff05e35faf83",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:15", 
+                                        "name": "button_F.lsmat", 
+                                        "hash": "a16444d5dfd4a76c2356f0e356def1a9", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "invisible.lsmat",
-                                        "hash": "bf2618b30298e7df3c1fbfcd0c73141b",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:13", 
+                                        "name": "invisible.lsmat", 
+                                        "hash": "e4b81216a2ced4c55bf1158482051c59", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "button_D.lsmat",
-                                        "hash": "0f4083b743ae9980ac01f13d4c133e69",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:15", 
+                                        "name": "button_D.lsmat", 
+                                        "hash": "0e6a90a39639698afd7325a6fdb6c71b", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "button_B.lsmat",
-                                        "hash": "549ff205f8c7665c5a96580ae2d95cd2",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:14", 
+                                        "name": "button_B.lsmat", 
+                                        "hash": "9fb1db6cd61769c304a8cd488d6acca3", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "button_E.lsmat",
-                                        "hash": "67a5505cc7c4d428e4437d0903873c19",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:15", 
+                                        "name": "button_E.lsmat", 
+                                        "hash": "38522b51f8e2c0cb56ccd8d89290b267", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "button_C.lsmat",
-                                        "hash": "558363307ad5d96f06367af8b99a5c77",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:14", 
+                                        "name": "button_C.lsmat", 
+                                        "hash": "c4118e5c4d013d92537d1722f224cf5e", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-29T16:46:25",
-                                        "name": "button_A.lsmat",
-                                        "hash": "c20a3bc95053094e123752838ab96550",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-11-26T16:07:14", 
+                                        "name": "button_A.lsmat", 
+                                        "hash": "a7f8ba9921cdb199ffb8a643333ef035", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-16T00:06:07",
-                                "name": "Sounds [REPLACE_ME]",
-                                "hash": "aac9a07256248f18693fa3277b073ecc",
+                                "isFolder": "true", 
+                                "lastModified": "2019-11-26T16:07:07", 
+                                "name": "Sounds [REPLACE_ME]", 
+                                "hash": "aac9a07256248f18693fa3277b073ecc", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_a.mp3",
-                                        "hash": "81d53d69c9df7302901d6c7b40ed548d",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_a.mp3", 
+                                        "hash": "81d53d69c9df7302901d6c7b40ed548d", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_b.mp3",
-                                        "hash": "e925a187d9b9d8680007edf8243870a1",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_b.mp3", 
+                                        "hash": "e925a187d9b9d8680007edf8243870a1", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_c.mp3",
-                                        "hash": "f39fd60ab480e9a6ebb3bf763f1ce387",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_c.mp3", 
+                                        "hash": "f39fd60ab480e9a6ebb3bf763f1ce387", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_f.mp3",
-                                        "hash": "e1274ded79c9001e8291fcb8c09ada73",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_f.mp3", 
+                                        "hash": "e1274ded79c9001e8291fcb8c09ada73", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_d.mp3",
-                                        "hash": "c038de535a6b622fcf35d51041bbb3e7",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_d.mp3", 
+                                        "hash": "c038de535a6b622fcf35d51041bbb3e7", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_e.mp3",
-                                        "hash": "1b4d9d131426cf5e1aa69fb2ae12a2f1",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_e.mp3", 
+                                        "hash": "1b4d9d131426cf5e1aa69fb2ae12a2f1", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-16T00:06:07",
-                                "name": "Visuals [REPLACE_ME]",
-                                "hash": "adb735c14e5beedb2c6df353893c1000",
+                                "isFolder": "true", 
+                                "lastModified": "2019-11-26T16:07:07", 
+                                "name": "Visuals [REPLACE_ME]", 
+                                "hash": "adb735c14e5beedb2c6df353893c1000", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_b.png",
-                                        "hash": "8922470ff26f39d7b22c0d7d5df571e3",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_b.png", 
+                                        "hash": "8922470ff26f39d7b22c0d7d5df571e3", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_c.png",
-                                        "hash": "ee211ff04e56c55ec159dec73b64792d",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_c.png", 
+                                        "hash": "ee211ff04e56c55ec159dec73b64792d", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_a.png",
-                                        "hash": "5a74ecc3fb346cb9d61fcf5d24ece450",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_a.png", 
+                                        "hash": "5a74ecc3fb346cb9d61fcf5d24ece450", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_d.png",
-                                        "hash": "9c9ed0a1086a7c3b3d73a6af8291a4e7",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_d.png", 
+                                        "hash": "9c9ed0a1086a7c3b3d73a6af8291a4e7", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_e.png",
-                                        "hash": "7e053e85a8e467d8aeec4fd950c98c50",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_e.png", 
+                                        "hash": "7e053e85a8e467d8aeec4fd950c98c50", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "kitty_f.png",
-                                        "hash": "d9eadc9189a40b5dd7a20b080b43679b",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "kitty_f.png", 
+                                        "hash": "d9eadc9189a40b5dd7a20b080b43679b", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-16T00:06:07",
-                                "name": "Scripts",
-                                "hash": "c85d4d0ae0f92b17e2071231feadcf4e",
+                                "isFolder": "true", 
+                                "lastModified": "2019-11-26T16:07:07", 
+                                "name": "Scripts", 
+                                "hash": "c85d4d0ae0f92b17e2071231feadcf4e", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "SoundboardKey.js",
-                                        "hash": "e9d3f86c63fddf47d6e79a442c84ee06",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "SoundboardKey.js", 
+                                        "hash": "e9d3f86c63fddf47d6e79a442c84ee06", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:54",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-08-13T15:38:38", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "false",
-                                "lastModified": "2019-10-12T09:44:54",
-                                "name": "folder.lock",
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "isFolder": "false", 
+                                "lastModified": "2019-08-13T15:38:38", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                 "children": ""
                             }
                         ]
                     }
-                },
+                }, 
                 "complexResources": ""
-            },
+            }, 
             "tree": {
-                "name": "",
-                "type": "0",
-                "subtype": "-1",
-                "resourceId": "-1",
-                "dependency": "0",
-                "uid": "-1:-1",
-                "fileId": "18446744073709551615",
-                "originalId": "18446744073709551615",
-                "publicId": "18446744073709551615",
-                "source": "",
-                "additional": "",
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
                 "resources": [
                     {
-                        "name": "Textures",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "1",
-                        "source": "",
-                        "additional": "",
+                        "name": "Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "1", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "Render Target",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "1",
-                                "dependency": "0",
-                                "uid": "1:1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Render Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "1", 
+                                "dependency": "0", 
+                                "uid": "1:1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "Device Camera Texture",
-                                "type": "1",
-                                "subtype": "3",
-                                "resourceId": "2",
-                                "dependency": "0",
-                                "uid": "2:2",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Device Camera Texture", 
+                                "type": "1", 
+                                "subtype": "3", 
+                                "resourceId": "2", 
+                                "dependency": "0", 
+                                "uid": "2:2", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "56",
-                                "dependency": "0",
-                                "uid": "1517612456799019:2796",
-                                "fileId": "3",
-                                "originalId": "18446744073709551615",
-                                "publicId": "2",
-                                "source": "",
+                                "name": "button", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "56", 
+                                "dependency": "0", 
+                                "uid": "1517612456799019:2796", 
+                                "fileId": "3", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "2", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "Live Target",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "195",
-                                "dependency": "0",
-                                "uid": "1553301561721461:43266",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Live Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "195", 
+                                "dependency": "0", 
+                                "uid": "1553301561721461:43266", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Materials",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "3",
-                        "source": "",
-                        "additional": "",
+                        "name": "Materials", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "3", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "invisible",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "21",
-                                "dependency": "0",
-                                "uid": "1517262583403918:37361",
-                                "fileId": "2",
-                                "originalId": "41",
-                                "publicId": "4",
-                                "source": "",
+                                "name": "invisible", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "21", 
+                                "dependency": "0", 
+                                "uid": "1517262583403918:37361", 
+                                "fileId": "2", 
+                                "originalId": "49", 
+                                "publicId": "4", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button_A",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "59",
-                                "dependency": "0",
-                                "uid": "1517612507854728:3073",
-                                "fileId": "4",
-                                "originalId": "42",
-                                "publicId": "5",
-                                "source": "",
+                                "name": "button_A", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "59", 
+                                "dependency": "0", 
+                                "uid": "1517612507854728:3073", 
+                                "fileId": "4", 
+                                "originalId": "50", 
+                                "publicId": "5", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button_B",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "157",
-                                "dependency": "0",
-                                "uid": "1520892659378973:191785",
-                                "fileId": "11",
-                                "originalId": "43",
-                                "publicId": "6",
-                                "source": "",
+                                "name": "button_B", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "157", 
+                                "dependency": "0", 
+                                "uid": "1520892659378973:191785", 
+                                "fileId": "11", 
+                                "originalId": "51", 
+                                "publicId": "6", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button_C",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "158",
-                                "dependency": "0",
-                                "uid": "1520892665077008:191823",
-                                "fileId": "12",
-                                "originalId": "44",
-                                "publicId": "7",
-                                "source": "",
+                                "name": "button_C", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "158", 
+                                "dependency": "0", 
+                                "uid": "1520892665077008:191823", 
+                                "fileId": "12", 
+                                "originalId": "52", 
+                                "publicId": "7", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button_D",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "159",
-                                "dependency": "0",
-                                "uid": "1520892667219816:191849",
-                                "fileId": "13",
-                                "originalId": "45",
-                                "publicId": "8",
-                                "source": "",
+                                "name": "button_D", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "159", 
+                                "dependency": "0", 
+                                "uid": "1520892667219816:191849", 
+                                "fileId": "13", 
+                                "originalId": "53", 
+                                "publicId": "8", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button_E",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "160",
-                                "dependency": "0",
-                                "uid": "1520892669271960:191875",
-                                "fileId": "14",
-                                "originalId": "46",
-                                "publicId": "9",
-                                "source": "",
+                                "name": "button_E", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "160", 
+                                "dependency": "0", 
+                                "uid": "1520892669271960:191875", 
+                                "fileId": "14", 
+                                "originalId": "54", 
+                                "publicId": "9", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "button_F",
-                                "type": "2",
-                                "subtype": "0",
-                                "resourceId": "161",
-                                "dependency": "0",
-                                "uid": "1520892672739335:191901",
-                                "fileId": "15",
-                                "originalId": "47",
-                                "publicId": "10",
-                                "source": "",
+                                "name": "button_F", 
+                                "type": "2", 
+                                "subtype": "0", 
+                                "resourceId": "161", 
+                                "dependency": "0", 
+                                "uid": "1520892672739335:191901", 
+                                "fileId": "15", 
+                                "originalId": "55", 
+                                "publicId": "10", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Scripts",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "11",
-                        "source": "",
-                        "additional": "",
+                        "name": "Scripts", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "11", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "SoundboardKey",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "182",
-                                "dependency": "0",
-                                "uid": "1553301559743029:43047",
-                                "fileId": "37",
-                                "originalId": "18446744073709551615",
-                                "publicId": "37",
-                                "source": "",
+                                "name": "SoundboardKey", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "182", 
+                                "dependency": "0", 
+                                "uid": "1553301559743029:43047", 
+                                "fileId": "37", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "37", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Tween",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "13",
-                        "source": "",
-                        "additional": "",
+                        "name": "Tween", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "13", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "TweenTypes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "14",
-                                "source": "",
-                                "additional": "",
+                                "name": "TweenTypes", 
+                                "type": "0", 
+                                "subtype": "-1", 
+                                "resourceId": "-1", 
+                                "dependency": "0", 
+                                "uid": "-1:-1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "14", 
+                                "source": "", 
+                                "additional": "", 
                                 "resources": [
                                     {
-                                        "name": "TweenTransform",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "99",
-                                        "dependency": "0",
-                                        "uid": "1518730197429819:6235",
-                                        "fileId": "6",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "15",
-                                        "source": "",
+                                        "name": "TweenTransform", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "99", 
+                                        "dependency": "0", 
+                                        "uid": "1518730197429819:6235", 
+                                        "fileId": "6", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "15", 
+                                        "source": "", 
                                         "additional": ""
-                                    },
+                                    }, 
                                     {
-                                        "name": "TweenColor",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "107",
-                                        "dependency": "0",
-                                        "uid": "1518730197461945:6331",
-                                        "fileId": "8",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "16",
-                                        "source": "",
+                                        "name": "TweenColor", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "107", 
+                                        "dependency": "0", 
+                                        "uid": "1518730197461945:6331", 
+                                        "fileId": "8", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "16", 
+                                        "source": "", 
                                         "additional": ""
-                                    },
+                                    }, 
                                     {
-                                        "name": "TweenAlpha",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "109",
-                                        "dependency": "0",
-                                        "uid": "1518730197475575:6355",
-                                        "fileId": "9",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "17",
-                                        "source": "",
+                                        "name": "TweenAlpha", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "109", 
+                                        "dependency": "0", 
+                                        "uid": "1518730197475575:6355", 
+                                        "fileId": "9", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "17", 
+                                        "source": "", 
                                         "additional": ""
-                                    },
+                                    }, 
                                     {
-                                        "name": "TweenChain",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "180",
-                                        "dependency": "0",
-                                        "uid": "1538677161052705:26325",
-                                        "fileId": "28",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "19",
-                                        "source": "",
+                                        "name": "TweenChain", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "180", 
+                                        "dependency": "0", 
+                                        "uid": "1538677161052705:26325", 
+                                        "fileId": "28", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "19", 
+                                        "source": "", 
                                         "additional": ""
-                                    },
+                                    }, 
                                     {
-                                        "name": "TweenValue",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "181",
-                                        "dependency": "0",
-                                        "uid": "1538677161096881:26338",
-                                        "fileId": "29",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "20",
-                                        "source": "",
+                                        "name": "TweenValue", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "181", 
+                                        "dependency": "0", 
+                                        "uid": "1538677161096881:26338", 
+                                        "fileId": "29", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "20", 
+                                        "source": "", 
                                         "additional": ""
-                                    },
+                                    }, 
                                     {
-                                        "name": "TweenScreenTransform",
-                                        "type": "4",
-                                        "subtype": "0",
-                                        "resourceId": "197",
-                                        "dependency": "0",
-                                        "uid": "1553645695946274:296662",
-                                        "fileId": "39",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "64",
-                                        "source": "",
+                                        "name": "TweenScreenTransform", 
+                                        "type": "4", 
+                                        "subtype": "0", 
+                                        "resourceId": "197", 
+                                        "dependency": "0", 
+                                        "uid": "1553645695946274:296662", 
+                                        "fileId": "39", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "64", 
+                                        "source": "", 
                                         "additional": ""
-                                    },
+                                    }, 
                                     {
-                                        "name": "Legacy",
-                                        "type": "0",
-                                        "subtype": "-1",
-                                        "resourceId": "-1",
-                                        "dependency": "0",
-                                        "uid": "-1:-1",
-                                        "fileId": "18446744073709551615",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "623",
-                                        "source": "",
-                                        "additional": "",
+                                        "name": "Legacy", 
+                                        "type": "0", 
+                                        "subtype": "-1", 
+                                        "resourceId": "-1", 
+                                        "dependency": "0", 
+                                        "uid": "-1:-1", 
+                                        "fileId": "18446744073709551615", 
+                                        "originalId": "18446744073709551615", 
+                                        "publicId": "623", 
+                                        "source": "", 
+                                        "additional": "", 
                                         "resources": [
                                             {
-                                                "name": "TweenBillboard [DEPRECATED]",
-                                                "type": "4",
-                                                "subtype": "0",
-                                                "resourceId": "199",
-                                                "dependency": "0",
-                                                "uid": "1571880459257081:241972",
-                                                "fileId": "48",
-                                                "originalId": "18446744073709551615",
-                                                "publicId": "624",
-                                                "source": "",
+                                                "name": "TweenBillboard [DEPRECATED]", 
+                                                "type": "4", 
+                                                "subtype": "0", 
+                                                "resourceId": "199", 
+                                                "dependency": "0", 
+                                                "uid": "1571880459257081:241972", 
+                                                "fileId": "48", 
+                                                "originalId": "18446744073709551615", 
+                                                "publicId": "624", 
+                                                "source": "", 
                                                 "additional": ""
                                             }
                                         ]
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "name": "Tween",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "98",
-                                "dependency": "0",
-                                "uid": "1518730197423357:6223",
-                                "fileId": "5",
-                                "originalId": "18446744073709551615",
-                                "publicId": "21",
-                                "source": "",
+                                "name": "Tween", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "98", 
+                                "dependency": "0", 
+                                "uid": "1518730197423357:6223", 
+                                "fileId": "5", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "21", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "TweenManager",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "196",
-                                "dependency": "0",
-                                "uid": "1553645689947751:288845",
-                                "fileId": "38",
-                                "originalId": "18446744073709551615",
-                                "publicId": "63",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sounds [REPLACE_ME]",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "23",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "kitty_a",
-                                "type": "5",
-                                "subtype": "0",
-                                "resourceId": "174",
-                                "dependency": "0",
-                                "uid": "1520962233874544:41353",
-                                "fileId": "22",
-                                "originalId": "18446744073709551615",
-                                "publicId": "24",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "kitty_b",
-                                "type": "5",
-                                "subtype": "0",
-                                "resourceId": "175",
-                                "dependency": "0",
-                                "uid": "1520962233929689:41380",
-                                "fileId": "23",
-                                "originalId": "18446744073709551615",
-                                "publicId": "25",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "kitty_c",
-                                "type": "5",
-                                "subtype": "0",
-                                "resourceId": "176",
-                                "dependency": "0",
-                                "uid": "1520962233985979:41407",
-                                "fileId": "24",
-                                "originalId": "18446744073709551615",
-                                "publicId": "26",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "kitty_d",
-                                "type": "5",
-                                "subtype": "0",
-                                "resourceId": "177",
-                                "dependency": "0",
-                                "uid": "1520962234034875:41434",
-                                "fileId": "25",
-                                "originalId": "18446744073709551615",
-                                "publicId": "27",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "kitty_e",
-                                "type": "5",
-                                "subtype": "0",
-                                "resourceId": "178",
-                                "dependency": "0",
-                                "uid": "1520962234092035:41461",
-                                "fileId": "26",
-                                "originalId": "18446744073709551615",
-                                "publicId": "28",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "kitty_f",
-                                "type": "5",
-                                "subtype": "0",
-                                "resourceId": "179",
-                                "dependency": "0",
-                                "uid": "1520962234148642:41488",
-                                "fileId": "27",
-                                "originalId": "18446744073709551615",
-                                "publicId": "29",
-                                "source": "",
+                                "name": "TweenManager", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "196", 
+                                "dependency": "0", 
+                                "uid": "1553645689947751:288845", 
+                                "fileId": "38", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "63", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Visuals [REPLACE_ME]",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "30",
-                        "source": "",
-                        "additional": "",
+                        "name": "Sounds [REPLACE_ME]", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "23", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "kitty_a",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "168",
-                                "dependency": "0",
-                                "uid": "1520962169595153:41158",
-                                "fileId": "16",
-                                "originalId": "18446744073709551615",
-                                "publicId": "31",
-                                "source": "",
+                                "name": "kitty_a", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "174", 
+                                "dependency": "0", 
+                                "uid": "1520962233874544:41353", 
+                                "fileId": "22", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "24", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "kitty_b",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "169",
-                                "dependency": "0",
-                                "uid": "1520962169656888:41173",
-                                "fileId": "17",
-                                "originalId": "18446744073709551615",
-                                "publicId": "32",
-                                "source": "",
+                                "name": "kitty_b", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "175", 
+                                "dependency": "0", 
+                                "uid": "1520962233929689:41380", 
+                                "fileId": "23", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "25", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "kitty_c",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "170",
-                                "dependency": "0",
-                                "uid": "1520962169720998:41188",
-                                "fileId": "18",
-                                "originalId": "18446744073709551615",
-                                "publicId": "33",
-                                "source": "",
+                                "name": "kitty_c", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "176", 
+                                "dependency": "0", 
+                                "uid": "1520962233985979:41407", 
+                                "fileId": "24", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "26", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "kitty_d",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "171",
-                                "dependency": "0",
-                                "uid": "1520962169777088:41203",
-                                "fileId": "19",
-                                "originalId": "18446744073709551615",
-                                "publicId": "34",
-                                "source": "",
+                                "name": "kitty_d", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "177", 
+                                "dependency": "0", 
+                                "uid": "1520962234034875:41434", 
+                                "fileId": "25", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "27", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "kitty_e",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "172",
-                                "dependency": "0",
-                                "uid": "1520962169806361:41218",
-                                "fileId": "20",
-                                "originalId": "18446744073709551615",
-                                "publicId": "35",
-                                "source": "",
+                                "name": "kitty_e", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "178", 
+                                "dependency": "0", 
+                                "uid": "1520962234092035:41461", 
+                                "fileId": "26", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "28", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "kitty_f",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "173",
-                                "dependency": "0",
-                                "uid": "1520962169841745:41233",
-                                "fileId": "21",
-                                "originalId": "18446744073709551615",
-                                "publicId": "36",
-                                "source": "",
+                                "name": "kitty_f", 
+                                "type": "5", 
+                                "subtype": "0", 
+                                "resourceId": "179", 
+                                "dependency": "0", 
+                                "uid": "1520962234148642:41488", 
+                                "fileId": "27", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "29", 
+                                "source": "", 
+                                "additional": ""
+                            }
+                        ]
+                    }, 
+                    {
+                        "name": "Visuals [REPLACE_ME]", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "30", 
+                        "source": "", 
+                        "additional": "", 
+                        "resources": [
+                            {
+                                "name": "kitty_a", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "168", 
+                                "dependency": "0", 
+                                "uid": "1520962169595153:41158", 
+                                "fileId": "16", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "31", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_b", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "169", 
+                                "dependency": "0", 
+                                "uid": "1520962169656888:41173", 
+                                "fileId": "17", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "32", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_c", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "170", 
+                                "dependency": "0", 
+                                "uid": "1520962169720998:41188", 
+                                "fileId": "18", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "33", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_d", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "171", 
+                                "dependency": "0", 
+                                "uid": "1520962169777088:41203", 
+                                "fileId": "19", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "34", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_e", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "172", 
+                                "dependency": "0", 
+                                "uid": "1520962169806361:41218", 
+                                "fileId": "20", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "35", 
+                                "source": "", 
+                                "additional": ""
+                            }, 
+                            {
+                                "name": "kitty_f", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "173", 
+                                "dependency": "0", 
+                                "uid": "1520962169841745:41233", 
+                                "fileId": "21", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "36", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
                     }
                 ]
             }
-        },
+        }, 
         "InspectorController": {
             "selection": ""
-        },
+        }, 
         "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-        },
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": "", 
+            "22": "", 
+            "23": ""
+        }, 
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            },
+            }, 
             "importInfo": ""
         }
-    },
+    }, 
     "description": "Tap on different parts of the screen to play different sounds and animations"
 }

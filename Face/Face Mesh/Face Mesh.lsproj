@@ -1,0 +1,3007 @@
+{
+    "lens_id": "",
+    "document_id": "2yh4IoGvStdQkgk3ydUQ",
+    "original_document_id": "hKVfyDRZkXgycRJuph3n",
+    "version": "20",
+    "lastChanged": "0",
+    "preview": "icon.png",
+    "videoPreview": "preview.mp4",
+    "videoPreviewUpdateTime": "",
+    "isReadOnly": "true",
+    "isAutoSaved": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "2",
+            "minor": "3",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Environment Map"
+                    ],
+                    [
+                        "Environment Map",
+                        "Studio Light"
+                    ],
+                    [
+                        "Environment Map",
+                        "Studio Light",
+                        "Diff"
+                    ],
+                    [
+                        "Environment Map",
+                        "Studio Light",
+                        "Specular"
+                    ],
+                    [
+                        "Face Mesh Resources"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Materials"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Materials",
+                        "octopus_materials"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Scripts"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Scripts",
+                        "FaceMeshExtrude"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Textures"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Textures",
+                        "octopus_base"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Textures",
+                        "octopus_normal"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Extrude Example",
+                        "Textures",
+                        "octopus_prams"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Face Meshes"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Face Meshes",
+                        "face_mesh_geometry"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Face Meshes",
+                        "face_mesh_with_eye_geometry"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Material Editor Example"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Material Editor Example",
+                        "Materials"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Material Editor Example",
+                        "Materials",
+                        "Iridescence"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Material Editor Example",
+                        "Textures"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Material Editor Example",
+                        "Textures",
+                        "iridescence_combined"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Materials"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Materials",
+                        "video_material"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Materials",
+                        "watermelon_material"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Mesh"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Mesh",
+                        "Watermelon"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Mesh",
+                        "Watermelon",
+                        "Meshes"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Mesh",
+                        "Watermelon",
+                        "Meshes",
+                        "Watermelon"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Textures"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Textures",
+                        "video_example"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Textures",
+                        "video_normal"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Textures",
+                        "watermelon_base"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Textures",
+                        "watermelon_normal"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Pin To Mesh Example",
+                        "Textures",
+                        "watermelon_params"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Shiny Face Example"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Shiny Face Example",
+                        "Materials"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Shiny Face Example",
+                        "Materials",
+                        "shiny_face"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Shiny Face Example",
+                        "Scripts"
+                    ],
+                    [
+                        "Face Mesh Resources",
+                        "Shiny Face Example",
+                        "Scripts",
+                        "RotateEnvMap"
+                    ],
+                    [
+                        "Opacity Textures"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_soft"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_soft_lips"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "full_softer"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "lips_hard"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "lips_soft"
+                    ],
+                    [
+                        "Opacity Textures",
+                        "mask_shape"
+                    ],
+                    [
+                        "Textures"
+                    ],
+                    [
+                        "Textures",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "white"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1573760516697671:50529",
+                    "1573773920408959:804988",
+                    "1573774070522996:822410",
+                    "1573774571637726:882590",
+                    "1573777449877824:1165148",
+                    "1573852246963161:20897",
+                    "1574374205553544:139992",
+                    "1574374499852074:172575"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "30a3259b5f43c604c0b5e1a487735686",
+            "icon_path": "icon.png",
+            "video_preview_path": "preview.mp4",
+            "hints": [
+                "lens_hint_find_face"
+            ],
+            "lens": "Face Mesh",
+            "applicability": "3",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "preview_descriptor": {
+                "is_capture": "0",
+                "camera_type": "2"
+            },
+            "show_snap_ui": "true",
+            "show_sponsored_ui": "false",
+            "preview_images_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Beach.jpg",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 3.jpg",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg",
+                "spectacles_preview_is_favorite": "false"
+            },
+            "preview_videos_project_config": {
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
+                "back_preview_is_favorite": "false",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Open Mouth Person 3.webm",
+                "front_preview_is_favorite": "false",
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
+                "spectacles_preview_is_favorite": "false"
+            }
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1573760244197715:23209",
+                    "1573760413219268:39660",
+                    "1573852247047445:20954"
+                ]
+            ]
+        },
+        "UiComponent": {
+            "active_graph_material": "1574795741714345:98338",
+            "active_graph_pass": "0"
+        }
+    },
+    "model": {
+        "IResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1573760226255822:21244",
+                    "name": "Files\/File4.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1573774070155682:822352",
+                    "name": "Files\/File28.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1573774571574850:882565",
+                    "name": "Files\/File42.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1573777494465267:1170558",
+                    "name": "Files\/File54.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1573778305019827:1254028",
+                    "name": "Files\/File58.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1573778305220689:1254058",
+                    "name": "Files\/File60.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1573778305438748:1254480",
+                    "name": "Files\/File62.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1573778305686537:1254513",
+                    "name": "Files\/File64.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1573778305957897:1254953",
+                    "name": "Files\/File66.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1573781369789888:1381654",
+                    "name": "Files\/File70.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1573850865936884:18069",
+                    "name": "Files\/File81",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1573850867305685:18190",
+                    "name": "Files\/File87",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1573850868299737:18275",
+                    "name": "Files\/File91",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1574276430101228:17572",
+                    "name": "Files\/File97",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1574278371097451:124321",
+                    "name": "Files\/File99.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "100",
+                    "uid": "1574300426135840:361256",
+                    "name": "Files\/File151.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "101",
+                    "uid": "1574306013792065:546449",
+                    "name": "Files\/File153.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "102",
+                    "uid": "1574306451717320:564482",
+                    "name": "Files\/File155.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "103",
+                    "uid": "1574307105596289:586492",
+                    "name": "Files\/File157.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "107",
+                    "uid": "1574795741714345:98338",
+                    "name": "Files\/File172",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "108",
+                    "uid": "1574883173185721:6301",
+                    "name": "Files\/File175.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "109",
+                    "uid": "1574883173311391:6310",
+                    "name": "Files\/File177.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "110",
+                    "uid": "1574883359615060:14897",
+                    "name": "Files\/File179",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "111",
+                    "uid": "1574883359975376:14913",
+                    "name": "Files\/File181.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "112",
+                    "uid": "1574883360186221:14926",
+                    "name": "Files\/File183.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "113",
+                    "uid": "1574883360348444:14939",
+                    "name": "Files\/File185.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "114",
+                    "uid": "1574883360583733:14956",
+                    "name": "Files\/File187.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "115",
+                    "uid": "1575423139470149:396299",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                },
+                {
+                    "resId": "116",
+                    "uid": "1575423146537680:397484",
+                    "name": "",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0"
+                }
+            ],
+            "MaterialUpdateManager": {
+                "unrecognizedMaterials": ""
+            }
+        },
+        "InspectorComponent": {
+            "Component": {
+                "EyeColorVisual": {
+                    "uidData": "",
+                    "generalData": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                },
+                "ScreenTransform": {
+                    "uidData": "",
+                    "generalData": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228144:84822",
+                "2": "1528843813151434:5126",
+                "3": "1573760244197350:23208",
+                "4": "1573760417378289:40625",
+                "5": "1573760425666116:41647",
+                "6": "1573760516697671:50529",
+                "7": "1573774070522996:822410",
+                "8": "1573774070523570:822412",
+                "9": "1573774571637726:882590",
+                "10": "1573774571638347:882592",
+                "11": "1573774571640747:882606",
+                "12": "1573777280081664:1145585",
+                "13": "1573852246963161:20897",
+                "14": "1573852246963483:20899",
+                "15": "1574299005459669:282888",
+                "16": "1574371396317814:28352",
+                "17": "1574374205553544:139992",
+                "18": "1574374499852074:172575",
+                "19": "1574374499852682:172577"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "4",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1",
+                    "colorCode": "20"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576",
+                    "colorCode": "21"
+                },
+                {
+                    "layerId": "3",
+                    "layerName": "Custom HDR",
+                    "layerMask": "2",
+                    "colorCode": "0"
+                }
+            ]
+        },
+        "IFileManager": {
+            "pathes": [
+                {
+                    "k": "1",
+                    "v": "Files\/File1.png"
+                },
+                {
+                    "k": "2",
+                    "v": "Files\/File2.png"
+                },
+                {
+                    "k": "4",
+                    "v": "Files\/File4.png"
+                },
+                {
+                    "k": "5",
+                    "v": "Files\/File5.png"
+                },
+                {
+                    "k": "28",
+                    "v": "Files\/File28.js"
+                },
+                {
+                    "k": "42",
+                    "v": "Files\/File42.js"
+                },
+                {
+                    "k": "54",
+                    "v": "Files\/File54.png"
+                },
+                {
+                    "k": "55",
+                    "v": "Files\/File55.png"
+                },
+                {
+                    "k": "58",
+                    "v": "Files\/File58.png"
+                },
+                {
+                    "k": "59",
+                    "v": "Files\/File59.png"
+                },
+                {
+                    "k": "60",
+                    "v": "Files\/File60.png"
+                },
+                {
+                    "k": "61",
+                    "v": "Files\/File61.png"
+                },
+                {
+                    "k": "62",
+                    "v": "Files\/File62.png"
+                },
+                {
+                    "k": "63",
+                    "v": "Files\/File63.png"
+                },
+                {
+                    "k": "64",
+                    "v": "Files\/File64.png"
+                },
+                {
+                    "k": "65",
+                    "v": "Files\/File65.png"
+                },
+                {
+                    "k": "66",
+                    "v": "Files\/File66.png"
+                },
+                {
+                    "k": "67",
+                    "v": "Files\/File67.png"
+                },
+                {
+                    "k": "70",
+                    "v": "Files\/File70.png"
+                },
+                {
+                    "k": "71",
+                    "v": "Files\/File71.png"
+                },
+                {
+                    "k": "81",
+                    "v": "Files\/File81"
+                },
+                {
+                    "k": "82",
+                    "v": "Files\/File82.lsmat"
+                },
+                {
+                    "k": "87",
+                    "v": "Files\/File87"
+                },
+                {
+                    "k": "88",
+                    "v": "Files\/File88.lsmat"
+                },
+                {
+                    "k": "90",
+                    "v": "Files\/File90.lsmat"
+                },
+                {
+                    "k": "91",
+                    "v": "Files\/File91"
+                },
+                {
+                    "k": "92",
+                    "v": "Files\/File92.lsmat"
+                },
+                {
+                    "k": "97",
+                    "v": "Files\/File97"
+                },
+                {
+                    "k": "98",
+                    "v": "Files\/File98.mp4"
+                },
+                {
+                    "k": "99",
+                    "v": "Files\/File99.png"
+                },
+                {
+                    "k": "100",
+                    "v": "Files\/File100.png"
+                },
+                {
+                    "k": "104",
+                    "v": "Files\/File104.oprfb"
+                },
+                {
+                    "k": "106",
+                    "v": "Files\/File106.lsmat"
+                },
+                {
+                    "k": "108",
+                    "v": "Files\/File108.png"
+                },
+                {
+                    "k": "110",
+                    "v": "Files\/File110.png"
+                },
+                {
+                    "k": "112",
+                    "v": "Files\/File112.png"
+                },
+                {
+                    "k": "151",
+                    "v": "Files\/File151.png"
+                },
+                {
+                    "k": "152",
+                    "v": "Files\/File152.png"
+                },
+                {
+                    "k": "153",
+                    "v": "Files\/File153.png"
+                },
+                {
+                    "k": "154",
+                    "v": "Files\/File154.png"
+                },
+                {
+                    "k": "155",
+                    "v": "Files\/File155.png"
+                },
+                {
+                    "k": "156",
+                    "v": "Files\/File156.png"
+                },
+                {
+                    "k": "157",
+                    "v": "Files\/File157.png"
+                },
+                {
+                    "k": "158",
+                    "v": "Files\/File158.png"
+                },
+                {
+                    "k": "160",
+                    "v": "Files\/File160.lsmat"
+                },
+                {
+                    "k": "162",
+                    "v": "Files\/File162.png"
+                },
+                {
+                    "k": "164",
+                    "v": "Files\/File164.png"
+                },
+                {
+                    "k": "166",
+                    "v": "Files\/File166.lsmat"
+                },
+                {
+                    "k": "167",
+                    "v": "Files\/File167.lsmat"
+                },
+                {
+                    "k": "169",
+                    "v": "Files\/File169.lsmat"
+                },
+                {
+                    "k": "172",
+                    "v": "Files\/File172"
+                },
+                {
+                    "k": "173",
+                    "v": "Files\/File173.lsmat"
+                },
+                {
+                    "k": "175",
+                    "v": "Files\/File175.png"
+                },
+                {
+                    "k": "176",
+                    "v": "Files\/File176.png"
+                },
+                {
+                    "k": "177",
+                    "v": "Files\/File177.png"
+                },
+                {
+                    "k": "178",
+                    "v": "Files\/File178.png"
+                },
+                {
+                    "k": "179",
+                    "v": "Files\/File179"
+                },
+                {
+                    "k": "180",
+                    "v": "Files\/File180.lsmat"
+                },
+                {
+                    "k": "181",
+                    "v": "Files\/File181.png"
+                },
+                {
+                    "k": "182",
+                    "v": "Files\/File182.png"
+                },
+                {
+                    "k": "183",
+                    "v": "Files\/File183.png"
+                },
+                {
+                    "k": "184",
+                    "v": "Files\/File184.png"
+                },
+                {
+                    "k": "185",
+                    "v": "Files\/File185.png"
+                },
+                {
+                    "k": "186",
+                    "v": "Files\/File186.png"
+                },
+                {
+                    "k": "187",
+                    "v": "Files\/File187.mesh"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn",
+            "sceneType": "binaryScene"
+        }
+    },
+    "controller": {
+        "IResourceController": {
+            "public": {
+                "pathes": [
+                    {
+                        "k": "1",
+                        "v": "Textures\/echopark_diff.png"
+                    },
+                    {
+                        "k": "2",
+                        "v": "Textures\/echopark_spec.png"
+                    },
+                    {
+                        "k": "4",
+                        "v": "Textures"
+                    },
+                    {
+                        "k": "5",
+                        "v": "Textures\/white.png"
+                    },
+                    {
+                        "k": "44",
+                        "v": "Face Mesh Resources"
+                    },
+                    {
+                        "k": "45",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example"
+                    },
+                    {
+                        "k": "46",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Textures"
+                    },
+                    {
+                        "k": "47",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Materials"
+                    },
+                    {
+                        "k": "425",
+                        "v": "Face Mesh Resources\/Extrude Example\/Materials"
+                    },
+                    {
+                        "k": "427",
+                        "v": "Face Mesh Resources\/Extrude Example\/Scripts"
+                    },
+                    {
+                        "k": "428",
+                        "v": "Face Mesh Resources\/Extrude Example\/Scripts\/FaceMeshExtrude.js"
+                    },
+                    {
+                        "k": "431",
+                        "v": "Face Mesh Resources\/Extrude Example"
+                    },
+                    {
+                        "k": "432",
+                        "v": "Face Mesh Resources\/Extrude Example\/Textures"
+                    },
+                    {
+                        "k": "433",
+                        "v": "Face Mesh Resources\/Face Meshes"
+                    },
+                    {
+                        "k": "440",
+                        "v": "Face Mesh Resources\/Shiny Face Example\/Scripts\/RotateEnvMap.js"
+                    },
+                    {
+                        "k": "441",
+                        "v": "Face Mesh Resources\/Shiny Face Example"
+                    },
+                    {
+                        "k": "442",
+                        "v": "Face Mesh Resources\/Shiny Face Example\/Materials"
+                    },
+                    {
+                        "k": "443",
+                        "v": "Face Mesh Resources\/Shiny Face Example\/Scripts"
+                    },
+                    {
+                        "k": "446",
+                        "v": "Environment Map"
+                    },
+                    {
+                        "k": "452",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "455",
+                        "v": "Opacity Textures"
+                    },
+                    {
+                        "k": "456",
+                        "v": "Opacity Textures\/full_softer.png"
+                    },
+                    {
+                        "k": "457",
+                        "v": "Opacity Textures\/mask_shape.png"
+                    },
+                    {
+                        "k": "458",
+                        "v": "Opacity Textures\/full_soft.png"
+                    },
+                    {
+                        "k": "459",
+                        "v": "Opacity Textures\/lips_hard.png"
+                    },
+                    {
+                        "k": "460",
+                        "v": "Opacity Textures\/lips_soft.png"
+                    },
+                    {
+                        "k": "462",
+                        "v": "Opacity Textures\/full_soft_lips.png"
+                    },
+                    {
+                        "k": "471",
+                        "v": "Face Mesh Resources\/Extrude Example\/Materials\/octopus_materials.lsmat"
+                    },
+                    {
+                        "k": "474",
+                        "v": "Face Mesh Resources\/Shiny Face Example\/Materials\/shiny_face.lsmat"
+                    },
+                    {
+                        "k": "480",
+                        "v": "Face Mesh Resources\/Material Editor Example"
+                    },
+                    {
+                        "k": "482",
+                        "v": "Face Mesh Resources\/Material Editor Example\/Materials"
+                    },
+                    {
+                        "k": "485",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Textures\/video_example"
+                    },
+                    {
+                        "k": "486",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Textures\/video_normal.png"
+                    },
+                    {
+                        "k": "499",
+                        "v": "Face Mesh Resources\/Material Editor Example\/Textures\/iridescence_combined.png"
+                    },
+                    {
+                        "k": "501",
+                        "v": "Face Mesh Resources\/Material Editor Example\/Textures"
+                    },
+                    {
+                        "k": "502",
+                        "v": "Face Mesh Resources\/Extrude Example\/Textures\/octopus_base.png"
+                    },
+                    {
+                        "k": "503",
+                        "v": "Face Mesh Resources\/Extrude Example\/Textures\/octopus_normal.png"
+                    },
+                    {
+                        "k": "504",
+                        "v": "Face Mesh Resources\/Extrude Example\/Textures\/octopus_prams.png"
+                    },
+                    {
+                        "k": "508",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Mesh"
+                    },
+                    {
+                        "k": "510",
+                        "v": "Face Mesh Resources\/Material Editor Example\/Materials\/Iridescence.lsmat"
+                    },
+                    {
+                        "k": "511",
+                        "v": "Environment Map\/Studio Light\/Diff.png"
+                    },
+                    {
+                        "k": "512",
+                        "v": "Environment Map\/Studio Light\/Specular.png"
+                    },
+                    {
+                        "k": "513",
+                        "v": "Environment Map\/Studio Light"
+                    },
+                    {
+                        "k": "517",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Materials\/video_material.lsmat"
+                    },
+                    {
+                        "k": "518",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Materials\/watermelon_material.lsmat"
+                    },
+                    {
+                        "k": "519",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Textures\/watermelon_base.png"
+                    },
+                    {
+                        "k": "520",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Textures\/watermelon_params.png"
+                    },
+                    {
+                        "k": "521",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Textures\/watermelon_normal.png"
+                    },
+                    {
+                        "k": "522",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Mesh\/Watermelon"
+                    },
+                    {
+                        "k": "523",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Mesh\/Watermelon\/Meshes"
+                    },
+                    {
+                        "k": "524",
+                        "v": "Face Mesh Resources\/Pin To Mesh Example\/Mesh\/Watermelon\/Meshes\/Watermelon.mesh"
+                    }
+                ],
+                "hashes": [
+                    {
+                        "k": "1",
+                        "v": "671afbc1d6810060ccbaac866a91cfa1"
+                    },
+                    {
+                        "k": "2",
+                        "v": "8e599835d0d45c5879eafb1f474469cd"
+                    },
+                    {
+                        "k": "3",
+                        "v": "492ea293838dcd91a29aed9c0810544e"
+                    },
+                    {
+                        "k": "5",
+                        "v": "0c8dcfed2f50bb81ac5276a14967c005"
+                    },
+                    {
+                        "k": "6",
+                        "v": "2aaee9bd07a34767d4da76ef73502acb"
+                    },
+                    {
+                        "k": "7",
+                        "v": "1f4e75d9aa0ff179f5832f7b17c37ad6"
+                    },
+                    {
+                        "k": "50",
+                        "v": "492ea293838dcd91a29aed9c0810544e"
+                    },
+                    {
+                        "k": "51",
+                        "v": "9589441d0cb01cb568512cf08eb4c53b"
+                    },
+                    {
+                        "k": "54",
+                        "v": "2aaee9bd07a34767d4da76ef73502acb"
+                    },
+                    {
+                        "k": "56",
+                        "v": "492ea293838dcd91a29aed9c0810544e"
+                    },
+                    {
+                        "k": "58",
+                        "v": "9d6d3f758b2a3b4a256c66e651204a84"
+                    },
+                    {
+                        "k": "403",
+                        "v": "7640bf9a84d29b24f05181181f0bd687"
+                    },
+                    {
+                        "k": "410",
+                        "v": "c06888ac20d583087e4031399b3014e9"
+                    },
+                    {
+                        "k": "411",
+                        "v": "1475011da4aad3f5c761756873d184f8"
+                    },
+                    {
+                        "k": "413",
+                        "v": "2a570f0cf5fedfcaa844699c13b68f18"
+                    },
+                    {
+                        "k": "416",
+                        "v": "3c3a9c8fece8c20d4efce78636baa9f6"
+                    },
+                    {
+                        "k": "417",
+                        "v": "4123ab03985c9da28f777a0e50b91fed"
+                    },
+                    {
+                        "k": "420",
+                        "v": "db6a46236b7e4422420a408a910439dd"
+                    },
+                    {
+                        "k": "421",
+                        "v": "f4e0bf02f7f940288ae8be6f36c1be93"
+                    },
+                    {
+                        "k": "422",
+                        "v": "492ea293838dcd91a29aed9c0810544e"
+                    },
+                    {
+                        "k": "423",
+                        "v": "de3d8e0ca9cf438566fa8a598a51129f"
+                    },
+                    {
+                        "k": "424",
+                        "v": "e11781609b0616640bc4b027161fe90d"
+                    },
+                    {
+                        "k": "426",
+                        "v": "492ea293838dcd91a29aed9c0810544e"
+                    },
+                    {
+                        "k": "428",
+                        "v": "38417083884511517caceff74e41885a"
+                    },
+                    {
+                        "k": "429",
+                        "v": "24006fd7408670db8d6088bf3d7f5f5e"
+                    },
+                    {
+                        "k": "430",
+                        "v": "4b3841f56a504954c122cbe10ca1cf62"
+                    },
+                    {
+                        "k": "434",
+                        "v": "d870c90dc561af236d60682cc564497c"
+                    },
+                    {
+                        "k": "435",
+                        "v": "492ea293838dcd91a29aed9c0810544e"
+                    },
+                    {
+                        "k": "436",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "438",
+                        "v": "3b04a6d2d21c4332435e8bbe5fbff0be"
+                    },
+                    {
+                        "k": "439",
+                        "v": "797eaadea68d41b381237ffbd7157479"
+                    },
+                    {
+                        "k": "440",
+                        "v": "0e5f6d0f5a3d6e66d4e2763c7a7a0fff"
+                    },
+                    {
+                        "k": "447",
+                        "v": "e0d1009e8d52ba65addee280c1f1d02f"
+                    },
+                    {
+                        "k": "448",
+                        "v": "1c2dc1ee843296684465993c3917c89e"
+                    },
+                    {
+                        "k": "450",
+                        "v": "4fc4e6d04252a895be259dfa5fdff4ca"
+                    },
+                    {
+                        "k": "451",
+                        "v": "8fd8633c06eb4da9cdf7950323ce842a"
+                    },
+                    {
+                        "k": "452",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "453",
+                        "v": "aa8018ab091e8e75ab7e5bf3a09096b0"
+                    },
+                    {
+                        "k": "454",
+                        "v": "c6d35c6bf2e380885d48ce2806914d49"
+                    },
+                    {
+                        "k": "456",
+                        "v": "70e405aee0a97c209b7cf5d8496c9f78"
+                    },
+                    {
+                        "k": "457",
+                        "v": "e12704f7fb1291b0f0f0565642544ed5"
+                    },
+                    {
+                        "k": "458",
+                        "v": "25ee43e5e68a8c1aa9e67ba56a667ca6"
+                    },
+                    {
+                        "k": "459",
+                        "v": "0a98224f66c27941c65d2b6b16115c5d"
+                    },
+                    {
+                        "k": "460",
+                        "v": "146791bdf7024d553840a29034ec3b67"
+                    },
+                    {
+                        "k": "461",
+                        "v": "acb5ce92de0496b1d8ceec617fd2f3a5"
+                    },
+                    {
+                        "k": "462",
+                        "v": "28ce5724bfd0a3fb92a73fa724d2e3d1"
+                    },
+                    {
+                        "k": "470",
+                        "v": "2177f6ed574248d35809f7be787416dd"
+                    },
+                    {
+                        "k": "471",
+                        "v": "99e1bcc84de183a41326b0007dfc350f"
+                    },
+                    {
+                        "k": "472",
+                        "v": "e3d9a15fc5ec3159625d78d70abcb827"
+                    },
+                    {
+                        "k": "473",
+                        "v": "73115a19d8c5ff79b4332d4ba7a684b0"
+                    },
+                    {
+                        "k": "474",
+                        "v": "0b6e2454e9f1887fad464acbedb55d23"
+                    },
+                    {
+                        "k": "475",
+                        "v": "b26ae2a0e7976b5d219ac8b339d629d9"
+                    },
+                    {
+                        "k": "476",
+                        "v": "f1e8afdd2445d2c109d5555d2fb16424"
+                    },
+                    {
+                        "k": "480",
+                        "v": "4f6259b06993288ba17f4aaf41ced740"
+                    },
+                    {
+                        "k": "481",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "482",
+                        "v": "59adb24ef3cdbe0297f05b395827453f"
+                    },
+                    {
+                        "k": "483",
+                        "v": "c9c672e403140572ccf5a8b132d8bfbf"
+                    },
+                    {
+                        "k": "484",
+                        "v": "1ec7f70bc79499e7ef7152a45aedd1ae"
+                    },
+                    {
+                        "k": "485",
+                        "v": "7369b7f407f294239d5834eb2bb5fe7c"
+                    },
+                    {
+                        "k": "486",
+                        "v": "bab01a3fbde574fac5cb2b2139730147"
+                    },
+                    {
+                        "k": "487",
+                        "v": "04c61aa90bf2c86244149b5b28ef5a05"
+                    },
+                    {
+                        "k": "488",
+                        "v": "ccf733c9ea9f31c7a188d1db00fa3a74"
+                    },
+                    {
+                        "k": "489",
+                        "v": "eef30c6e55e7788c0aa7662ebbdfabaf"
+                    },
+                    {
+                        "k": "490",
+                        "v": "69514b12ff8ef042fe33937068e84c05"
+                    },
+                    {
+                        "k": "491",
+                        "v": "badd250ad8642c04b8bf9e4cf89b49ba"
+                    },
+                    {
+                        "k": "492",
+                        "v": "2f1c4ac394b708c1e18f62ad58db3b68"
+                    },
+                    {
+                        "k": "493",
+                        "v": "fd56d3acf93d31364ac51f32fbd3867e"
+                    },
+                    {
+                        "k": "494",
+                        "v": "706c20653ce2e5707469dde09a9dc25e"
+                    },
+                    {
+                        "k": "495",
+                        "v": "706c20653ce2e5707469dde09a9dc25e"
+                    },
+                    {
+                        "k": "496",
+                        "v": "706c20653ce2e5707469dde09a9dc25e"
+                    },
+                    {
+                        "k": "497",
+                        "v": "7fdb5ecf4fb913d26eb1fe8101f15199"
+                    },
+                    {
+                        "k": "498",
+                        "v": "7fdb5ecf4fb913d26eb1fe8101f15199"
+                    },
+                    {
+                        "k": "499",
+                        "v": "c7ecd68fa6cf66da106bdd85ef68b6bd"
+                    },
+                    {
+                        "k": "500",
+                        "v": "2e5b93d0a35942db56dec1bf30e7d417"
+                    },
+                    {
+                        "k": "502",
+                        "v": "897eaa5159a951cbc59276e244103750"
+                    },
+                    {
+                        "k": "503",
+                        "v": "8e4e147981adf442a356d9b2def23026"
+                    },
+                    {
+                        "k": "504",
+                        "v": "f6d55912076cde9cd92ff42470383f3e"
+                    },
+                    {
+                        "k": "505",
+                        "v": "464f444dfcba88908c256dddc14e2779"
+                    },
+                    {
+                        "k": "506",
+                        "v": "6ac8584833c54eb452d87d08a1d47513"
+                    },
+                    {
+                        "k": "507",
+                        "v": "b4c96f39219ee7a5595e0b1c900e3da7"
+                    },
+                    {
+                        "k": "509",
+                        "v": "04c61aa90bf2c86244149b5b28ef5a05"
+                    },
+                    {
+                        "k": "510",
+                        "v": "879acbaf9659e7785d5ab26510821c3e"
+                    },
+                    {
+                        "k": "511",
+                        "v": "ba4cfd7d6b181abce8ef6453c42b159f"
+                    },
+                    {
+                        "k": "512",
+                        "v": "758f73627951a950a36ba4dbc59c8d71"
+                    },
+                    {
+                        "k": "514",
+                        "v": "badd250ad8642c04b8bf9e4cf89b49ba"
+                    },
+                    {
+                        "k": "515",
+                        "v": "69514b12ff8ef042fe33937068e84c05"
+                    },
+                    {
+                        "k": "516",
+                        "v": "eef30c6e55e7788c0aa7662ebbdfabaf"
+                    },
+                    {
+                        "k": "517",
+                        "v": "dd27c31b07d95301082e501af69cb5a9"
+                    },
+                    {
+                        "k": "518",
+                        "v": "2aa738df3a24022b7a3b07ced8b8e9ac"
+                    },
+                    {
+                        "k": "519",
+                        "v": "eef30c6e55e7788c0aa7662ebbdfabaf"
+                    },
+                    {
+                        "k": "520",
+                        "v": "69514b12ff8ef042fe33937068e84c05"
+                    },
+                    {
+                        "k": "521",
+                        "v": "badd250ad8642c04b8bf9e4cf89b49ba"
+                    },
+                    {
+                        "k": "524",
+                        "v": "c9be1cc5bd6cf818f692345b53f46d37"
+                    },
+                    {
+                        "k": "550",
+                        "v": "db1633dd326bc8f976dd02c2fdb5bbf4"
+                    },
+                    {
+                        "k": "552",
+                        "v": "b8c4f74a16d1548b5c8cecb4b54a3c89"
+                    },
+                    {
+                        "k": "553",
+                        "v": "a094f372f9487690786f930bd7030e82"
+                    },
+                    {
+                        "k": "556",
+                        "v": "0f22bac28f4bb7f9303722acb5d035e0"
+                    },
+                    {
+                        "k": "557",
+                        "v": "c131d6b8c0d4a0024e8bc15b93f5b58b"
+                    },
+                    {
+                        "k": "558",
+                        "v": "4ca6ca961ac63737cdfdb95767c3e077"
+                    },
+                    {
+                        "k": "560",
+                        "v": "871e69e1d4fb4192ebb4b4623bd6ede7"
+                    },
+                    {
+                        "k": "561",
+                        "v": "8a3af68c16493bc48b0f7f17a1d6c065"
+                    },
+                    {
+                        "k": "562",
+                        "v": "a8212c4a0d7f900c75c80ad4829f91f0"
+                    },
+                    {
+                        "k": "563",
+                        "v": "0484abd87ee78b2745eb9563b19fd6a2"
+                    },
+                    {
+                        "k": "564",
+                        "v": "550028626efc41ac36131021cda09b5e"
+                    },
+                    {
+                        "k": "565",
+                        "v": "15f4c60fdceda581e50db7b5e824cda4"
+                    },
+                    {
+                        "k": "567",
+                        "v": "1b1aed84660d4d4bfa562b6b387bd9de"
+                    },
+                    {
+                        "k": "568",
+                        "v": "bb8785d45c45a33de1d1d9466104a15e"
+                    },
+                    {
+                        "k": "569",
+                        "v": "79ba797158a4311ecc9e05cea9c45667"
+                    },
+                    {
+                        "k": "572",
+                        "v": "54b5e21104a4a7f86b3d510596fdc27e"
+                    }
+                ],
+                "publicState": {
+                    "tree": {
+                        "isFolder": "true",
+                        "lastModified": "2019-12-04T16:55:47",
+                        "name": "Public",
+                        "hash": "40e7a2ace3ba1dcaaa2ecf0a4768f579",
+                        "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-11-26T14:08:17",
+                                "name": "Textures",
+                                "hash": "e0da96b23b2bdbefd4880c97cc1c0c40",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "echopark_diff.png",
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "echopark_spec.png",
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "white.png",
+                                        "hash": "0c8dcfed2f50bb81ac5276a14967c005",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-11-26T14:08:17",
+                                "name": "Opacity Textures",
+                                "hash": "ee1ed6641f47b8d1f5eef0268eca0b47",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "full_softer.png",
+                                        "hash": "70e405aee0a97c209b7cf5d8496c9f78",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "mask_shape.png",
+                                        "hash": "e12704f7fb1291b0f0f0565642544ed5",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "full_soft.png",
+                                        "hash": "25ee43e5e68a8c1aa9e67ba56a667ca6",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "lips_hard.png",
+                                        "hash": "0a98224f66c27941c65d2b6b16115c5d",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "full_soft_lips.png",
+                                        "hash": "28ce5724bfd0a3fb92a73fa724d2e3d1",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "lips_soft.png",
+                                        "hash": "146791bdf7024d553840a29034ec3b67",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-12-04T16:55:47",
+                                "name": "Face Mesh Resources",
+                                "hash": "0881f50075b384b4ab16f24b84efb588",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-27T09:55:56",
+                                        "name": "Extrude Example",
+                                        "hash": "2bfa85ffe08b7485a24368998fabe33b",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-27T09:55:56",
+                                                "name": "Textures",
+                                                "hash": "814c8919cce896e14c5302e82aee4914",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "octopus_prams.png",
+                                                        "hash": "f6d55912076cde9cd92ff42470383f3e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "octopus_normal.png",
+                                                        "hash": "8e4e147981adf442a356d9b2def23026",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "octopus_base.png",
+                                                        "hash": "897eaa5159a951cbc59276e244103750",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-12-04T16:55:36",
+                                                "name": "Materials",
+                                                "hash": "cf44e3e2bcf6b2a4c0dc04a477034086",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-04T16:55:36",
+                                                        "name": "octopus_materials.lsmat",
+                                                        "hash": "99e1bcc84de183a41326b0007dfc350f",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-27T09:55:56",
+                                                "name": "Scripts",
+                                                "hash": "994eb909d4f4cb7c0914c4bd4e2da06a",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "FaceMeshExtrude.js",
+                                                        "hash": "38417083884511517caceff74e41885a",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T09:55:56",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-27T09:55:56",
+                                        "name": "Face Meshes",
+                                        "hash": "59adb24ef3cdbe0297f05b395827453f",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T09:55:56",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-27T09:55:56",
+                                        "name": "Material Editor Example",
+                                        "hash": "dc181a63ad56af394374d25ce6264517",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-27T09:55:56",
+                                                "name": "Textures",
+                                                "hash": "93936e67aa0b134b5a99634391dc7b03",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "iridescence_combined.png",
+                                                        "hash": "c7ecd68fa6cf66da106bdd85ef68b6bd",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-12-04T16:58:13",
+                                                "name": "Materials",
+                                                "hash": "e2fbe2e8e41a55c4b29414e59179491e",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-04T16:58:13",
+                                                        "name": "Iridescence.lsmat",
+                                                        "hash": "879acbaf9659e7785d5ab26510821c3e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T09:55:56",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-27T09:55:57",
+                                        "name": "Pin To Mesh Example",
+                                        "hash": "8753284fe53ffa2fec16646b9dd20fa6",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-27T17:18:27",
+                                                "name": "Mesh",
+                                                "hash": "b6bfdbc5176422e64185ccfa248b4d29",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-11-27T17:18:27",
+                                                        "name": "Watermelon",
+                                                        "hash": "c409c3cbc8daca92945a3af5e3bf2ea6",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "true",
+                                                                "lastModified": "2019-11-27T17:18:27",
+                                                                "name": "Meshes",
+                                                                "hash": "e210701065adea9c1b69db222d8f1007",
+                                                                "children": [
+                                                                    {
+                                                                        "isFolder": "false",
+                                                                        "lastModified": "2019-11-27T17:18:27",
+                                                                        "name": "Watermelon.mesh",
+                                                                        "hash": "c9be1cc5bd6cf818f692345b53f46d37",
+                                                                        "children": ""
+                                                                    },
+                                                                    {
+                                                                        "isFolder": "false",
+                                                                        "lastModified": "2019-11-27T17:18:27",
+                                                                        "name": "folder.lock",
+                                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                        "children": ""
+                                                                    }
+                                                                ]
+                                                            },
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-27T17:18:27",
+                                                                "name": "folder.lock",
+                                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-27T11:36:00",
+                                                "name": "Textures",
+                                                "hash": "e0626e663a7498d6fdcf07c3db5cece7",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "true",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "video_example",
+                                                        "hash": "7369b7f407f294239d5834eb2bb5fe7c",
+                                                        "children": [
+                                                            {
+                                                                "isFolder": "false",
+                                                                "lastModified": "2019-11-27T09:55:56",
+                                                                "name": "video.mp4",
+                                                                "hash": "b7e81c8204282761f6a53e40104710b7",
+                                                                "children": ""
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T11:35:59",
+                                                        "name": "watermelon_params.png",
+                                                        "hash": "69514b12ff8ef042fe33937068e84c05",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T11:35:59",
+                                                        "name": "watermelon_base.png",
+                                                        "hash": "eef30c6e55e7788c0aa7662ebbdfabaf",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T11:35:59",
+                                                        "name": "watermelon_normal.png",
+                                                        "hash": "badd250ad8642c04b8bf9e4cf89b49ba",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "video_normal.png",
+                                                        "hash": "bab01a3fbde574fac5cb2b2139730147",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-12-04T16:55:39",
+                                                "name": "Materials",
+                                                "hash": "b52af672237f4031788f4423440aadae",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-04T16:55:39",
+                                                        "name": "video_material.lsmat",
+                                                        "hash": "dd27c31b07d95301082e501af69cb5a9",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-04T16:55:39",
+                                                        "name": "watermelon_material.lsmat",
+                                                        "hash": "2aa738df3a24022b7a3b07ced8b8e9ac",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:56",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T09:55:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-27T09:55:57",
+                                        "name": "Shiny Face Example",
+                                        "hash": "81a1185ba70a0fd597b150cc87925c3a",
+                                        "children": [
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-12-04T16:55:45",
+                                                "name": "Materials",
+                                                "hash": "5372b2c51db57754c647610ad57d1ddc",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-12-04T16:55:45",
+                                                        "name": "shiny_face.lsmat",
+                                                        "hash": "0b6e2454e9f1887fad464acbedb55d23",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "true",
+                                                "lastModified": "2019-11-27T09:55:57",
+                                                "name": "Scripts",
+                                                "hash": "b673b17d2c432af6a95b9386475065e6",
+                                                "children": [
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:57",
+                                                        "name": "RotateEnvMap.js",
+                                                        "hash": "0e5f6d0f5a3d6e66d4e2763c7a7a0fff",
+                                                        "children": ""
+                                                    },
+                                                    {
+                                                        "isFolder": "false",
+                                                        "lastModified": "2019-11-27T09:55:57",
+                                                        "name": "folder.lock",
+                                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                        "children": ""
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T09:55:57",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-27T09:55:57",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2019-11-27T17:18:27",
+                                "name": "Environment Map",
+                                "hash": "ca2df1193dfe8e8c0f70ff0cb5fbc8b6",
+                                "children": [
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2019-11-27T17:18:27",
+                                        "name": "Studio Light",
+                                        "hash": "8225c2a053d36498756e0c69a4306bfa",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T17:18:27",
+                                                "name": "Diff.png",
+                                                "hash": "ba4cfd7d6b181abce8ef6453c42b159f",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T17:18:27",
+                                                "name": "Specular.png",
+                                                "hash": "758f73627951a950a36ba4dbc59c8d71",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-11-27T17:18:27",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-11-26T14:08:17",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2019-11-26T14:08:17",
+                                "name": "folder.lock",
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "children": ""
+                            }
+                        ]
+                    }
+                },
+                "complexResources": [
+                    "485"
+                ]
+            },
+            "tree": {
+                "name": "",
+                "type": "0",
+                "subtype": "-1",
+                "resourceId": "-1",
+                "dependency": "0",
+                "uid": "-1:-1",
+                "fileId": "18446744073709551615",
+                "originalId": "18446744073709551615",
+                "publicId": "18446744073709551615",
+                "source": "",
+                "additional": "",
+                "resources": [
+                    {
+                        "name": "Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "4",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Render Target",
+                                "type": "1",
+                                "subtype": "1",
+                                "resourceId": "1",
+                                "dependency": "0",
+                                "uid": "1:1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Device Camera Texture",
+                                "type": "1",
+                                "subtype": "3",
+                                "resourceId": "2",
+                                "dependency": "0",
+                                "uid": "2:2",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "18446744073709551615",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_diff",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "8",
+                                "dependency": "0",
+                                "uid": "1517446348230286:84828",
+                                "fileId": "1",
+                                "originalId": "18446744073709551615",
+                                "publicId": "1",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "echopark_spec",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "9",
+                                "dependency": "0",
+                                "uid": "1517446348234137:84840",
+                                "fileId": "2",
+                                "originalId": "18446744073709551615",
+                                "publicId": "2",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "white",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "11",
+                                "dependency": "0",
+                                "uid": "1573760226255822:21244",
+                                "fileId": "4",
+                                "originalId": "18446744073709551615",
+                                "publicId": "5",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "56",
+                                "dependency": "0",
+                                "uid": "1573777494465267:1170558",
+                                "fileId": "54",
+                                "originalId": "18446744073709551615",
+                                "publicId": "452",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Opacity Textures",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "455",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "full_softer",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "58",
+                                "dependency": "0",
+                                "uid": "1573778305019827:1254028",
+                                "fileId": "58",
+                                "originalId": "18446744073709551615",
+                                "publicId": "456",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "full_soft",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "60",
+                                "dependency": "0",
+                                "uid": "1573778305438748:1254480",
+                                "fileId": "62",
+                                "originalId": "18446744073709551615",
+                                "publicId": "458",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "lips_hard",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "61",
+                                "dependency": "0",
+                                "uid": "1573778305686537:1254513",
+                                "fileId": "64",
+                                "originalId": "18446744073709551615",
+                                "publicId": "459",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "lips_soft",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "62",
+                                "dependency": "0",
+                                "uid": "1573778305957897:1254953",
+                                "fileId": "66",
+                                "originalId": "18446744073709551615",
+                                "publicId": "460",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "mask_shape",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "59",
+                                "dependency": "0",
+                                "uid": "1573778305220689:1254058",
+                                "fileId": "60",
+                                "originalId": "18446744073709551615",
+                                "publicId": "457",
+                                "source": "",
+                                "additional": ""
+                            },
+                            {
+                                "name": "full_soft_lips",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "64",
+                                "dependency": "0",
+                                "uid": "1573781369789888:1381654",
+                                "fileId": "70",
+                                "originalId": "18446744073709551615",
+                                "publicId": "462",
+                                "source": "",
+                                "additional": ""
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Environment Map",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "446",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Studio Light",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "513",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "108",
+                                        "dependency": "0",
+                                        "uid": "1574883173185721:6301",
+                                        "fileId": "175",
+                                        "originalId": "176",
+                                        "publicId": "511",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Specular",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "109",
+                                        "dependency": "0",
+                                        "uid": "1574883173311391:6310",
+                                        "fileId": "177",
+                                        "originalId": "178",
+                                        "publicId": "512",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Face Mesh Resources",
+                        "type": "0",
+                        "subtype": "-1",
+                        "resourceId": "-1",
+                        "dependency": "0",
+                        "uid": "-1:-1",
+                        "fileId": "18446744073709551615",
+                        "originalId": "18446744073709551615",
+                        "publicId": "44",
+                        "source": "",
+                        "additional": "",
+                        "resources": [
+                            {
+                                "name": "Material Editor Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "480",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "482",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Iridescence",
+                                                "type": "2",
+                                                "subtype": "1",
+                                                "resourceId": "107",
+                                                "dependency": "0",
+                                                "uid": "1574795741714345:98338",
+                                                "fileId": "172",
+                                                "originalId": "173",
+                                                "publicId": "510",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "501",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "iridescence_combined",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "100",
+                                                "dependency": "0",
+                                                "uid": "1574300426135840:361256",
+                                                "fileId": "151",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "499",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Extrude Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "431",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "425",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "octopus_materials",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "66",
+                                                "dependency": "0",
+                                                "uid": "1573850865936884:18069",
+                                                "fileId": "81",
+                                                "originalId": "166",
+                                                "publicId": "471",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Scripts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "427",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "FaceMeshExtrude",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "38",
+                                                "dependency": "0",
+                                                "uid": "1573774070155682:822352",
+                                                "fileId": "28",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "428",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "432",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "octopus_base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "101",
+                                                "dependency": "0",
+                                                "uid": "1574306013792065:546449",
+                                                "fileId": "153",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "502",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "octopus_normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "102",
+                                                "dependency": "0",
+                                                "uid": "1574306451717320:564482",
+                                                "fileId": "155",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "503",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "octopus_prams",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "103",
+                                                "dependency": "0",
+                                                "uid": "1574307105596289:586492",
+                                                "fileId": "157",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "504",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Pin To Mesh Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "45",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Textures",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "46",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "video_example",
+                                                "type": "1",
+                                                "subtype": "7",
+                                                "resourceId": "75",
+                                                "dependency": "0",
+                                                "uid": "1574276430101228:17572",
+                                                "fileId": "97",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "485",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "video_normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "76",
+                                                "dependency": "0",
+                                                "uid": "1574278371097451:124321",
+                                                "fileId": "99",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "486",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "watermelon_base",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "111",
+                                                "dependency": "0",
+                                                "uid": "1574883359975376:14913",
+                                                "fileId": "181",
+                                                "originalId": "182",
+                                                "publicId": "519",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "watermelon_params",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "112",
+                                                "dependency": "0",
+                                                "uid": "1574883360186221:14926",
+                                                "fileId": "183",
+                                                "originalId": "184",
+                                                "publicId": "520",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "watermelon_normal",
+                                                "type": "1",
+                                                "subtype": "9",
+                                                "resourceId": "113",
+                                                "dependency": "0",
+                                                "uid": "1574883360348444:14939",
+                                                "fileId": "185",
+                                                "originalId": "186",
+                                                "publicId": "521",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "47",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "video_material",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "71",
+                                                "dependency": "0",
+                                                "uid": "1573850868299737:18275",
+                                                "fileId": "91",
+                                                "originalId": "169",
+                                                "publicId": "517",
+                                                "source": "",
+                                                "additional": ""
+                                            },
+                                            {
+                                                "name": "watermelon_material",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "110",
+                                                "dependency": "0",
+                                                "uid": "1574883359615060:14897",
+                                                "fileId": "179",
+                                                "originalId": "180",
+                                                "publicId": "518",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Mesh",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "508",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "Watermelon",
+                                                "type": "0",
+                                                "subtype": "-1",
+                                                "resourceId": "-1",
+                                                "dependency": "0",
+                                                "uid": "-1:-1",
+                                                "fileId": "18446744073709551615",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "522",
+                                                "source": "",
+                                                "additional": "",
+                                                "resources": [
+                                                    {
+                                                        "name": "Meshes",
+                                                        "type": "0",
+                                                        "subtype": "-1",
+                                                        "resourceId": "-1",
+                                                        "dependency": "0",
+                                                        "uid": "-1:-1",
+                                                        "fileId": "18446744073709551615",
+                                                        "originalId": "18446744073709551615",
+                                                        "publicId": "523",
+                                                        "source": "",
+                                                        "additional": "",
+                                                        "resources": [
+                                                            {
+                                                                "name": "Watermelon",
+                                                                "type": "3",
+                                                                "subtype": "0",
+                                                                "resourceId": "114",
+                                                                "dependency": "0",
+                                                                "uid": "1574883360583733:14956",
+                                                                "fileId": "187",
+                                                                "originalId": "18446744073709551615",
+                                                                "publicId": "524",
+                                                                "source": "",
+                                                                "additional": ""
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Shiny Face Example",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "441",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Materials",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "442",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "shiny_face",
+                                                "type": "2",
+                                                "subtype": "0",
+                                                "resourceId": "69",
+                                                "dependency": "0",
+                                                "uid": "1573850867305685:18190",
+                                                "fileId": "87",
+                                                "originalId": "167",
+                                                "publicId": "474",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Scripts",
+                                        "type": "0",
+                                        "subtype": "-1",
+                                        "resourceId": "-1",
+                                        "dependency": "0",
+                                        "uid": "-1:-1",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "443",
+                                        "source": "",
+                                        "additional": "",
+                                        "resources": [
+                                            {
+                                                "name": "RotateEnvMap",
+                                                "type": "4",
+                                                "subtype": "0",
+                                                "resourceId": "47",
+                                                "dependency": "0",
+                                                "uid": "1573774571574850:882565",
+                                                "fileId": "42",
+                                                "originalId": "18446744073709551615",
+                                                "publicId": "440",
+                                                "source": "",
+                                                "additional": ""
+                                            }
+                                        ]
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Face Meshes",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "433",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "face_mesh_geometry",
+                                        "type": "3",
+                                        "subtype": "2",
+                                        "resourceId": "115",
+                                        "dependency": "0",
+                                        "uid": "1575423139470149:396299",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "face_mesh_with_eye_geometry",
+                                        "type": "3",
+                                        "subtype": "2",
+                                        "resourceId": "116",
+                                        "dependency": "0",
+                                        "uid": "1575423146537680:397484",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "InspectorController": {
+            "selection": ""
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": "",
+            "17": "",
+            "18": "",
+            "19": "",
+            "20": "",
+            "22": "",
+            "23": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": [
+                {
+                    "k": "1574297783453125:191555",
+                    "v": [
+                        {
+                            "k": "",
+                            "v": "1574299172745374:297920"
+                        },
+                        {
+                            "k": [
+                                "Watermelon"
+                            ],
+                            "v": "1574299172745874:297922"
+                        },
+                        {
+                            "k": [
+                                "Watermelon",
+                                "Component.RenderMeshVisual"
+                            ],
+                            "v": "1574299172746242:297924"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    "description": "Apply custom textures and effects to a 3D face model that mimics the user’s face"
+}
