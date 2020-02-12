@@ -17,7 +17,7 @@ script.api.emitter = script.emitter;
 script.api.emitterColorMin = script.emitterColorMin;
 script.api.emitterColorMax = script.emitterColorMax;
 script.api.particleAmount = script.particleAmount;
-script.api.emitterAlpha = script.emitterAlpha;
+script.api.emitterAlpha = script.particleAlpha;
 
 function onLensTurnOn(){
     pass = script.api.emitter.mainPass;

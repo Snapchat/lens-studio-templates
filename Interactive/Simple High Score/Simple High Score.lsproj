@@ -1,1048 +1,1062 @@
 {
-    "lens_id": "",
-    "document_id": "kCeQCQT2lzrqhB7CNIXn",
-    "original_document_id": "nCexpW957lEQrKWYUH6T",
-    "version": "19",
-    "lastChanged": "0",
-    "preview": "icon.png",
-    "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
-    "isReadOnly": "true",
-    "isAutoSaved": "false",
+    "lens_id": "", 
+    "document_id": "VdI2Mv2rLzrry4HvQ5Gi", 
+    "original_document_id": "nCexpW957lEQrKWYUH6T", 
+    "version": "20", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "preview.mp4", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "isAutoSaved": "false", 
     "studioVersion": {
         "createdWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
-        },
+        }, 
         "lastSavedWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
         }
-    },
+    }, 
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "Default"
-                    ],
+                    ], 
                     [
-                        "Default",
+                        "Default", 
                         "echopark_diff"
-                    ],
+                    ], 
                     [
-                        "Default",
+                        "Default", 
                         "echopark_spec"
-                    ],
+                    ], 
                     [
                         "Fonts"
-                    ],
+                    ], 
                     [
-                        "Fonts",
+                        "Fonts", 
                         "jellee_roman"
-                    ],
+                    ], 
                     [
                         "Scripts"
-                    ],
+                    ], 
                     [
-                        "Scripts",
+                        "Scripts", 
                         "EndGame"
-                    ],
+                    ], 
                     [
-                        "Scripts",
+                        "Scripts", 
                         "IncrementScore"
-                    ],
+                    ], 
                     [
-                        "Scripts",
+                        "Scripts", 
                         "SimpleHighScoreController"
-                    ],
+                    ], 
                     [
                         "Textures"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "add_point"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "end_game"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "high_score_background"
                     ]
                 ]
             ]
-        },
+        }, 
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1517446348227994:84813",
+                    "1517446348227994:84813", 
                     "1552098026708460:14811"
                 ]
             ]
-        },
+        }, 
         "MetaInfoUIComponent": {
-            "icon_hash": "0f258e59f96a02c89cf0fb095962faa6",
-            "icon_path": "icon.png",
-            "video_preview_path": "preview.mp4",
+            "icon_hash": "0f258e59f96a02c89cf0fb095962faa6", 
+            "icon_path": "icon.png", 
+            "video_preview_path": "preview.mp4", 
             "hints": [
                 ""
-            ],
-            "lens": "Simple High Score",
-            "applicability": "3",
+            ], 
+            "lens": "Simple High Score", 
+            "applicability": "3", 
             "lens_descriptors": ""
-        },
+        }, 
         "PreviewUiComponent": {
             "preview_descriptor": {
-                "is_capture": "0",
+                "is_capture": "0", 
                 "camera_type": "2"
-            },
-            "show_snap_ui": "false",
-            "show_sponsored_ui": "false",
+            }, 
+            "show_snap_ui": "false", 
+            "show_sponsored_ui": "false", 
             "preview_images_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg",
-                "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Sky.jpg",
-                "back_preview_is_favorite": "false"
-            },
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Sky.jpg", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 1.jpg", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg", 
+                "spectacles_preview_is_favorite": "false"
+            }, 
             "preview_videos_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm",
-                "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Sky.webm",
-                "back_preview_is_favorite": "false"
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Sky.webm", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 1.webm", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm", 
+                "spectacles_preview_is_favorite": "false"
             }
-        },
+        }, 
         "InspectorUiComponent": {
             "collapsedList": [
                 [
                     "1552100375417393:237671"
                 ]
             ]
+        }, 
+        "UiComponent": {
+            "active_graph_material": "-1:-1", 
+            "active_graph_pass": "-1"
         }
-    },
+    }, 
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "1",
-                    "uid": "1:1",
-                    "name": "Camera Output",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "2",
-                    "uid": "2:2",
-                    "name": "Camera Input",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "8",
-                    "uid": "1517446348230286:84828",
-                    "name": "\/Resources\/Resource8.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "8", 
+                    "uid": "1517446348230286:84828", 
+                    "name": "\/Resources\/Resource8.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "9",
-                    "uid": "1517446348234137:84840",
-                    "name": "\/Resources\/Resource9.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "9", 
+                    "uid": "1517446348234137:84840", 
+                    "name": "\/Resources\/Resource9.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "10",
-                    "uid": "1552098004821276:13886",
-                    "name": "Files\/File3.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "10", 
+                    "uid": "1552098004821276:13886", 
+                    "name": "Files\/File3.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "11",
-                    "uid": "1552098099607215:47071",
-                    "name": "Files\/File4.ttf",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "11", 
+                    "uid": "1552098099607215:47071", 
+                    "name": "Files\/File4.ttf", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "12",
-                    "uid": "1552098963221579:210442",
-                    "name": "Files\/File5.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "12", 
+                    "uid": "1552098963221579:210442", 
+                    "name": "Files\/File5.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "13",
-                    "uid": "1552099091370900:241547",
-                    "name": "Files\/File6.js",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "13", 
+                    "uid": "1552099091370900:241547", 
+                    "name": "Files\/File6.js", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "15",
-                    "uid": "1552100202460583:110136",
-                    "name": "Files\/File9.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "15", 
+                    "uid": "1552100202460583:110136", 
+                    "name": "Files\/File9.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "16",
-                    "uid": "1552103509048874:7281",
-                    "name": "Files\/File12.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "16", 
+                    "uid": "1552103509048874:7281", 
+                    "name": "Files\/File12.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "17",
-                    "uid": "1552103509182368:7291",
-                    "name": "Files\/File14.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "17", 
+                    "uid": "1552103509182368:7291", 
+                    "name": "Files\/File14.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
                 }
-            ],
+            ], 
             "MaterialUpdateManager": {
                 "unrecognizedMaterials": ""
             }
-        },
+        }, 
         "InspectorComponent": {
             "Component": {
+                "EyeColorVisual": {
+                    "uidData": "", 
+                    "generalData": ""
+                }, 
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                },
+                }, 
                 "ScreenTransform": {
                     "uidData": [
                         {
-                            "k": "1552098026708787:14817",
+                            "k": "1552098026708787:14817", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552098026750245:15080",
+                            "k": "1552098026750245:15080", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552098122801378:54472",
+                            "k": "1552098122801378:54472", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552098211901116:72847",
+                            "k": "1552098211901116:72847", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552098291790434:122107",
+                            "k": "1552098291790434:122107", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552098887400850:171685",
+                            "k": "1552098887400850:171685", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552098887417433:171948",
+                            "k": "1552098887417433:171948", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552099921044305:14984",
+                            "k": "1552099921044305:14984", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552100712615363:319215",
+                            "k": "1552100712615363:319215", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
-                        },
+                        }, 
                         {
-                            "k": "1552103767813985:97095",
+                            "k": "1552103767813985:97095", 
                             "v": {
-                                "isBasicMode": "true",
+                                "isBasicMode": "true", 
                                 "basicModeSetup": {
-                                    "fixWidth": "false",
-                                    "fixHeight": "false",
-                                    "attachBottom": "false",
-                                    "attachLeft": "false",
-                                    "attachRight": "false",
+                                    "fixWidth": "false", 
+                                    "fixHeight": "false", 
+                                    "attachBottom": "false", 
+                                    "attachLeft": "false", 
+                                    "attachRight": "false", 
                                     "attachTop": "false"
                                 }
                             }
                         }
-                    ],
+                    ], 
                     "generalData": ""
                 }
             }
-        },
+        }, 
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1517446348227994:84813",
-                "1": "1517446348228144:84822",
-                "2": "1528843813151434:5126",
-                "3": "1552097994834405:13867",
-                "4": "1552098026700263:14716",
-                "5": "1552098026708460:14811",
-                "6": "1552098026750103:15077",
-                "7": "1552098122801155:54465",
-                "8": "1552098211900878:72840",
-                "9": "1552098291790215:122100",
-                "10": "1552098887400372:171679",
-                "11": "1552098887417312:171945",
-                "12": "1552099921044133:14981",
-                "13": "1552100712615246:319212",
+                "0": "1517446348227994:84813", 
+                "1": "1517446348228144:84822", 
+                "2": "1528843813151434:5126", 
+                "3": "1552097994834405:13867", 
+                "4": "1552098026700263:14716", 
+                "5": "1552098026708460:14811", 
+                "6": "1552098026750103:15077", 
+                "7": "1552098122801155:54465", 
+                "8": "1552098211900878:72840", 
+                "9": "1552098291790215:122100", 
+                "10": "1552098887400372:171679", 
+                "11": "1552098887417312:171945", 
+                "12": "1552099921044133:14981", 
+                "13": "1552100712615246:319212", 
                 "14": "1552103767813727:97088"
             }
-        },
+        }, 
         "LayerComponent": {
-            "nextLayerId": "2",
-            "showOrthographicLayer": "true",
+            "nextLayerId": "2", 
+            "showOrthographicLayer": "true", 
             "layersInfo": [
                 {
-                    "layerId": "0",
-                    "layerName": "Default Layer",
-                    "layerMask": "1",
+                    "layerId": "0", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1", 
                     "colorCode": "20"
-                },
+                }, 
                 {
-                    "layerId": "1",
-                    "layerName": "Orthographic Layer",
-                    "layerMask": "1048576",
+                    "layerId": "1", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576", 
                     "colorCode": "21"
                 }
             ]
-        },
+        }, 
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "1",
+                    "k": "1", 
                     "v": "Files\/File1.png"
-                },
+                }, 
                 {
-                    "k": "2",
+                    "k": "2", 
                     "v": "Files\/File2.png"
-                },
+                }, 
                 {
-                    "k": "3",
+                    "k": "3", 
                     "v": "Files\/File3.js"
-                },
+                }, 
                 {
-                    "k": "4",
+                    "k": "4", 
                     "v": "Files\/File4.ttf"
-                },
+                }, 
                 {
-                    "k": "5",
+                    "k": "5", 
                     "v": "Files\/File5.js"
-                },
+                }, 
                 {
-                    "k": "6",
+                    "k": "6", 
                     "v": "Files\/File6.js"
-                },
+                }, 
                 {
-                    "k": "8",
+                    "k": "8", 
                     "v": "Files\/File8.png"
-                },
+                }, 
                 {
-                    "k": "9",
+                    "k": "9", 
                     "v": "Files\/File9.png"
-                },
+                }, 
                 {
-                    "k": "10",
+                    "k": "10", 
                     "v": "Files\/File10.png"
-                },
+                }, 
                 {
-                    "k": "11",
+                    "k": "11", 
                     "v": "Files\/File11.png"
-                },
+                }, 
                 {
-                    "k": "12",
+                    "k": "12", 
                     "v": "Files\/File12.png"
-                },
+                }, 
                 {
-                    "k": "13",
+                    "k": "13", 
                     "v": "Files\/File13.png"
-                },
+                }, 
                 {
-                    "k": "14",
+                    "k": "14", 
                     "v": "Files\/File14.png"
-                },
+                }, 
                 {
-                    "k": "15",
+                    "k": "15", 
                     "v": "Files\/File15.png"
                 }
             ]
-        },
+        }, 
         "WorldComponent": {
-            "sceneFile": "scene.scn",
+            "sceneFile": "scene.scn", 
             "sceneType": "binaryScene"
         }
-    },
+    }, 
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "1",
+                        "k": "1", 
                         "v": "Default\/echopark_diff.png"
-                    },
+                    }, 
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "Default\/echopark_spec.png"
-                    },
+                    }, 
                     {
-                        "k": "7",
+                        "k": "7", 
                         "v": "Scripts\/SimpleHighScoreController.js"
-                    },
+                    }, 
                     {
-                        "k": "8",
+                        "k": "8", 
                         "v": "Fonts\/jellee_roman.ttf"
-                    },
+                    }, 
                     {
-                        "k": "9",
+                        "k": "9", 
                         "v": "Scripts\/IncrementScore.js"
-                    },
+                    }, 
                     {
-                        "k": "10",
+                        "k": "10", 
                         "v": "Scripts\/EndGame.js"
-                    },
+                    }, 
                     {
-                        "k": "12",
+                        "k": "12", 
                         "v": "Textures\/high_score_background.png"
-                    },
+                    }, 
                     {
-                        "k": "13",
+                        "k": "13", 
                         "v": "Textures\/end_game.png"
-                    },
+                    }, 
                     {
-                        "k": "14",
+                        "k": "14", 
                         "v": "Textures\/add_point.png"
-                    },
+                    }, 
                     {
-                        "k": "15",
+                        "k": "15", 
                         "v": "Textures"
-                    },
+                    }, 
                     {
-                        "k": "16",
+                        "k": "16", 
                         "v": "Fonts"
-                    },
+                    }, 
                     {
-                        "k": "18",
+                        "k": "18", 
                         "v": "Scripts"
-                    },
+                    }, 
                     {
-                        "k": "19",
+                        "k": "19", 
                         "v": "Default"
                     }
-                ],
+                ], 
                 "hashes": [
                     {
-                        "k": "1",
+                        "k": "1", 
                         "v": "671afbc1d6810060ccbaac866a91cfa1"
-                    },
+                    }, 
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "8e599835d0d45c5879eafb1f474469cd"
-                    },
+                    }, 
                     {
-                        "k": "7",
+                        "k": "7", 
                         "v": "a9541cf9532b106b7a834ec395ea2695"
-                    },
+                    }, 
                     {
-                        "k": "8",
+                        "k": "8", 
                         "v": "09438cae5178fea614cfd0b16e719824"
-                    },
+                    }, 
                     {
-                        "k": "9",
+                        "k": "9", 
                         "v": "6957de1011c0c4785ca2d4e3b75c59aa"
-                    },
+                    }, 
                     {
-                        "k": "10",
+                        "k": "10", 
                         "v": "63a50aceab941a84b3496b1d8b88c806"
-                    },
+                    }, 
                     {
-                        "k": "11",
+                        "k": "11", 
                         "v": "041f4d15506bc9d23cd2823860db928f"
-                    },
+                    }, 
                     {
-                        "k": "12",
+                        "k": "12", 
                         "v": "b25950724eeadee3e7e7402a7c8964cd"
-                    },
+                    }, 
                     {
-                        "k": "13",
+                        "k": "13", 
                         "v": "553a88d6ef0baffe4710aa602dcf8b68"
-                    },
+                    }, 
                     {
-                        "k": "14",
+                        "k": "14", 
                         "v": "04f5960ac636fbbe13580ac182710449"
-                    },
+                    }, 
                     {
-                        "k": "15",
+                        "k": "15", 
                         "v": "1b937dfbcbcd8ef1ee1a275fe7899278"
-                    },
+                    }, 
                     {
-                        "k": "17",
+                        "k": "17", 
                         "v": "59361291686fd7cebf3981836238abbb"
-                    },
+                    }, 
                     {
-                        "k": "18",
+                        "k": "18", 
                         "v": "0f22bac28f4bb7f9303722acb5d035e0"
-                    },
+                    }, 
                     {
-                        "k": "20",
+                        "k": "20", 
                         "v": "9456ccf8ac29817365b12b911acbdaad"
-                    },
+                    }, 
                     {
-                        "k": "23",
+                        "k": "23", 
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    },
+                    }, 
                     {
-                        "k": "24",
+                        "k": "24", 
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    },
+                    }, 
                     {
-                        "k": "25",
+                        "k": "25", 
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    },
+                    }, 
                     {
-                        "k": "26",
+                        "k": "26", 
                         "v": "180669118b83abe6bfcf73e0f5fb864a"
-                    },
+                    }, 
                     {
-                        "k": "27",
+                        "k": "27", 
                         "v": "9456ccf8ac29817365b12b911acbdaad"
-                    },
+                    }, 
                     {
-                        "k": "28",
+                        "k": "28", 
                         "v": "bd3c050edef41e39cb8060c620a5e52d"
-                    },
+                    }, 
                     {
-                        "k": "29",
+                        "k": "29", 
                         "v": "99bfeaf53ffd6ca8ca2e3019e0b28ab0"
-                    },
+                    }, 
                     {
-                        "k": "30",
+                        "k": "30", 
                         "v": "6c038aa78934d8b410cc753fb5f405a1"
-                    },
+                    }, 
                     {
-                        "k": "31",
+                        "k": "31", 
                         "v": "f51e2387d37af7b5a85766408a362e18"
-                    },
+                    }, 
                     {
-                        "k": "32",
+                        "k": "32", 
                         "v": "9456ccf8ac29817365b12b911acbdaad"
-                    },
+                    }, 
                     {
-                        "k": "34",
+                        "k": "34", 
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    },
+                    }, 
                     {
-                        "k": "35",
+                        "k": "35", 
                         "v": "24006fd7408670db8d6088bf3d7f5f5e"
-                    },
+                    }, 
                     {
-                        "k": "36",
+                        "k": "36", 
                         "v": "0484abd87ee78b2745eb9563b19fd6a2"
-                    },
+                    }, 
                     {
-                        "k": "37",
+                        "k": "37", 
                         "v": "550028626efc41ac36131021cda09b5e"
                     }
-                ],
+                ], 
                 "publicState": {
                     "tree": {
-                        "isFolder": "true",
-                        "lastModified": "2019-10-22T16:25:48",
-                        "name": "Public",
-                        "hash": "c4ddad26abcc7fe578f21e37b0901013",
+                        "isFolder": "true", 
+                        "lastModified": "2019-10-22T16:25:48", 
+                        "name": "Public", 
+                        "hash": "c4ddad26abcc7fe578f21e37b0901013", 
                         "children": [
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T16:25:48",
-                                "name": "Textures",
-                                "hash": "9e7f48e653e054959a22666e871b2504",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T16:25:48", 
+                                "name": "Textures", 
+                                "hash": "9e7f48e653e054959a22666e871b2504", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "high_score_background.png",
-                                        "hash": "b25950724eeadee3e7e7402a7c8964cd",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "high_score_background.png", 
+                                        "hash": "b25950724eeadee3e7e7402a7c8964cd", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "add_point.png",
-                                        "hash": "04f5960ac636fbbe13580ac182710449",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "add_point.png", 
+                                        "hash": "04f5960ac636fbbe13580ac182710449", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "end_game.png",
-                                        "hash": "553a88d6ef0baffe4710aa602dcf8b68",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "end_game.png", 
+                                        "hash": "553a88d6ef0baffe4710aa602dcf8b68", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T16:25:48",
-                                "name": "Default",
-                                "hash": "5d0daf4be82fee50df678f1d3a4975ad",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T16:25:48", 
+                                "name": "Default", 
+                                "hash": "5d0daf4be82fee50df678f1d3a4975ad", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "echopark_diff.png",
-                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "echopark_diff.png", 
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "echopark_spec.png",
-                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "echopark_spec.png", 
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T16:25:48",
-                                "name": "Scripts",
-                                "hash": "20ea4bc0d3769710dace4ba59cecbc2f",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T16:25:48", 
+                                "name": "Scripts", 
+                                "hash": "20ea4bc0d3769710dace4ba59cecbc2f", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "IncrementScore.js",
-                                        "hash": "6957de1011c0c4785ca2d4e3b75c59aa",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "IncrementScore.js", 
+                                        "hash": "6957de1011c0c4785ca2d4e3b75c59aa", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "EndGame.js",
-                                        "hash": "63a50aceab941a84b3496b1d8b88c806",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "EndGame.js", 
+                                        "hash": "63a50aceab941a84b3496b1d8b88c806", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "SimpleHighScoreController.js",
-                                        "hash": "a9541cf9532b106b7a834ec395ea2695",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "SimpleHighScoreController.js", 
+                                        "hash": "a9541cf9532b106b7a834ec395ea2695", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T16:25:48",
-                                "name": "Fonts",
-                                "hash": "0459529f1b7919024ddd6417c7d8daf4",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T16:25:48", 
+                                "name": "Fonts", 
+                                "hash": "0459529f1b7919024ddd6417c7d8daf4", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "jellee_roman.ttf",
-                                        "hash": "09438cae5178fea614cfd0b16e719824",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "jellee_roman.ttf", 
+                                        "hash": "09438cae5178fea614cfd0b16e719824", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-16T11:55:58",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-16T11:55:58", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "false",
-                                "lastModified": "2019-10-16T11:55:58",
-                                "name": "folder.lock",
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "isFolder": "false", 
+                                "lastModified": "2019-10-16T11:55:58", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                 "children": ""
                             }
                         ]
                     }
-                },
+                }, 
                 "complexResources": ""
-            },
+            }, 
             "tree": {
-                "name": "",
-                "type": "0",
-                "subtype": "-1",
-                "resourceId": "-1",
-                "dependency": "0",
-                "uid": "-1:-1",
-                "fileId": "18446744073709551615",
-                "originalId": "18446744073709551615",
-                "publicId": "18446744073709551615",
-                "source": "",
-                "additional": "",
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
                 "resources": [
                     {
-                        "name": "Textures",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "15",
-                        "source": "",
-                        "additional": "",
+                        "name": "Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "15", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "add_point",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "17",
-                                "dependency": "0",
-                                "uid": "1552103509182368:7291",
-                                "fileId": "14",
-                                "originalId": "18446744073709551615",
-                                "publicId": "14",
-                                "source": "",
+                                "name": "add_point", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "17", 
+                                "dependency": "0", 
+                                "uid": "1552103509182368:7291", 
+                                "fileId": "14", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "14", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "end_game",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "16",
-                                "dependency": "0",
-                                "uid": "1552103509048874:7281",
-                                "fileId": "12",
-                                "originalId": "18446744073709551615",
-                                "publicId": "13",
-                                "source": "",
+                                "name": "end_game", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "16", 
+                                "dependency": "0", 
+                                "uid": "1552103509048874:7281", 
+                                "fileId": "12", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "13", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "high_score_background",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "15",
-                                "dependency": "0",
-                                "uid": "1552100202460583:110136",
-                                "fileId": "9",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12",
-                                "source": "",
+                                "name": "high_score_background", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "15", 
+                                "dependency": "0", 
+                                "uid": "1552100202460583:110136", 
+                                "fileId": "9", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "12", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Fonts",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "16",
-                        "source": "",
-                        "additional": "",
+                        "name": "Fonts", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "16", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "jellee_roman",
-                                "type": "13",
-                                "subtype": "0",
-                                "resourceId": "11",
-                                "dependency": "0",
-                                "uid": "1552098099607215:47071",
-                                "fileId": "4",
-                                "originalId": "18446744073709551615",
-                                "publicId": "8",
-                                "source": "",
+                                "name": "jellee_roman", 
+                                "type": "13", 
+                                "subtype": "0", 
+                                "resourceId": "11", 
+                                "dependency": "0", 
+                                "uid": "1552098099607215:47071", 
+                                "fileId": "4", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "8", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Scripts",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18",
-                        "source": "",
-                        "additional": "",
+                        "name": "Scripts", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "18", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "SimpleHighScoreController",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "10",
-                                "dependency": "0",
-                                "uid": "1552098004821276:13886",
-                                "fileId": "3",
-                                "originalId": "18446744073709551615",
-                                "publicId": "7",
-                                "source": "",
+                                "name": "SimpleHighScoreController", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "10", 
+                                "dependency": "0", 
+                                "uid": "1552098004821276:13886", 
+                                "fileId": "3", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "7", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "IncrementScore",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "12",
-                                "dependency": "0",
-                                "uid": "1552098963221579:210442",
-                                "fileId": "5",
-                                "originalId": "18446744073709551615",
-                                "publicId": "9",
-                                "source": "",
+                                "name": "IncrementScore", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "12", 
+                                "dependency": "0", 
+                                "uid": "1552098963221579:210442", 
+                                "fileId": "5", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "9", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "EndGame",
-                                "type": "4",
-                                "subtype": "0",
-                                "resourceId": "13",
-                                "dependency": "0",
-                                "uid": "1552099091370900:241547",
-                                "fileId": "6",
-                                "originalId": "18446744073709551615",
-                                "publicId": "10",
-                                "source": "",
+                                "name": "EndGame", 
+                                "type": "4", 
+                                "subtype": "0", 
+                                "resourceId": "13", 
+                                "dependency": "0", 
+                                "uid": "1552099091370900:241547", 
+                                "fileId": "6", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "10", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Default",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "19",
-                        "source": "",
-                        "additional": "",
+                        "name": "Default", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "19", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "Render Target",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "1",
-                                "dependency": "0",
-                                "uid": "1:1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Render Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "1", 
+                                "dependency": "0", 
+                                "uid": "1:1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "Device Camera Texture",
-                                "type": "1",
-                                "subtype": "3",
-                                "resourceId": "2",
-                                "dependency": "0",
-                                "uid": "2:2",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Device Camera Texture", 
+                                "type": "1", 
+                                "subtype": "3", 
+                                "resourceId": "2", 
+                                "dependency": "0", 
+                                "uid": "2:2", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "echopark_diff",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "8",
-                                "dependency": "0",
-                                "uid": "1517446348230286:84828",
-                                "fileId": "1",
-                                "originalId": "18446744073709551615",
-                                "publicId": "1",
-                                "source": "",
+                                "name": "echopark_diff", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "8", 
+                                "dependency": "0", 
+                                "uid": "1517446348230286:84828", 
+                                "fileId": "1", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "1", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "echopark_spec",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "9",
-                                "dependency": "0",
-                                "uid": "1517446348234137:84840",
-                                "fileId": "2",
-                                "originalId": "18446744073709551615",
-                                "publicId": "2",
-                                "source": "",
+                                "name": "echopark_spec", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "9", 
+                                "dependency": "0", 
+                                "uid": "1517446348234137:84840", 
+                                "fileId": "2", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "2", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
                     }
                 ]
             }
-        },
+        }, 
         "InspectorController": {
             "selection": {
                 "objects": [
                     "1552097994834405:13867"
                 ]
             }
-        },
+        }, 
         "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-        },
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": "", 
+            "22": "", 
+            "23": ""
+        }, 
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            },
+            }, 
             "importInfo": ""
         }
-    },
+    }, 
     "description": "Save data using persistent storage. Great for high scores"
 }

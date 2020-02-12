@@ -1,1039 +1,1053 @@
 {
-    "lens_id": "",
-    "document_id": "KOWJbzD8njTvWiZhdfpk",
-    "original_document_id": "ugHJiZ2Q-6UGVM3RPDvH",
-    "version": "19",
-    "lastChanged": "0",
-    "preview": "icon.png",
-    "videoPreview": "preview.mp4",
-    "videoPreviewUpdateTime": "",
-    "isReadOnly": "true",
-    "isAutoSaved": "false",
+    "lens_id": "", 
+    "document_id": "pdTBU0T_h7minyp1zYcO", 
+    "original_document_id": "ugHJiZ2Q-6UGVM3RPDvH", 
+    "version": "20", 
+    "lastChanged": "0", 
+    "preview": "icon.png", 
+    "videoPreview": "preview.mp4", 
+    "videoPreviewUpdateTime": "", 
+    "isReadOnly": "true", 
+    "isAutoSaved": "false", 
     "studioVersion": {
         "createdWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
-        },
+        }, 
         "lastSavedWith": {
-            "type": "Public",
-            "major": "2",
-            "minor": "2",
-            "patch": "0",
+            "type": "Public", 
+            "major": "2", 
+            "minor": "3", 
+            "patch": "0", 
             "build": "0"
         }
-    },
+    }, 
     "view": {
         "ResourceUiComponent": {
             "collapsedList": [
                 [
                     [
                         "Opacity Textures"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "cheeks"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "eye_1"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "eye_2"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "eye_3"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "eye_4"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "forehead_1"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "forehead_2"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "full"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "full_no_eye"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "full_no_eye_lips"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "full_no_lips"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "lips"
-                    ],
+                    ], 
                     [
-                        "Opacity Textures",
+                        "Opacity Textures", 
                         "nose"
-                    ],
+                    ], 
                     [
                         "Textures"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "echopark_diff"
-                    ],
+                    ], 
                     [
-                        "Textures",
+                        "Textures", 
                         "echopark_spec"
-                    ],
+                    ], 
                     [
                         "example_texture [REMOVE_ME]"
                     ]
                 ]
             ]
-        },
+        }, 
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
-                    "1520545178554147:10965",
+                    "1520545178554147:10965", 
                     "1521580009588546:106627"
                 ]
             ]
-        },
+        }, 
         "MetaInfoUIComponent": {
-            "icon_hash": "28110296497ebcc4cba71560f1759146",
-            "icon_path": "icon.png",
-            "video_preview_path": "preview.mp4",
+            "icon_hash": "28110296497ebcc4cba71560f1759146", 
+            "icon_path": "icon.png", 
+            "video_preview_path": "preview.mp4", 
             "hints": [
                 ""
-            ],
-            "lens": "Photo",
-            "applicability": "3",
+            ], 
+            "lens": "Photo", 
+            "applicability": "3", 
             "lens_descriptors": ""
-        },
+        }, 
         "PreviewUiComponent": {
             "preview_descriptor": {
-                "is_capture": "0",
+                "is_capture": "0", 
                 "camera_type": "2"
-            },
-            "show_snap_ui": "true",
-            "show_sponsored_ui": "false",
+            }, 
+            "show_snap_ui": "true", 
+            "show_sponsored_ui": "false", 
             "preview_images_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 6.jpg",
-                "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg",
-                "back_preview_is_favorite": "false"
-            },
+                "back_preview_id": "bundle:PreviewPresets\/Images\/Brick.jpg", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Images\/Person 6.jpg", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Images\/Pavement\/Pavement.jpg", 
+                "spectacles_preview_is_favorite": "false"
+            }, 
             "preview_videos_project_config": {
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 6.webm",
-                "front_preview_is_favorite": "false",
-                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm",
-                "back_preview_is_favorite": "false"
+                "back_preview_id": "bundle:PreviewPresets\/Videos\/Brick.webm", 
+                "back_preview_is_favorite": "false", 
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 6.webm", 
+                "front_preview_is_favorite": "false", 
+                "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm", 
+                "spectacles_preview_is_favorite": "false"
             }
-        },
+        }, 
         "InspectorUiComponent": {
             "collapsedList": [
                 [
-                    "1520044577083088:73255",
-                    "1520044579934335:73494",
-                    "1521484971179134:4034",
-                    "1521486874402878:5762",
-                    "1521486967333657:6687",
-                    "1521657310584077:135534",
-                    "1521689674399905:1995",
+                    "1520044577083088:73255", 
+                    "1520044579934335:73494", 
+                    "1521484971179134:4034", 
+                    "1521486874402878:5762", 
+                    "1521486967333657:6687", 
+                    "1521657310584077:135534", 
+                    "1521689674399905:1995", 
                     "1522778490082055:233296"
                 ]
             ]
+        }, 
+        "UiComponent": {
+            "active_graph_material": "-1:-1", 
+            "active_graph_pass": "-1"
         }
-    },
+    }, 
     "model": {
         "IResourceManager": {
             "list": [
                 {
-                    "resId": "1",
-                    "uid": "1:1",
-                    "name": "Camera Output",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "1", 
+                    "uid": "1:1", 
+                    "name": "Camera Output", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "2",
-                    "uid": "2:2",
-                    "name": "Camera Input",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "2", 
+                    "uid": "2:2", 
+                    "name": "Camera Input", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "0"
-                },
+                }, 
                 {
-                    "resId": "48",
-                    "uid": "1521580009593647:106646",
-                    "name": "\/Resources\/Resource48.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "48", 
+                    "uid": "1521580009593647:106646", 
+                    "name": "\/Resources\/Resource48.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "49",
-                    "uid": "1521580009601389:106658",
-                    "name": "\/Resources\/Resource49.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "49", 
+                    "uid": "1521580009601389:106658", 
+                    "name": "\/Resources\/Resource49.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "57",
-                    "uid": "1522712075042587:41825",
-                    "name": "\/Resources\/Resource57.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "57", 
+                    "uid": "1522712075042587:41825", 
+                    "name": "\/Resources\/Resource57.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "61",
-                    "uid": "1522778594944184:233736",
-                    "name": "\/Resources\/Resource61.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "61", 
+                    "uid": "1522778594944184:233736", 
+                    "name": "\/Resources\/Resource61.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "62",
-                    "uid": "1522778594983669:233749",
-                    "name": "\/Resources\/Resource62.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "62", 
+                    "uid": "1522778594983669:233749", 
+                    "name": "\/Resources\/Resource62.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "63",
-                    "uid": "1522778595042667:233762",
-                    "name": "\/Resources\/Resource63.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "63", 
+                    "uid": "1522778595042667:233762", 
+                    "name": "\/Resources\/Resource63.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "64",
-                    "uid": "1522778595101979:233775",
-                    "name": "\/Resources\/Resource64.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "64", 
+                    "uid": "1522778595101979:233775", 
+                    "name": "\/Resources\/Resource64.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "65",
-                    "uid": "1522778595149352:233788",
-                    "name": "\/Resources\/Resource65.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "65", 
+                    "uid": "1522778595149352:233788", 
+                    "name": "\/Resources\/Resource65.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "66",
-                    "uid": "1522778595195859:233801",
-                    "name": "\/Resources\/Resource66.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "66", 
+                    "uid": "1522778595195859:233801", 
+                    "name": "\/Resources\/Resource66.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "67",
-                    "uid": "1522778595268268:233814",
-                    "name": "\/Resources\/Resource67.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "67", 
+                    "uid": "1522778595268268:233814", 
+                    "name": "\/Resources\/Resource67.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "68",
-                    "uid": "1522778595323327:233827",
-                    "name": "\/Resources\/Resource68.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "68", 
+                    "uid": "1522778595323327:233827", 
+                    "name": "\/Resources\/Resource68.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "69",
-                    "uid": "1522778595399038:233840",
-                    "name": "\/Resources\/Resource69.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "69", 
+                    "uid": "1522778595399038:233840", 
+                    "name": "\/Resources\/Resource69.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "70",
-                    "uid": "1522778595470142:233853",
-                    "name": "\/Resources\/Resource70.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "70", 
+                    "uid": "1522778595470142:233853", 
+                    "name": "\/Resources\/Resource70.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "71",
-                    "uid": "1522778595545934:233866",
-                    "name": "\/Resources\/Resource71.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "71", 
+                    "uid": "1522778595545934:233866", 
+                    "name": "\/Resources\/Resource71.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "72",
-                    "uid": "1522778595612794:233879",
-                    "name": "\/Resources\/Resource72.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "72", 
+                    "uid": "1522778595612794:233879", 
+                    "name": "\/Resources\/Resource72.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
-                },
+                }, 
                 {
-                    "resId": "73",
-                    "uid": "1522778595679538:233892",
-                    "name": "\/Resources\/Resource73.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
+                    "resId": "73", 
+                    "uid": "1522778595679538:233892", 
+                    "name": "\/Resources\/Resource73.png", 
+                    "sourceFilePath": "", 
+                    "additionalProperties": "", 
                     "flags": "1"
                 }
-            ],
+            ], 
             "MaterialUpdateManager": {
                 "unrecognizedMaterials": ""
             }
-        },
+        }, 
         "InspectorComponent": {
             "Component": {
+                "EyeColorVisual": {
+                    "uidData": "", 
+                    "generalData": ""
+                }, 
                 "FaceStretchVisual": {
                     "uidsToFeatureNamesWithIntensity": ""
-                },
+                }, 
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": "", 
                     "generalData": ""
                 }
             }
-        },
+        }, 
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1520545178554147:10965",
-                "1": "1521580009588546:106627",
-                "2": "1521580009588566:106630",
-                "3": "1521580009588611:106636",
-                "4": "1521689674399905:1995",
-                "5": "1522712074942519:41791",
+                "0": "1520545178554147:10965", 
+                "1": "1521580009588546:106627", 
+                "2": "1521580009588566:106630", 
+                "3": "1521580009588611:106636", 
+                "4": "1521689674399905:1995", 
+                "5": "1522712074942519:41791", 
                 "6": "1522778490082055:233296"
             }
-        },
+        }, 
         "LayerComponent": {
-            "nextLayerId": "2",
-            "showOrthographicLayer": "false",
+            "nextLayerId": "2", 
+            "showOrthographicLayer": "false", 
             "layersInfo": [
                 {
-                    "layerId": "0",
-                    "layerName": "Default Layer",
-                    "layerMask": "1",
+                    "layerId": "0", 
+                    "layerName": "Default Layer", 
+                    "layerMask": "1", 
                     "colorCode": "20"
-                },
+                }, 
                 {
-                    "layerId": "1",
-                    "layerName": "Orthographic Layer",
-                    "layerMask": "1048576",
+                    "layerId": "1", 
+                    "layerName": "Orthographic Layer", 
+                    "layerMask": "1048576", 
                     "colorCode": "21"
                 }
             ]
-        },
+        }, 
         "IFileManager": {
             "pathes": [
                 {
-                    "k": "1",
+                    "k": "1", 
                     "v": "Files\/File1.png"
-                },
+                }, 
                 {
-                    "k": "2",
+                    "k": "2", 
                     "v": "Files\/File2.png"
-                },
+                }, 
                 {
-                    "k": "3",
+                    "k": "3", 
                     "v": "Files\/File3.png"
-                },
+                }, 
                 {
-                    "k": "4",
+                    "k": "4", 
                     "v": "Files\/File4.png"
-                },
+                }, 
                 {
-                    "k": "5",
+                    "k": "5", 
                     "v": "Files\/File5.png"
-                },
+                }, 
                 {
-                    "k": "6",
+                    "k": "6", 
                     "v": "Files\/File6.png"
-                },
+                }, 
                 {
-                    "k": "7",
+                    "k": "7", 
                     "v": "Files\/File7.png"
-                },
+                }, 
                 {
-                    "k": "8",
+                    "k": "8", 
                     "v": "Files\/File8.png"
-                },
+                }, 
                 {
-                    "k": "9",
+                    "k": "9", 
                     "v": "Files\/File9.png"
-                },
+                }, 
                 {
-                    "k": "10",
+                    "k": "10", 
                     "v": "Files\/File10.png"
-                },
+                }, 
                 {
-                    "k": "11",
+                    "k": "11", 
                     "v": "Files\/File11.png"
-                },
+                }, 
                 {
-                    "k": "12",
+                    "k": "12", 
                     "v": "Files\/File12.png"
-                },
+                }, 
                 {
-                    "k": "13",
+                    "k": "13", 
                     "v": "Files\/File13.png"
-                },
+                }, 
                 {
-                    "k": "14",
+                    "k": "14", 
                     "v": "Files\/File14.png"
-                },
+                }, 
                 {
-                    "k": "15",
+                    "k": "15", 
                     "v": "Files\/File15.png"
-                },
+                }, 
                 {
-                    "k": "16",
+                    "k": "16", 
                     "v": "Files\/File16.png"
                 }
             ]
-        },
+        }, 
         "WorldComponent": {
-            "sceneFile": "scene.scn",
+            "sceneFile": "scene.scn", 
             "sceneType": "binaryScene"
         }
-    },
+    }, 
     "controller": {
         "IResourceController": {
             "public": {
                 "pathes": [
                     {
-                        "k": "1",
+                        "k": "1", 
                         "v": "Textures"
-                    },
+                    }, 
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "Textures\/echopark_diff.png"
-                    },
+                    }, 
                     {
-                        "k": "3",
+                        "k": "3", 
                         "v": "Textures\/echopark_spec.png"
-                    },
+                    }, 
                     {
-                        "k": "4",
+                        "k": "4", 
                         "v": "Opacity Textures"
-                    },
+                    }, 
                     {
-                        "k": "5",
+                        "k": "5", 
                         "v": "Opacity Textures\/cheeks.png"
-                    },
+                    }, 
                     {
-                        "k": "6",
+                        "k": "6", 
                         "v": "Opacity Textures\/eye_1.png"
-                    },
+                    }, 
                     {
-                        "k": "7",
+                        "k": "7", 
                         "v": "Opacity Textures\/eye_2.png"
-                    },
+                    }, 
                     {
-                        "k": "8",
+                        "k": "8", 
                         "v": "Opacity Textures\/eye_3.png"
-                    },
+                    }, 
                     {
-                        "k": "9",
+                        "k": "9", 
                         "v": "Opacity Textures\/eye_4.png"
-                    },
+                    }, 
                     {
-                        "k": "10",
+                        "k": "10", 
                         "v": "Opacity Textures\/forehead_1.png"
-                    },
+                    }, 
                     {
-                        "k": "11",
+                        "k": "11", 
                         "v": "Opacity Textures\/forehead_2.png"
-                    },
+                    }, 
                     {
-                        "k": "12",
+                        "k": "12", 
                         "v": "Opacity Textures\/full_no_eye_lips.png"
-                    },
+                    }, 
                     {
-                        "k": "13",
+                        "k": "13", 
                         "v": "Opacity Textures\/full_no_eye.png"
-                    },
+                    }, 
                     {
-                        "k": "14",
+                        "k": "14", 
                         "v": "Opacity Textures\/full_no_lips.png"
-                    },
+                    }, 
                     {
-                        "k": "15",
+                        "k": "15", 
                         "v": "Opacity Textures\/full.png"
-                    },
+                    }, 
                     {
-                        "k": "16",
+                        "k": "16", 
                         "v": "Opacity Textures\/lips.png"
-                    },
+                    }, 
                     {
-                        "k": "17",
+                        "k": "17", 
                         "v": "Opacity Textures\/nose.png"
-                    },
+                    }, 
                     {
-                        "k": "18",
+                        "k": "18", 
                         "v": "example_texture [REMOVE_ME].png"
                     }
-                ],
+                ], 
                 "hashes": [
                     {
-                        "k": "2",
+                        "k": "2", 
                         "v": "671afbc1d6810060ccbaac866a91cfa1"
-                    },
+                    }, 
                     {
-                        "k": "3",
+                        "k": "3", 
                         "v": "8e599835d0d45c5879eafb1f474469cd"
-                    },
+                    }, 
                     {
-                        "k": "5",
+                        "k": "5", 
                         "v": "36e8a00b55dfdb429771f98cb0a943db"
-                    },
+                    }, 
                     {
-                        "k": "6",
+                        "k": "6", 
                         "v": "c75c126e9e6ddc2fc191875fbc32c147"
-                    },
+                    }, 
                     {
-                        "k": "7",
+                        "k": "7", 
                         "v": "42867e2460badb8c40372c660aeeedfa"
-                    },
+                    }, 
                     {
-                        "k": "8",
+                        "k": "8", 
                         "v": "7f97707eb3e42b45c6b03d5e990045d3"
-                    },
+                    }, 
                     {
-                        "k": "9",
+                        "k": "9", 
                         "v": "685c03692eb04109941ea0ade52e3f59"
-                    },
+                    }, 
                     {
-                        "k": "10",
+                        "k": "10", 
                         "v": "9426dd26e34f9577cbf93579b02fcda2"
-                    },
+                    }, 
                     {
-                        "k": "11",
+                        "k": "11", 
                         "v": "d76b5ded2fa1d9d412e463b47eeb12fd"
-                    },
+                    }, 
                     {
-                        "k": "12",
+                        "k": "12", 
                         "v": "95e79b482ffce043795f199cdc1f3969"
-                    },
+                    }, 
                     {
-                        "k": "13",
+                        "k": "13", 
                         "v": "83d322aa1172cae41aa520f17bcc2041"
-                    },
+                    }, 
                     {
-                        "k": "14",
+                        "k": "14", 
                         "v": "60f9b7fd5f432347d2a6c33814a392ce"
-                    },
+                    }, 
                     {
-                        "k": "15",
+                        "k": "15", 
                         "v": "5da508b500472344200a23a0e069d1c9"
-                    },
+                    }, 
                     {
-                        "k": "16",
+                        "k": "16", 
                         "v": "8016e4882eac65654954081feffd1ac7"
-                    },
+                    }, 
                     {
-                        "k": "17",
+                        "k": "17", 
                         "v": "1ab6da4f5ef25334ee6b757c7618d3b9"
-                    },
+                    }, 
                     {
-                        "k": "18",
+                        "k": "18", 
                         "v": "86c3a77828c5f504000ce8f3f28fbaba"
                     }
-                ],
+                ], 
                 "publicState": {
                     "tree": {
-                        "isFolder": "true",
-                        "lastModified": "2019-10-22T14:29:26",
-                        "name": "Public",
-                        "hash": "df7dd7c59de2a1b613f172ddec39da9a",
+                        "isFolder": "true", 
+                        "lastModified": "2019-10-22T14:29:26", 
+                        "name": "Public", 
+                        "hash": "df7dd7c59de2a1b613f172ddec39da9a", 
                         "children": [
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T14:29:26",
-                                "name": "Textures",
-                                "hash": "5d0daf4be82fee50df678f1d3a4975ad",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T14:29:26", 
+                                "name": "Textures", 
+                                "hash": "5d0daf4be82fee50df678f1d3a4975ad", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "echopark_diff.png",
-                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "echopark_diff.png", 
+                                        "hash": "671afbc1d6810060ccbaac866a91cfa1", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "echopark_spec.png",
-                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "echopark_spec.png", 
+                                        "hash": "8e599835d0d45c5879eafb1f474469cd", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "true",
-                                "lastModified": "2019-10-22T14:29:26",
-                                "name": "Opacity Textures",
-                                "hash": "a8a97048ee2a0ca9e5cc6726005a66ff",
+                                "isFolder": "true", 
+                                "lastModified": "2019-10-22T14:29:26", 
+                                "name": "Opacity Textures", 
+                                "hash": "a8a97048ee2a0ca9e5cc6726005a66ff", 
                                 "children": [
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "full_no_eye.png",
-                                        "hash": "83d322aa1172cae41aa520f17bcc2041",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "full_no_eye.png", 
+                                        "hash": "83d322aa1172cae41aa520f17bcc2041", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "nose.png",
-                                        "hash": "1ab6da4f5ef25334ee6b757c7618d3b9",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "nose.png", 
+                                        "hash": "1ab6da4f5ef25334ee6b757c7618d3b9", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "full_no_lips.png",
-                                        "hash": "60f9b7fd5f432347d2a6c33814a392ce",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "full_no_lips.png", 
+                                        "hash": "60f9b7fd5f432347d2a6c33814a392ce", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "full_no_eye_lips.png",
-                                        "hash": "95e79b482ffce043795f199cdc1f3969",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "full_no_eye_lips.png", 
+                                        "hash": "95e79b482ffce043795f199cdc1f3969", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "lips.png",
-                                        "hash": "8016e4882eac65654954081feffd1ac7",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "lips.png", 
+                                        "hash": "8016e4882eac65654954081feffd1ac7", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "cheeks.png",
-                                        "hash": "36e8a00b55dfdb429771f98cb0a943db",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "cheeks.png", 
+                                        "hash": "36e8a00b55dfdb429771f98cb0a943db", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "eye_4.png",
-                                        "hash": "685c03692eb04109941ea0ade52e3f59",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "eye_4.png", 
+                                        "hash": "685c03692eb04109941ea0ade52e3f59", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "eye_3.png",
-                                        "hash": "7f97707eb3e42b45c6b03d5e990045d3",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "eye_3.png", 
+                                        "hash": "7f97707eb3e42b45c6b03d5e990045d3", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "forehead_2.png",
-                                        "hash": "d76b5ded2fa1d9d412e463b47eeb12fd",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "forehead_2.png", 
+                                        "hash": "d76b5ded2fa1d9d412e463b47eeb12fd", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "eye_2.png",
-                                        "hash": "42867e2460badb8c40372c660aeeedfa",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "eye_2.png", 
+                                        "hash": "42867e2460badb8c40372c660aeeedfa", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "full.png",
-                                        "hash": "5da508b500472344200a23a0e069d1c9",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "full.png", 
+                                        "hash": "5da508b500472344200a23a0e069d1c9", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "forehead_1.png",
-                                        "hash": "9426dd26e34f9577cbf93579b02fcda2",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "forehead_1.png", 
+                                        "hash": "9426dd26e34f9577cbf93579b02fcda2", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "folder.lock", 
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                         "children": ""
-                                    },
+                                    }, 
                                     {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-10-12T09:44:53",
-                                        "name": "eye_1.png",
-                                        "hash": "c75c126e9e6ddc2fc191875fbc32c147",
+                                        "isFolder": "false", 
+                                        "lastModified": "2019-10-12T09:44:53", 
+                                        "name": "eye_1.png", 
+                                        "hash": "c75c126e9e6ddc2fc191875fbc32c147", 
                                         "children": ""
                                     }
                                 ]
-                            },
+                            }, 
                             {
-                                "isFolder": "false",
-                                "lastModified": "2019-10-12T09:44:53",
-                                "name": "example_texture [REMOVE_ME].png",
-                                "hash": "86c3a77828c5f504000ce8f3f28fbaba",
+                                "isFolder": "false", 
+                                "lastModified": "2019-10-12T09:44:53", 
+                                "name": "example_texture [REMOVE_ME].png", 
+                                "hash": "86c3a77828c5f504000ce8f3f28fbaba", 
                                 "children": ""
-                            },
+                            }, 
                             {
-                                "isFolder": "false",
-                                "lastModified": "2019-10-12T09:44:53",
-                                "name": "folder.lock",
-                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                "isFolder": "false", 
+                                "lastModified": "2019-10-12T09:44:53", 
+                                "name": "folder.lock", 
+                                "hash": "d41d8cd98f00b204e9800998ecf8427e", 
                                 "children": ""
                             }
                         ]
                     }
-                },
+                }, 
                 "complexResources": ""
-            },
+            }, 
             "tree": {
-                "name": "",
-                "type": "0",
-                "subtype": "-1",
-                "resourceId": "-1",
-                "dependency": "0",
-                "uid": "-1:-1",
-                "fileId": "18446744073709551615",
-                "originalId": "18446744073709551615",
-                "publicId": "18446744073709551615",
-                "source": "",
-                "additional": "",
+                "name": "", 
+                "type": "0", 
+                "subtype": "-1", 
+                "resourceId": "-1", 
+                "dependency": "0", 
+                "uid": "-1:-1", 
+                "fileId": "18446744073709551615", 
+                "originalId": "18446744073709551615", 
+                "publicId": "18446744073709551615", 
+                "source": "", 
+                "additional": "", 
                 "resources": [
                     {
-                        "name": "Textures",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "1",
-                        "source": "",
-                        "additional": "",
+                        "name": "Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "1", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "Render Target",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "1",
-                                "dependency": "0",
-                                "uid": "1:1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Render Target", 
+                                "type": "1", 
+                                "subtype": "1", 
+                                "resourceId": "1", 
+                                "dependency": "0", 
+                                "uid": "1:1", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "Device Camera Texture",
-                                "type": "1",
-                                "subtype": "3",
-                                "resourceId": "2",
-                                "dependency": "0",
-                                "uid": "2:2",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
+                                "name": "Device Camera Texture", 
+                                "type": "1", 
+                                "subtype": "3", 
+                                "resourceId": "2", 
+                                "dependency": "0", 
+                                "uid": "2:2", 
+                                "fileId": "18446744073709551615", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "18446744073709551615", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "echopark_diff",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "48",
-                                "dependency": "0",
-                                "uid": "1521580009593647:106646",
-                                "fileId": "1",
-                                "originalId": "18446744073709551615",
-                                "publicId": "2",
-                                "source": "",
+                                "name": "echopark_diff", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "48", 
+                                "dependency": "0", 
+                                "uid": "1521580009593647:106646", 
+                                "fileId": "1", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "2", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "echopark_spec",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "49",
-                                "dependency": "0",
-                                "uid": "1521580009601389:106658",
-                                "fileId": "2",
-                                "originalId": "18446744073709551615",
-                                "publicId": "3",
-                                "source": "",
+                                "name": "echopark_spec", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "49", 
+                                "dependency": "0", 
+                                "uid": "1521580009601389:106658", 
+                                "fileId": "2", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "3", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "Opacity Textures",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "4",
-                        "source": "",
-                        "additional": "",
+                        "name": "Opacity Textures", 
+                        "type": "0", 
+                        "subtype": "-1", 
+                        "resourceId": "-1", 
+                        "dependency": "0", 
+                        "uid": "-1:-1", 
+                        "fileId": "18446744073709551615", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "4", 
+                        "source": "", 
+                        "additional": "", 
                         "resources": [
                             {
-                                "name": "cheeks",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "61",
-                                "dependency": "0",
-                                "uid": "1522778594944184:233736",
-                                "fileId": "4",
-                                "originalId": "18446744073709551615",
-                                "publicId": "5",
-                                "source": "",
+                                "name": "cheeks", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "61", 
+                                "dependency": "0", 
+                                "uid": "1522778594944184:233736", 
+                                "fileId": "4", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "5", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "eye_1",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "62",
-                                "dependency": "0",
-                                "uid": "1522778594983669:233749",
-                                "fileId": "5",
-                                "originalId": "18446744073709551615",
-                                "publicId": "6",
-                                "source": "",
+                                "name": "eye_1", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "62", 
+                                "dependency": "0", 
+                                "uid": "1522778594983669:233749", 
+                                "fileId": "5", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "6", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "eye_2",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "63",
-                                "dependency": "0",
-                                "uid": "1522778595042667:233762",
-                                "fileId": "6",
-                                "originalId": "18446744073709551615",
-                                "publicId": "7",
-                                "source": "",
+                                "name": "eye_2", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "63", 
+                                "dependency": "0", 
+                                "uid": "1522778595042667:233762", 
+                                "fileId": "6", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "7", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "eye_3",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "64",
-                                "dependency": "0",
-                                "uid": "1522778595101979:233775",
-                                "fileId": "7",
-                                "originalId": "18446744073709551615",
-                                "publicId": "8",
-                                "source": "",
+                                "name": "eye_3", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "64", 
+                                "dependency": "0", 
+                                "uid": "1522778595101979:233775", 
+                                "fileId": "7", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "8", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "eye_4",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "65",
-                                "dependency": "0",
-                                "uid": "1522778595149352:233788",
-                                "fileId": "8",
-                                "originalId": "18446744073709551615",
-                                "publicId": "9",
-                                "source": "",
+                                "name": "eye_4", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "65", 
+                                "dependency": "0", 
+                                "uid": "1522778595149352:233788", 
+                                "fileId": "8", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "9", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "forehead_1",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "66",
-                                "dependency": "0",
-                                "uid": "1522778595195859:233801",
-                                "fileId": "9",
-                                "originalId": "18446744073709551615",
-                                "publicId": "10",
-                                "source": "",
+                                "name": "forehead_1", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "66", 
+                                "dependency": "0", 
+                                "uid": "1522778595195859:233801", 
+                                "fileId": "9", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "10", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "forehead_2",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "67",
-                                "dependency": "0",
-                                "uid": "1522778595268268:233814",
-                                "fileId": "10",
-                                "originalId": "18446744073709551615",
-                                "publicId": "11",
-                                "source": "",
+                                "name": "forehead_2", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "67", 
+                                "dependency": "0", 
+                                "uid": "1522778595268268:233814", 
+                                "fileId": "10", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "11", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "full_no_eye_lips",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "68",
-                                "dependency": "0",
-                                "uid": "1522778595323327:233827",
-                                "fileId": "11",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12",
-                                "source": "",
+                                "name": "full_no_eye_lips", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "68", 
+                                "dependency": "0", 
+                                "uid": "1522778595323327:233827", 
+                                "fileId": "11", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "12", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "full_no_eye",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "69",
-                                "dependency": "0",
-                                "uid": "1522778595399038:233840",
-                                "fileId": "12",
-                                "originalId": "18446744073709551615",
-                                "publicId": "13",
-                                "source": "",
+                                "name": "full_no_eye", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "69", 
+                                "dependency": "0", 
+                                "uid": "1522778595399038:233840", 
+                                "fileId": "12", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "13", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "full_no_lips",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "70",
-                                "dependency": "0",
-                                "uid": "1522778595470142:233853",
-                                "fileId": "13",
-                                "originalId": "18446744073709551615",
-                                "publicId": "14",
-                                "source": "",
+                                "name": "full_no_lips", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "70", 
+                                "dependency": "0", 
+                                "uid": "1522778595470142:233853", 
+                                "fileId": "13", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "14", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "full",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "71",
-                                "dependency": "0",
-                                "uid": "1522778595545934:233866",
-                                "fileId": "14",
-                                "originalId": "18446744073709551615",
-                                "publicId": "15",
-                                "source": "",
+                                "name": "full", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "71", 
+                                "dependency": "0", 
+                                "uid": "1522778595545934:233866", 
+                                "fileId": "14", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "15", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "lips",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "72",
-                                "dependency": "0",
-                                "uid": "1522778595612794:233879",
-                                "fileId": "15",
-                                "originalId": "18446744073709551615",
-                                "publicId": "16",
-                                "source": "",
+                                "name": "lips", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "72", 
+                                "dependency": "0", 
+                                "uid": "1522778595612794:233879", 
+                                "fileId": "15", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "16", 
+                                "source": "", 
                                 "additional": ""
-                            },
+                            }, 
                             {
-                                "name": "nose",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "73",
-                                "dependency": "0",
-                                "uid": "1522778595679538:233892",
-                                "fileId": "16",
-                                "originalId": "18446744073709551615",
-                                "publicId": "17",
-                                "source": "",
+                                "name": "nose", 
+                                "type": "1", 
+                                "subtype": "9", 
+                                "resourceId": "73", 
+                                "dependency": "0", 
+                                "uid": "1522778595679538:233892", 
+                                "fileId": "16", 
+                                "originalId": "18446744073709551615", 
+                                "publicId": "17", 
+                                "source": "", 
                                 "additional": ""
                             }
                         ]
-                    },
+                    }, 
                     {
-                        "name": "example_texture [REMOVE_ME]",
-                        "type": "1",
-                        "subtype": "9",
-                        "resourceId": "57",
-                        "dependency": "0",
-                        "uid": "1522712075042587:41825",
-                        "fileId": "3",
-                        "originalId": "18446744073709551615",
-                        "publicId": "18",
-                        "source": "",
+                        "name": "example_texture [REMOVE_ME]", 
+                        "type": "1", 
+                        "subtype": "9", 
+                        "resourceId": "57", 
+                        "dependency": "0", 
+                        "uid": "1522712075042587:41825", 
+                        "fileId": "3", 
+                        "originalId": "18446744073709551615", 
+                        "publicId": "18", 
+                        "source": "", 
                         "additional": ""
                     }
                 ]
             }
-        },
+        }, 
         "InspectorController": {
             "selection": ""
-        },
+        }, 
         "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "11": "",
-            "12": "",
-            "13": "",
-            "14": "",
-            "15": "",
-            "16": "",
-            "17": "",
-            "18": "",
-            "19": "",
-            "20": ""
-        },
+            "1": "", 
+            "2": "", 
+            "3": "", 
+            "4": "", 
+            "5": "", 
+            "6": "", 
+            "7": "", 
+            "8": "", 
+            "10": "", 
+            "11": "", 
+            "12": "", 
+            "13": "", 
+            "14": "", 
+            "15": "", 
+            "16": "", 
+            "17": "", 
+            "18": "", 
+            "19": "", 
+            "20": "", 
+            "22": "", 
+            "23": ""
+        }, 
         "ObjectPrefabController": {
             "state": {
                 "objectToInfo": ""
-            },
+            }, 
             "importInfo": ""
         }
-    },
+    }, 
     "description": "Create a face Lens just by importing a single photo of a face"
 }
